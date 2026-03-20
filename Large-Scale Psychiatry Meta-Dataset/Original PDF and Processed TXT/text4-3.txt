@@ -1,0 +1,252 @@
+### Text Content (Before References)
+
+Abstract
+Olanzapine is a potential new "atypical" antipsychotic agent. This double-blind, acute phase study compared two doses of olanzapine [1 mg/day (Olz1.0); 10 mg/day (Olz10.0)] with placebo in the treatment of 152 patients who met the DSM-III-R criteria for schizophrenia and had a Brief Psychiatric Rating Scale (BPRS)-total score (items scored 0-6) ≥24. In overall symptomatology improvement [BPRS-total score and Positive and Negative Syndrome Scale (PANSS)-total score], Olz10.0 was statistically significantly superior to placebo. In positive symptom improvement (PANSS-positive score, BPRS-positive score), Olz10.0 was statistically significantly superior to placebo. In negative symptom improvement (PANSS-negative score), Olz10.0 was statistically superior to placebo. Olz1.0 was clinically comparable to placebo in all efficacy comparisons. The only adverse event to show an overall statistically significant incidence difference was anorexia (reported for 10% of placebo-treated and 0% of Olz10.0-treated patients). The Olz10.0-treated patients improved over baseline with respect to parkinsonian and akathisia symptoms, and these changes were comparable with those observed with placebo. There were no dystonias associated with Olz10.0 treatment. At endpoint, the incidence of patients with elevated prolactin values did not differ statistically significantly between placebo-treated and Olz10.0-treated patients. Olanzapine appears to be not only safe and effective, but a promising atypical antipsychotic candidate.
+
+Key words
+Olanzapine - Placebo • Acute • Double-blind • Atypical • Schizophrenia • Antipsychotic
+
+Introduction
+Olanzapine, a thienobenzodiazepine (2-methyl-4-(4-methyl-1-piperazinyl)-10H-thieno<2,3-b><1,5>benzodiazepine), is a potential new "atypical" antipsychotic agent. The essential feature of an atypical antipsychotic is less acute extrapyramidal symptoms, especially dystonias, associated with therapy as compared with a typical antipsychotic (e.g. haloperidol) (Casey 1989; Meltzer 1992). Clozapine, the prototypical "atypical" antipsychotic, differs from the typical antipsychotics with the additional following clinical characteristics: 1) greater efficacy in the treatment of overall psychopathology in patients with schizophrenia nonresponsive to typical antipsychotics, 2) greater efficacy in the treatment of negative symptoms of schizophrenia, and 3) less frequent and quantitatively smaller increases in serum prolactin concentrations associated with therapy.
+
+Olanzapine has a high affinity for a variety of monoamine receptors. It binds potently to both the 5-HT₂ₐ as well as the D₂ receptors, but more potently to the 5-HT₂ₐ receptor by a factor of approximately 3:1 (Tye et al. 1992; Moore et al. 1993; Wong et al. 1993; Bymaster et al. 1995). It also binds potently to the D₄, D₁, 5-HT₂C, muscarinic (especially m₁), α₁-adrenergic, and H₁ histaminic receptors (Tye et al. 1992; Moore et al. 1993; Seeman and Van Tol 1993; Wong et al. 1993; Bymaster et al. 1995). The Kis for these affinities are less than 50 nM. The affinity for the D₄ (27 nM) receptor is greater than that for the D₂ (45 nM) receptor (Seeman and Van Tol 1993).
+
+Acute olanzapine administration increases levels of the DA metabolite 3-4-dihydroxyphenyl-acetic acid (DOPAC) in rat nucleus accumbens and increases levels of the noradrenergic metabolite 3-methoxy-4-hydroxyphenylglycol (MHPG-SO₄) in rat hypothalamus (Hemrick-Luecke et al. 1993).
+
+Neuroendocrine challenge studies have demonstrated that olanzapine is both a serotonin (5-HT) antagonist (blocks quipazine-induced corticosterone elevations) and a DA antagonist (blocks pergolide-induced corticosterone elevations) but is more potent at antagonizing the 5-HT-mediated response, similar to clozapine (Fuller and Snoddy 1992; Moore et al. 1993).
+
+Electrophysiologic studies have also revealed that acute administration of olanzapine increases the firing of dopamine A10 neurons, but not the firing of dopamine A9 neurons. On repeated administration, A10 neuronal firing is decreased and A9 neuronal firing is increased in a dose-dependent manner. These acute and chronic effects resemble those of clozapine (Rasmussen and Stockton 1993; Stockton and Rasmussen 1993, 1995).
+
+Behavioral pharmacological study results are consistent with the receptor affinity profile and suggest the potential for atypical antipsychotic activity. Olanzapine blocks both apomorphine-induced climbing behavior and 5-hydroxytryptophan (5-HTP)-induced head twitch in a dose-dependent manner but with greater potency in blocking the 5-HTP head twitch (Moore et al. 1992, 1993; Tye et al. 1992; Wong et al. 1993). These findings indicate 5-HT and DA antagonism in vivo with greater 5-HT potency. Olanzapine also blocks oxotremorine-induced tremor in a dose-dependent manner, indicating cholinergic antagonism in vivo (Moore et al. 1992, 1993; Tye et al. 1992). The dose of olanzapine required to induce catalepsy substantially exceeds the dose required to inhibit conditioned avoidance (ratio of 8:1 in one study and 4:1 in another study) (Moore et al. 1992, 1993; Tye et al. 1992; Wong et al. 1993). These findings suggest antipsychotic activity with minimal potential for induction of acute extrapyramidal symptoms. Unlike typical antipsychotics, olanzapine increases punished responding in a conflict model, similar to clozapine (Moore et al. 1992, 1993, 1994; Tye et al. 1992; Wong et al. 1993). Finally, olanzapine substitutes in animals trained to discriminate clozapine, suggesting similar pharmacological profiles (Moore et al. 1992, 1993; Tye et al. 1992; Wong et al. 1993).
+
+An early open-label study suggested that olanzapine at doses between 5 and 20 mg/day had significant antipsychotic activity against both positive and negative symptoms of schizophrenia. Minimal extrapyramidal symptoms were observed; at endpoint no patient (n=10) had a serum prolactin concentration elevated above baseline level (Montgomery et al. 1992).
+
+The 6-week acute phase of a double-blind, placebo- and haloperidol-controlled trial found two dosage ranges of olanzapine, 10±2.5 mg/day and 15±2.5 mg/day, to be statistically significantly superior to placebo and comparable to one dosage range of haloperidol, 15±5.0 mg/day, in the treatment of overall psychopathology and positive symptoms. Furthermore, olanzapine in the dosage range of 15±2.5 mg/day was statistically significantly superior to both placebo and haloperidol (15±5.0 mg/day) in the treatment of negative symptoms (Beasley et al. 1995). Extrapyramidal symptoms had decreased from baseline by the end of the study in olanzapine-treated patients but had increased in haloperidol-treated patients.
+
+We report here the results of a 6-week acute phase study comparing two doses of olanzapine with placebo in the treatment of patients with schizophrenia. This double-blind study included 152 patients and was conducted at 12 study sites in the United States between August 1993 and April 1994.
+
+Materials and methods
+Study design
+Three of the 12 investigative sites had participated in a previous double-blind, placebo- and haloperidol-controlled clinical trial. Patients entered into this trial could not have previously participated in any olanzapine clinical trial.
+
+Patients were men and women between the ages of 18 and 65 years. All patients enrolled met the Diagnostic and Statistical Manual, Third Edition, Revised (DSM-III-R) (APA 1987) criteria for schizophrenia (295.1-295.3, 295.9) as established by clinical interview and chart review. Residual Type 295.6 was excluded. Patients were required to have a minimum Brief Psychiatric Rating Scale (BPRS) (Guy 1976), total score (BPRS items scored 0-6) extracted from the Positive and Negative Syndrome Scale (PANSS) (Kay et al. 1986) of at least 24. Also, patients were required to have a Clinical Global Impression-Severity of Illness (CGI-S) score (Guy 1976) ≥4. Patients with a diagnosis of a DSM-III-R organic mental disorder or substance-use disorder active within 3 months of study entry were excluded as were patients at serious suicidal risk. Also excluded were patients with serious, unstable medical illness; Parkinson's disease; myasthenia gravis; illness contraindicating use of anticholinergic medication; history of a seizure disorder; a history of leukopenia without known etiology; and significantly elevated (greater than approximately 3 times the conventional laboratory upper limit of normal) liver function test results, active hepatitis B, or jaundice. Patients were required to be off oral neuroleptics for at least 2 days and off depot neuroleptics for at least one dosing interval (minimum of 2 weeks) prior to starting the study. All patients gave written informed consent prior to entering the study. The study protocol was approved by the institutional review boards responsible for the individual study sites.
+
+Patients first entered a single-blind placebo lead-in phase of 4-7 days. Patients whose BPRS-total score decreased ≥25% or whose BPRS-total score decreased to <24 during the placebo lead-in phase were discontinued as placebo responders. Following the placebo lead-in phase, patients eligible to continue the study were assigned by random allocation to one of three double-blind treatment groups: olanzapine 1.0 mg/day (Olz1.0), olanzapine 10 mg/day (Olz10.0), or placebo.
+
+Patients could receive up to 10 mg/day of lorazepam during the placebo lead-in and for a maximum of 21 days (any dose up to 10 mg/day) during the double-blind acute phase. In addition, benztropine mesylate, up to 6 mg/day, was allowed during study participation. Prophylactic use of these two concomitant medications was discouraged but not proscribed. The use and dosage of both were determined on clinical grounds by the investigators.
+
+Hospitalization was required during the placebo lead-in and the first 2 weeks of double-blind therapy. Patients could then be discharged to outpatient status if their BPRS-total score had decreased ≥25% from baseline or was <24, they were judged to be capable of functioning as outpatients, and they were considered to be no risk to themselves or to others. The double-blind acute phase lasted 6 weeks (through visit 8). Patients who remained on double-blind therapy more than 3 weeks (through visit 6) were eligible to cross over to open-label olanzapine, 5-20 mg/day, at visit 6 or 7 if they were not showing substantial response to double-blind therapy (could cross over if BPRS-total score decrease was <25% and BPRS-total score ≥18). Any patient discontinuing the double-blind phase at visit 6 or 7 to cross over to open-label olanzapine was classified as discontinuing from the double-blind phase due to lack of efficacy regardless of the degree of symptom change. All patients who completed visit 8 were eligible to receive open-label olanzapine at a dose of 5-20 mg/day, which was higher than either double-blind dose.
+
+At entry, patients underwent psychiatric and physical examinations; ECG; chest X-ray (if not performed within 6 months prior to entry); urinalysis; serum chemistry; hematology; hepatitis B serology; and drug screen evaluation. Severity of illness rating instruments included the PANSS, BPRS extracted from the PANSS (with items scored on a 0-6 scale), CGI-S, and Patient Global Impression (PGI). Acute extrapyramidal symptoms, parkinsonism and akathisia, were assessed systematically with the Simpson-Angus Scale (Simpson and Angus 1970) and the Barnes Akathisia Scale (Barnes 1989), respectively. Dyskinesias were systematically assessed with the Assessment of Involuntary Movement Scale (AIMS) (Guy 1976).
+
+Adverse events were recorded at every visit [including entry (visit 1) and baseline (visit 2)] through nondirected, open-ended questioning; spontaneous complaint; and clinical observation. Adverse events were recorded, irrespective of their potential relationship to treatment, using the COSTART dictionary of adverse event terms. Severity of illness ratings, extrapyramidal symptom ratings, urinalysis, serum chemistry, and hematology were repeated immediately before beginning double-blind therapy, weekly throughout the acute phase, and at discontinuation. Serum prolactin was measured immediately before beginning double-blind therapy and at discontinuation. The ECG was repeated at week 6 or at any early discontinuation.
+
+Investigators received training on administration and scoring of the PANSS, using videotaped interviews, at the study initiation meeting.
+
+Statistical analysis
+The primary purpose of this study (and corresponding efficacy measures and analyses) was to determine if either or both doses of olanzapine were superior to placebo in improving overall psychopathology [BPRS-total score, endpoint last-observation-carried-forward (LOCF) mean change], positive psychotic symptoms (PANSS-positive score, endpoint LOCF mean change), and negative psychotic symptoms (PANSS-negative score, endpoint LOCF mean change). All other efficacy measures and analyses were considered secondary.
+
+All analyses were done on an intent-to-treat basis, meaning all patients were included in the groups to which they were randomly assigned, even if a patient did not strictly adhere to the protocol. All endpoint analyses used a LOCF algorithm; the last available visit of visits 3-8 served as endpoint. All weekly (visitwise) analyses used an observed-case algorithm such that only available data were used for a given week (visit). For analyses of change from baseline to endpoint, only patients with a baseline (last available visit, visit 1 or 2) and at least one postbaseline measure were included. Furthermore, analysis of baseline efficacy and extrapyramidal symptom rating scales included only those patients with a baseline (last available visit, visit 1 or 2) and at least one postbaseline measure to be consistent with the analysis of the change from baseline to endpoint. All patients randomly assigned to double-blind therapy (n=152) were included in the analysis of baseline patient and illness characteristics as well as of the incidence of treatment-emergent adverse events. For the categorical analysis of decreases in laboratory analytes, only patients whose baseline laboratory values were at or above the lower limit of the reference range were included in the analysis. For the categorical analysis of increases in laboratory analytes, only patients whose baseline measures were at or below the upper limit of the reference range were included in the analysis. In the computation of all total scores, if any of the individual items were missing, then the total score was treated as missing. SAS procedures were used to perform all statistical analyses (SAS Institute 1990).
+
+Analysis of variance (ANOVA) was used to evaluate the continuous data, including terms for treatment, investigator, and treatment-by-investigator interaction. The only exception was the weekly analyses which did not include the interaction term because of sparse data. Both the original scale data and rank-transformed data were fit to the ANOVA models; the primary inference was taken from the analysis of the original scale data unless the assumptions of the ANOVA appeared to be violated. The least-square means were used to calculate pairwise P-values. The Wilcoxon signed rank test was used to test the hypothesis that within-treatment-group change from baseline to endpoint was significant.
+
+Categorical data, which included demographic variables, response rates, reasons for study discontinuation, treatment-emergent adverse events and categorical change in laboratory analytes, were evaluated using Pearson's chi-square test. For the analysis of discontinuations because of adverse events, no P-values were calculated because of the sparse data.
+
+For all analyses, main effects were tested at a two-sided α level of 0.05 and treatment-by-investigator interactions and heterogeneity across investigators were tested at an α level of 0.10.
+
+Results
+Baseline characteristics
+Overall, treatment groups (Tables 1-3) did not differ statistically significantly with respect to any patient characteristic, illness characteristic, or baseline severity of illness rating score. Patients were generally in their late 30s (mean age 38 years), white, and male. The majority of patients were of the paranoid subtype (53.3%), 98.0% had a chronic course consistent with mean age, and 65.1% were characterized as experiencing an acute exacerbation. Mean baseline BPRS-total score was approximately 38 (items scored on a 0-6 scale), reflecting relatively severe overall psychopathology. The mean baseline PANSS-negative score was approximately 25, indicating relatively severe negative symptomatology. Approximately half the patients in each treatment group were recruited into the study while inpatients. The proportion of patients hospitalized at least 5 days prior to visit 1 (at least 3 days prior to the 2-day minimum oral antipsychotic washout prior to the conduct of visit 1) were: placebo-42%; Olz1.0-44%; and Olz10.0-52%. As can be seen in Table 3, the average length of hospitalization prior to visit 1 was almost 2 months for patients in the Olz1.0 and Olz10.0 treatment groups and almost 3 weeks for patients in the placebo treatment group. Length of current hospitalization ranged up to 442 days, 1254 days, and 793 days for the placebo, Olz1.0, and Olz10.0 treatment groups, respectively. Consistent with hospitalization status, the majority of patients were being treated with dopamine antagonist antipsychotics immediately prior to entering the study. The proportion of patients either receiving an oral antipsychotic within 7 days of visit 1 or a depot antipsychotic within 28 days of visit 1 were: placebo-78%; Olz1.0-87%; Olz10.0-72%. The proportions of patients who had their last antipsychotic therapy prior to study participation discontinued to enter the trial or were otherwise judged to show inadequate response were: placebo-78%; Olz1.0-88%; and Olz10.0-74%. It is also notable that 24% of placebo-treated patients, 25% of Olz1.0-treated patients and 22% of Olz10.0-treated patients had been previously treated with clozapine.
+
+Thus, this overall patient group manifested a clinically severe, mixed (positive and negative) symptom profile in the context of a chronic longitudinal course and their psychosis was relatively refractory to conventional antipsychotic therapy.
+
+Table 4 presents baseline severity of extrapyramidal symptoms. For the Simpson-Angus Scale there was an overall statistically significant difference (P=0.002).
+
+Medication use
+There was not an overall statistically significant difference in the use of benztropine calculated as average administration per day across all treatment groups (placebo, 0.2±0.8 mg/day; Olz1.0, 0.1±0.4 mg/day; Olz10.0, 0.1±0.3 mg/day). There was no overall statistically significant difference in the percentages of patients who received one or more doses of anticholinergic at any time during double-blind acute therapy (placebo, 16.0%; Olz1.0, 7.7%; Olz10.0, 8.0%). There was no statistically significant difference across treatment groups in the use of lorazepam as expressed in mg/day (placebo, 1.8±2.0; Olz1.0, 2.1±2.0; Olz10.0, 1.9±2.7). The overall difference was not statistically significant in the percentages of patients who received one or more doses of benzodiazepine at any time during double-blind acute therapy (placebo, 82.0%; Olz1.0, 80.8%; Olz10.0, 84.0%).
+
+Efficacy
+Endpoint analysis
+Mean change from baseline (LOCF analysis) was used to compare illness severity changes for the three treatment groups (Table 5). With regard to overall symptomatology (BPRS-total score and PANSS-total score), Olz10.0 was statistically significantly superior to placebo. The results of CGI-S were consistent with the BPRS-total. For core positive psychotic symptoms (PANSS-positive and BPRS-positive), the mean improvement in the Olz10.0 treatment group was statistically significantly greater compared with the placebo treatment group. For negative symptoms (PANSS-negative), Olz10.0 was statistically superior to placebo. Statistically significant baseline-to-endpoint within-treatment-group improvement was observed for the Olz10.0 treatment group on all efficacy measures. In no comparison was Olz1.0 statistically significantly different from placebo, and Olz1.0 did not show a statistically significant baseline-to-endpoint within-treatment-group improvement for any efficacy measurement.
+
+Statistically significant treatment-by-investigator interactions were observed for BPRS-total, BPRS-positive, PANSS-total, PANSS-positive, and CGI-S. This appeared to result from considerable heterogeneity among study sites with respect to comparisons of Olz1.0 with placebo rather than any inconsistency between Olz10.0 and placebo. To evaluate these treatment-by-investigator interactions further, the Olz10.0 versus placebo treatment-by-investigator contrasts and the Olz1.0 versus placebo treatment-by-investigator contrasts were examined separately. In these analyses, none of the Olz10.0 versus placebo treatment-by-investigator interactions were significant whereas all of the Olz1.0 versus placebo comparisons (BPRS-total, P=0.014; BPRS-positive, P=0.031; PANSS-total, P=0.010; PANSS-positive, P=0.003; CGI-S, P=0.005) were significant. Therefore, the statistically significant treatment-by-investigator interactions may be attributed primarily to the inconsistent results of the Olz1.0 and placebo treatment group comparisons.
+
+Weekly analysis
+Figures 1-3, which display the severity of the primary ratings for overall symptoms (BPRS-total), positive symptoms (PANSS-positive), and negative symptoms (PANSS-negative), reflect visitwise observed-case analyses. Therefore, week 6 results reflect an analysis of completers. As shown, the Olz10.0 treatment group consistently showed greater mean improvement for all three scales at all weeks, except at week 1 where the placebo treatment group experienced slightly greater improvement in positive symptoms. The Olz10.0 treatment group was statistically significantly superior to the placebo treatment group at weeks 2 and 4 for BPRS-total, weeks 3 through 5 for PANSS-positive, and weeks 1 through 4 for PANSS-negative. These mean changes, represented graphically, are distinct from those discussed above under Endpoint Analysis since an endpoint analysis is based on last-observation-carried-forward data (using every patient's last visit score) and a weekly analysis is based on observed-case data (using scores only for patients actually rated at any visit, i.e., not carrying discontinued patients forward).
+
+Percentage improvement in severity
+The protocol defined a responder as a patient showing a ≥40% decrease in BPRS-total score or a final BPRS-total score ≤18 among patients completing at least visit 6 (more than 3 weeks) of double-blind therapy. The rate of response and the number of patients completing at least visit 6 were as follows: placebo, 9.5% (n=42); Olz1.0, 11.9% (n=42); Olz10.0, 27.9% (n=43). The Olz10.0 treatment group demonstrated a significantly greater response rate compared with the placebo treatment group (P=0.030).
+
+Patient disposition
+A greater percentage of Olz10.0-treated patients completed the acute phase of the study than patients in the other treatment groups (Table 6). Overall, discontinuation for adverse events was quite low. The events that led to discontinuations in placebo-treated patients were events that may well have been manifestations of an exacerbation of psychopathology (see Adverse events below).
+
+Safety
+Adverse events
+The most common treatment-emergent (i.e., events that first appeared or worsened during double-blind therapy) adverse events (hostility, paranoid reaction, agitation) (Table 7) were likely manifestations of the disease process under treatment rather than being pharmacologic effects. Somnolence was comparable across treatment groups. Neither events reflective of anticholinergic effects nor extrapyramidal syndromes were reported as rates of 10% or greater. There was no statistically significant difference across treatment groups for such events. The only adverse event that demonstrated a statistically significant difference across treatment groups was anorexia, which was reported by 10% of placebo-treated and 0% of Olz10.0-treated patients.
+
+Adverse events that led to discontinuation among Olz1.0-treated patients included one instance each of an exacerbation of schizophrenia, hyponatremia, hypertension, urticaria, and an allergic reaction. Two Olz10.0-treated patients discontinued because of adverse events: one for an exacerbation of schizophrenia and the other for what was coded as personality disorder (the COSTART term used to identify behavior that is objectionable, but not hostile or aggressive).
+
+Extrapyramidal symptom rating scales
+Table 8 shows that for parkinsonism (Simpson-Angus), akathisia (Barnes), and dyskinesias (AIMS) there were no statistically significant differences in mean change from baseline to endpoint across the treatment groups. The Olz10.0 treatment group demonstrated numeric decreases from baseline on all three scales, and these within-treatment-group decreases were statistically significant on the Simpson-Angus and the Barnes scales.
+
+Weight and vital signs
+Weight gain was associated with olanzapine use. The endpoint mean weight increase associated with Olz10.0 treatment was 2.2±4.0 kg, which was statistically significantly different from the 0.4±3.1 kg mean weight loss associated with placebo treatment. Considering supine and standing systolic blood pressure, diastolic blood pressure, and pulse as well as orthostatic changes in systolic blood pressure and pulse, the only statistically significant difference between Olz10.0 and placebo was seen with standing systolic blood pressure (placebo, -2.7 mm Hg; Olz10.0, +3.6 mm Hg). The within-group baseline-to-endpoint change for the Olz10.0 treatment group was not statistically significant (P=0.156).
+
+Laboratory analytes
+There were few differences at endpoint with respect to proportions of patients who had laboratory analyte values outside the reference range when they had begun the study with these analyte values within the reference range. The only statistically significant differences at endpoint between the Olz10.0 treatment group and the placebo treatment group were for two urinalysis assessments. There was less urinary ketosis and occult blood present in Olz10.0-treated compared with placebo-treated patients (ketones, zero versus six patients; occult blood, zero versus four patients). Hepatic transaminases (especially ALT) had shown a tendency to rise, without associated symptoms, early in therapy on Olz10.0, but this was transient as reflected in the lack of difference at endpoint in proportions of patients with elevations above the upper limits of the reference ranges for these analytes.
+
+Discussion
+The primary finding of this study is that olanzapine 10 mg/day (Olz10.0) demonstrated efficacy with respect to decreasing overall psychopathology, as indicated by the decrease in BPRS-total score. In addition, the Olz10.0 treatment group showed decreases in acute extrapyramidal symptom severity ratings and was comparable with placebo with respect to treatment-emergent adverse events, including extrapyramidal symptoms.
+
+This study population presented a particularly good opportunity to evaluate olanzapine's effectiveness since these patients, with an overall mean age of approximately 38 years and with a DSM-III-R-defined chronic course (approximately 98% of the total population), were for the most part not in an early phase of their illness. These patients were also severely symptomatic in all domains at baseline. Over the treatment groups, the mean BPRS-total score, reflecting overall psychopathology, was approximately 38, which is 35% of the maximum score; the mean PANSS-positive score was approximately 25, which is 51% of the maximum score; and the mean PANSS-negative score was also approximately 25, which is 51% of the maximum score. Not only was the psychopathology severe, but negative symptoms were also prominent.
+
+With regard to efficacy, Olz10.0 was clinically and statistically superior to placebo while Olz1.0 was comparable to placebo. On core positive symptoms (PANSS-positive and BPRS-positive) and negative symptoms (PANSS-negative) this pattern of clinical and statistical significance observed with overall psychopathology was also observed. The percentage of patients responding to Olz10.0, as operationally defined, was also statistically significantly greater than with placebo.
+
+Pairwise comparisons of the Olz10.0 and placebo treatment groups for the OC visit-wise mean changes on the efficacy parameters of BPRS-total, PANSS-positive, and PANSS-negative were not significant at week 6 (visit 8, completers analysis). The findings are the result of protocol design which contributed to (1) small sample sizes at visit 8; and (2) exceptionally good response to double-blind therapy (including placebo) for those patients who remained in the acute phase at visit 8.
+
+The design of this study resulted in a greater than expected participation through visit 6 (week 4) (84%) (Beasley et al. 1995; Beasley unpublished data) but a lower than expected acute phase completion rate (27%). The design resulted from the fact that two-thirds of the patients were initially randomized to potentially ineffective treatments (either placebo or Olz1.0). The investigators conducting the study, for ethical reasons, strongly suggested the design feature which allowed them to offer a higher dose of olanzapine (up to 20 mg/day) than any double-blind dose to patients who did not show substantial response after more than 3 weeks of therapy. As a result, many patients remained until visit 6, but few patients remained in the acute phase after visit 6 (visit 7: 28.0% placebo, 32.7% Olz1.0, 44.0% Olz10.0; visit 8: 20.0% placebo, 25.0% Olz1.0, and 38.0% Olz10.0). Those patients who did remain were generally responding very well to double-blind therapy. Nearly twice as many patients in the Olz10.0 group completed the study compared with the placebo treatment group.
+
+Pairwise comparisons of the Olz10.0 and placebo treatment groups for the OC visit-wise mean changes on BPRS-total, PANSS-positive, and PANSS-negative were all statistically significant at visit 6 (week 4), with over 80% of the patients remaining in all treatment groups.
+
+Although there were low acute phase completion rates, 81.6% of the randomized patients entered the open-label phase to receive olanzapine treatment (rather than discontinuing from the study to be treated with an alternative antipsychotic medication). The discontinuation rate to proceed to open-label olanzapine treatment for the 10 mg/day olanzapine treatment group may raise the question of whether or not this represented an optimal treatment dose for this study population. However, the design features described above, along with the lack of a parallel higher-dose olanzapine treatment group make it impossible to conclude anything other than that 10 mg/day was an effective treatment in this population.
+
+The most common adverse events across all treatment groups in this study were likely reflective of the disease process of schizophrenia rather than the pharmacologic effect. Olz10.0, a clinically effective dose of olanzapine, did not differ clinically or statistically from placebo with respect to any adverse event except anorexia, which was higher among placebo-treated patients.
+
+Categorical analysis of laboratory analytes in this study did not yield any data to suggest an adverse hematologic effect associated with olanzapine. Furthermore, data from this study did not suggest any substantial rise in hepatic transaminase values at the last visit in the study. Such rises were transient and asymptomatic while patients remained on olanzapine.
+
+In summary, these results indicate that olanzapine offers excellent overall efficacy in the acute treatment of chronic, relatively refractory schizophrenia. Over 30% of patients in each treatment group were characterized as chronic without an acute exacerbation and yet had relatively severe symptoms (BPRS ≥24), and for the patients characterized as experiencing an acute exacerbation, the mean length of that exacerbation was greater than 3 months for all treatment groups. High proportions of patients were recruited during lengthy hospitalizations, were receiving antipsychotic therapy and not showing adequate response, and had previously been treated with clozapine. Olanzapine was well tolerated, with treatment-emergent acute extrapyramidal symptoms comparable to those observed with placebo, and patients who were treated with olanzapine actually received numerically less anticholinergic therapy than those treated with placebo. Approximately half as many olanzapine-treated patients received anticholinergic medication as did placebo-treated patients. In fact, on the whole, olanzapine reduced parkinsonism, akathisia, and dyskinesias. This suggests that olanzapine possesses the primary clinical characteristic indicative of "atypicality" as discussed earlier. At a dose of 10 mg/day, olanzapine was comparable to placebo with respect to adverse events and was clearly effective in the treatment of psychosis.
+
+Finally, olanzapine 10 mg/day did not demonstrate a statistically significant difference in the incidence of associated categorical increases in prolactin concentration compared with placebo. This finding is consistent with meeting an additional clinical criterion indicative of "atypicality" as an antipsychotic.
+
+Acknowledgements
+The authors thank Kim Musick, Jan Hanshew, Patrice Bradley, and Amy Kuntz for assistance in study administration and manuscript preparation, as well as AnnMarie Crawford, Mary Anne Dellva, and Roy Tamura for additional statistical support.
+
+
+### Tables (TXT Format)
+
+Table 1: Patient characteristics
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day; SD=standard deviation
+| Characteristic | Placebo (n=50) | Olz1.0 (n=52) | Olz10.0 (n=50) | Overall P-value |
+|----------------|----------------|----------------|-----------------|-----------------|
+| Age (mean years±SD) | 36±8 | 38±9 | 39±10 | 0.410 |
+| Sex - Male (%) | 66.0 | 76.9 | 74.0 | 0.445 |
+| Race - White (%) | 62.0 | 75.0 | 68.0 | 0.558 |
+| Race - Black (%) | 24.0 | 11.5 | 22.0 | 0.558 |
+
+Table 2: Illness characteristics
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day; AE=acute exacerbation; SD=standard deviation
+| Variable | Placebo (n=50) | Olz1.0 (n=52) | Olz10.0 (n=50) | Overall P-value |
+|----------|----------------|----------------|-----------------|-----------------|
+| Subtype - Paranoid (%) | 60.0 | 40.4 | 60.0 | 0.176 |
+| Subtype - Disorganized (%) | 2.0 | 1.9 | 6.0 | 0.176 |
+| Subtype - Undifferentiated (%) | 36.0 | 53.8 | 32.0 | 0.176 |
+| Subtype - Catatonic (%) | 2.0 | 3.8 | 0.0 | 0.176 |
+| Subtype - Residual (%) | 0.0 | 0.0 | 2.0 | 0.176 |
+| Course - Subchronic, AE (%) | 2.0 | 1.9 | 0.0 | 0.743 |
+| Course - Chronic, AE (%) | 60.0 | 67.3 | 64.0 | 0.743 |
+| Course - Chronic (%) | 36.0 | 30.8 | 36.0 | 0.743 |
+| Course - Unspecified (%) | 2.0 | 0.0 | 0.0 | 0.743 |
+| Length of current episode (days) (mean±SD) | 91±173 | 98±103 | 117±180 | 0.788 |
+| Length of current hospitalization (days) (mean±SD) | 20±65 | 57±182 | 59±166 | 0.334 |
+| Number of previous episodes - <10 (%) | 57.1 | 37.3 | 42.0 | 0.421 |
+| Number of previous episodes - 10-<20 (%) | 14.3 | 21.6 | 18.0 | 0.421 |
+| Number of previous episodes - 20-<30 (%) | 0.0 | 7.8 | 6.0 | 0.421 |
+| Number of previous episodes - 30-<40 (%) | 2.0 | 0.0 | 2.0 | 0.421 |
+| Number of previous episodes - ≥50 (%) | 26.5 | 33.3 | 32.0 | 0.421 |
+| Age of psychosis onset (years) (mean±SD) | 22±6 | 22±5 | 21±5 | 0.362 |
+
+Table 3: Baseline severity of illness scores
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day; BPRS=Brief Psychiatric Rating Scale; CGI-S=Clinical Global Impression-Severity of Illness; PANSS=Positive and Negative Syndrome Scale; SD=standard deviation
+| Measure | Placebo (n=49) | Olz1.0 (n=51) | Olz10.0 (n=49) | Overall P-value |
+|---------|----------------|----------------|-----------------|-----------------|
+| BPRS-total (items scored 0-6) (mean±SD) | 36.8±6.9 | 39.6±11.1 | 37.4±8.5 | 0.089 |
+| BPRS-positive (Conceptual disorganization, suspiciousness, hallucinatory behavior, unusual thought content) (mean±SD) | 12.3±3.3 | 13.5±3.9 | 12.9±3.5 | 0.184 |
+| BPRS-negative (Emotional withdrawal, motor retardation, blunted affect) (mean±SD) | 6.6±3.0 | 6.8±3.7 | 7.1±3.6 | 0.755 |
+| PANSS-total (mean±SD) | 95.6±13.6 | 100.7±22.2 | 98.3±15.9 | 0.160 |
+| PANSS-positive (mean±SD) | 24.2±5.4 | 26.0±6.3 | 24.4±5.2 | 0.309 |
+| PANSS-negative (mean±SD) | 23.9±5.4 | 25.1±8.0 | 26.4±6.9 | 0.223 |
+| CGI-S (mean±SD) | 5.0±0.8 | 5.1±0.9 | 4.9±0.8 | 0.371 |
+
+Table 4: Baseline extrapyramidal symptom scores
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day; Simpson-Angus=Simpson-Angus Total Score; Barnes=Barnes Akathisia Rating Global Score (item 4); AIMS=Abnormal Involuntary Movement Total Score (sum of items 1-7); SD=standard deviation
+| Score | Placebo (n=49) | Olz1.0 (n=51) | Olz10.0 (n=50) | Overall P-value |
+|-------|----------------|----------------|-----------------|-----------------|
+| Simpson-Angus (mean±SD) | 2.6±3.9 | 2.1±2.5 | 1.9±3.3 | 0.002 |
+| Barnes (mean±SD) | 0.7±1.0 | 0.6±1.0 | 0.6±0.8 | 0.091 |
+| AIMS (mean±SD) | 2.8±4.0 | 2.8±3.5 | 2.6±3.6 | 0.940 |
+
+Table 5: Endpoint change in severity of illness scores (last observation carried forward)
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day; SD=standard deviation
+| Measure | Placebo (n=49) (mean±SD) | Olz1.0 (n=51) (mean±SD) | Olz10.0 (n=49) (mean±SD) | Overall P-value |
+|---------|----------------------------|----------------------------|---------------------------|-----------------|
+| BPRS-total (items scored 0-6) | -0.2±12.3 | -2.0±12.6 | -7.7±12.5 | 0.040 |
+| BPRS-positive (Conceptual disorganization, suspiciousness, hallucinatory behavior, unusual thought content) | -0.0±3.9 | -0.9±4.0 | -2.9±4.6 | 0.011 |
+| BPRS-negative (Emotional withdrawal, motor retardation, blunted affect) | -0.2±3.0 | -0.3±2.7 | -1.4±3.1 | 0.190 |
+| PANSS-total | 2.8±20.6 | -1.9±21.5 | -12.3±21.8 | 0.006 |
+| PANSS-positive | 0.3±6.5 | -1.0±6.6 | -4.0±6.2 | 0.013 |
+| PANSS-negative | 1.0±6.8 | 0.0±5.4 | -2.8±6.3 | 0.020 |
+| CGI-S | -0.1±1.1 | 0.1±1.1 | -0.6±1.4 | 0.013 |
+Notes: 1 P ≤0.10 vs. baseline; 2 P ≤0.001 vs. baseline; 3 P ≤0.50 vs. placebo; 4 P ≤0.10 vs. placebo
+
+Table 6: Patient disposition
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day
+| Variable | Placebo (n=50) | Olz1.0 (n=52) | Olz10.0 (n=50) | Overall P-value |
+|----------|----------------|----------------|-----------------|-----------------|
+| Completed (%) | 20.0 | 23.1 | 38.0 | 0.094 |
+| Discontinued - Adverse event (%) | 0.0 | 9.6 | 4.0 | 0.066 |
+| Discontinued - Lack of efficacy (%) | 74.0 | 61.5 | 56.0 | 0.158 |
+| Discontinued - Lost to follow-up (%) | 4.0 | 0.0 | 0.0 | - |
+| Discontinued - Patient decision (%) | 2.0 | 5.8 | 2.0 | - |
+
+Table 7: Treatment-emergent adverse events (percent; ≥10% in any olanzapine treatment group or statistically significant)
+| Event | Placebo (n=50) (%) | Olz1.0 (n=52) (%) | Olz10.0 (n=50) (%) | Overall P-value |
+|-------|---------------------|---------------------|----------------------|-----------------|
+| Hostility | 14.0 | 9.6 | 18.0 | 0.471 |
+| Paranoid reaction | 18.0 | 9.6 | 18.0 | 0.392 |
+| Agitation | 8.0 | 15.4 | 16.0 | 0.418 |
+| Headache | 6.0 | 19.2 | 14.0 | 0.139 |
+| Insomnia | 14.0 | 9.6 | 14.0 | 0.740 |
+| Rhinitis | 8.0 | 1.9 | 14.0 | 0.078 |
+| Somnolence | 14.0 | 13.5 | 12.0 | 0.954 |
+| Nervousness | 8.0 | 11.5 | 10.0 | 0.835 |
+| Thinking abnormal | 6.0 | 1.9 | 10.0 | 0.225 |
+| Anorexia | 10.0 | 1.9 | 0.0 | 0.024 |
+
+Table 8: Endpoint change in extrapyramidal symptom scores (last observation carried forward)
+Olz1.0=olanzapine 1.0 mg/day; Olz10.0=olanzapine 10 mg/day; Simpson-Angus=Simpson-Angus Total Score; Barnes=Barnes Akathisia Rating Global Score (item 4); AIMS=Abnormal Involuntary Movement Total Score (sum of items 1-7); SD=standard deviation
+| Score | Placebo (n=49) (mean±SD) | Olz1.0 (n=51) (mean±SD) | Olz10.0 (n=50) (mean±SD) | Overall P-value |
+|-------|----------------------------|----------------------------|---------------------------|-----------------|
+| Simpson-Angus | -0.8±2.6 | -0.3±1.8 | -0.7±2.0 | 0.532 |
+| Barnes | 0.0±0.8 | 0.0±0.8 | -0.2±0.7 | 0.141 |
+| AIMS | -0.3±2.7 | -0.1±2.5 | -0.1±2.3 | 0.996 |
+Note: 1 P ≤0.050 vs. baseline
+
+
+### Image Descriptions (TXT Format)
+
+Figure 1: Weekly change in Brief Psychiatric Rating Scale (BPRS)-total scores (observed cases)
+- X-axis: Week (ranging from 1 to 6)
+- Y-axis: Change in BPRS-total score (negative values indicate improvement)
+- Groups: Three treatment groups are represented: Placebo (solid circle), Olz1.0 (solid circle), and Olz10.0 (open circle)
+- Sample sizes (n) for each group at each week: 
+  - Placebo: 49 (Week 1), 45 (Week 2), 44 (Week 3), 47 (Week 4), 44 (Week 5), 43 (Week 6)
+  - Olz1.0: 51 (Week 1), 44 (Week 2), 43 (Week 3), 43 (Week 4), 42 (Week 5), 42 (Week 6)
+  - Olz10.0: 49 (Week 1), 42 (Week 2), 42 (Week 3), 42 (Week 4), 14 (Week 5), 17 (Week 6), 22 (additional note)
+- Trend: Olz10.0 consistently shows greater mean improvement (more negative values) than Placebo and Olz1.0 across all weeks. 
+- Statistical significance: Olz10.0 is statistically significantly superior to Placebo at Weeks 2 and 4 (marked with *; p < 0.05).
+
+Figure 2: Weekly change in Positive and Negative Symptom Scale (PANSS)-positive scores (observed cases)
+- X-axis: Week (ranging from 1 to 6)
+- Y-axis: Change in PANSS-positive score (negative values indicate improvement)
+- Groups: Same as Figure 1 (Placebo: solid circle; Olz1.0: solid circle; Olz10.0: open circle)
+- Sample sizes (n) for each group: Same as Figure 1
+- Trend: Olz10.0 demonstrates greater mean improvement than the other two groups throughout the study. Placebo shows slightly greater improvement than Olz10.0 only at Week 1.
+- Statistical significance: Olz10.0 is statistically significantly superior to Placebo at Weeks 3 through 5 (marked with *; p < 0.05).
+
+Figure 3: Weekly change in Positive and Negative Symptom Scale (PANSS)-negative scores (observed cases)
+- X-axis: Week (ranging from 1 to 6)
+- Y-axis: Change in PANSS-negative score (negative values indicate improvement)
+- Groups: Same as Figure 1 (Placebo: solid circle; Olz1.0: solid circle; Olz10.0: open circle)
+- Sample sizes (n) for each group: Same as Figure 1
+- Trend: Olz10.0 exhibits greater mean improvement than Placebo and Olz1.0 from Week 1 onwards.
+- Statistical significance: Olz10.0 is statistically significantly superior to Placebo at Weeks 1 through 4 (marked with *; p < 0.05).

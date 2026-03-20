@@ -1,0 +1,182 @@
+# [ORIGINAL RESEARCH]
+A Prospective Study Comparing the Long-term Effectiveness of Injectable Risperidone Long-acting Therapy and Oral Aripiprazole in Patients with Schizophrenia
+by WAYNE MACFADDEN, MD; YI-WEN MA, PhD; J. THOMAS HASKINS, PhD; CYNTHIA A. BOSSIE, PhD; and LARRY ALPHS, MD, PhD
+
+Dr. Macfadden was with Ortho-McNeil Janssen Scientific Affairs, LLC, Titusville, New Jersey, at the time of this analysis; Dr. Macfadden currently is Medical Director at Princeton Medical Institute, Princeton, New Jersey; Drs. Ma and Haskins are with Johnson & Johnson Pharmaceutical Research and Development, LLC, Titusville, New Jersey; and Drs. Bossie and Alphs are with Ortho-McNeil Janssen Scientific Affairs, LLC, Titusville, New Jersey.
+
+Psychiatry (Edgemont) 2010;7(11):23–31
+
+## ABSTRACT
+Objective: To test the hypothesis that long-term maintenance with injectable risperidone long-acting therapy is superior to oral daily aripiprazole in stable patients with schizophrenia.
+Design: This two-year, rater-blinded, open-label, multicenter study (NCT00299702) randomized subjects to injectable risperidone long-acting therapy (25–50mg, injected every 2 weeks) or oral aripiprazole (5–30mg/day), with study visits every two weeks. Subjects who met relapse criteria or discontinued study drug could remain in the study.
+Setting: Clinical trial.
+Participants: Stable subjects with schizophrenia not adequately benefiting from current treatment who experienced two or more relapses in the past two years. If recently relapsed, subjects were stabilized (per clinician judgment) for two or more months before entry.
+Measurements: Primary endpoints: time to relapse and time in remission. Safety assessments included adverse event reporting.
+Results: Of 355 subjects randomized, 349 were in the intent-to-treat analysis set. Data inspection revealed that 53 (14.9%) randomized subjects deviated from inclusion/exclusion criteria, most commonly not meeting stability requirements. At baseline, mean (standard deviation [SD]) Positive and Negative Syndrome Scale total score was 68.9 (14.6); 115 (33.0%) intent-to-treat subjects met remission criteria. Approximately 29 percent in each group discontinued the study before completing two years. No significant between-group differences were noted in time to relapse or time in remission. No new tolerability issues were identified.
+Conclusion: Results failed to demonstrate superiority with injectable risperidone long-acting therapy versus oral aripiprazole. The study design did not allow for valid conclusions of equivalence or noninferiority. Although this study attempted to mimic a real-world treatment setting for stable patients, the broad study population, the lack of patient selection for nonadherence, biweekly visits, regular assessments, and other design issues limited generalizability and interpretation relative to the study hypothesis.
+
+## INTRODUCTION
+Since their introduction, atypical antipsychotics have become the mainstay of treatment for schizophrenia because they are effective in decreasing the psychotic symptoms of schizophrenia and preventing relapses.1–3 Although a complete absence of symptoms may be clinically unrealistic with our current therapies, the goal of treatment is to achieve prolonged periods of symptomatic stability, or “remission.”4
+
+A major barrier to achieving prolonged remission and delaying relapse is partial adherence or nonadherence to existing treatment regimens; up to 70 percent of patients with schizophrenia report partial adherence to their therapy.5–7 Poor adherence to antipsychotics is known to be directly associated with an increased risk of relapse, hospitalization, and suicide attempts,8 with significant impact on the costs of inpatient hospitalization.5 In addition to the increased likelihood of worsening of psychiatric symptoms, nonadherence and partial adherence to medication can hinder the care provided. Psychiatrists treating patients with schizophrenia often have difficulty distinguishing between poor response to medication and poor treatment adherence, leading to overprescribing or changing medications prematurely. For example, patients who are poorly adherent to their treatment regimens may be wrongly identified as being treatment resistant (and vice versa).9
+
+Long-acting injectable atypical antipsychotics may provide benefits over oral atypical antipsychotics in the long-term treatment of patients with schizophrenia by allowing clinicians to easily identify and address nonadherence.10 Risperidone was the first atypical antipsychotic available in a long-acting injectable formulation (risperidone long-acting therapy [RLAT]) with steady-state drug plasma levels achieved after the fourth injection and maintained for 4 to 5 weeks after the fifth injection.11
+
+Several short- and long-term studies have provided evidence of the efficacy and safety of injectable RLAT12–16 and have shown that RLAT is associated with low relapse and rehospitalization rates.17,18 The oral atypical antipsychotic aripiprazole has also been shown to be more effective than placebo and as effective as haloperidol19 and risperidone20 in the treatment of schizophrenia and schizoaffective disorder. One study21 found that the time to relapse was significantly longer for subjects receiving aripiprazole than for those receiving placebo.
+
+In clinical trial settings, both oral and long-acting formulations of antipsychotic medications have been shown to be effective. However, in real-world clinical settings, patient adherence and social support are also critical factors for controlling symptoms and preventing relapse. There are few adequately powered, well-controlled, long-term studies comparing oral and long-acting formulations of antipsychotics in subjects with schizophrenia, but one recent study found no difference in the efficacy of oral versus long-acting injections of olanzapine.22 An important caveat to such studies is that adherence to treatment is generally better in controlled clinical trials than in real-world settings because of the frequency and intensity of clinic visits and the generally closer follow-up services that subjects receive. This may mask any effectiveness advantages that long-acting formulations offer in real-world settings, such as allowing the clinician to recognize and address nonadherence, thereby improving long-term outcomes.
+
+The objective of this study was to test the hypothesis that injectable RLAT is superior to oral aripiprazole for the long-term maintenance treatment of schizophrenia when used in a naturalistic setting in stable subjects with schizophrenia who could benefit from a change in their current antipsychotic medication.
+
+## METHODS
+This was a two-year, prospective, blinded-rater, open-label, active-controlled, multicenter, randomized study (study number CR006121; NCT00299702) of injectable RLAT and aripiprazole in adults with schizophrenia. The study was conducted between February 2006 and January 2009 in the United States, South America, and India, in accordance with the Declaration of Helsinki and Good Clinical Practice. The study protocol was approved by an institutional review board or an independent ethics committee at each center. All subjects gave informed consent after the study procedures had been fully explained.
+
+### Participants
+Eligible subjects were men and women over 18 years of age with a Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) diagnosis of schizophrenia who, according to clinician judgment, were not adequately benefiting from their current antipsychotic. Per protocol, subjects must have experienced at least two psychotic relapses in the two years before study entry, defined as psychiatric hospitalization caused by worsening of psychiatric symptoms; a change in antipsychotic treatment or significant increase in antipsychotic dose because of inadequate efficacy; a newly emergent, clinically important symptom such as suicidality; or a clinically notable increase in the frequency or intensity of subject contact. Subjects experiencing a recent relapse must have been stabilized for a minimum of two months before study entry, per clinician judgment.
+
+Key exclusion criteria included a screening Positive and Negative Syndrome Scale (PANSS) total score of 100 or more; current hospitalization, major medication changes, or worsening of psychiatric symptoms within two months before study entry; or current treatment with clozapine or carbamazepine. Other exclusion criteria included depot antipsychotic treatment or evidence of alcohol or drug dependence (DSM-IV Axis I criteria) within six months before entry.
+
+### Study design
+The study included a two-week screening period, followed by a 104-week treatment phase. Subjects were randomly assigned in a 1:1 ratio to receive open-label RLAT (25–50mg) administered every two weeks or aripiprazole (10–30mg) administered once daily, for up to two years (Figure 1).
+
+The study design had several features intended to mimic a real-world setting. The dose of both study drugs was determined by the investigator and was to be within the approved dosage range. During the treatment phase, investigators were instructed to discontinue their subjects’ previous antipsychotic as quickly as clinically advisable but within four weeks of randomization (cross-titration period). After Week 4, subjects should have been receiving antipsychotic monotherapy with the randomized study drug. At any point during the study, investigators were permitted to adjust the study drug dose to improve efficacy or tolerability. Subjects taking antidepressants, anxiolytics, and mood stabilizers at screening were permitted to continue these during the study. Investigators could adjust the study drug dose to manage the emergence of insomnia, anxiety, agitation, mood symptoms, and worsening psychotic symptoms. If psychotic symptoms worsened, investigators had the option of increasing the study drug dose or adding another antipsychotic (excluding clozapine) for up to seven days. If it was not clinically appropriate or possible to discontinue the additional antipsychotic, the investigator had the option of continuing this treatment. If the addition of the new antipsychotic did not prove effective, the investigator had the final option of switching to another secondary antipsychotic. Subjects who met the study criteria for relapse (as defined in the following paragraph) or who discontinued the study drug were permitted to continue in the study at the regularly scheduled visits.
+
+### End points
+The end points for this study were time to relapse and time in remission. Time to relapse (days) was defined as the time from the day the subject took the first dose of study drug to the day of relapse, as determined by a relapse monitoring board (RMB; described below). Time in remission (days) was the total duration of remission while receiving the study drug; remission was defined as the simultaneous attainment of a score of 3 (mild) or less on all of the following PANSS items: delusions (P1), concept disorganization (P2), hallucinatory behavior (P3), unusual thought content (G9), mannerisms and posturing (G5), blunted affect (N1), passive/apathetic social withdrawal (N4), and lack of spontaneity and flow of conversation (N6).23 Safety was assessed through adverse event (AE) reporting.
+
+Assessments were made by raters who were blinded to drug-treatment information (i.e., study drug, mode of administration, adjunctive treatments, and treatment-emergent AEs) throughout the study. Efforts were made to ensure the same rater administered efficacy assessments for a given subject.
+
+Relapse was determined by a five-member RMB blinded to subject treatment; members retrospectively reviewed and assessed all clinical data to determine if and when relapse had occurred. The RMB had access to all (blinded) patient data, including clinic notes that did not reveal the particular study drug used, and considered all relevant information when determining relapses, such as the use of other antipsychotics. The RMB defined relapse in this study as worsening of psychiatric symptoms as evidenced by hospitalization or significant increases in level of psychiatric care; an increase of 25 percent from baseline in the total PANSS score or an increase of 10 points if the baseline score was 40 or less, and a Clinical Global Impressions–Change score of 6 or 7 with a Clinical Global Impressions–Severity score of at least 4; deliberate self-injury, clinically significant suicidal or homicidal ideation, or violent behavior; study drug discontinuation because of lack of efficacy, with some evidence of worsening of psychiatric symptoms; addition of another antipsychotic (besides the study drug) for more than one week because of inadequate efficacy; increase in study drug dosage beyond the recommended dosage (RLAT, 50mg every 2 weeks; aripiprazole, 30mg/day) because of worsening symptoms, after receiving a stable dose for at least three months.
+
+### Statistical analysis
+Sample size calculations were based on modeling data for time to relapse obtained from previous studies with RLAT. For power calculations, two-year relapse rates were assumed to be 20 percent and 35 percent for RLAT and aripiprazole, respectively. By these calculations, 73 relapses were needed to achieve an 80-percent power, given a five-percent, two-sided type I error rate using an unstratified log-rank test. Assuming discontinuation for reasons other than relapse would be 10 percent, it was determined that at least 316 subjects were required (158 per treatment group) for this study. Because no historical data for time in remission were available, sample size considerations did not involve this measure.
+
+The efficacy analyses were based on the intent-to-treat (ITT) analysis set, which included all subjects randomly assigned to a treatment group who had received at least one dose of study drug and at least one postbaseline PANSS measurement. Safety data were evaluated using the safety analysis set, which included all subjects randomly assigned to a treatment group who had received at least one dose of study drug and at least one safety measurement. Only on-drug assessments were included in the efficacy and safety analyses.
+
+Time to relapse was estimated using the Kaplan-Meier method. Treatment comparisons for time to relapse were based on a log-rank test stratified by pooled site, and treatment comparisons for the time in remission were analyzed using the Wilcoxon Rank Sum test. Hochberg’s procedure was used to adjust the P values for multiple comparisons.
+
+## RESULTS
+### Disposition, baseline demographics, and clinical characteristics
+Of the 409 subjects screened, 355 were randomly selected to receive study drug and 349 were included in the ITT analysis set. Data inspection revealed that 53 of 355 (14.9%) randomized subjects deviated from inclusion/exclusion criteria. Subjects who were not stable at randomization represented the most common study deviation (28/355 [7.9%]). Overall demographic and baseline characteristics of the ITT population were similar between the study groups (Table 1). The mean (SD) age of the study population was 37.8 (11.5) years, with a mean (SD) time since diagnosis of 9.9 (10.7) years. The median time since previous hospitalization was one year (range, 0–30), and the mean (SD) PANSS total score was 68.9 (14.6) at baseline. At randomization, 33.0 percent of subjects met the remission criteria. The proportions of injectable RLAT and aripiprazole subjects who discontinued the study before completing two years were 29.6 percent and 28.4 percent, respectively. The main causes of early discontinuation were withdrawal of consent (RLAT, 14.1%; aripiprazole, 13.0%) and lost to follow-up (RLAT, 10.1%; aripiprazole, 5.7%). No subjects withdrew from the study because of an AE (as the primary reason) with RLAT, and 2.3 percent withdrew because of an AE with aripiprazole; 2.2 percent of RLAT and 1.7 percent of aripiprazole subjects withdrew for lack of efficacy.
+
+### Treatment exposure
+The mean (SD) modal RLAT dose was 41.8mg (9.5mg) (range, 25–50mg) every two weeks. The mean (SD) modal dose for aripiprazole was 19.9mg/day (8.5mg/day) (range, 0–30mg/day). From the end of the cross-titration period (i.e., approximately 4 weeks after randomization) to discontinuation (relapse or otherwise), 7.9 percent (n=14) of subjects in the RLAT group versus 11.0 percent (n=19) in the aripiprazole group received a second antipsychotic for worsening of psychiatric symptoms; 5.1 percent versus 0.6 percent, respectively, added a mood stabilizer; 12.4 percent versus 5.8 percent, respectively, added an antidepressant; and 18.1 percent versus 19.8 percent, respectively, added a benzodiazepine. The proportions of subjects who discontinued the study drug during the course of the two-year study, irrespective of relapse occurrence, were 31.1 percent in the RLAT group and 39.0 percent in the aripiprazole group.
+
+### Relapse, remission, and symptoms
+No significant between-group differences were observed for the end points of time to relapse (P=0.684) (Figure 2) and time in remission (P=0.646). The mean ± SD number of days in remission was 373.5±282.6 days for the RLAT group and 356.7±292.0 days for the aripiprazole group (Table 2). Relapse rates were 45.8 percent and 43.6 percent, respectively (Table 2). The 25-percent quartile of time to first relapse was 131 days (95% confidence interval [CI]: 100, 197) in the RLAT group and 113 days (95% CI: 99, 169) in the aripiprazole group. Among subjects who received a second antipsychotic for worsening symptoms, nine in the RLAT group and 11 in the aripiprazole group relapsed. The mean PANSS total score improved by approximately 11 points in each group (least-squares [LS] mean ± standard error [SE] change from baseline to end point: RLAT, -11.0±1.1 points vs. aripiprazole, -10.9±1.1 points; P=0.968).
+
+### Safety
+Overall rates of AEs reported during the study (including the cross-titration period) were similar between the two groups: 89.9 percent of subjects in the RLAT group and 86.4 percent of subjects in the aripiprazole group (Table 3).
+
+Serious AEs were reported during the study by 17.3 percent of subjects in the RLAT group and 19.9 percent of those in the aripiprazole group. The most common serious AEs in either group were psychotic disorder and schizophrenia. Two subjects died during the study: One subject in the RLAT group died from an unknown cause and one subject in the aripiprazole group completed suicide. Neither death was considered related to the study drug. AEs that led to discontinuation of study drug occurred in 10.1 percent and 12.5 percent of the RLAT and aripiprazole groups, respectively, and were most commonly psychotic disorder and schizophrenia.
+
+A higher percentage of subjects in the RLAT treatment group (14.0%) than in the aripiprazole treatment group (1.1%) reported AEs potentially related to prolactin. AEs related to extrapyramidal symptoms were reported in 40.2 percent with RLAT and 34.7 percent with aripiprazole; glucose-related AEs were reported in 10.1 percent and 9.1 percent, respectively. The mean (SD) weight change was +2.6kg (5.8kg) for subjects in the RLAT group and +1.6kg (7.7kg) for subjects in the aripiprazole group. With the exception of prolactin levels, there were no notable differences between the RLAT and aripiprazole groups for mean change from baseline in other laboratory values (Table 4).
+
+## DISCUSSION
+The results of this two-year study in diverse patients with schizophrenia failed to show superiority for RLAT compared with aripiprazole in time to relapse and time in remission. Additionally, no new tolerability or safety issues were identified for either study drug. Because this study was designed to assess superiority, it did not allow for valid conclusions of equivalence or noninferiority, which would have required a larger sample size and a different statistical approach. Of note, previously published data suggest that the relapse risk in subjects with schizophrenia is approximately 3.5 percent per month, which, over a two-year study period, would be expected to yield a rate of relapse over 80 percent.3 In this study, 45.8 percent of subjects in the RLAT group and 43.6 percent of those in the aripiprazole group relapsed, which was markedly lower than expected in a real-world setting and consistent with studies demonstrating the role of antipsychotic treatment in delaying relapse.24–26 These results support the perception that factors inherent in the clinical trial process enhanced adherence.
+
+Several study design and conduct issues limit interpretation and generalizability of results. This study was designed to compare the long-term maintenance effect of RLAT with oral aripiprazole in a real-world setting where factors such as adherence are keys to overall treatment success. While the findings did not demonstrate superiority, there may be advantages for either treatment that were not identified by the design employed here. Some aspects of the design failed to represent the real-world environment that the primary hypothesis sought to address. For instance, nonadherence was not an inclusion criterion for this study. Further, the biweekly visit schedule does not reflect general clinical practice with oral antipsychotic treatment, where patients are usually not seen more often than once per month. The biweekly visits and regular assessments with numerous time-intensive scales increased interactions with treatment teams and may have enhanced nonspecific psychotherapeutic effects and increased adherence to oral treatment. This may have minimized any potential pharmacologic and efficacy differences that might have been seen in settings that better mimic real-world treatment conditions.
+
+This study also sought to demonstrate maintenance of effect in clinically stable subjects. However, 15 percent of randomized subjects deviated from inclusion/exclusion criteria, with lack of stability being the most common reason. Further, the design did not include a prospective stabilization phase for unstable participants or defined criteria for confirming stabilization after study entry. The improvement from baseline for the overall population demonstrates that many subjects were suboptimally treated prior to study inclusion. The inclusion of unstable or suboptimally treated subjects resulted in a two-tiered study sample: 1) stable subjects who could be followed for maintenance of stability and 2) unstable subjects who required both stabilization and maintenance of stabilization. This represents a significant change from the primary objective for which this study was designed (i.e., to demonstrate potential differences between RLAT and oral aripiprazole treatments to maintain efficacy in stable patients).
+
+To examine these limitations and study subpopulations that may benefit from long-acting therapy, exploratory analyses were performed in more stable, less symptomatic, and thus more homogenous subpopulations at baseline (data on file). Selection criteria consisted of surrogates of clinical stability, including PANSS scores, hospitalization status, use of additional antipsychotics, and early relapse. For many of these exploratory analyses, visual inspection showed separation of Kaplan-Meier curves approximately from Day 100 through Day 500, favoring long-acting injectable over oral treatment. However, in most cases the Kaplan-Meier curves converged by the two-year end point with an apparent floor for relapse of about 50 percent for both treatments. This convergence and the lack of a significant between-group difference in most analyses illustrate a common issue for long-term follow-up studies when the disease is not curable and most patients will eventually experience an event. In these cases, time to first relapse may not reveal meaningful treatment differences. Alternative approaches that capture comparative effectiveness over a two-year period for all patient types should be considered for future study designs.
+
+In summary, this study was designed to show superiority and attempted to mimic a real-world setting in stable patients with schizophrenia who could benefit from better adherence. Although the results do not demonstrate superiority for injectable RLAT compared with oral aripiprazole for time to relapse or time in remission, the study design did not allow for valid conclusions of equivalence or noninferiority. Features limiting interpretation relative to the study hypothesis include the diverse population, the lack of selection criteria for previous poor adherence, and the frequency and intensity of office visits. Researchers should consider these variables when designing future comparative studies of long-acting and oral treatments. No new safety or tolerability issues were identified for either drug.
+
+## ACKNOWLEDGMENTS
+The authors wish to acknowledge the members of the relapse monitoring board: Ravi Anand (Anand Pharma Consulting, Oberwil, Switzerland), Rohan Ganguli (UPMC Health System, Pittsburgh, Pennsylvania, USA), and Veronica Larach (Universidad Andes Bello, Santiago, Chile).
+
+The authors also wish to acknowledge the study investigators involved with this study: Michael Banov (Northwest Behavioral Research, Marietta, Georgia, USA), Vinay Barhale (Shanti Nursing Home, Aurangabad, India), Gerardo Garcia Bonetto (Clínica Privada Integral de Psiquiatría San Nicolás, Cordoba, Argentina), Jose Canive (New Mexico Veterans Affairs Healthcare System, Albuquerque, New Mexico, USA), Hongally Chandrashekar (Victoria Hospital, Bangalore, India), Ajay Chauhan (Hospital for Mental Health, Ahmedabad, India), Ricardo Corral (Instituto Argentino de Diagnostico y Tratamiento, Buenos Aires, Argentina), Dattatreya Dhavale (Poona Hospital & Research Centre, Pune, India), Roxana Galeno (Instituto Neurociencias, Mendoza, Argentina), Sergio Gloger (PsicoMedica, Clinical & Research Group, Santiago, Chile), Mahesh Gowda (Spandana Nursing Home, Bangalore, India), Amjad Hindi (Department of Psychiatry, SUNY, Schizophrenia Research Program, Brooklyn, New York, USA), Naveed Iqbal (Advanced Bio Behavioral Sciences, Elmsford, New York, USA), Richard Jackson (Neurobehavioral Medicine Group, Bloomfield Hills, Michigan, USA), Venu Gopal Jhanwar (Deva Mental Health Care, Varanasi, India), Richard Josiassen (Drexel University College of Medicine, Conshohocken, Pennsylvania, USA), Mary-Ann Knesevich (University Hills Clinical Research, Irving, Texas, USA), James Knutson (Eastside Therapeutic Research, Kirkland, Washington, USA), Krishnamurthy Kavirayani (Fr. Muller Medical College and Hospital, Mangalore, India), Jeffrey Lieberman (New York Psychiatric Institute, New York, New York, USA), Michael Levy (Behavioral Medical Research, Staten Island, New York, USA), David Linden (Linden Research Consultants, Oklahoma City, Oklahoma, USA), Jean-Pierre Lindenmayer (Manhattan Psychiatric Center, New York, New York, USA), Ranjive Mahajan (Dayanand Medical College & Hospital, Ludhiana, India), Ramesh Kumar Mahendru (Mahendru Psychiatric Centre, Kanpur, India), Azfar Malik (Psych Care Consultants Research, St. Louis, Missouri, USA), Rajeshkumar Maniar (Mamta Hospital and Research Center, Ahmedabad, India), Morteza Marandi (Comprehensive NeuroScience, Inc., Cerritos, California, USA), Alexander Miller (University of Texas Health Science Center at San Antonio, San Antonio, Texas, USA), Sunil Mittal (Cosmos Hospitals, Delhi Psychiatry Centre, Delhi, India), Carlos Morra (Sanatorio León Morra, Cordoba, Argentina), Rajesh Nagpal (Manobal Klinik, New Delhi, India), Keshava Pai (KMC Hospital Mangalore, Mangalore, India), Diana Perkins (University of North Carolina at Chapel Hill, Department of Psychiatry, Chapel Hill, North Carolina, USA), Sanjay Phadke (Hirabai Cowasji Jehangir Medical Research Institute, Pune, India), Graciela Rojas (Centro Médico Psicologico Phillips, Santiago, Chile), Jeff Ross (Comprehensive Neuroscience, Park Ridge, Illinois, USA), George Simpson (Los Angeles County USC Medical Center, Los Angeles, California, USA), Mary Stedman (Stedman Clinical Trials, Tampa, Florida, USA), Peter Weiden (University of Illinois at Chicago, Chicago, Illinois, USA).
+
+The authors also wish to acknowledge Anita Chadha-Patel, PhD, and ApotheCom (funding supported by Ortho-McNeil Janssen Scientific Affairs, LLC, Titusville, New Jersey) in the development and submission of this manuscript.
+
+---
+
+# Tables
+## Table 1: Demographics and baseline disease characteristics (ITT analysis set)
+| CHARACTERISTICS | RLAT (n=177) | ARIPIPRAZOLE (n=172) |
+| --- | --- | --- |
+| Sex, n (%) |  |  |
+| Male | 105 (59.3) | 105 (61.0) |
+| Female | 72 (40.7) | 67 (39.0) |
+| Race, n (%) |  |  |
+| Caucasian | 43 (24.3) | 31 (18.0) |
+| Black | 13 (7.3) | 26 (15.1) |
+| Hispanic | 24 (13.6) | 24 (14.0) |
+| Asian | 94 (53.1) | 90 (52.4) |
+| Other | 3 (1.7) | 1 (0.6) |
+| Age, mean±SD (range) | 38.1±11.5 (19–71) | 37.6±11.48 (19–72) |
+| PANSS total score, mean±SD | 68.6±14.5 | 69.1±14.8 |
+| Remission status,a n (%) |  |  |
+| Yes | 60 (34) | 55 (32) |
+| No | 117 (66) | 117 (68) |
+KEY: PANSS=Positive and Negative Syndrome Scale; RLAT=risperidone long-acting therapy; SD=standard deviation; ITT=intent-to-treat; aAs defined by PANSS criteria
+
+## Table 2: Relapse and remission (ITT analysis set)
+| Analysis | RLAT | ARIPIPRAZOLE |
+| --- | --- | --- |
+| Time to relapse, days |  |  |
+| n | 177 | 172 |
+| Subjects relapsed, n (%) | 81 (45.8) | 75 (43.6) |
+| 25% quartile (95% CI) a | 131.0 (100.0, 197.0) | 113.0 (99.0, 169.0) |
+| Median (95% CI) | NE (407.0, NE) | NE (365.0, NE) |
+| P value b | 0.684 |  |
+| Time in remission, days |  |  |
+| n | 176 | 172 |
+| Mean (SD) | 373.5 (282.6) | 356.7 (292.0) |
+| Median (range) | 380.3 (0-741) | 347.8 (0-735) |
+| P value c | 0.646 |  |
+KEY: CI=confidence interval; ITT=intent-to-treat; NE=not estimable; RLAT=risperidone long-acting therapy; SD=standard deviation; aBased on Kaplan-Meier product limit estimates; bLog-rank test stratified with pooled site; cBased on Wilcoxon Rank Sum test
+
+## Table 3: Adverse events >10% in either group (safety analysis set)
+| SYSTEM ORGAN CLASS / PREFERRED TERM | RLAT (N=179), n (%) | ARIPIPRAZOLE (N=176), n (%) |
+| --- | --- | --- |
+| Any treatment-emergent adverse events | 161 (89.9) | 152 (86.4) |
+| Psychiatric disorders |  |  |
+| Insomnia | 47 (26.3) | 51 (29.0) |
+| Psychotic disorder | 38 (21.2) | 36 (20.5) |
+| Anxiety | 32 (17.9) | 26 (14.8) |
+| Schizophrenia | 29 (16.2) | 28 (15.9) |
+| Depression | 24 (13.4) | 15 (8.5) |
+| Nervous system disorders |  |  |
+| Tremor | 39 (21.8) | 40 (22.7) |
+| Headache | 30 (16.8) | 27 (15.3) |
+| Dizziness | 25 (14.0) | 13 (7.4) |
+| Akathisia | 20 (11.2) | 20 (11.4) |
+| Gastrointestinal disorders |  |  |
+| Vomiting | 18 (10.1) | 14 (8.0) |
+| Diarrhea | 12 (6.7) | 19 (10.8) |
+| General disorders and administration site conditions |  |  |
+| Pyrexia | 26 (14.5) | 22 (12.5) |
+| Infections and infestations |  |  |
+| Nasopharyngitis | 18 (10.1) | 16 (9.1) |
+| Upper respiratory tract infection | 7 (3.9) | 18 (10.2) |
+| Metabolism and nutrition disorders |  |  |
+| Decreased appetite | 29 (16.2) | 16 (9.1) |
+KEY: RLAT=risperidone long-acting therapy
+
+## Table 4: Laboratory analyses of interest (safety analysis set)
+| Laboratory Parameter | RLAT | ARIPIPRAZOLE |
+| --- | --- | --- |
+| Prolactin, mIU/mL, mean±SD |  |  |
+| Screening (n=141) | 630.2±843.3 | 565.0±663.4 (n=142) |
+| Change from baseline to end point (n=110) | 200.2±726.8 | -491.0±724.0 (n=100) |
+| Nonfasting glucose, mmol/L, mean±SD |  |  |
+| Screening (n=174) | 5.4±1.8 | 5.3±1.3 (n=175) |
+| Change from baseline to end point (n=140) | 0.3±1.7 | -0.2±1.6 (n=112) |
+| Cholesterol, mmol/L, mean±SD |  |  |
+| Screening (n=179) | 4.8±1.1 | 4.7±1.1 (n=175) |
+| Change from baseline to end point (n=146) | -0.1±0.8 | -0.3±0.8 (n=127) |
+| Triglycerides, mmol/L, mean±SD |  |  |
+| Screening (n=179) | 1.8±1.1 | 1.7±1.1 (n=175) |
+| Change from baseline to end point (n=146) | 0.03±0.9 | -0.1±0.9 (n=127) |
+KEY: RLAT=risperidone long-acting therapy; SD=standard deviation
+
+---
+
+# Figure Descriptions
+## Figure 1: Study design
+The figure illustrates the study's structure, which includes a two-week screening period followed by a 104-week (two-year) treatment phase. Subjects were randomly assigned in a 1:1 ratio to one of two treatment groups: 1) Risperidone Long-Acting Therapy (RLAT) at a dose of 25–50mg administered every two weeks; 2) Oral aripiprazole at a dose of 10–30mg administered once daily. Key notes include: Oral supplementation with other psychiatric medications was permitted throughout the study; patients were allowed to stay in the study even after relapse or discontinuation of the study drug; subjects' previous antipsychotic medications were to be discontinued by the Week 4 visit (cross-titration period). Study visits occurred biweekly throughout the treatment phase. Abbreviation: RLAT=risperidone long-acting therapy.
+
+## Figure 2: Kaplan-Meier plot for time to relapse (ITT analysis set)
+The graph is a Kaplan-Meier survival curve comparing the time to relapse (in days) between the RLAT and aripiprazole groups. The x-axis represents "Days Since First Dosing" (ranging from 0 to 800 days), and the y-axis represents the proportion of subjects without relapse (ranging from 0.00 to 1.00). Two lines are displayed: a dashed line for the aripiprazole group and a solid line for the RLAT group. The log-rank test stratified by pooled site yielded a P value of 0.684, indicating no significant difference in time to relapse between the two groups. Abbreviations: RLAT=risperidone long-acting therapy; ITT=intent-to-treat.

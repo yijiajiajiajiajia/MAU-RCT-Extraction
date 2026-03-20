@@ -1,0 +1,88 @@
+### Text Content (before References)
+Psychopharmacology (1984) 82:153-156
+Psychopharmacology
+Springer-Verlag 1984
+
+Prophylactic effect of neuroleptics in symptom-free schizophrenics: A comparative dose-response study of haloperidol and propericiazine
+
+Tadashi Nishikawa 1, Akka Tsuda 1, Masatoshi Tanaka 1, Yoshio Hoaki 1, Itsuyuki Koga 2, and Yasunori Uehida 2
+1 Department of Pharmacology, Kurume University School of Medicine, Kurume 830 2 Seiwakai Nishikawa Hospital, Hamada 697, Japan
+
+Abstract. Remitted schizophrenic outpatients were treated in order to prevent relapse with three doses of haloperidol or propericiazine for 1 year in a double-blind controlled study employing a randomized design. The drug's ability to prevent relapse was evaluated by counting the number of symptom-free days for each patient before any sign of relapse or over-dose appeared. Patients were randomly assigned to the following drugs orally administered once per day at night: placebo; haloperidol 1 mg, 3 mg, and 6 mg; propericiazine 10 mg, 30 mg, and 60 mg. Serum prolactin levels in each patient were estimated by radioimmunoassay. All patients treated with placebo relapsed within 1 year and the relapse rate with placebo was significantly higher than with any dose of the two neuroleptics. Haloperidol increased the number of symptom-free days in a dose-dependent manner. Propericiazine at 10 mg and 30 mg also increased the number of symptom-free days dose-dependently but at 60 mg, the number decreased. It appears that propericiazine shows an inverted U-shaped dose-response curve. Prolactin levels were elevated dose-dependently by both drugs but failed to show a significant correlation with the number of symptom-free days. The present results indicate that haloperidol is superior to propericiazine from the viewpoint of the wider "therapeutic window" in maintenance treatment and antidopaminergic properties of neuroleptics, wherein it is important to prevent relapse even in remitted schizophrenics.
+
+Key words: Schizophrenics in remission - Prophylactic effect - Haloperidol - Propericiazine - Prolactin
+
+The efficacy of neuroleptics in the maintenance treatment of schizophrenics is now well established (Troshinsky et al. 1962; Engelhart et al. 1967; Left and Wing 1971; Hirsch et al. 1973; Cheung 1981; Kane et al. 1982; Nishikawa et al. 1982). However, few studies have investigated the type of or the dose of neuroleptics which can most effectively prevent relapse in remitted schizophrenics.
+
+Van Praag and Korf (1975) reported that the anti-catecholaminergic action profile of neuroleptics seemed to be more reliable than their chemical structures in predicting their clinical effects. Furthermore, several hypotheses suggest involvement of brain noradrenaline or dopamine neurons in the pathophysiology of schizophrenia (Stein and Wise 1971; Snyder et al. 1974; Klawans and Margolin 1975; Hartmann 1976; Crow et al. 1978). To clarify the pathophysiology of the schizophrenic process, the therapeutic effect of neuroleptics at every disease stage such as acute, chronic or even in the remission stage should be examined using the differences in their profile of biochemical effects.
+
+A previous study revealed that analysis of the number of symptom-free days in schizophrenic outpatients using a double-blind protocol is an efficient method for investigating the prophylactic effects of neuroleptics (Nishikawa et al. 1982). Using the previously established method, the present study was undertaken to determine which doses of two commonly used neuroleptics, haloperidol and propericiazine, with different biochemical action profiles (Andén et al. 1970), are the best choice to prevent relapse in remitted schizophrenics.
+
+Materials and methods
+Eighty-seven schizophrenic outpatients who satisfied the diagnostic criteria of DMS-III (American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders, Third Edition) for the recovery stage of remission or residual phase and who had reported regularly to the Seiwakai Nishikawa Hospital (Uchida et al. 1983), were selected as subjects for this study. Daily doses of haloperidol 1, 3, 6 mg and propericiazine 10, 30, 60 mg, and placebo were prepared. Each drug was combined with nitrazepam 10 mg and biperidine 6 mg to prevent insomnia and drug-induced parkinsonism, respectively. Drug appearance, with respect to powder color, taste and volume, was made identical by adding a gastric aid, SMP (Sankyo, Japan). Drugs were administered orally once per day at night. Each patient was randomly assigned to one of these drug treatments in a double-blind design. The assigned drug was administered until relapse signs or adverse effects appeared. The number of symptom-free days for each patient was recorded and the trial was terminated after 1 year. Other psychotropic medications were not permitted during the trial. All patients visited the hospital and received ordinary, brief psychotherapy every 2 weeks by a psychiatrist. Patients were asked about their daily drug consumption. If this inquiry revealed that a patient took drugs irregularly, then the case was excluded from the trial (drop-out).
+
+Blood sampling was performed on each patient within 1 month after the onset of the trial between 09.00-12.00 hours. Serum prolactin level was estimated by radioimmunoassay with the double antibody technique, using a Prolactin Radioimmunoassay Kit (Daiichi Radioisotope Laboratories, Ltd.).
+
+Analysis of variance was employed to compare the number of symptom-free days and prolactin levels for patients from different drug treatments. Subsequent Tukey tests were performed for post-hoc multiple comparisons.
+
+Results
+Table 1 shows that the various dose groups were virtually identical with respect to the number, sex and age of the subjects, years after onset of the disease and the number of hospital admissions.
+
+A summary of the outcomes of the drug trial is shown in Table 2. Among the entire group of 87 patients, 19 patients continued to receive the assigned drugs since they were in remission during the entire year of the trial, while other patients discontinued use of the assigned drugs due to over-dose (N=16), relapse (N=48) and drop-out (N=4). The signs of over-dose revealed were general malaise, hypersomnia, dysarthria and ataxia, or vagueness in day time. The relapse symptoms observed during the study included difficulty in sleeping, feelings of tension and nervousness, hyperkinesia, psychomotor excitement, hallucination and delusion, or bizarre behaviors. Among 64 patients who discontinued the assigned drug due to either over-dose or relapse, 28 patients requested a change in the assigned drug which was done. The other patients (N=36) had their assigned drug changed as a result of a psychiatric examination. The relapse rate with placebo was significantly higher than that with any dose of the neuroleptics. Propericiazine tended to show the signs of over-dose rather than haloperidol.
+
+Analysis of variance performed upon drug effect on the number of symptom-free days showed a significant drug treatment effect [F(1,68)=3.18, P<0.05], and interaction effect between drug treatment and dose [F(2,68)=3.25, P<0.05]. As shown in Fig. 1, the mean values of number of symptom-free days with haloperidol and propericiazine showed about the same relationship as the median values, and the number of symptom-free days were increased by haloperidol in a dose-dependent manner; this dose-related effect was significant [F(3,46)=3.86, P<0.05]. Propericiazine increased symptom-free days at doses from 10 mg to 30 mg but at 60 mg the number was decreased to placebo levels, i.e. an inverted U-shaped dose-response curve (second-order curvilinear relationship, P<0.1; marginal level of statistical significance).
+
+Prolactin levels were elevated by haloperidol and by propericiazine administration dose-dependently, as shown in Fig. 2. A significant dose effect on the overall data [F(2,66)=16.98, P<0.01], for haloperidol [F(3,45)=3.97, P<0.05] and for propericiazine [F(3,44)=14.04, P<0.01] was obtained. However, there was no significant correlation between prolactin levels and number of symptom-free days in either the haloperidol or the propericiazine treatment group.
+
+Discussion
+The present data revealed that the relapse rate with placebo was significantly higher than that with various doses of the two neuroleptics employed in this study. All patients treated with placebo relapsed within 1 year. This finding is consistent with our previous findings in which all the cases treated with placebo and daily doses of diazepam 15 mg or imipramine 50 mg relapsed within 1 year (Nishikawa et al. 1982). In contrast with our findings, Davis (1975) reviewed 24 controlled studies of maintenance antipsychotic drug administration and reported that approximately 65% of patients who received placebos relapsed. Although it is uncertain yet what types of schizophrenic disorder can be active without neuroleptics, he also suggest that the schizophrenic process may "burn out" in some very chronically ill patients. Considering these findings, we suppose that prophylactic effect of neuroleptics might eliminate completely before 1 year, and that patients who do not relapse within 1 year without any neuroleptics might be considered fully remitted. The present study further demonstrated that a very low dose of neuroleptics such as haloperidol 1 mg or propericiazine 10 mg has a prophylactic effect on some schizophrenic patients in remission.
+
+In general, haloperidol seems to be superior to propericiazine for preventing relapse in schizophrenic patients in remission and 6 mg of haloperidol is suggested as the most effective dose in this study. Although symptom-free days were increased by haloperidol in a dose-dependent manner, propericiazine increased them from 10 mg to 30 mg but at 60 mg decreased the number, showing an inverted U-shaped dose-response curve. Davis et al. (1978) noted that the plasma drug level - clinical response curve would be essentially a sigmoid dose-response curve. However, when plasma drug levels are markedly elevated, the resulting detrimental side effects may outweigh the beneficial therapeutic effects. In this case, combining the therapeutic and the adverse effects curves additively results in an inverted U-shaped curve. Taken their findings into consideration, propericiazine might not have a weaker prophylactic effect but rather a stronger adverse effect, as shown in Table 2. If higher doses of haloperidol had been tested in this study, a similar inverted U-shaped curve could be obtained. However, the curve with haloperidol would be greater than that with propericiazine. Haloperidol might be superior to propericiazine from the viewpoint of having a wider "therapeutic window" (Davis et al. 1978) in the maintenance treatment of remitted schizophrenics.
+
+What is the reason by which such differences between the two neuroleptics are produced? Biochemical and behavioral studies (Andén et al. 1970; van Praag and Korf 1975; Kuribara and Tadokoro 1981), indicate that haloperidol possesses a more potent blocking effect on dopaminergic neurons than on noradrenergic neurons, while propericiazine, a piperidine derivative of phenothiazine, has the reverse blocking pattern. A stronger effect of propericiazine on blocking noradrenergic neurons might lead to such adverse effects when higher doses of the drug were administered.
+
+Serum prolactin levels are reported to be a good index of the blocking action of central dopaminergic neurons (Meltzer et al. 1981). In this study, prolactin level increased dose-dependently with both haloperidol and propericiazine. However, low doses of these drugs failed to significantly affect prolactin level. Moreover, there were no significant correlations between prolactin level and symptom-free days for any of the drug treatment groups. Prophylactic drug effects of neuroleptics acting via monoaminergic neurons are supposed to be more sensitive index than elevation of prolactin levels.
+
+Based upon the present study, we suggest that the antidopaminergic property of neuroleptics is important rather than antinoradrenergic property in preventing relapse even in remitted schizophrenics. However, further study will be needed to confirm the hypothesis using more specific blockers of dopaminergic and/or noradrenergic neurons.
+
+Acknowledgements. We wish to thank Dr. Gary B. Glavin, Department of Psychology, The University of Winnipeg, Canada for help in the preparation of this manuscript.
+
+### Tables (Table 1 and Table 2)
+Table 1. Background of subjects
+Drugs    Dose (mg)    Number    Male    Female    Age (mean ± SD)    Years after onset of the disease (mean ± SD)    Number of hospitalization (mean ± SD)
+Placebo    -    13    9    4    38.8 ± 10.0    4.9 ± 3.4    3.8 ± 2.4
+Haloperidol    1    13    10    3    40.0 ± 9.9    7.2 ± 6.1    3.5 ± 1.9
+Haloperidol    3    12    8    4    36.3 ± 8.8    8.4 ± 7.7    4.3 ± 4.5
+Haloperidol    6    12    7    5    42.8 ± (missing SD)    10.5 ± 8.0    2.7 ± 1.7
+Propericiazine    10    13    6    7    36.2 ± 7.0    8.8 ± 6.4    4.2 ± 2.4
+Propericiazine    30    12    6    6    41.8 ± (missing SD)    8.5 ± 4.9    4.4 ± 2.4
+Propericiazine    60    12    7    5    40.3 ± 12.3    9.5 ± 6.6    3.8 ± 3.0
+
+Table 2. Summary of outcomes after the trial
+Drugs    Dose (mg)    Subjects in remission    Subjects who discontinued assigned drugs - Over-dose    Subjects who discontinued assigned drugs - Relapse    Subjects who discontinued assigned drugs - Drop-out    Total
+Placebo    -    0    0    13 (7)    0    13
+Haloperidol    1    3    0    9* (2)    1    13
+Haloperidol    3    2    1 (1)    7* (3)    2    12
+Haloperidol    6    6*    1 (1)    5* (3)    0    12
+Propericiazine    10    2    2    8* (1)    1    13
+Propericiazine    30    5*    3 (2)    4* (1)    0    12
+Propericiazine    60    1    9* (7)    2*    0    12
+Number of subjects    -    19    16    48    4    87
+Note: Number in parentheses shows number of subjects who had strong request to change the assigned drug. Significant differences from placebo treatment: * P<0.05 (Fisher's exact probability test)
+
+### Image Descriptions
+Figure 1: Prophylactic effect of haloperidol or propericiazine on number of symptom-free days in remitted schizophrenic patients.
+- X-axis: Dose (mg) (log scale); for haloperidol, doses are 1, 3, 6 mg; for propericiazine, doses are 10, 30, 60 mg.
+- Y-axis: Number of symptom-free days.
+- Data points: Represented as mean (open circles) ± SEM and median (closed circles).
+- Haloperidol: Shows a dose-dependent increase in the number of symptom-free days. The best-fit line (least squares method) has the equation Y=337.6X + 54.7, with a correlation coefficient r=0.45 (P<0.01).
+- Propericiazine: Shows an inverted U-shaped dose-response curve (second-order curvilinear relationship, P<0.1). The number of symptom-free days increases from 10 mg to 30 mg but decreases to placebo levels at 60 mg. The best-fit curve equation is Y=-0.14X² + 8.3X + 57.2, with a correlation coefficient r=0.39 (P<0.1).
+- Statistical significance: * P<0.05 compared with placebo.
+
+Figure 2: Effect of haloperidol or propericiazine on prolactin levels in each patient.
+- X-axis: Dose (mg) (log scale); for haloperidol, doses are 1, 3, 6 mg; for propericiazine, doses are 10, 30, 60 mg.
+- Y-axis: Serum prolactin levels.
+- Data points: Represented as mean ± SEM.
+- Haloperidol: Shows a dose-dependent elevation in prolactin levels. The best-fit line (least squares method) has the equation Y=13.3X + 5.4, with a correlation coefficient r=0.66 (P<0.01).
+- Propericiazine: Also shows a dose-dependent elevation in prolactin levels. The best-fit line equation is Y=21.3X - 16.7, with a correlation coefficient r=0.46 (P<0.01).
+- Statistical significance: * P<0.05 compared with placebo.

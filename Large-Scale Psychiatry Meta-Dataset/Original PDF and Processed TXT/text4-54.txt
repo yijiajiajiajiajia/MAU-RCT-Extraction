@@ -1,0 +1,203 @@
+# Text before References
+BRITISH JOURNAL OF PSYCHIATRY (1998). 172. 499-505
+Oral olanzapine versus oral haloperidol in the maintenance treatment of schizophrenia and related psychoses
+P.V.TRAN, M. A. DELLVA. G. D.TOLLEFSON, A. L. WENTLEY and C. M. BEASLEY, Jr
+
+Background
+Three studies compared olanzapine and haloperidol given orally in maintenance therapy for schizophrenia and related psychoses.
+
+Method
+Data were from double-blind extensions of acute studies. The subjects met criteria for schizophrenia, schizophreniform disorder or schizoaffective disorder. Subjects had responded to acute therapy (Brief Psychiatric Rating Scale total score decreased ≥40% from baseline (Studies 1,2, and 3) or was < 18 (Studies I and 2)) and were out-patients at their last acute phase visit. Relapse was defined as hospitalisation for psychopathology. Subjects treated with olanzapine in the three studies were pooled to form the olanzapine group and subjects treated with haloperidol were pooled to form the haloperidol group.
+
+Results
+Olanzapine-treated subjects experienced less relapse (P=0.034). The Kaplan-Meier estimated one-year risk of relapse was 19.7% with olanzapine and 28% with haloperidol.
+
+Conclusion
+Olanzapine was superior to haloperidol in the maintenance therapy of schizophrenia and related psychoses.
+
+Declaration of interest
+This work was sponsored by Eli Lilly and Company.
+
+Olanzapine, a thienobenzodiazepine antipsychotic, has exhibited greater efficacy compared with placebo against overall psychopathology, positive psychotic symptoms and negative symptoms in two well-controlled studies (Beasley et al, 1996a,6). Compared with haloperidol, olanzapine has demonstrated greater overall efficacy in one study (Tollefson et al, 1997) and greater negative symptom efficacy in two studies (Beasley et al, 19966; Tollefson et al, 1997). The importance of maintenance therapy for schizophrenia has been well documented (Davis et al, 1993; Gilbert et al, 1995). Therefore, it is important to determine the efficacy of olanzapine in maintenance therapy. We have reported (Dellva et al, 1997) that olanzapine (5-20 mg/day) is more effective than placebo or low-dose olanzapine (1 mg/day) in maintenance treatment. In the present study we report the results of the maintenance phases of three studies comparing olanzapine with haloperidol in treating schizophrenia and related psychoses.
+
+METHODS AND SUBJECTS
+Study designs
+The results are from the double-blind maintenance phases of three studies. The first was the North American Double-Blind Olanzapine Trial (Study 1) which compared the efficacy of three dose ranges of olanzapine (5±2.5 mg/day, 10±2.5 mg/day, 15±2.5 mg/day) with placebo and one dose range of haloperidol (15±5.0 mg/day) in the treatment of schizophrenia (Beasley et al, 19966).
+
+To be eligible for the maintenance phase of Study 1, subjects had to have responded to acute phase therapy (Brief Psychiatric Rating Scale (BPRS; Overall & Gorham, 1962) total score decreased ≥40% from baseline or was ≤18). Subjects included in these analyses had been out-patients during their last acute phase.
+
+Sixty-eight subjects entered the 46-week maintenance phase of Study 1 and were eligible for analysis. Of these, 45 continued on olanzapine and 10 continued on haloperidol. Subjects were evaluated every two weeks during the maintenance phase of Study 1.
+
+The second study was the International Double-Blind Olanzapine Trial (Study 2) which compared treatments identical to those in Study 1 except that a low dose of olanzapine (1 mg/day) replaced placebo (Beasley et al, 1997).
+
+Subjects had to meet the same criteria as in Study 1 in order to be eligible for the maintenance phase and inclusion in the analysis of Study 2. Seventy-six subjects entered the 46-week maintenance phase of Study 2 and were eligible for analysis. Of these, 48 continued on standard-dose olanzapine and 14 continued on haloperidol. Subjects were evaluated every two weeks during the maintenance phase of Study 2.
+
+The third study was the International Collaborative Double-Blind Olanzapine Trial (Study 3), which compared olanzapine (5-20 mg/day) with haloperidol (5-20 mg/day) in the treatment of schizophrenia, schizophreniform disorder and schizoaffective disorder (Tollefson et al, 1997). The randomisation ratio was 2:1 to olanzapine v. haloperidol.
+
+Subjects had to meet the same criteria as in Studies 1 and 2 in order to be eligible for the maintenance phase and inclusion in this analysis of Study 3. A total of 690 subjects entered the maintenance phase of Study 3 and were eligible for analysis. Of these, 534 continued on olanzapine and 156 continued on haloperidol. Subjects were evaluated every four weeks during the maintenance phase of Study 3.
+
+Subjects had varying durations of treatment for completion because the data cut-off for analysis was a date rather than a specific visit. All subjects entering the maintenance phases of Studies 1 and 2 had the opportunity to complete one year of double-blind therapy. At the cut-off date for data collection in Study 3, the subjects who were continuing treatment had all completed between 22 and 84 weeks of double-blind therapy. In Studies 1 and 2, investigators could adjust olanzapine dose upward or downward within the assigned narrow dose range (5 mg) as clinically indicated. The dose of haloperidol could be adjusted within the somewhat broader haloperidol dose range (10 mg). In Study 3, the dose of each drug could be titrated up 5 mg per visit (up to a maximum of 20 mg/day) as needed, or decreased to a minimum of 5 mg/day at any time.
+
+Statistical methods
+All analyses were carried out on an intent-to-treat basis; all subjects were included in the groups to which they were randomly assigned, even when the subjects did not strictly adhere to the protocol. All available data were included in the analysis for all subjects up to and including data collected at discontinuation for any reason including non-compliance. SAS procedures were used to perform all statistical analyses (SAS Institute Inc, 1990). For all analyses, main effects were tested at a two-sided α level of 0.05.
+
+Baseline subject and illness characteristics were summarised for each treatment group. Frequencies were analysed using Pearson's χ² test. Means were analysed using an analysis of variance (ANOVA) with the term for treatment included in the model. Subject disposition, including reasons for discontinuation and relapse, were compared between treatment groups using Pearson's χ² test. Baseline severity of illness measured by the BPRS total score was compared between treatment groups using the ANOVA model including the terms treatment and investigator (Study 1); treatment and geographic region (Studies 2 and 3); or treatment, study and interaction (pooled Studies 1-3).
+
+The modal maintenance dose of medication for each subject was calculated as the dose that the subject received for the most number of days.
+
+Kaplan-Meier survival analysis, in which subjects contribute data as long as they participate in the study, even if they discontinue early for reasons other than relapse, was used to estimate the risk of relapse during one year of maintenance therapy. Relapse was defined as hospitalisation for psychopathology. In each of the analyses, all olanzapine dose groups were pooled, except for the 1 mg/day dose group in Study 2, since this was considered an ineffective acute therapy dose.
+
+Kaplan-Meier survival curves for time to relapse were compared between treatment groups. In computing the survival curves, subjects who discontinued from the study for a reason other than relapse were included in the analyses as right-censored observations (i.e. subjects discontinuing early contributed data up to discontinuation but not after discontinuation). The risk of relapsing by 365 days (one year of double-blind therapy) was estimated from the Kaplan-Meier curves. Comparisons of the survival curves were performed using the log-rank test.
+
+Life-table analysis of the pooled studies evaluated the percentage of subjects who relapsed during the double-blind extension through one year of treatment. The percentages of subjects hospitalised at each week of observation from among those remaining in the study at that week were computed. A Mantel-Haenszel χ² test was used to compare the survival patterns of olanzapine with haloperidol.
+
+RESULTS
+Study 1
+Subject and illness characteristics
+There were no significant differences between subjects enrolled in the olanzapine and haloperidol treatment groups in terms of gender, ethnic background, age or illness characteristics.
+
+Kaplan-Meier survival analysis
+The mean modal maintenance dose (s.d.) for subjects treated with olanzapine and haloperidol was 12.1 (4.9) mg/day and 14.0 (3.9) mg/day, respectively.
+
+Kaplan-Meier survival analysis at time to relapse for the olanzapine treatment group v. the haloperidol treatment group revealed no statistically significant difference (log-rank χ²=0.17, d.f.=1, P=0.677). The estimated one-year risk of relapse for the two groups was 28.6% for olanzapine and 28.6% for haloperidol.
+
+Subject disposition
+Of the olanzapine-treated subjects, 17 (38%) completed the maintenance phase without relapse, 10 (22%) relapsed, and 18 (40%) discontinued for other reasons. Two (20%) of the haloperidol-treated subjects completed the maintenance phase without relapse, two (20%) relapsed, and six (60%) discontinued for other reasons. There was no statistically significant difference in the incidence of relapse between the two groups.
+
+Study 2
+Subject and illness characteristics
+There were no significant differences between subjects in the olanzapine treatment group and the haloperidol treatment group in terms of gender, ethnic background, age or illness characteristics.
+
+Kaplan-Meier survival analysis
+The mean modal maintenance dose (s.d.) for subjects treated with olanzapine and haloperidol was 11.5 (4.4) mg/day and 16.4 (4.1) mg/day, respectively.
+
+Kaplan-Meier survival analysis at time to relapse for the olanzapine group v. the haloperidol group revealed no statistically significant difference (log-rank χ²=1.12, d.f.=1, P=0.291). The estimated one-year risk of relapse for the two groups was 19.6% for olanzapine and 33.5% for haloperidol.
+
+Patient disposition
+Of the subjects treated with olanzapine, 16 (33%) completed the maintenance phase without relapse, six (13%) relapsed, and 26 (54%) discontinued for other reasons. Of the subjects treated with haloperidol, four (29%) completed the maintenance phase without relapse, three (21%) relapsed, and seven (50%) discontinued for other reasons. There was not a statistically significant difference in the incidence of relapse between the two groups.
+
+Study 3
+Subject and illness characteristics
+There were no significant differences between subjects enrolled in the olanzapine treatment group and the haloperidol treatment group in terms of gender, ethnic background or age. However, the subjects in the haloperidol group were younger at age of onset of psychosis. All other illness characteristics were similar among the two groups of subjects.
+
+Kaplan-Meier survival analysis
+The mean modal maintenance dose (s.d.) for subjects treated with olanzapine and haloperidol was 13.9 (5.8) mg/day and 13.2 (5.6) mg/day, respectively.
+
+Kaplan-Meier survival analysis at time to relapse for the olanzapine group v. the haloperidol group revealed a statistically significant difference (log-rank χ²=3.93, d.f.=1, P=0.047). The estimated one-year risk of relapse for the two groups was 19.2% for olanzapine and 27.9% for haloperidol.
+
+Pooled study data
+Subject and illness characteristics
+There were no significant differences between the subjects in the olanzapine treatment group and those in the haloperidol treatment group in terms of gender, ethnic background or age. The subjects in the haloperidol group were younger at age of onset of psychosis than those in the olanzapine group. All other illness characteristics were similar among the two groups of subjects (see Table 1).
+
+Kaplan-Meier survival analysis
+The mean modal maintenance dose (s.d.) for subjects in the olanzapine treatment group and the haloperidol treatment group was 13.6 (5.7) mg/day and 13.5 (5.5) mg/day, respectively.
+
+Figure 1 illustrates the Kaplan-Meier survival curves depicting time to relapse for the olanzapine group v. the haloperidol group. Comparing the two curves over their entirety, a statistically significant difference was observed (log-rank χ²=4.48, d.f.=1, P=0.034). The estimated one-year risk of relapse for the two groups was 19.7% for olanzapine and 28% for haloperidol.
+
+Life-table analysis
+Figure 2 illustrates a life-table summary of the percentage of subjects who had relapsed for each two-week interval. The weeks, along the horizontal axis, are the time points at which the subjects were assessed for relapse (during the time interval from the preceding time point to the current time point). The percentages, along the vertical axis, reflect the percentage of subjects relapsing during a given time interval among the subjects continuing in the study during that time interval. Fewer relapses were observed among olanzapine-treated subjects than haloperidol-treated. There was a statistically significant difference between the survival patterns favouring olanzapine (Mantel-Haenszel χ²=4.34, d.f.=1, P=0.037).
+
+Patient disposition
+Table 2 lists the disposition of the olanzapine-treated and haloperidol-treated subjects. Of the subjects treated with olanzapine, 316 (50%) completed the maintenance phase without relapse, 87 (14%) relapsed, and 224 (36%) discontinued for other reasons. Of the subjects treated with haloperidol, 76 (42%) completed the maintenance phase without relapse, 34 (19%) relapsed and 70 (39%) discontinued for other reasons. There was not a statistically significant difference in the incidence of relapse between the groups.
+
+DISCUSSION
+The results of these three olanzapine studies are consistent in regard to the estimated one-year risk of relapse. Study 1 found an estimated one-year risk of 28.6% in subjects treated with olanzapine compared with 28.6% for haloperidol-treated subjects (log-rank χ²=0.17, d.f.=1, P=0.677). In Study 2, subjects treated with olanzapine had an estimated one-year relapse risk of 19.6% compared with 33.5% in subjects treated with haloperidol (log-rank χ²=1.12, d.f.=1, P=0.291). Subjects treated with olanzapine in Study 3 had an estimated one-year relapse risk of 19.2% compared with 27.9% in subjects treated with haloperidol (log-rank χ²=3.93, d.f.=1, P=0.047). The estimated one-year relapse risk for subjects in the pooled olanzapine treatment group was 19.7% compared with 28% for subjects in the pooled haloperidol group (log-rank χ²=4.48, d.f.=1, P=0.034). Haloperidol-treated subjects were estimated to relapse over the course of one year at a rate (28%), 44% greater than the estimated rate (19.7%) for olanzapine-treated subjects.
+
+The absolute relapse incidences, 14% for olanzapine and 19% for haloperidol, did not differ statistically significantly, in contrast to the difference in Kaplan-Meier survival and life-table analysis. Both latter analyses consider time to relapse in addition to relapse occurrence. Fewer relapses occurred, and when they did occur, generally occurred later with olanzapine.
+
+Maintenance study design features
+There are difficulties in comparing the results of studies of maintenance therapy for schizophrenia, even when the studies employ the same antipsychotic agent and route of administration. Notable differences in study methodology that make comparisons of results difficult include the potential for adjustments of study treatment; allowance of concomitant medications; subject selection methods, especially the length of time subjects had been stable on standard medication prior to study entry; and varying definitions of relapse. Definition of relapse is extremely important in that some studies have permitted dose increases to treat worsening of symptoms without declaring a relapse, while others have not. Such methodological processes have been different across recent studies of maintenance antipsychotic efficacy (Goldstein et al, 1978; Kane, 1983; Marder et al, 1984,1987; Crow et al, 1986; Johnson et al, 1987; Hogarty et al, 1988; Jolley et al, 1989; Carpenter et al, 1990; Herz et al, 1991; Pietzcker et al, 1993).
+
+With the exception of the study by Goldstein et al (1978), the maintenance studies noted above were two-phase re-randomisation studies. In the first phase of the studies, all the subjects were determined to be stable on standard-dose therapy. These subjects were then randomised to receive lower dose therapy (in some, intermittent therapy) or to continue on standard therapy. In such studies, Greenhouse and colleagues (Greenhouse & Meyer, 1991; Greenhouse et al, 1991) have noted that design bias favours subjects who have not been switched to the alternative therapy. Subjects treated during the experimental maintenance phase with the treatment to which they had responded and on which they had demonstrated stability without relapse would be expected to show fewer relapses than the subjects who had switched treatments.
+
+The olanzapine studies were not two-phase re-randomisation studies. Instead, subject assignment to treatment groups was fixed at the outset of acute treatment. The only study that has used a comparable design is the Goldstein et al (1978) study. The design used in the maintenance phases of the olanzapine studies is comparable to that advocated by Greenhouse and colleagues (Greenhouse & Meyer, 1991; Greenhouse et al, 1991). Greenhouse and colleagues have suggested that a maintenance study design that does not re-randomise treatment following acute response avoids the bias inherent in re-randomisation designs noted above. Additionally, the design suggested by Greenhouse and employed in the Goldstein et al (1978) study and the olanzapine studies is consistent with clinical practice in which subjects are continued on therapy as long as response is maintained.
+
+Although continuation of the acute treatment rather than re-randomisation may have design advantages as described above, it may lead to a difference in outcomes between treatments if one is better tolerated. In acute treatment (Beasley et al, 1996, 1997; Tollefson et al, 1997), olanzapine was associated with less adverse events and discontinuations than haloperidol and in the maintenance phase a slightly higher percentage of haloperidol-treated subjects discontinued because of adverse events. A difference in tolerability may have contributed to the subjects on olanzapine remaining in the study longer and having a lower rate of covert non-compliance. Both of these factors could have contributed to the more favourable outcomes for olanzapine by both Kaplan-Meier survival analysis and life-table analysis.
+
+Another difference between these olanzapine studies and the majority of other maintenance studies (the exception being the Goldstein et al (1978) study), is that in the olanzapine studies, subjects entered the maintenance phase with minimal stabilisation. Implications for this shorter duration of stability among study subjects include an expectation of increased relapse incidences for all treatment groups. Goldstein et al (1978) focused on the first six weeks following discharge, noting that a previous study found that 45% of subjects were re-admitted during the first six months of discharge, and that 31% of those re-admissions occurred within the first three to four weeks post-discharge. In subjects who had not been stabilised for a substantial length of time, it would also be expected to see a higher discontinuation rate than in stable subjects who had demonstrated compliance with therapy prior to selection for study participation.
+
+Of the 10 studies represented by the 11 reports (Goldstein et al, 1978; Kane, 1983; Marder et al, 1984, 1987; Crow et al, 1986; Johnson et al, 1987; Hogarty et al, 1988; Jolley et al, 1989; Carpenter et al, 1990; Herz et al, 1991; Pietzcker et al, 1993), five analysed multiple definitions of treatment failure based on severity. Of these five studies, hospitalisation was incorporated into one or more of the analysed treatment failure definitions in four (Marder et al, 1984, 1987; Jolley et al, 1989; Herz et al, 1991; Pietzcker et al, 1993) and Hogarty et al (1988) reported on hospitalisation. Of the remaining five studies, with a single definition of treatment failure, hospitalisation was incorporated into the definition in two (Goldstein et al, 1978; Carpenter et al, 1990). Therefore, the single definition of relapse used here is comparable to the most consistently applied definition in recent maintenance studies. When multiple definitions have been analysed, relapse incidence, based on hospitalisations, has been lower than when based on just symptom exacerbation.
+
+In the majority of recent studies of maintenance therapy for schizophrenia, depot formulations of antipsychotic medication were used to eliminate non-compliance as a possible reason for treatment failure. The olanzapine studies used oral medication. Since oral therapy cannot ensure compliance, risk of relapse may have been increased for both treatments in these olanzapine studies. Additionally, the range of haloperidol dosing, 5-20 mg/day, may be considered restricted by some practitioners. Although, the design of the studies was such that all subjects could receive a maintenance dose of medication at least as high as their effective acute treatment doses, these results might not be generalisable to situations where a broader range of either drug would be used for acute and then maintenance treatment.
+
+In the olanzapine studies, all subjects were seen more frequently (every two weeks) than in the majority of the other studies discussed here. More frequent observation provided investigators with a greater opportunity to observe the subjects' symptoms and detect clinical changes that might not have come to their attention otherwise. This increased frequency of observation had the potential to increase observed relapse rates as a result of increased sensitivity to detection of clinical deterioration. Alternatively, this increased frequency of clinical contact may have delivered an element of supportive psychotherapy which would have served to reduce the risk of relapse.
+
+Discontinuations from maintenance studies
+An aspect of these study results that might be considered to limit their generalisability is the apparently high rates of discontinuation for non-definitive reasons (reasons other than relapse or completion without relapse). As noted above, a factor likely to have contributed to this rate is that subjects made an immediate transition from acute response to the maintenance phase during which relapse was counted, rather than having to demonstrate a period of stability before entering maintenance observation. Despite this, the discontinuation rates for the olanzapine studies are not substantially dissimilar from those of other studies. Kane (1983) reported a 47% discontinuation rate at one year; Marder et al (1987) reported 19% at one year; and Hogarty (1991) reported 24% at two years (rates for standard-dose treatments). The rates in the olanzapine studies were 40% in Study 1, 54% in Study 2, 34% in Study 3, and 36% for the pooled olanzapine treatment groups of the three studies. It must be recalled that these rates included subjects (11, 10, 8 and 9%, respectively) who were discontinued because they could not receive additional medication within the studies.
+
+Concluding remarks
+The results of these analyses of maintenance therapy with olanzapine in subjects with schizophrenia or related psychoses show that oral olanzapine is superior to oral haloperidol in preventing relapse within the context of these studies with their design features. Less covert non-compliance with olanzapine compared to haloperidol might explain this finding. Despite differences in study methodology (e.g. selection of subjects, definitions of relapse), relapse incidences in the olanzapine studies are consistent with and compare favourably to those seen in other maintenance studies that employed standard-dose therapy. When differences in study methodology are taken into consideration, discontinuation rates in the olanzapine studies also compare favourably with those seen in other studies employing standard-dose therapy.
+
+PIERRE V. TRAN, MD. MARYANNE DELLVA. MS. GARY D. TOLLEFSON. PhD, ANITA L. WENTLEY, BA, CHARLES M. BEASLEY Jr. MD, Lilly Research Laboratories, Lilly Corporate Center, Indianapolis. Indiana. USA
+
+Correspondence: Dr Pierre V. Tran. Lilly Research Laboratories. Eli Lilly and Company, Lilly Corporate Center, Drop Code 0538, Indianapolis. IN 46285. Tel: 317-276-4491. Fax: 317-277-7839
+
+(First received 21 July 1997, final revision 2 February 1998, accepted 3 February 1998)
+
+# Tables
+## Table 1 Subject and illness characteristics for the pooled studies (1, 2 and 3), double-blind extension phases
+Variable | Olanzapine (n=627) | Haloperidol (n=180) | Test statistic | Degrees of freedom | P
+--- | --- | --- | --- | --- | ---
+Gender, n (%) | | | χ²=0.35 | 1 | 0.554
+Male | 403 (64.3) | 120 (66.7) | | |
+Female | 224 (35.7) | 60 (33.3) | | |
+Ethnic origin, n (%) | | | χ²=1.75 | 5 | 0.882
+Caucasian | 498 (79.4) | 144 (80.0) | | |
+African descent | 70 (11.2) | 19 (10.6) | | |
+East/south-east Asian | 8 (1.3) | 2 (1.1) | | |
+Western Asian | 5 (0.8) | 0 | | |
+Hispanic | 29 (4.6) | 9 (5.0) | | |
+Other origin | 17 (2.7) | 6 (3.3) | | |
+Age, years | Mean (s.d.) 37.7 (10.8) | Mean (s.d.) 37.1 (11.3) | F=0.40 | 1,805 | 0.741
+Schizophrenia subtype | | | χ²=8.46 | 6 | 0.206
+Catatonic | 5 (0.8) | 3 (1.7) | | |
+Disorganised | 32 (5.1) | 18 (10.0) | | |
+Paranoid | 334 (53.3) | 91 (50.6) | | |
+Undifferentiated | 141 (22.5) | 41 (22.8) | | |
+Residual | 30 (4.8) | 7 (3.9) | | |
+Schizophreniform | 11 (1.8) | 1 (0.6) | | |
+Schizoaffective | 74 (11.8) | 19 (10.6) | | |
+Schizophrenia course¹ | n=542 | n=160 | χ²=2.73 | 5 | 0.741
+Unspecified | 7 (1.3) | 4 (2.5) | | |
+Sub-chronic | 19 (3.5) | 4 (2.5) | | |
+Chronic | 286 (52.8) | 79 (49.4) | | |
+Sub-chronic with acute exacerbation | 48 (8.9) | 18 (11.3) | | |
+Chronic with acute exacerbation | 177 (32.7) | 54 (33.8) | | |
+In remission | 5 (0.9) | 1 (0.6) | | |
+Age of onset of psychosis (years) | n=626, Mean (s.d.) 24.4 (8.2) | n=179, Mean (s.d.) 22.8 (6.6) | F=6.33 | 1,803 | 0.012
+Length of current episode (days) | n=519, Mean (s.d.) 668.1 (1535.3) | n=144, Mean (s.d.) 888.0 (1994.9) | F=2.01 | 1,661 | 0.156
+Duration of illness (years) | n=626, Mean (s.d.) 13.2 (9.4) | n=179, Mean (s.d.) 14.4 (10.0) | F=2.19 | 1,803 | 0.139
+Previous episodes, n (%) | | | χ²=8.68 | 6 | 0.192
+0 | 43 (6.9) | 5 (2.8) | | |
+1-9 | 426 (68.6) | 116 (64.8) | | |
+10-19 | 82 (13.2) | 35 (19.6) | | |
+20-29 | 27 (4.3) | 8 (4.5) | | |
+30-39 | 4 (0.6) | 1 (0.6) | | |
+40-49 | 2 (0.3) | 1 (0.6) | | |
+≥50 | 37 (6.0) | 13 (7.3) | | |
+Unspecified | 6 | 1 | | |
+BPRS total score at baseline | Mean (s.d.) 14.7 (8.5) | Mean (s.d.) 15.6 (8.7) | F=0.04 | 1,801 | 0.837
+
+¹ Schizophrenia course includes only those subjects with a diagnosis of schizophrenia. BPRS, Brief Psychiatric Rating Scale.
+
+## Table 2 Reasons for discontinuation in the pooled studies (1, 2 and 3) double-blind extension phase
+Reason | Olanzapine (n=627) | Haloperidol (n=180) | χ² (d.f.=1) | P
+--- | --- | --- | --- | ---
+Completed without relapse | 316 (50.4) | 76 (42.2) | 3.74 | 0.053
+Discontinued without relapse | 224 (35.7) | 70 (38.9) | 0.60 | 0.437
+Need to modify treatment | 53 (8.5) | 17 (9.4) | 0.17 | 0.677
+Adverse event | 54 (8.6) | 20 (11.1) | 1.05 | 0.306
+Non-compliance/failure to meet protocol criteria | 44 (7.0) | 13 (7.2) | 0.01 | 0.925
+Subject's decision | - | - | - | -
+Lost to follow-up | - | - | - | -
+Satisfactory response | - | - | - | -
+Relapsed | 87 (14.0) | 34 (18.9) | - | -
+
+# Image Descriptions
+## Figure 1 Description
+Title: Kaplan-Meier survival plot of time to relapse, olanzapine versus haloperidol in the pooled studies 1-3.
+The graph is a Kaplan-Meier survival curve comparing the time to relapse between the olanzapine group and the haloperidol group in the pooled data of Studies 1, 2, and 3. The horizontal axis represents "Time to relapse (days)", and the vertical axis represents the survival probability (implied, as it is a survival plot). There are two curves: one for olanzapine (solid line) and one for haloperidol (dashed line). The olanzapine curve remains consistently above the haloperidol curve throughout the entire duration, indicating that olanzapine-treated subjects had a lower risk of relapse over time. The log-rank test showed a statistically significant difference between the two curves (χ²=4.48, d.f.=1, P=0.034), with the estimated one-year relapse risk being 19.7% for olanzapine and 28% for haloperidol.
+
+## Figure 2 Description
+Title: Life-table graph of relapse rate per two-week interval, olanzapine (○) versus haloperidol (■) in pooled studies 1-3.
+The graph is a life-table summary showing the percentage of subjects who relapsed in each two-week interval for the olanzapine and haloperidol groups in the pooled studies. The horizontal axis represents "Weeks" ranging from 8 to 52. The vertical axis represents the percentage of subjects relapsing during each two-week interval among those who remained in the study at the start of that interval. Olanzapine is represented by open circles (○) and haloperidol by filled squares (■). Throughout the study period, the percentage of relapses in the olanzapine group is consistently lower than that in the haloperidol group. The Mantel-Haenszel χ² test confirmed a statistically significant difference in survival patterns favoring olanzapine (χ²=4.34, d.f.=1, P=0.037).

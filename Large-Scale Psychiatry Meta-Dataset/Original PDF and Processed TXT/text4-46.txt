@@ -1,0 +1,65 @@
+### Part 1: Content Before References (TXT Format)
+THE JOURNAL OF NERVOUS AND MENTAL DISEASE
+Copyright 1991 by Williams & Wilkins
+Vol. 179, No. 4
+Printed in U.S.A.
+Discontinuation of Neuroleptic Medication in Older, Outpatient Schizophrenics A Placebo-Controlled, Double-Blind Trial
+PAUL E. RUSKIN, M.D., AND GARY NYMAN, M.D., M.B.A.
+
+Thirty-five schizophrenic outpatients over the age of 52 who had been stable on neuroleptic medication were all switched to haloperidol. Ten patients were unable to tolerate the haloperidol and two dropped out of the study. The remaining 23 patients were randomly and blindly assigned to haloperidol or placebo and then followed for 6 months. Five patients did not complete the study due to medical or administrative reasons. Among the patients who completed the study, five of 10 randomized to placebo relapsed compared with only one of eight randomized to haloperidol. However, three of 10 patients randomized to placebo have remained stable without medication for 2.5 years.
+-J Neru Ment Dis 179:212-214, 1991
+
+Numerous studies during the past 30 years have shown that neuroleptic medications are effective in the treatment of schizophrenic symptoms and in the prevention of relapse after remission (Davis, 1975; Hogarty et al., 1976). Consequently, many schizophrenics have been maintained indefinitely on antipsychotic medication, sometimes at high doses.
+
+A series of recent longitudinal studies that followed the course of schizophrenia in later life suggest, however, that as they age schizophrenic patients might need less medication. All five of these studies document a decrease in positive symptoms such as hallucinations, delusions, and agitation as patients age. Social functioning also showed improvement (Bleuler, 1976; Ciompi, 1980, 1987; Harding et al., 1987a, 1987b; Huber et al., 1980; Tsuang et al., 1979). These five studies, with mean follow-up durations of 22 to 35 years, found that between 46% and 68% of patients had either fully recovered or significantly improved by the time of follow-up.
+
+A second reason for re-evaluating the use of neuroleptic medication in older schizophrenics is that the side effects of these medications become more troublesome when patients age (Thompson et al., 1983). Orthostatic hypotension, a common side effect of low-potency neuroleptics, can lead to falls and bone fractures in the elderly. Anticholinergic side effects such as blurred vision, constipation, and impaired cognition are particularly troublesome in this population. Extrapyramidal side effects can be disabling in a patient whose mobility is already limited by arthritis. The incidence and severity of tardive dyskinesia increase with age, and the rate of spontaneous remission after discontinuation of neuroleptic medication diminishes with age (Jenike, 1983; Johnson et al, 1982; Kane and Smith, 1982; Smith and Baldessarini, 1980).
+
+To investigate the continued need for neuroleptic medication in a clinically stable population of older schizophrenics, a double-blind study was conducted in which one group of patients was maintained on haloperidol and a second group on placebo.
+
+Methods
+A research social worker reviewed the charts of a random sample of male patients over the age of 50 who were currently enrolled in a Veterans Administration mental hygiene clinic. Those patients who at some time in the past or at present had either a diagnosis of schizophrenia or symptoms suggestive of that diagnosis were interviewed by the research psychiatrist. The psychiatrist made a DSM-III diagnosis based on this interview, a thorough review of the chart, and when possible an interview with family members who had known the patient in past years. Patients who met the diagnosis of schizophrenia were eligible for inclusion in the study. Patients who were not currently taking neuroleptic medication were excluded, as were those who had a history of dangerousness to self or others within the past 5 years or a psychiatric hospitalization within the past year. Patients signed informed consents before participation in the study.
+
+Department of Geropsychiatry, Baltimore Veterans Administration Medical Center, and Department of Psychiatry, University of Maryland, Baltimore. Send reprint requests to Dr. Ruskin, Department of Psychiatry, Baltimore VAMC, 3900 Loch Raven Boulevard, Baltimore, Maryland 21218.
+
+We would like to thank Dr. William Carpenter, Dr. Carol Tamminga, Dr. Douglas Heinrichs, Dr. Jerry Levine, and Dr. Allen Raskin for assistance in study design and analysis. We would also like to thank Frances Lerner, M.S.W., and Richard Whiteside, M.S.W., for help with data collection.
+
+The study was supported by the Veteran's Administration. McNeil Pharmaceutical provided the haloperidol and matching placebo. Presented at the Third Congress of the International Psychogeriatric Association, Chicago, August 1987.
+
+Patients admitted to the study switched from the neuroleptic medication that they were currently taking to an equivalent dose of haloperidol (Davis, 1974). Patients were maintained on haloperidol for 1 month or longer until clinically stable in the judgment of the research psychiatrist. Following this baseline period, patients were randomized to either haloperidol at the same dose or placebo. The patients and investigators were blind as to which patients were in which group. At the time of randomization, the dose of haloperidol for patients in the placebo group was cut in half. They were maintained on this decreased dose for 2 weeks and then the haloperidol was discontinued. Patients were then followed for 6 months, with monthly visits to the clinic. More frequent visits occurred when clinically indicated. Relapse was defined as significant clinical decline as judged by the research psychiatrist. The appearance of new psychotic symptoms or the worsening of existing psychotic symptoms was considered a relapse, as was the occurrence of prodromal symptoms such as insomnia or marked anxiety. Once a patient relapsed, he was terminated from the study. Patients were rated on the Brief Psychiatric Rating Scale (BPRS; Overall and Gorham, 1962) and the Quality of Life Scale (Heinrichs et al., 1984) during baseline and at intervals during the study period.
+
+Results
+A total of 35 patients met inclusion criteria and agreed to participate in the study. Of these, 10 were unable to tolerate haloperidol and therefore were dropped from the study. These 10 patients had all been switched from low-potency neuroleptics to haloperidol and subsequently had developed insomnia. Two patients dropped out of the study before randomization because they changed their minds about participating in the study. The remaining 23 patients were randomized to either haloperidol or placebo.
+
+The average age of the patients included in the study was 60.1 years. They had been last hospitalized an average of 12.8 years ago. The average daily neuroleptic dose before participation in the study was 324.7 chlorpromazine equivalents, and the average BPRS psychosis subscale score was 6.2.
+
+Five patients (two placebo, three drug) did not complete the study for administrative or medical reasons. Of these five patients, two died (one placebo, one drug) due to medical problems unrelated to the study. The other three dropped out of the study because they changed their minds about participating. Of the remaining 18 patients, eight had been randomized to haloperidol and 10 to placebo. One of the eight medication patients relapsed, as opposed to five of the 10 placebo patients (χ²=2.81, df=1, p<.09). Survival analysis of these data produced similar results (Z=1.80, p<.08). One of the patients who was on placebo and none of the patients on haloperidol required hospitalization. The average age of the five placebo patients who decompensated was 57.0 compared with an average age of 64.0 for the patients who did not decompensate (T=1.48, p<.18).
+
+A discriminant function analysis was performed to determine which variables predicted relapse. The five variables that contributed most, in order of decreasing contribution, were age, dose of neuroleptic before beginning the study, drug or placebo, BPRS psychosis score during baseline, and years since last hospitalization. These five variables combined correctly predicted relapse vs. no relapse for 17 of the 18 patients (Table 1).
+
+Discussion
+This chronically ill population of older schizophrenic patients had been maintained for many years on neuroleptic medication with few hospitalizations. Negative symptoms predominated, with a relative lack of positive symptomatology. This pilot study indicated that many of these patients continue to need treatment. Half of the placebo patients relapsed, as opposed to only one of eight medication patients. The patient who relapsed on medication suffered only a mild relapse, compared with more severe relapses among the placebo patients.
+
+The patients who relapsed did so slowly, generally over a one- to four-month period. In every case, the patient's caregiver, either a relative or other person with whom the patient lived identified early prodromal signs before any evidence of deterioration was noted by the research staff. The earliest sign of decompensation was often difficulty sleeping. In the case of two patients who eventually decompensated, the caregivers stated shortly after medication had been discontinued that the patient "seemed different" but could not describe more specifically in which way the patient had changed. The patients themselves generally were unaware that they were beginning to decompensate, except for one patient who complained of difficulty sleeping. Patients who decompensated recompensated quickly, within 1 to 3 weeks, once neuroleptic medication was resumed. The one patient who was hospitalized remained in the hospital for 8 weeks but returned to baseline within 3 weeks of hospitalization.
+
+The five patients who did not decompensate on placebo were maintained without medication after the conclusion of the study. Of these, three continue to do well without medication 2 years later.
+
+These preliminary findings indicate that, although some clinically stable, older schizophrenic outpatients who have had long-term treatment with antipsychotic medications continue to require antipsychotic medication, there are others who no longer need the medication. A careful trial off medication might therefore be warranted for patients who have been maintained for years on medication. In conducting such a trial, it would seem that close contact with the caregiver might be the best way to pick up early prodromal signs so that medication can be resumed before relapse occurs. As expected, high baseline BPRS psychosis score, high prior neuroleptic dose, and a relatively recent psychiatric hospitalization are all possible predictors of relapse. Finally, older patients relapsed less frequently than younger patients.
+
+Further studies are needed to identify the optimal neuroleptic treatment strategy for this patient population. Low-dose (Kane, 1983; Kane et al., 1985; Kane et al., 1983; Lehmann et al., 1983) or intermittent (Carpenter and Heinrichs, 1983, 1984; Carpenter et al., 1982; Herz et al., 1982) treatment strategies might be optimal in light of the apparent long course of decompensation, relatively benign nature of the symptoms during relapse (compared with what we have seen clinically in younger schizophrenics), and rapid recompensation once medication is resumed.
+
+### Part 2: Tables (TXT Format, Labeled as Table 1)
+Table 1: Discriminant Analysis: Predictors of Relapse
+
+| Variables | Relapse (X̄ ± SD) | No Relapse (X̄ ± SD) | F Value | P Value |
+|-----------|-------------------|----------------------|---------|---------|
+| Age | 56.50 ± 5.17 | 61.91 ± 6.10 | 11.7 | .0051 |
+| Prior Neuroleptic Dose | 418.33 ± 268.58 | 277.91 ± 163.06 | 8.1 | .0145 |
+| % on Placebo | 83.33 | 41.67 | 7.9 | .0156 |
+| Baseline BPRS Psychosis | 7.00 ± 3.35 | 5.83 ± 3.01 | 3.5 | .0871 |
+| Years Since Hospitalization | 12.33 ± 9.24 | 13.17 ± 7.37 | 2.4 | .1493 |
+
+*Overall Wilks lambda, 0.3363.
+
+### Part 3: Description of Images (TXT Format)
+No images are present in the article.

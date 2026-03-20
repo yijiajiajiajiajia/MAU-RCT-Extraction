@@ -1,0 +1,211 @@
+# Main Text (Before References)
+BRITISH MEDICAL JOURNAL
+17 MARCH 1973
+633
+PAPERS AND ORIGINALS
+Outpatient Maintenance of Chronic Schizophrenic Patients with Long-acting Fluphenazine: Double-blind Placebo Trial
+Report to the Medical Research Council Committee on Clinical Trials in Psychiatry
+S. R. HIRSCH, R. GAIND, P. D. ROHDE, B. C. STEVENS, J. K. WING
+British Medical Journal, 1973, 1, 633-637
+
+Summary
+A double-blind placebo trial of fluphenazine decanoate, a long-acting phenothiazine, was carried out to determine its value in maintenance therapy of chronic schizophrenic outpatients already established on the drug for a minimum period of eight weeks. In low doses it was significantly more effective than placebo in preventing relapse and admission to hospital. Relapse was accompanied by a resurgence of specifically schizophrenic symptoms and by an increase in abnormalities described by the relatives. There was no difference between the experimental and control groups in the treatment required for depression. The group on active medication required more treatment for Parkinsonism, but this difference did not reach statistical significance.
+In the context of a well-run special clinic for outpatient follow-up of chronic schizophrenic patients these results confirm the usefulness of long-acting fluphenazine. By inference, the benefit of this treatment highlights the need for adequate community services to deal with the residual chronic disabilities which are characteristic of these patients.
+
+Introduction
+Though long-acting phenothiazines by injection have been heralded as a major advance in the management of chronic schizophrenia outside hospital (Crumpton, 1968; Rassmussen, 1970; Daniel, 1968; Johnson and Freeman, 1972) there has been no study showing conclusively that the benefits are pharmacological. Fluphenazine by mouth is an effective medication for schizophrenic inpatients (Lasky et al., 1962; Kinross-Wright and Charalampous, 1965; Ravaris et al., 1965; Goldberg et al., 1967) and long-acting injections are as effective as oral medication for long-stay patients (Kinross-Wright and Charalampous, 1965; Bankier et al., 1968; Haider, 1968; Van Praag et al., 1970).
+The opinion that long-acting phenothiazines are better than oral medication for schizophrenic patients outside hospital is based on findings that patients have had fewer admissions to and a shorter total duration of stay in hospital after starting fluphenazine injections than during an equivalent period of time before (Rassmussen, 1970; Denham and Adamson, 1971; Johnson and Freeman, 1972). "Mirror image" studies have been criticized for their methodological shortcomings (Blackwell and Shepherd, 1968), and for this and other reasons these studies were inconclusive.
+In the absence of a fully satisfactory investigation of long-acting phenothiazines the present study was carried out to decide the following questions: (1) In the setting of a special clinic for chronic schizophrenic outpatients already established on long-acting medication is fluphenazine decanoate significantly more effective than placebo injections? (2) Does it prevent specifically schizophrenic symptoms or only moderate other forms of behaviour? (3) Are the risks of depression and Parkinsonian symptoms greater in patients on long-acting phenothiazines?
+The decanoate form of fluphenazine was studied because its action, though similar to fluphenazine enanthate, is allegedly more prolonged (Kurland and Richardson, 1966; Bucci et al., 1970).
+
+Patients and Methods
+Two groups of chronic schizophrenic outpatients who had been maintained on fluphenazine decanoate injections for eight or more weeks were selected. The first group consisted of 70 patients and represented all the outpatients attending the catchment area clinic at St.Olave's Hospital during the period of intake into the study. The criteria for selection included: current age 15-67, age of onset 10-60, positive evidence of schizophrenia in the case records, chronicity indicated by two or more admissions to hospital or one admission lasting more than six months, and maintenance on a minimum monthly dose of fluphenazine decanoate of 25 mg begun at least eight weeks before beginning the trial and without supplementary ataractic medication.
+St. Olave's is a general hospital serving the northern part of the London Borough of Southwark, a stable working-class area in the heart of dockland with a population of 90,000. Clinical policy for five years preceding the study had been to treat all relapsed schizophrenic outpatients with long-acting phenothiazines in a special clinic run by two nursing sisters, who visited patients at home if they failed to come for injections. Since the unit has been put forward as a model for helping patients in the community with a low bed-per-population ratio (Oldham, 1969), the patients may be fairly assumed to be representative of the schizophrenic outpatients in the area.
+To increase our sample a second, small group of 11 similarly suitable outpatients were selected from those attending St. Francis Hospital, Camberwell (part of the Bethlem and Maudsley joint hospital). The case notes of all patients attending the clinic were screened in order to rate the presence of certain symptoms as defined in the glossary to the Present State Examination (P.S.E.) and a clinical diagnosis was made. Only schizophrenic patients were chosen for the trial. According to the Catego classification, a computer program for classifying functional psychiatric illness on the basis of the P.S.E. (Wing et al., 1973), 71 patients were suffering from schizophrenic psychosis with delusions or auditory hallucinations of specified types (class S1), six from non-affective delusional psychoses (class P), and three had a catatonic history (class O). One patient was placed by the Catego procedure into class M, manic psychosis, but on the basis of other information was included as a schizophrenic. A history of affective disorder did not exclude patients from the trial.
+The number of patients considered for the trial at each centre, the number finally excluded, and the reasons for exclusion are shown in table I.
+
+Patients were randomly allocated by a research assistant to the active drug or placebo group as they came into the trial over a period of seven months. No one else knew who was on drug or placebo until after the data were analysed. The nurses administering the medication were provided with a six to twelve months' supply of ampoules for each patient, on the box of which was recorded the dates of injections. There was no upper limit to the dose of fluphenazine decanoate, but the lower limit was 25 mg per month or 12.5 mg fortnightly. In practice, over 85% of patients in each group received one 25mg injection monthly. At the end of the trial general practitioners were asked to return a questionnaire recording medication they had prescribed over the nine months, to check that patients did not get phenothiazines from other sources.
+Patients began the trial at the time of their usual clinical appointment, when they were seen by one of three research psychiatrists (S.R.H., R.G., P.R.) and tested by the Present State Examination (P.S.E.) (9th edition), the M.R.C. Social Performance Schedule (Leff and Vaughn, 1972; Stevens, 1972; Wing et al., 1972), and the Events Schedule of Brown and Birley (1970). A relative or close informant was independently interviewed by the sociologist member of the team to measure the effects on functioning and attitudes and to provide an additional source of information about the patient (Stevens, 1973). Initial interviews were apportioned equally among the research psychiatrists, and in most cases they saw the same patients throughout.
+The interviews were repeated if a patient was taken out of the trial, or dropped out, or was admitted to hospital. All patients were re-evaluated nine months after they entered the trial.
+
+CRITERION FOR RELAPSE
+The null hypothesis that there was no difference between active drug and placebo was tested by a single criterion for relapse-namely, a decision by the hospital's clinical team that a patient's condition had so deteriorated that he or she must be taken out of the trial to ensure that active medication was prescribed. Patients could be admitted to hospital and/or receive antidepressant or anti-Parkinsonian medication without being taken out of the trial, but the research evaluations were repeated on each admission and any additional medication was recorded. Patients prescribed oral phenothiazines were taken out of the trial (treated as a relapse).
+Attending clinicians were asked not to take patients out of the trial unless their schizophrenic symptoms worsened. Patients admitted to hospital but not removed from the trial were taken out of it if one of the research team found a clear-cut increase in symptoms since the initial evaluation. This, together with the fact that one of the research team (R.G.) was also in clinical charge of the St. Olave's patients during the trial, meant that clinical evaluation was independent of research evaluation in about two-thirds of the patients. Rules were set up to deal with special cases.
+
+INITIAL COMPARISON OF GROUPS
+Initial comparisons between the active drug and placebo groups on 22 social and clinical variables are shown in tables II and III. All 81 patients who entered the trial were included but a patient was omitted from any item of comparison when the information on the matter was incomplete or inadequate. Using 2 by 2 contingency tables (Finney et al., 1963) or Student's t test where appropriate there was no significant difference between experimental and control groups in any of the 22 comparisons tested.
+The social variables (table II) show that the sample consisted of persons with a low level of social adjustment, who have few friends or social activities. From the clinical variables (table III) it can be seen that most of the patients had had many admissions stretching back more than five years and that 27% had spent a year or more in hospital. Sixty-nine per cent had been on long-acting phenothiazines more than 12 months, only 5% had been receiving them for less than three months. Forty per cent of patients had been in hospital during the previous year. On the basis of existing case notes we were confident of a history of schizophrenic symptoms in 77% of cases. On entry to the trial one-third of the patients had hallucinations or delusions, 40% were on anti-Parkinsonian medication, and 5% were on antidepressants. These data confirm that our sample consisted of chronic schizophrenic patients.
+
+Results
+Seven patients dropped out of the trial but their omission from subsequent calculations made no difference to the outcome.
+The results of the main trial (table IV) show unequivocally that patients on active medication did better than those on placebo. Patients on placebo who relapsed did so on average after three and a half months, distributed in roughly normal fashion during the nine-month period (mean =140.2 ±77.1 days).
+Studies of maintenance oral medication have shown that as the period of observation lengthens more patients relapse, suggesting that medication delays rather than prevents relapse (Englehardt and Freeman, 1970). We therefore extended for a further six months the period of observation of all patients (whether on active drug or placebo) who had not relapsed or dropped out during the trial. All these patients received active drug from the time of the end of the trial.
+During the six months after the trial three of the 33 patients on active drug and two of the 14 patients who had been on placebo but had not relapsed during the trial developed delusions or were admitted because of abnormal behaviour suggestive of delusions or hallucinations. In one of the three patients in the drug group the evidence for clinical deterioration was uncertain. Thus over the 15 months five or six out of 36 patients on active drugs (14-17%) suffered a relapse of florid symptoms. The difference between the drug and placebo group observed at nine months had not diminished appreciably after the extra six months.
+
+ADMISSION RATES
+Readmission to hospital or time spent out of hospital have been criteria for comparing treatments in many earlier trials. In the present trial 22 of the 38 placebo patients (58%) and 7 of the 36 patients on active drug (19%) were admitted to hospital at least once over the nine-month period-a difference significant beyond the 1% level of confidence. The figures for patients on active drug are comparable to the admission rates which can be calculated from the figures of Guidice et al. (1970).
+Admission to hospital does not discriminate between active and placebo treatments in the present trial to the same extent as does relapse of florid symptoms, because some patients relapsed without being readmitted while others were admitted because of affective symptoms or for social reasons without being taken out of the trial.
+
+LONG-ACTING PHENOTHIAZINES AND DEPRESSION
+Only 5% of patients in the sample of 81 were receiving antidepressive medication when entering the trial (one unknown). If long-acting phenothiazine causes depression antidepressive treatment might be expected to have been prescribed more often in the experimental than in the placebo group. The opposite was the case. Two (17%) among the 12 patients on placebo and one (3%) among the 33 on fluphenazine who did not relapse were prescribed antidepressive medication. The difference is similar when all patients in the trial are considered or when admission to hospital for depression is included. Moreover, patients in the placebo group spent 30% less time in the trial than those receiving fluphenazine and were therefore theoretically less at risk, so it seems that fluphenazine treatment produces no extra need for antidepressive medication.
+
+PARKINSONIAN SIDE EFFECTS
+Patients receiving fluphenazine required more treatment for Parkinsonism during the trial, whether the whole sample or only patients who did not relapse are considered (table V). The difference between groups did not reach significance, however, and would be reduced if the fact that the placebo group had one-third fewer days at risk before coming out of the trial were allowed for.
+
+CHECKS FOR BIAS
+Questionnaires filled in as patients completed the trial give no indication that the community or the ward nurses giving the medication could discern which patients had been receiving active medication. The same was true of general practitioners. They rarely saw a patient unless there was a crisis or the patient became ill. Patients seemed unaware of any change.
+
+MEASURES OF RELAPSE COMPARED
+The repeat interview in the case of all patients taken out of the trial because of relapse gave an opportunity for a research re-evaluation of the patient's condition at relapse, compared to their clinical and social state at the onset of the trial, and compared with the clinician's decision that the patient had relapsed. This was advisable since there was some contamination between the two measurements, because research workers knew when a patient had been taken out of the trial. In 24 cases at initial interviews and six at relapse the clinician in charge of the patient also undertook the P.S.E. interviews. Deterioration on the P.S.E. was defined as the appearance of new psychotic symptoms or a change in two or more symptoms from partial to full delusion. According to this criterion 74% of "relapsed" patients showed deterioration on the P.S.E.
+The sociologist's rating at interview with the relative or informant of an increase in symptoms such as delusions and hallucinations agreed with the clinician's diagnosis of relapse in 85% of cases (table VI). The diagnosis of clinical relapse agreed with the rating of deterioration in behaviour in 75% of cases, and the rating of deterioration in social functioning in 81% of cases.
+
+About two-thirds of the patients receiving placebo relapsed, and it would be useful to know what factors, if any, were causative. Table VII shows that out of 11 variables only marital status and time since last admission were significantly associated with relapse (table VII). The only inferences that can be drawn from this are that the year after admission is a period of high risk and that single persons are especially liable to relapse.
+
+Discussion
+This trial showed a high relapse rate among chronic schizophrenic patients well established on long-acting fluphenazine who were switched to placebo. More importantly, the relapse rate among patients who continued on active medication was only 8% over 9 months and 14-17% over 15 months -remarkably low.
+Trials of treatment in psychiatry might usefully consider more often group prognosis in patients undergoing a particular treatment. To do this properly a trial should be epidemiologically based, so that knowledge of all patients from the catchment area could be used to show which were chosen for a given treatment and which were not and how many defaulted from the original group. By then following up all patients an estimate of the response rate to any particular treatment could be obtained (Leff and Wing, 1971).
+Our data can be used to estimate the proportion of schizophrenic patients who can be expected to present management problems on long-acting fluphenazine over 15 months. During the nine months of the trial and six month follow-up 5-6 patients (14-17%) relapsed. Of the original St. Olaves catchment area based sample eight patients (10%) had been excluded for reasons reflecting unsuccessful management despite long-acting fluphenazine (table I). Moreover, one of the drug treated group from St. Olaves dropped out with an exacerbation of schizophrenic symptoms (2.5%) thus 20% of patients over nine months or 26-29% over 15 months presented problems of management despite long-acting fluphenazine. This calculation does not take account of the unknown number of patients who may have begun fluphenazine injections but for various reasons did not remain on the drug long enough to be included in the original cohort of patients attending the clinic. In Denham and Adamson's (1971) study in a highly transient area of the original cohort of 144 patients on fluphenazine injections for a year 41 (28%) had incomplete records or were treatment failures. Guidice et al. (1970) began with a cohort of 170 male schizophrenics in hospital who were put on fluphenazine tablets, but 82 (48%) were discontinued from the study because of lack of response or side effects and a further 25 were dropped after beginning the trial because they lapsed or refused injections, which means that only 33.5% of the original 170 were sufficiently manageable on fluphenazine to enter the trial. Our estimate of 26-29% with a poor response over 15 months therefore probably omits many patients who could not be established or maintained on long-acting phenothiazines. In a follow-up of all schizophrenic patients put on long-acting phenothiazines, D. Johnson (personal communication) found that about one-third could not be established. They either left the area, developed severe side effects, had to be withdrawn from the drug, or clinically relapsed.
+Our criterion for relapse was based on the clinical team detecting deterioration but a separate evaluation by the research team showed that at least 74% of the patients who had been deemed to have relapsed had an increase of florid symptoms. Though one-third of the patients in our sample had florid symptoms when they entered the trial their condition was stabilized at the time. When switched to placebo 83% of these increased the number of florid symptoms (table VII). The social behaviour of many patients on placebo deteriorated and put additional strain on their relatives (Stevens, 1973), but in most cases it was associated with an exacerbation of schizophrenic symptoms. We therefore conclude that fluphenazine decanoate has a powerful effect in preventing and ameliorating both schizophrenic symptoms and deterioration of behaviour and social functioning.
+We have stated that we cannot accept the 8% relapse rate of our experimental group at face value. Ninety-five per cent of our sample had been established on treatment more than three months and most more than a year, so that patients who had been negative responders, relapsed or lapsed from treatment would have been omitted from the sample. Thus the proportion of chronic schizophrenics who relapsed and began treatment with fluphenazine decanoate but were unlikely to remain well-controlled for a year might be expected to be more than 30%, in contrast to patients well established on treatment, of whom only 8% relapsed during nine months in this trial.
+It is noteworthy that 89% of patients entering our trial received just one 25-mg injection of fluphenazine decanoate monthly. Some centres give much higher doses, but these findings suggest that low doses are effective in most cases.
+This study has not touched on the problems of the chronic disabilities of these patients. With the greater control of florid symptoms which treatment provides the management of residual disability will become an increasing problem, because of the growing number of chronic patients returning to live in the community.
+We gratefully acknowledge the active co-operation and participation of Sisters M. Lodge and M. Green and the nursing and secretarial staff at St. Francis and St. Olave's hospitals who administered the medication, recorded detailed observations, and kept us informed of changes in the patients' clinical status. We are indebted to Miss C. Durston and Mrs. J. Codling for helping to co-ordinate the study and to Drs. D. Bennett, A. Isaacs, and A. J. Oldham for allowing us to put their patients in the trial. We also wish to thank E. R. Squibb and Sons, Ltd., who generously provided supplies of fluphenazine decanoate and placebo.
+
+Secondary Hyperparathyroidism in Patients with Endemic Skeletal Fluorosis
+S. P. S. TEOTIA, MOHINI TEOTIA
+British Medical Journal, 1973, 1, 637-640
+
+Summary
+Investigation of 20 patients with skeletal fluorosis showed that five had clear evidence of secondary hyperparathyroidism. The hyperactivity of the parathyroid glands in skeletal fluorosis in the presence of decreased solubility of the bone mineral (fluoroapatite) strongly suggests that it is a compensatory attempt to maintain a normal extracellular ionized calcium equilibrium. Further study of the parathyroid glands and of bone lesions in skeletal fluorosis is in progress.
+
+Department of Human Metabolism, L.L.R.M. Medical College, Murut, U.P., India
+S. P. S. TEOTIA, M.D., Professor of Human Metabolism and Head of Department
+MOHINI TEOTIA, M.D., D.C.H., Senior Research Officer, Indian Council of Medical Research
+
+Introduction
+During the past four years we have noticed that patients with endemic skeletal fluorosis often show radiological bone changes, such as coarse cystic trabeculation and subperiosteal phalangeal resorption. These observations, coupled with reports in the literature of resorption cavities in animal experimental fluorosis (De Senar Clens, 1941; Rockert and Sunzel, 1960; Rockert, 1963) suggested to us the possibility of hyperactivity of the parathyroid glands in patients with skeletal fluorosis. The present study was therefore undertaken to investigate the pathogenetic role of the parathyroids in patients with skeletal fluorosis.
+
+Subjects and Methods
+Twenty patients (17 men and 3 women) aged 42 to 68 years with proved endemic skeletal fluorosis were investigated for
+
+# Tables
+## Table I - Reasons for Exclusion of 31 Patients from Trial
+No. of patients considered: St. Olave's (n=93) | St. Francis' (n=19) | Total (112)
+--- | --- | ---
+Not schizophrenic | 9 | 2 | 11
+Not chronically schizophrenic | 4 | - | 4
+Too old | 1 | - | 1
+Other | - | 1 | 1
+Died | - | - | -
+Subtotal 1 | 15 | 4 | 19
+Irregular attendance | 3 | - | 3
+Severe alcohol or drug abuse | 2 | 3 | 5
+Other anti-psychotic medication | 3 | 1 | 4
+Subtotal 2 | 8 | 4 | 12
+Grand total | 23 (25%) | 8 (42%) | 31 (28%)
+
+## Table II - Comparisons Between Placebo and Active Groups on Some Social Variables
+Variable | Placebo | Active Drug
+--- | --- | ---
+Mean age at onset of trial (±S.D.) | 44.3 ±10.0 | 42.6 ±10.5
+Male patients | 27/41 (65.8%) | 25/40 (62.5%)
+Males unemployed | 14/27 (51.8%) | 14/25 (56.0%)
+Females unemployed | 8/14 (57.0%) | 13/15 (86.7%)
+Males and females unemployed | 22/41 (53.7%) | 27/40 (67.5%)
+Males (separated or single) | 24/27 (88.9%) | 20/25 (80.0%)
+Females (separated or single) | 2/14 (14.3%) | 7/15 (46.6%)
+Males and females (separated or single) | 26/41 (63.4%) | 27/40 (67.5%)
+Living situation: In hostel | 6 (14.6%) | 7 (17.5%)
+Alone or in private dwelling | 4 (9.8%) | 8 (20.0%)
+With relatives | 31 (75.6%) | 25 (62.5%)
+Total | 41 (100%) | 40 (100%)
+
+## Table III - Comparisons Between Placebo and Active Drug Groups on Some Clinical Variables
+Variable | Placebo | Active Drug
+--- | --- | ---
+Years since first admission before trial:
+0-5 years | 9/40 (22.5%) | 10/40 (25%)
+6-10 years | 11/40 (27.5%) | 5/40 (12.5%)
+11-34 years | 20/40 (50%) | 25/40 (62.5%)
+No. of recorded admissions before trial:
+<3 | 10/41 (24%) | 9/38 (23.7%) (3 cases N.K.)
+>4 | 31/41 (76%) | 29/38 (76.3%) (3 cases N.K.)
+Proportion with recorded admission lasting >1 year | 14/40 (35%) | 11/36 (30.5%) (4 cases N.K.)
+Distribution of sample by hospital:
+St. Olave's | 36 | 34
+St. Francis | 5 | 6
+No. of cases seen by three psychiatrists:
+P.R. | 13 | 13
+S.H. | 15 | 12
+R.G. | 13 | 15
+Dose of trial medication:
+25 mg/month | 36 | 34
+12.5 mg/2 weeks | 2 | 0
+>25 mg and <50 mg/month | 3 | 6
+Total time on injection before entry:
+>2 years | 12 | 15
+1-2 years | 16 | 13
+4-12 months | 11 | 10
+8-12 weeks | 2 | 2
+Time since last admission:
+13 months + | 24 | 24
+7-12 months | 8 | 9
+0-6 months | 9 | 7
+Proportion with definite schizophrenia | 34/41 (82.9%) | 28/40 (70.0%)
+Florid* symptoms present on P.S.E. at initial evaluation | 14/41 (34.1%) | 13/40 (32.5%)
+Florid symptoms reported by relative at initial evaluation | 8/40 (20%) (1 case N.K.) | 18/40 (45%) (1 case N.K.)
+On anti-Parkinsonian at onset of trial | 1/41 | 6/40 (15.0%)
+On antidepressants at onset of trial | 13/38 (34.2%) (2 cases N.K.) | 3/39 (7.7%) (1 case N.K.)
+Total | 41 (100%) | 40 (100%)
+*Florid = hallucinations, delusions, or grossly bizarre behaviour. P.S.E. = Present State Examination. N.K. = Not known.
+
+## Table IV - Clinical Outcome in 74 Patients in the Two Groups After Nine Months in Trial
+Group | Relapsed | Not Relapsed | Total
+--- | --- | --- | ---
+Fluphenazine decanoate | 3 (8%) | 33 (92%) | 36
+Placebo | 25 (66%) | 13 (34%) | 38
+Significance = P <0.001. In addition seven patients (four drug group and three placebo group) dropped out of the trial.
+
+## Table V - Proportion of Patients Requiring Additional Anti-Parkinsonian Treatment During Trial
+Variable | Placebo | Active Drug | P
+--- | --- | --- | ---
+All patients:
+Proportion receiving anti-Parkinsonian medication at onset of trial | 18/40 (45%) | 13/38 (34%) | N.S.
+Proportion requiring new or additional treatment up to the time of relapse | 3/34 (9%)* | 9/31 (29%)* | <0.1
+Patients who did not relapse:
+Proportion of patients given additional treatment | 0/12 | 9/31 (29%) | <0.1
+*There was insufficient information for nine of the 74 patients in the trial. †Thirty-six patients in the experimental group had 9,309 days at risk or 1.53 times the risk before relapsing or completing the trial as compared with 38 patients on placebo who had 6,062 days at risk. Correcting for this would make the difference non-significant. N.S. = Not significant.
+
+## Table VI - Agreement between Research Measures and Clinician's Decision to Remove Patient from Trial
+Change over nine Months | Clinician's Decision - Non-relapse | Clinician's Decision - Relapse | % Agreement
+--- | --- | --- | ---
+Research psychiatric interview (P.S.E.):
+Deterioration | 4 | 20 | 62/73 (85%)
+No Deterioration (Not rated = 1) | 42 | 7 | 
+Relative/informant (Abnormal behaviour):
+Deterioration | 11 | 35 | 54/72 (75%)
+No Deterioration (Not rated = 2) | 19 | 7 | 
+Social functioning:
+Deterioration | 9 | 37 | 58/72 (81%)
+No Deterioration (Not rated = 2) | 21 | 5 | 
+
+## Table VII - Pretrial Variables and their Relation to Relapse in the Placebo Group
+Variable | Significance of Difference (Relapsed v. Not Relapsed)
+--- | ---
+Social factors:
+Males: employed v. unemployed | N.S.
+Female: employed v. unemployed | N.S.
+Living situation (with relative, private accommodation, hostel) | N.S.
+Marital status (89% of 18 single persons relapsed, compared with 45% of 20 married and separated persons) | P <0.01
+Clinical factors:
+Years since first admission | N.S.
+No. of episodes | N.S.
+No. of years in psychiatric hospital | N.S.
+Time on injection before beginning trial | N.S.
+Diagnostic certainty (33% of six uncertain compared with 72% of 32 "certain" schizophrenics relapsed) | N.S.
+Time since last admission before entering trial (93% of 14 patients who entered trial within a year of previous admission relapsed compared to 50% of 24 patients who had been outside hospital more than a year) | P <0.015
+Some psychotic symptoms on initial visit (83% of 12 patients with florid symptoms relapsed compared to 58% of 26 patients without) | N.S.
+N.S. = Not significant.
+
+# Image Description
+No images are present in the text.

@@ -1,0 +1,233 @@
+### Text Content (Before References)
+Aripiprazole for the Prevention of Relapse in Stabilized Patients With Chronic Schizophrenia: A Placebo-Controlled 26-Week Study
+Teresa A. Pigott,M.D.; William H. Carson, M.D.; Anutosh R. Saha, Ph.D.; Anne F. Torbeyns, Ph.D.; Elyse G. Stock, M.D.; and Gary G. Ingenito, M.D., for the Aripiprazole Study Group
+
+Background: Aripiprazole is a novel antipsychotic for the management of schizophrenia. This study investigated the efficacy, safety, and tolerability of aripiprazole in preventing relapse in adult chronic schizophrenia patients experiencing ongoing stable symptomatology.
+
+Method: In this 26-week, randomized, double-blind, placebo-controlled, parallel-group, multicenter study, 310 patients with DSM-IV schizophrenia (mean Positive and Negative Syndrome Scale [PANSS] total score =82) were randomly assigned to receive a once-daily fixed dose of aripiprazole, 15 mg, or placebo. The primary outcome measure was time to relapse following randomization. Secondary objectives were to assess the efficacy, safety, and tolerability of aripiprazole, 15 mg, compared with placebo, in the study population. The study was conducted between Dec. 21, 2000, and Aug. 20, 2001.
+
+Results: The time to relapse following randomization was significantly (p<.001) longer for aripiprazole compared with placebo. More patients relapsed with placebo (N=85;57%) than aripiprazole (N=50; 34%); the relative risk of relapse for the aripiprazole group was 0.59 (p<.001). Aripiprazole was significantly superior to placebo from baseline to endpoint in PANSS total, PANSS positive, PANSS-derived Brief Psychiatric Rating Scale, and Clinical Global Impressions-Severity of Illness scale (CGI-S) scores and demonstrated significantly better mean Clinical Global Impressions-Global Improvement scale scores (p ≤.01 for all comparisons except CGI-S: .01<p ≤.05). Aripiprazole was well tolerated, with no evidence of marked sedation and no evidence of hyperprolactinemia or prolonged heart rate–corrected QT interval (QTc). Extrapyramidal symptoms were comparable in the aripiprazole and placebo groups. Modest mean weight loss at endpoint was evident in both groups.
+
+Conclusion: Aripiprazole, 15 mg once daily, is an effective, well-tolerated treatment for prevention of relapse in patients with chronic, stable schizophrenia.
+
+(J Clin Psychiatry 2003;64:1048–1056)
+Received Aug. 1, 2002; accepted June 25, 2003. From the University of Florida, Gainesville (Dr. Pigott); Otsuka America Pharmaceutical Inc., Princeton, N.J. (Dr. Carson); Otsuka Maryland Research Institute, Rockville, Md. (Drs. Saha and Ingenito); and Bristol-Myers Squibb, Wallingford, Conn. (Drs. Torbeyns and Stock).
+This study was sponsored by Bristol-Myers Squibb Company, Princeton, N.J., and Otsuka Pharmaceutical Co., Ltd., Tokyo, Japan.
+Members of the Aripiprazole Study Group are listed at the end of this article.
+Corresponding author and reprints: Teresa A. Pigott, M.D.,
+Department of Psychiatry, University of Florida, UF Brain Institute L4-100, P.O. Box 100256, Gainesville, FL 32610-0256
+(e-mail: tpigott@psych.med.ufl.edu).
+
+Schizophrenia is a serious and disabling mental disorder that affects approximately 1% of the world’s population.1,2 The condition substantially diminishes the ability of patients to function successfully in interpersonal relationships and to engage in productive work. In addition, schizophrenia imposes tremendous demands on mental health services, families, and caregivers.
+
+Schizophrenia is a chronic illness requiring continued clinical intervention. Most patients will follow a relapsing course for life.3 Complete recovery with a sustained return to premorbid functioning is unusual. Of those patients who discontinue therapy, approximately half will suffer a psychotic relapse within a year,4–6 with relapse rates of 80% to 90% reported after 2 years.7 A reduction in relapse of up to 70% has been reported in patients remaining on antipsychotic treatment for maintenance, with improvement in other outcome domains.8 Furthermore, patients who relapse while on long-term antipsychotic treatment have episodes that are less severe than those in patients who have discontinued therapy.9
+
+Duration of schizophrenic symptoms prior to starting antipsychotic medication appears to be an important predictor of relapse, with higher relapse rates reported in patients with an established history of schizophrenia symptoms compared with more recently diagnosed patients.5 Prompt identification and treatment of individuals with psychoses (including schizophrenia and affective psychoses) result in improved clinical outcomes.10,11 However, even with correct diagnosis and early intervention, there is still a compelling clinical need for more broadly effective and better tolerated long-term drug treatments for the management of schizophrenia and prevention of relapse.
+
+Relapse can result in long-term harm, including the possibility of a greater degree of cognitive impairment and progressive structural brain abnormalities; it can also result in patients becoming refractory to treatment.7 In addition to potentially contributing to disease progression, relapse and rehospitalization substantially increase the economic burden on health care systems.12,13 Compliance with long-term treatment can be intermittent, especially in the community environment, and this may lead to relapse and hospital readmission. Ensuring compliance with treatment is vital among patients with schizophrenia, as relapse rates among noncompliant patients are reported to be 3 times higher than rates for treatment-compliant patients.14 An estimated 25% to 35% of patients are resistant to long-term treatment with typical antipsychotics,15 although up to one third of this refractory population can be successfully treated with certain atypical agents.16
+
+Aripiprazole, a novel atypical antipsychotic with a unique pharmacologic profile, is a potent dopamine partial agonist that acts as an antagonist at dopamine-2 (D₂) receptors under hyperdopaminergic conditions and displays agonist properties under hypodopaminergic conditions.17,18 It has been posited that dopamine partial agonists may be capable of stabilizing the dopaminergic system without inducing a hypodopaminergic state, thereby reducing the risk of side effects associated with pure blockade of dopamine receptors.19 In addition, aripiprazole exhibits partial agonist activity at some serotonin (5-HT) receptor subtypes and acts as an antagonist at others. In animal studies, aripiprazole has shown potent partial agonism at 5-HT₁ₐ receptors.2 Partial agonism at 5-HT₁ₐ receptors has been associated with anxiolytic activity as well as improvement in negative symptoms, depressive symptoms, and cognitive dysfunction in patients with schizophrenia.21,22 Aripiprazole is also an antagonist at 5-HT₂ₐ receptors23; 5-HT₂ₐ antagonism has been linked to favorable effects on the negative symptoms of schizophrenia and extrapyramidal symptoms (EPS).22,24,25
+
+Previous studies have demonstrated that aripiprazole, 15 to 30 mg/day, has sustained robust efficacy over a 4- to 6-week period in the acute treatment of schizophrenia.26–28 We report here a multicenter, randomized, double-blind, placebo-controlled 26-week study of a fixed dose of aripiprazole in the treatment of stabilized patients with chronic schizophrenia. The primary objective of the study was to compare time to relapse following randomization in stabilized patients with chronic schizophrenia receiving aripiprazole, 15 mg/day, or placebo for 26 weeks. Secondary objectives were to assess the efficacy, safety, and tolerability of once-daily aripiprazole, 15 mg, compared with placebo, in the study population.
+
+METHOD
+This study was conducted at 31 centers in the United States, Czech Republic, Poland, Russia, and Ukraine between Dec. 21, 2000, and Aug. 20, 2001. It was conducted in accordance with the principles of the Declaration of Helsinki and Good Clinical Reporting Practice. The study protocol was approved by an Institutional Review Board or an Independent Ethics Committee at each center. All patients gave informed written consent after the study procedure had been fully explained to them.
+
+Inclusion and Exclusion Criteria
+Men and women aged ≥18 years were enrolled in the study. All were required to have a confirmed diagnosis of schizophrenia, defined by DSM-IV criteria.29 Diagnoses must have been made at least 2 years prior to entry, and continued antipsychotic treatment during this period was required to classify diagnoses as chronic. Each patient’s condition at entry had to be stable (no significant improvement or worsening of symptoms within the past 3 months). The term “stable” refers to a consistency of residual symptomatology over the past 3 months and does not include those patients doing well or controlled on treatment with current medication. Patients enrolled in the study were still experiencing significant symptomatology as evidenced by a mean baseline Positive and Negative Syndrome Scale (PANSS)30 total score of 81.8 and a mean Clinical Global Impressions-Severity of Illness scale (CGI-S)31 score of 3.5. All patients had to be receiving antipsychotic treatment at entry and must have shown a response to this treatment. Patients were required to have a PANSS score of at least 60 and a score of not more than 4 (moderate) on the subscale for hostility or uncooperativeness. Patients also had to score no more than 4 (moderately ill) on the CGI-S. Women of childbearing potential were enrolled only if they had tested negative for pregnancy and were using a reliable form of contraception.
+
+Patients were excluded from the study if they were experiencing acute relapse; had a psychiatric disorder other than schizophrenia; had a history of or presented with delirium, dementia, amnesia, or a cognitive disorder; were known to be treatment resistant to antipsychotics; had received fluoxetine within 4 weeks of randomization; were dependent on benzodiazepines or had a history of alcohol or substance abuse; or were receiving a long-acting antipsychotic and the last dose had been administered less than 1 full cycle plus 1 week prior to randomization. Patients were also excluded if they presented with a significant risk of suicide, a history of neuroleptic malignant syndrome, thyroid pathology, or hypersensitivity to aripiprazole or other quinolinones; if they had enrolled in an aripiprazole clinical study or any clinical trial with an investigational agent within the last month; or if they had been exposed to electroconvulsive therapy within 2 months of randomization.
+
+Study Design
+This multicenter, randomized, double-blind, placebo-controlled, parallel-group study had a minimum 26-week treatment duration. Patients meeting all inclusion criteria and no exclusion criteria discontinued their preexisting antipsychotic and any psychotropic medication and underwent a 3-day washout period. Patients were then randomly assigned to receive either an oral, once-daily, fixed dose of aripiprazole, 15 mg, or placebo. Patients who completed the double-blind treatment phase or discontinued the treatment phase after week 2 due to lack of efficacy could enter an optional, open-label aripiprazole extension.
+
+Patients were monitored closely throughout the study for signs and symptoms of an “impending decompensation” to prevent full relapse. During this study, an impending decompensation was considered as a relapse, and patients were withdrawn from the study if this endpoint of relapse was reached.
+
+Efficacy Assessments
+The primary efficacy criterion was the time to relapse following randomization. The protocol defined relapse as an impending decompensation based on 1 or more of the following: a Clinical Global Impressions-Global Improvement scale (CGI-I) score of ≥5 (minimally worse); a PANSS score of ≥5 (moderately severe) on the subscore items of hostility or uncooperativeness on 2 successive days; or a ≥20% increase in PANSS total score. In the current study, relapse was defined by more stringent criteria than in other published studies of relapse prevention with atypical antipsychotic therapy.32,33 Based on the definition above, patients were discontinued at the earliest signs of an impending decompensation, prior to experiencing complete relapse.
+
+Secondary assessments included the number of patients who relapsed, time to relapse or discontinuation due to lack of efficacy, and time to relapse or discontinuation due to lack of efficacy or an adverse event. Treatment efficacy was assessed using the CGI-S and CGI-I 7-point scales at baseline (CGI-S only) and at the end of weeks 1, 2, 3, 4, 6, 8, 10, 14, 18, 22, and 26. The PANSS, including both positive and negative subscales and the PANSS-derived Brief Psychiatric Rating Scale (BPRS)34 core score, was also used to assess efficacy at baseline and at the end of weeks 3, 6, 10, 18, and 26. All patients randomly assigned to treatment were required to be closely monitored throughout the double-blind treatment phase under full hospitalization, a partial hospitalization program, a day treatment program, or a supervised group living at home or other appropriate supervised arrangement. Therefore, patients were clinically supervised daily to assess possible worsening of symptoms and the need for an unscheduled evaluation, in addition to having scheduled CGI assessments.
+
+Safety Assessments
+Standardized safety scales were used to evaluate any EPS-related side effects and included the Simpson-Angus Scale,35 the Abnormal Involuntary Movement Scale (AIMS),36 and the Barnes Akathisia Scale.37 Further safety investigations included electrocardiograms (ECGs), vital signs (pulse rate, systolic and diastolic blood pressure), body weight, and waist/hip circumference measurements. Laboratory testing of blood included hematology, serum chemistries, prolactin assay, and determination of alcohol concentration, if present. Urine samples were tested for the presence of protein, glucose, blood, and drugs of abuse. Investigators recorded adverse events and their relationship to treatment throughout the study. Compliance to study medication was assessed by tablet count and an inventory record.
+
+Use of concomitant medication, including neuroleptic agents, antidepressants, mood stabilizers, benzodiazepines (except for lorazepam), β-adrenergic blocking drugs, antihistamines, and any investigational agent other than the study medication, was prohibited following randomization. Dose tapering of preexisting concomitant medication was performed, when appropriate, before stopping treatment. Lorazepam, up to a maximum of 4 mg/day, was permitted for emergent agitation if deemed necessary by the investigator, and an additional 1 to 2 mg was allowed at night as a sleep aid. Anticholinergic treatment for EPS was permitted if deemed necessary by the investigator.
+
+Statistical Procedures
+For the primary efficacy measure, survival function and survival curves were derived from Kaplan-Meier estimates; the log-rank test was used to compare the survival distribution between treatments. Relative risk comparisons were made using the Cox proportional hazards model. Safety and secondary efficacy measures were assessed as mean changes from baseline using analysis of covariance and adjusting for baseline score, treatment, and study center, except for serum prolactin and body weight, which were assessed using unadjusted mean changes from baseline. In addition, the CGI-I score was assessed using analysis of variance with study center and treatment as main effects. The number of patients who relapsed was analyzed using the Cochran-Mantel-Haenszel test. The principle of last observation carried forward (LOCF) was used if data were missing for a given patient.
+
+RESULTS
+Patient Disposition and Demographics
+A total of 310 patients, aged between 18 and 77 years, were randomly assigned to 2 treatment groups: aripiprazole, 15 mg/day, and placebo (N=155 for each treatment group). The study population was 56% male and 44% female, and the treatment groups were comparable with respect to age, gender, race, and weight. Approximately one third of patients randomly assigned to each treatment group (36% placebo, 34% aripiprazole) were outpatients, almost half of patients were full inpatients (46% placebo, 46% aripiprazole), and 18% to 20% of patients in both groups were under partially supervised facilities during the course of the study. Patient disposition and demographic data are summarized in Table 1. Patient use of antipsychotic therapy prior to the trial is given in Table 2.
+
+The safety sample consisted of all patients in the randomized sample who took at least 1 dose of double-blind study medication, as indicated on the dosing record. The efficacy sample consisted of all patients in the safety sample who had at least 1 postrandomization efficacy evaluation (either PANSS or CGI), with the exception of 6 patients who were excluded from the efficacy sample due to significant protocol (inclusion/exclusion criteria) violations. The most common reason for discontinuation during the study was lack of efficacy (relapse); this was more frequent in the placebo group (49%) compared with the aripiprazole group (27%). The reasons for discontinuation from the study for each treatment group are summarized in Table 3.
+
+Efficacy Data
+Primary efficacy measure. Efficacy was evaluated in 297 patients (placebo, N=149; aripiprazole N=148). In the placebo group, patients relapsed sooner and experienced a higher relapse rate than in the aripiprazole group. The estimated Kaplan-Meier survival rates at week 26 were significantly higher in the aripiprazole group than with placebo (62.6% vs. 39.4%, p<.001). The relative risk of relapse with aripiprazole compared with placebo treatment was 0.50 (95% CI=0.35 to 0.71) (Figure 1). Since less than 50% of patients in the aripiprazole treatment group experienced relapse, the median time to relapse and 95% CI were not estimable in the aripiprazole treatment group and therefore not reported for either treatment group.
+
+Secondary efficacy measures. Analysis of secondary endpoints showed that 85 placebo-treated patients (57%) met the criteria for relapse compared with 50 aripiprazole-treated patients (33.8%). The relative risk for relapse with aripiprazole compared with placebo treatment was 0.59 (95% CI=0.45 to 0.75; p<.001), indicating a significantly higher relapse rate with placebo treatment compared with aripiprazole treatment.
+
+The relative risk of discontinuation due to lack of efficacy, relapse, or an adverse event was 0.56 (95% CI=0.40 to 0.78) for aripiprazole compared with placebo (Figure 2). At endpoint, 58.8% of patients in the efficacy sample receiving aripiprazole had not discontinued due to lack of efficacy, relapse, or an adverse event, compared with 38.1% of patients in the placebo group (p<.001). Thus, treatment with placebo was associated with significantly earlier discontinuation than treatment with aripiprazole.
+
+The percentage of patients in each treatment group who had not discontinued due to lack of efficacy at different time intervals during the study is shown in Figure 3. The log-rank test analysis showed that the difference in Kaplan-Meier survival curves between treatments was highly significant (p<.001).
+
+There were statistically significant differences in favor of aripiprazole for mean changes from baseline to endpoint for PANSS total score, PANSS positive subscale score, PANSS-derived BPRS core score, CGI-I score (for all comparisons, p ≤.01; Table 4), and CGI-S score (p ≤.05)). There was a numerically greater improvement in mean PANSS negative subscale score in the aripiprazole group compared with the placebo group (Table 4).
+
+Safety
+Adverse events. All patients who received treatment were included in the safety evaluation (N=306). The incidence of adverse events was similar in both treatment groups with the majority being mild to moderate in intensity. A total of 240 patients experienced at least 1 adverse event, 118 patients (77.1%) in the placebo group and 122 patients (79.7%) in the aripiprazole group. Spontaneously reported adverse events with aripiprazole occurring at a 25% incidence and a greater incidence than that of the placebo group were insomnia, tremor, akathisia, vomiting, and nausea (Table 5). The most frequently reported adverse event was insomnia. The incidence of insomnia in the 2 treatment groups was comparable: 61 patients (39.9%) in the placebo group and 65 patients (42.5%) in the aripiprazole group, leading to discontinuation of 1 patient in each treatment group. Those adverse events with a reported incidence of ≥5% in either treatment group are summarized in Table 5. Of note, the incidence of somnolence was very low in both groups (placebo: 2.0%, aripiprazole: 3.3%). Rates of discontinuation due to adverse events were comparable between the aripiprazole and placebo groups (Table 3).
+
+Hospitalizations. There were 20 patients in the study who had a serious adverse event requiring rehospitalization during the study: 9 in the placebo group and 11 in the aripiprazole group. The majority of these rehospitalizations were unrelated to study medication. There were no suicide attempts in either group during the study. Following rehospitalization, there were no long-term serious residual effects or long-term medical or psychiatric complications considered by the investigator to be related to study medication administration or to the subject’s participation in the study.
+
+Extrapyramidal symptoms. The incidence of any EPS-related adverse event was low in both treatment groups (placebo, 20 [13.1%]; aripiprazole, 31 [20.3%]). A higher incidence of tremor was evident among the aripiprazole-treated patients (N=13; 8.5%) compared with the placebo group (N=2; 1.3%). All reports of tremor in the aripiprazole group were described as mild to moderate. Most incidences of tremor were transient in nature with 10 patients experiencing resolution within the study period; in 7 patients, these resolved within 1 day of starting. Tremor was cited as a reason for discontinuation by 1 patient. Akathisia was reported in 10 patients (6.5%) in the placebo group compared with 12 patients (7.8%) in the aripiprazole group. Extrapyramidal syndrome was reported for 8 patients (5.2%) in the placebo group compared with 5 patients (3.3%) treated with aripiprazole. No cases of tardive dyskinesia were reported during the study.
+
+Aripiprazole use was associated with a significantly greater improvement from baseline to endpoint in Simpson-Angus Scale score compared with placebo (–0.83 and –0.44, respectively; p ≤.05). There were no significant differences between the aripiprazole and placebo groups for mean change in Barnes Akathisia Scale or AIMS scores (Figure 4). Concomitant use of anticholinergic medication for the potential treatment of EPS was similar in the 2 treatment groups (aripiprazole, 14.4%; placebo, 12.4%). The use of lorazepam was comparable between the aripiprazole and placebo groups (24% in both groups).
+
+Body weight. Body weight measurements were available for 151 patients in each group. At endpoint, mean weight losses of –0.87 kg (–1.92 lb) and –1.26 kg (–2.78 lb) compared with baseline had occurred with placebo and aripiprazole treatment, respectively. There were similar rates of clinically significant (7% increase from baseline) weight gain at endpoint in both groups (placebo, 4%; aripiprazole, 6%). Stratification of patients by baseline body mass index (BMI) showed decreases in mean body weight with both aripiprazole and placebo in all 3 BMI groups (Figure 5).
+
+Glucose. There was no clinically significant change from baseline in fasting glucose levels of placebo and aripiprazole-treated patients. At endpoint (LOCF), aripiprazole was associated with a +0.13-mg/dL change from baseline, and placebo was associated with a +2.1-mg/dL change from baseline.
+
+Lipids. Comparable effects on lipids were seen with placebo and aripiprazole. Mean change from baseline at endpoint (LOCF) in high-density lipoprotein cholesterol was +2.0 mg/dL with aripiprazole and +0.89 mg/dL with placebo. Mean change from baseline at endpoint (LOCF) in low-density lipoprotein cholesterol was –5.1 mg/dL with aripiprazole and –2.9 mg/dL with placebo. Mean change from baseline at endpoint (LOCF) in triglycerides was –37.2 mg/dL with aripiprazole and –2.9 mg/dL with placebo.
+
+Prolactin. Mean serum prolactin levels were elevated above normal range at baseline in both the aripiprazole and the placebo groups, presumably due to prior antipsychotic therapy. Both treatment groups showed a mean decrease in serum prolactin at endpoint compared with baseline assessment: –13 ng/mL in the placebo group (mean baseline =30.6 ng/mL) and -21 ng/mL in the aripiprazole group (mean baseline =28.0 ng/mL). In both groups, mean serum prolactin levels were within normal limits by week 6 and remained within normal limits through week 26. Aripiprazole was associated with a lower rate of potentially clinically significant increases in serum prolactin (above the upper limit of normal) than placebo (5% vs. 13%).
+
+QTc prolongation. The numbers of patients evaluable for QTc were 141 in the placebo group and 143 in the aripiprazole group. Using Bazett’s38 correction formula (QT/RR⁰·⁵), mean changes in heart rate–corrected QT interval (QTc) from baseline to endpoint were –0.01 msec and –6.94 msec in the placebo and aripiprazole groups, respectively. Four patients (2.8%) in the placebo group and 4 patients (2.8%) in the aripiprazole group had a potentially clinically significant increase in QTc interval (≥450 msec and a ≥10% increase from baseline) during the double-blind phase of treatment.
+
+Using the U.S. Food and Drug Administration (FDA) Neuropharmacology Division formula (QT / RR⁰·³⁷), the mean changes in QTc interval from baseline to endpoint were –0.86 msec with placebo and –5.51 msec with aripiprazole. One patient (0.7%) in the placebo group and no patients in the aripiprazole group had a potentially clinically significant increase in QTc interval.
+
+Other clinical laboratory evaluations and vital signs. Overall, there were no clinically important differences in metabolic abnormalities between treatments. Examination of the mean changes from baseline to endpoint identified no appreciable differences between treatments for other laboratory test parameters. The most frequently reported laboratory abnormality was increased creatinine phosphokinase. This occurred in 10 patients (7.2%) in the placebo group and in 13 patients (9.2%) in the aripiprazole group (creatinine phosphokinase data were available for 138 patients in the placebo group and 142 in the aripiprazole group). There were no clinically relevant differences in vital signs between the treatment groups.
+
+DISCUSSION
+This double-blind, placebo-controlled, multicenter study is one of the first to examine the effects of long-term maintenance treatment with aripiprazole, a dopamine D₂ partial agonist, in patients with schizophrenia. The results demonstrate significant and sustained efficacy with aripiprazole, 15 mg/day, over a period of 6 months in patients with chronic schizophrenia who were experiencing ongoing stable symptomatology (mean PANSS total score of 81.8). The results with aripiprazole were achieved with an excellent long-term safety and tolerability profile, with no evidence of increased rates of somnolence, EPS, weight gain, hyperprolactinemia, or QTc prolongation.
+
+Relapse prevention is essential for patient well-being and the optimization of overall patient functioning. In addition, preventing relapse leads to decreased hospitalization and health care costs and may help avoid disease progression. Patients treated with aripiprazole experienced a significantly longer time to relapse and significantly fewer patients experienced relapse with aripiprazole than those receiving placebo. In addition, the 34% relapse rate with aripiprazole in this 26-week trial is comparable with the 30% relapse rate with ziprasidone-treated patients versus placebo treated in the first 6 months in the Ziprasidone Extended Use in Schizophrenia trial.31 Furthermore, the time to discontinuation due to lack of efficacy, relapse, or adverse event was significantly greater with aripiprazole treatment compared with placebo.
+
+The improvements in time to relapse and relapse rates with aripiprazole maintenance treatment were accompanied by improved long-term efficacy compared with placebo. Aripiprazole-treated patients showed significant improvements in PANSS total, PANSS positive, PANSS-derived BPRS core, and CGI-S scores, and superior CGI-I scores, compared with placebo. Aripiprazole also produced a numerically greater improvement in PANSS negative score compared with placebo.
+
+A major reason for poor long-term outcomes in patients with schizophrenia is lack of compliance during chronic treatment, often due to side effects. In this study, the overall incidence of adverse events with aripiprazole was similar to that of placebo. Serious adverse events occurred at similar rates for both groups, and none were considered by the investigator to be treatment-related. The discontinuation rates due to adverse events were similar for each group (aripiprazole, 10%; placebo, 8%).
+
+Somnolence can adversely affect a patient’s social and professional functioning and can decrease compliance and persistency with prescribed therapy.39 The incidence of somnolence with aripiprazole (3.3%) was similar to that with placebo (2.0%), suggesting that aripiprazole is not associated with an elevated risk of sedation.
+
+Movement disorders are socially disabling and are often associated with decreased compliance with treatment.40 The incidence of EPS-related adverse events with aripiprazole treatment after 26 weeks of treatment was low. In the majority of cases, these events were transient and resolved within 1 day. Aripiprazole was associated with a statistically significant improvement in Simpson-Angus Scale score compared with placebo and produced improvements in both Barnes Akathisia Scale score and AIMS score that did not differ significantly from placebo. No cases of tardive dyskinesia were reported during the study.
+
+Increased body weight, in addition to having serious negative implications for general health (including the precipitation of diabetes mellitus and cardiac morbidity), can cause significant social stigma and is associated with decreased compliance with treatment among patients with schizophrenia. Weight gain has received extensive attention as an important side effect of the currently used atypical agents.41 In the current study, there was an overall decrease in mean body weight over the 26-week study period, with the largest reductions in mean body weight observed in patients with the highest BMI. There was a similar low rate of clinically significant weight gain in the aripiprazole and placebo groups (6% and 4%, respectively). In addition, aripiprazole had no long-term negative effect on glucose levels and demonstrated neutral effects on lipids, comparable to placebo, with long-term therapy.
+
+Hyperprolactinemia, a side effect of typical and some atypical antipsychotics, can cause sexual dysfunction and galactorrhea.42 In the long term, hyperprolactinemia is associated with decreased bone density.42 In the current study, serum prolactin levels were above normal range at baseline in both the placebo and aripiprazole groups; in both groups, prolactin levels were brought into the normal range by week 6 and maintained in the normal range throughout the study.
+
+QTc prolongation is another side effect of certain antipsychotic medications and can lead to torsades de pointes, a rare but potentially fatal ECG abnormality. In the current study, the mean QTc interval decreased from baseline to endpoint with aripiprazole treatment (using Bazett’s correction, QTc=-6.94 msec; using the Neuropharmacology Division formula, QTc=-5.51 msec)) and remained largely unchanged with placebo (using Bazett’s correction, QTc=-0.01 msec; using the Neuropharmacology Division formula, QTc=-0.86 msec). In addition, aripiprazole and placebo were associated with low and nearly identical rates of potentially clinically significant increases in QTc interval (using Bazett’s correction, 4 patients [2.8%] in each treatment group; using the FDA Neuropharmacology Division formula, 1 patient [0.7%] in the placebo group and 0 patients in the aripiprazole group).
+
+Schizophrenia is a chronic condition that requires effective, safe, well-tolerated, long-term treatment to control symptoms and prevent relapse. Previous 4- to 6-week studies have established aripiprazole’s short-term robust efficacy and excellent safety and tolerability in patients with schizophrenia26–28; the current study demonstrates that aripiprazole, 15 mg/day, can be used successfully to prevent relapse in patients with chronic schizophrenia and ongoing symptomatology over the course of 6 months. In the current study, the prevention of relapse with aripiprazole, 15 mg/day, was achieved with an excellent safety and tolerability profile, with no evidence of increased rates of somnolence, EPS, weight gain, hyperprolactinemia, or QTc prolongation. These results suggest that aripiprazole is an important new option for the treatment of chronic schizophrenia that may offer the potential for improved treatment compliance and decreased relapse rates.
+
+Drug names: aripiprazole (Abilify), chlorpromazine (Thorazine, Sonazine, and others), clozapine (Clozaril and others), fluphenazine (Prolixin and others), haloperidol (Haldol and others), lorazepam (Ativan and others), loxapine (Loxitane and others), olanzapine (Zyprexa), perazine (Compazine and others), perphenazine (Trilafon and others), pimozide (Orap), quetiapine (Seroquel), risperidone (Risperdal), thiothixene (Navane and others), trifluoperazine (Stelazine and others), ziprasidone (Geodon).
+
+Aripiprazole Study Group: Teresa Pigott, M.D., Gainesville, Fla; Adam F. Lowy, M.D., Washington, D.C.; Mohammed Bari, M.D., Chula Vista, Calif.; David W. Brown, M.D., Austin, Tex.; Carlos Figueroa, M.D., Rosemead, Calif.; Mary Ann Knesevich, M.D., Dallas, Tex.; Mark Lerman, M.D., Hoffman Estates, Ill.; David A. Sack, M.D., Cerritos, Calif.; Rajinder S. Shiwach, M.D., M.R.C.Psych., Terrell, Tex.; Tram K. Tran-Johnson, Pharm.D., Psy.D., San Diego, Calif.; Ivan Drabek, M.D., Opava, Czech Republic; Vladimir Muchl, M.D., Lnare, Czech Republic; Valeriy Bitensky, M.D., Odessa, Ukraine; Svetlana E. Kazakova, M.D., Lugansk, Ukraine; Oleg Chaban, M.D., Ternopil, Ukraine; Viktor Samokhvalov, M.D., Symferopil, Ukraine; Vladislav Demchenko, M.D., Kiev, Ukraine; Janusz Janczewski, M.D., Swiecie, Poland; Mieczyslaw Janiszewski, M.D., Torun, Poland; Marek Masiak, M.D., Radeczinica, Poland; Wlodzimierz Chrzanowski, M.D., Choroszcz, Poland; Yuri Popov, M.D., St. Petersburg, Russia; Yuri L. Nuller, M.D., St. Petersburg, Russia; Alexander Mouzitchenko, M.D., Moscow, Russia; Vladimir Tochilov, M.D., St. Petersburg, Russia; Michail Burducovsky, M.D., St. Petersburg, Russia; Rouslan Vovin, M.D., Ph.D., St. Petersburg, Russia; Alexander Kociubynsky, M.D., St. Petersburg, Russia; Zurab Kekelidze, M.D., Moscow, Russia; Galina Panteleeva, M.D., Moscow, Russia; Boris Tsygankov, M.D., Moscow, Russia; Uryi Alexandrovsky, M.D., Moscow, Russia.
+
+### Tables (TXT Format)
+Table 1. Demographic Characteristics of Patients With Schizophrenia (randomized population)
+| Characteristic | Placebo (N = 155) | Aripiprazole, 15 mg (N = 155) | Total (N = 310) |
+| --- | --- | --- | --- |
+| Sex, N (%) | | | |
+| Male | 90 (58.1) | 84 (54.2) | 174 (56.1) |
+| Female | 65 (41.9) | 71 (45.8) | 136 (43.9) |
+| Age, mean, y | 41.7 | 42.2 | 42.0 |
+| Weight, mean, kg | 75.0 | 75.0 | 75.0 |
+| Race, N (%) | | | |
+| White | 141 (91.0) | 140 (90.3) | 281 (90.6) |
+| Black | 9 (5.8) | 11 (7.1) | 20 (6.5) |
+| Asian/Pacific Islander | 1 (0.6) | 1 (0.6) | 2 (0.6) |
+| Hispanic/Latino | 4 (2.6) | 3 (1.9) | 7 (2.3) |
+
+Table 2. Prior Antipsychotic Therapy, N
+| Drug | Placebo (N = 155) | Aripiprazole, 15 mg (N = 155) | Total (N = 310) |
+| --- | --- | --- | --- |
+| Chlorpromazine | 5 | 4 | 9 |
+| Clopenthixol | 1 | 0 | 1 |
+| Clozapine | 3 | 5 | 8 |
+| Flupenthixol | 2 | 1 | 3 |
+| Fluphenazine | 3 | 1 | 4 |
+| Haloperidol | 33 | 33 | 66 |
+| Lithium | 0 | 1 | 1 |
+| Lithium carbonate | 1 | 0 | 1 |
+| Loxapine | 1 | 1 | 2 |
+| Methotrimeprazine | 4 | 4 | 8 |
+| Olanzapine | 19 | 10 | 29 |
+| Perazine | 5 | 4 | 9 |
+| Pericyazine | 2 | 1 | 3 |
+| Perphenazine | 5 | 5 | 10 |
+| Pimozide | 0 | 1 | 1 |
+| Quetiapine | 0 | 4 | 4 |
+| Risperidone | 15 | 18 | 33 |
+| Sulpiride | 3 | 2 | 5 |
+| Thioproperazine | 2 | 0 | 2 |
+| Thioridazine | 10 | 10 | 20 |
+| Thiothixene | 1 | 1 | 2 |
+| Trifluoperazine | 33 | 42 | 75 |
+| Zuclopenthixol | 5 | 2 | 7 |
+
+Table 3. Patients Discontinued From the Study, N (%)
+| Reason for Discontinuation | Placebo (N = 155) | Aripiprazole, 15 mg (N = 155) | Total (N = 310) |
+| --- | --- | --- | --- |
+| Discontinued double-blind treatment | 110 (71.0) | 84 (54.2) | 194 (62.6) |
+| Lack of efficacy (relapse) | 76 (49.0) | 42 (27.1) | 118 (38.1) |
+| Patient withdrew consent | 12 (7.8) | 18 (11.6) | 30 (9.7) |
+| Adverse event | 13 (8.4) | 16 (10.3) | 29 (9.4) |
+| Patient unreliability | 3 (1.9) | 4 (2.6) | 7 (2.3) |
+| Lost to follow-up | 2 (1.3) | 0 (0.0) | 2 (0.6) |
+| Death | 0 (0.0) | 1 (0.6) | 1 (0.3) |
+| Other known cause a | 4 (2.6) | 3 (1.9) | 7 (2.3) |
+aOther known causes included laboratory abnormalities, positive cannabinoid screening, anemia, noncompliance, and randomization error.
+
+Table 4. Summary of PANSS and CGI Mean Baseline Scores and Mean Changes From Baseline by Treatment Group
+| Score | Placebo (N = 149) | Aripiprazole (N = 148) | Aripiprazole vs Placebo |
+| --- | --- | --- | --- |
+| PANSS total | | | |
+| Baseline | 83.12 | 81.22 | |
+| Change at week 6 | 1.78 | –2.04 | –3.82 a |
+| Change at week 26 | 4.50 | –2.08 | –6.59 b |
+| PANSS positive subscale | | | |
+| Baseline | 17.47 | 17.48 | |
+| Change at week 6 | 1.23 | –0.04 | –1.27 a |
+| Change at week 26 | 2.37 | 0.12 | –2.24 b |
+| PANSS negative subscale | | | |
+| Baseline | 23.72 | 23.13 | |
+| Change at week 6 | –0.78 | –1.04 | –0.27 |
+| Change at week 26 | –0.54 | –1.40 | –0.85 |
+| PANSS-derived BPRS core | | | |
+| Baseline | 11.52 | 11.39 | |
+| Change at week 6 | 0.56 | –0.27 | –0.83 a |
+| Change at week 26 | 1.17 | –0.21 | –1.37 b |
+| CGI-S | | | |
+| Baseline | 3.55 | 3.49 | |
+| Change at week 6 | 0.20 | 0.06 | –0.15 |
+| Change at week 26 | 0.40 | 0.15 | –0.25 a |
+| CGI-I | | | |
+| Change at week 6 | 4.13 | 3.67 | –0.46 b |
+| Change at week 26 | 4.47 | 3.74 | –0.73 b |
+a p ≤.05 based on analysis of covariance adjusted for baseline score, study center, and treatment. b p ≤.01 based on analysis of covariance adjusted for baseline score, study center, and treatment.
+Abbreviations: BPRS = Brief Psychiatric Rating Scale, CGI-I = Clinical Global Impressions-Global Improvement scale, CGI-S = Clinical Global Impressions-Severity of Illness scale, PANSS = Positive and Negative Syndrome Scale.
+
+Table 5. Adverse Events With a Reported Incidence of ≥5% in Either Treatment Group, N (%)
+| Event | Placebo (N = 153) | Aripiprazole, 15 mg (N = 153) |
+| --- | --- | --- |
+| Any adverse event | 118 (77.1) | 122 (79.7) |
+| Insomnia | 61 (39.9) | 65 (42.5) |
+| Anxiety | 34 (22.2) | 23 (15.0) |
+| Headache | 19 (12.4) | 15 (9.8) |
+| Tremor | 2 (1.3) | 13 (8.5) |
+| Agitation | 12 (7.8) | 11 (7.2) |
+| Akathisia | 10 (6.5) | 12 (7.8) |
+| Schizophrenic reaction | 10 (6.5) | 7 (4.6) |
+| Vomiting | 5 (3.3) | 9 (5.9) |
+| Nausea | 5 (3.3) | 8 (5.2) |
+| Nervousness | 8 (5.2) | 8 (5.2) |
+| Extrapyramidal syndrome | 8 (5.2) | 5 (3.3) |
+
+### Figure Descriptions (TXT Format)
+Figure 1: Time From Randomization to Relapse. This is a Kaplan-Meier survival curve plot. The x-axis is labeled "Day" and ranges from 0 to 200. The y-axis is labeled "Proportion of Patients With No Relapse" and ranges from 0 to 0.9. Two curves are shown: one for the placebo group (N=149) and one for the aripiprazole group (N=148). The aripiprazole group curve remains consistently higher than the placebo group curve throughout the study period, indicating a higher proportion of patients without relapse. The log-rank test result is p<.001, indicating a statistically significant difference between the two groups.
+
+Figure 2: Time to Discontinuation Due to Lack of Efficacy, Relapse, or an Adverse Event. This is a Kaplan-Meier survival curve plot. The x-axis is labeled "Day" and ranges from 0 to 200. The y-axis is labeled "Proportion of Patients Not Relapsing or Discontinuing Due to Lack of Efficacy or Adverse Event" and ranges from 0 to 0.9. Two curves are presented: one for the placebo group (N=149) and one for the aripiprazole group (N=148). The aripiprazole group curve is higher than the placebo group curve across the study duration, showing a higher proportion of patients who did not discontinue due to the specified reasons. The log-rank test result is p<.001, denoting a statistically significant difference between the groups.
+
+Figure 3: Percentage of Patients Who Had Not Discontinued Due to Lack of Efficacy at Different Timepoints During the Study (Kaplan-Meier estimated survival rates). The x-axis is labeled "Study Week" and marks the timepoints: 2, 4, 6, 10, 18, and 26. The y-axis is labeled "Patients Not Discontinued Due to Lack of Efficacy (%)" and ranges from 0 to 100. Two lines are shown: one for the placebo group and one for the aripiprazole (15 mg) group. The aripiprazole group line is consistently higher than the placebo group line at all timepoints, indicating a higher percentage of patients who did not discontinue due to lack of efficacy. Standard errors are indicated as ranges.
+
+Figure 4: Mean Change From Baseline in SAS, Barnes Akathisia Scale, and AIMS Scores. This is a bar graph with three categories on the x-axis: SAS (Simpson-Angus Scale), Barnes Akathisia Scale, and AIMS (Abnormal Involuntary Movement Scale). The y-axis is labeled "Mean Change From Baseline" and ranges from -0.9 to 0. For each scale, two bars are displayed: one for the placebo group and one for the aripiprazole group. The aripiprazole group shows a greater mean decrease in SAS score (-0.83) compared with the placebo group (-0.44), and this difference is statistically significant (p ≤.05, marked with an asterisk). For the Barnes Akathisia Scale and AIMS score, the mean changes from baseline for the aripiprazole group are slightly more negative than those for the placebo group, but the differences are not statistically significant. Abbreviations are provided at the bottom of the figure.
+
+Figure 5: Mean Change in Body Weight at Endpoint, Stratified by Baseline BMI (LOCF analysis). The x-axis categorizes patients by baseline BMI (kg/m²) into three groups: BMI <23, BMI 23–27, and BMI >27. For each BMI group, the sample sizes are provided (BMI <23: placebo N=54, aripiprazole N=59; BMI 23–27: placebo N=48, aripiprazole N=39; BMI >27: placebo N=49, aripiprazole N=53). The y-axis is labeled "Mean Change in Body Weight (kg)" and ranges from -2.5 to 0. Two bars are shown for each BMI group: one for the placebo group and one for the aripiprazole group. Both groups show a mean weight loss (negative values) across all BMI categories, with the aripiprazole group showing a slightly greater mean weight loss compared with the placebo group in each BMI stratum. Abbreviations (BMI = body mass index, LOCF = last observation carried forward) are provided at the bottom of the figure.

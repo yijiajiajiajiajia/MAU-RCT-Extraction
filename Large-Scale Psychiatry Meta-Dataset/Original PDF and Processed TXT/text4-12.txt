@@ -1,0 +1,85 @@
+### Text Content Before References
+Rev Bras Psiquiatr 2003;25(4):220-23
+comunicação breve
+Relapse in patients with schizophrenia: a comparison between risperidone and haloperidol
+Recaída em pacientes com esquizofrenia: uma comparação entre risperidona e haloperidol
+Eduardo Pondé de Sena, Rogério Santos-Jesus, Ângela Miranda-Scippa, Lucas de Castro Quarantini and Irismar Reis de Oliveira
+University Hospital Prof. Edgard Santos, Federal University of Bahia. Salvador, BA, Brazil
+
+Abstract
+Objectives: To compare rates of rehospitalization and time to relapse in risperidone vs. haloperidol-treated schizophrenic patients discharged from the hospital.
+Methods: Randomized controlled trial comparing risperidone and haloperidol regarding relapse in patients with schizophrenia treated with flexible doses during one year.
+Results: Twenty patients were assigned to risperidone and 13 to haloperidol. One patient from each group withdrew consent and one patient in the risperidone group was lost for follow-up. Six (30.0%) patients in the risperidone group and 3 (23.1%) in the haloperidol group relapsed (p=1.00). However, time to relapse was shorter in the latter (logrank=4.2; p=.04). When rehospitalized, patients in the risperidone group stayed 34.5 days (median) at hospital as compared to the haloperidol group (median of 61 days) (p=.61).
+Conclusion: The proportion of schizophrenic patients who relapsed was similar in both groups; However, time to relapse was shorter in the haloperidol-treated patients.
+
+Keywords Risperidone. Haloperidol. Antipsychotic. Schizophrenia. Relapse prevention.
+
+Resumo
+Objetivos: Comparar taxas de re-hospitalização e o tempo para a recaída entre pacientes esquizofrênicos tratados com risperidona ou haloperidol após alta hospitalar.
+Métodos: Ensaio controlado, randomizado, comparando risperidona e haloperidol em relação à recaída em pacientes com esquizofrenia tratados com doses flexíveis, com duração de um ano.
+Resultados: Vinte pacientes foram alocados para a risperidona e 13 para o haloperidol. Um paciente em cada grupo retirou o consentimento e um tomando risperidona foi perdido para o seguimento. Seis (30,0%) do grupo da risperidona e três (23,1%) do grupo do haloperidol recaíram (p=1.00). Contudo, o tempo até a re-hospitalização foi mais curto com o haloperidol (logrank=4,2: p=0,04). Quando re-hospitalizados, os pacientes no grupo da risperidona permaneceram 34,5 dias no hospital (mediana) quando comparados com o grupo do haloperidol (mediana=61 dias (p=0,61).
+Conclusão: A proporção de pacientes esquizofrênicos que recaíram foi similar em ambos os grupos. Contudo, o tempo para a recaída foi mais curto nos pacientes tratados com haloperidol.
+
+Descritores
+Risperidona. Haloperidol. Antipsicótico. Esquizofrenia. Prevenção de recaída.
+
+Introduction
+Schizophrenia is a chronic disorder with serious physical, social and economic consequences.1 The economic burden of schizophrenia was estimated in 33 billion dollars in the United States in 1990.2 Much of this cost can be attributed to the consequences of psychotic relapse.3 The disorder is usually characterized by relapses alternating with periods of full or partial remission. Although antipsychotic medication is effective in reducing relapse rates, 30% to 40% of patients relapse within 1 year after hospital discharge even if they are receiving maintenance medication.4-6
+Most schizophrenic patients have a chronic course with many relapses characterized by exacerbation of psychosis and increase of rehospitalizations.7 Successive relapses can reduce the degree and duration of the following remission, worsen disability and increase refractoriness to future treatment.8 In order to prevent relapses, maintenance treatment has been mandatory for most schizophrenic patients.3 However, long-term treatments have generally been disappointing.10,11
+Risperidone is an antipsychotic with potent serotonin-5HT2A and dopamine D2 receptor antagonism.12 The advantages of risperidone over conventional neuroleptics are related to a lower incidence of extrapyramidal symptoms (EPS)13 and a favorable profile on positive and, more important, negative symptoms of schizophrenia.13-15 Meta-analyses have suggested that risperidone has greater efficacy and fewer extrapyramidal effects than haloperidol.16-18 For the treatment of positive symptoms and for the depression-anxiety dimension of schizophrenia, risperidone was found to be superior to haloperidol.19
+We report here the results of a comparison of risperidone versus haloperidol for the prevention of relapses in a Brazilian randomized controlled trial of schizophrenic patients. This study also examined the time to relapse of patients receiving risperidone and haloperidol who had been discharged from a state psychiatric hospital.
+
+Methods
+Subjects
+This trial was performed in a Brazilian psychiatric hospital in Salvador, state of Bahia. Patients aged 15-40 with a DSMIII-R20 diagnosis of schizophrenia were recruited between March 1995 and November 1997. Exclusion criteria were long hospitalization (12 months or more), other Axis I disorders, drug dependence within the last 12 months, significant neurological or organic disorders, who would be patients difficult to follow-up, participation in a trial during 4 weeks prior to the study, and use of depot neuroleptics with one treatment cycle before the start of the study.
+
+Study design
+In this flexible-dose, parallel-group, controlled trial, a simple randomization was performed by means of the computer’s clock that assigned patients to risperidone or haloperidol according to even or odd numbers. Patients who met the study entry criteria entered a mandatory washout period which lasted for 3 to 7 days. During this washout period, any neuroleptic or anticholinergic treatment was discontinued, but the use of diazepam, when necessary, was allowed. After this period, concomitant medications, including association with other antipsychotics, were permitted in this naturalistic study. Patients were prescribed risperidone 1mg bid for the first day, then 2 mg bid and 3 mg bid for the second and third days. Flexible dose was then permitted according to clinical evaluation. Haloperidol was prescribed at the clinician discretion. Patients were assessed at admission, discharge, 6 months and 1 year.
+This study was approved by the Institutional Review Board. Written informed consent was obtained from the legal representative of all included patients.
+
+Relapse
+Relapse was defined as the first rehospitalization after discharge. We assessed time to relapse and the number of days patients remained rehospitalized.
+
+Statistical analysis
+Non-parametric tests were used for the statistical analyses. Chi-square or Fisher exact tests were used for categorical variables and the Mann-Whitney test for continuous data. Time to relapse, defined as the first rehospitalization after discharge was assessed by means of the logrank test. All statistical tests were two-tailed, and p-values were considered significant if =.05. Descriptive analyses were used for demographic data.
+
+Results
+We included 33 male patients (aged 17-40 years) with a diagnosis of schizophrenia according to the DSM-III-R, who were hospitalized due to an acute exacerbation. Twenty patients were assigned to risperidone and 13 to haloperidol. No demographic differences were seen between the two groups. Patients in both groups were similar regarding age at onset of schizophrenia (medians of 18.5 and 20.0 years, for risperidone and haloperidol, respectively; p=.34), age of first hospitalization (19.5 and 21.0 years, for risperidone and haloperidol, respectively; p=.22), number of previous hospitalizations (median=1.0 for both groups; p=.92) and length of current hospitalization before entering the study (median of 2.5 days for risperidone and 4.0 days for haloperidol; p=.91). The neuroleptic dosage was 4.0 mg (median) for risperidone and 10.0 mg (median) for haloperidol (Table 1). One patient in the risperidone group and one in the haloperidol one withdrew consent. Another patient receiving risperidone was lost for follow-up.
+Six patients (30%) in the risperidone group, and 3 (23.1%) in the haloperidol one relapsed (p=1.00). However, the patients in the risperidone group took 103.0 days (median) to rehospitalization as compared to patients in the haloperidol group (median=28.0) (logrank=4.2; p=.04) (Figure).
+There were no differences in the duration of their first rehospitalization after discharge, (medians of 34.5 days for the risperidone group and 61.0 for the haloperidol one; p=.61). Table 2 illustrates the characteristics of relapses.
+
+Discussion
+To our knowledge, this is the first Brazilian prospective study comparing patients taking an atypical neuroleptic and a conventional drug regarding rehospitalization rates and evaluating the risk of relapse of discharged patients with schizophrenia. Time to relapse seen in Fig. suggests that risperidone may be superior to haloperidol in protecting schizophrenic patients against early rehospitalization.
+The other existing Brazilian study evaluating the impact of risperidone in reducing hospitalization rates of patients with schizophrenia or schizoaffective disorder was retrospective.21
+The authors found that the drug can be useful for patients with multiple hospitalizations, with a positive impact in the cost-benefit ratio and in economic aspects, when compared to treatment with conventional antipsychotics.
+Up to half of all stabilized schizophrenic patients may be rehospitalized within one year after discharge.22 It has been suggested that the more relapses and periods without medication, the poorer the prognosis and long-term outcome for schizophrenic patients.23 The present study suggests that treatment with haloperidol is associated with a shorter time to relapse, as compared with treatment with the atypical agent, risperidone.
+Although the study by Addington et al24 indicated that risperidone treatment results in a reduction in hospital days and one recent study showed that risperidone treatment is associated with a significantly lower relapse rate than haloperidol in adult outpatients with clinically stable schizophrenia or schizoaffective disorder,25 our data did not confirm such findings. However, this study, which showed no differences in relapse rates and number of days staying in hospital, was limited by a too small sample size.
+The outcome data for conventional antipsychotics reported by Hogarty26 estimates recidivism rates of 37% at 12 months and 55% at 24 months. In a study of patients treated with standard doses of fluphenazine decanoate plus either supportive or intensively applied family therapy, Schooler et al27 reported that 19% - 31% of the patients relapsed within a 2-year period.
+Results of other studies suggested superiority of the atypical over conventional drugs. In a post-hoc analysis of a large randomized controlled trial, Rabinowitz & Davison28 suggested that risperidone could be more effective than haloperidol in long-stay schizophrenic inpatients. Another report comparing risperidone with atypical clozapine concluded that rates of rehospitalization of patients discharged on a regimen with these atypical drugs are lower than previously reported with conventional antipsychotics.29
+Another report by Rabinowitz et al30 examined time to readmission over 2 years for patients discharged from inpatients facilities in Israel, while taking risperidone (n=268), olanzapine (n=313) or conventional neuroleptics (n=458) and found that 67% of patients taking risperidone and 69% of those taking olanzapine remained discharged, as compared to 52% of those taking conventional drugs. Their results suggested that rehospitalization rates of patients taking the atypical antipsychotics risperidone and olanzapine do not differ from each other but are considerably lower than the rates for patients treated with conventional antipsychotic drugs.
+As a conclusion, the ratio of schizophrenic patients who relapsed in the present study was similar in both groups, however time to relapse was shorter in the haloperidol-treated patients.
+
+### Tables
+Table 1 - Demographic data.
+| | Risperidone (n=20) | Haloperidol (n=13) | p |
+| --- | --- | --- | --- |
+| Age, years (median: minimum-maximum) | 27.9 (18.4-40.1) | 27.4 (17.2-39.0) | 0.80 |
+| Ethnicity, n (%) | | | 0.09 |
+| White | 4 (21.1%) | 2 (15.4%) | |
+| Mixed | 9 (47.4%) | 2 (15.4%) | |
+| Black | 6 (31.6%) | 9 (69.2%) | |
+| Onset of Schizophrenia, years (median: minimum-maximum) | 18.5 (15.0-25.0) | 20.0 (14.0-28.0) | 0.34 |
+| Age of first hospitalization, years (median: minimum-maximum) | 19.5 (16.0-28.0) | 21.0 (17.0-28.0) | 0.22 |
+| Number of previous hospitalizations (median: minimum-maximum) | 1.0 (0.0-40.0) | 1.0 (0.0-20.0) | 0.92 |
+| Length of current hospitalization, days (median: minimum-maximum) | 2.5 (1.0-34.0) | 4.0 (1.0-9.0) | 0.91 |
+| Neuroleptic dosage, mg (median: minimum-maximum) | 4.0 (1.0-6.0) | 10.0 (5.0-17.0) | - |
+
+Table 2 - Characteristics of relapses.
+| | Risperidone (n=20) | Haloperidol (n=13) | p |
+| --- | --- | --- | --- |
+| Number of patients that were hospitalized (%) | 6 (30.0%) | 3 (23.1%) | 1.00 |
+| Time (days) for first rehospitalization after discharge (median: minimum-maximum) | 103.0 (14.0-312.0) | 28.0 (27.0-54.0) | 0.12 |
+| Duration of first rehospitalization (days) (median: minimum-maximum) | 34.5 (8.0-90.0) | 61.0 (5.0-110.0) | 0.61 |
+
+### Image Description (txt format)
+The figure is a survival curve graph titled "Time course to rehospitalization of discharged patients with schizophrenia taking risperidone or haloperidol". The horizontal axis (x-axis) represents "Time (days)" with a range from 0 to 360 days, marked at intervals of 30 days (0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330, 360). The vertical axis (y-axis) represents the percentage of patients remaining non-rehospitalized, with values from 0 to 80 (0, 20, 40, 60, 80). There are two curves in the graph: one labeled "risperidone" and the other labeled "haloperidol". The graph includes the statistical information "log rank=4.23; p<.04" below the curve labels. The risperidone curve remains higher than the haloperidol curve throughout the time period, indicating that a higher proportion of patients treated with risperidone avoided rehospitalization longer compared to those treated with haloperidol.

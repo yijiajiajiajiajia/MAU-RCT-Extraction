@@ -1,0 +1,135 @@
+# Text Before References
+Int. Pharmacopsychiat. 12: 54-64 (1977)
+Clinical and Social Comparison of Fluphenazine Decanoate and Flupenthixol Decanoate in the Community Maintenance Therapy of Schizophrenia
+H. B. Kelly, H.L. Freeman, B. Banning and A.A. Schiff
+Department of Psychiatry, Hope Hospital; Social Services Department, City of Salford, Salford, and E.R. Squibb & Sons, Twickenham
+Key Words. Fluphenazine decanoate • Flupenthixol decanoate • Schizophrenia • Controlled study • Community care • Therapeutic effects • Side effects
+
+Abstract. The clinical and social effects of flupenthixol decanoate and fluphenazine decanoate were compared in the maintenance treatment of a population of chronic schizophrenic out-patients over a period of 9 months. The results failed to show significant difference between the treatments, and in particular, reports suggesting specific advantages for flupenthixol decanoate in alleviating the negative symptoms of apathy, anergia and depression in chronic schizophrenics were not confirmed. It seems that chronic schizophrenic patients who are well established on one depot preparation are unlikely to be benefited by being changed to the alternative.
+
+Introduction
+Since its introduction in 1968, fluphenazine decanoate has become a standard drug in the maintenance therapy of chronic schizophrenic patients in the community. Apart from its efficiency in controlling the manifestations of schizophrenia with a minimum of side-effects (6), a social study has shown that it makes a significant contribution to reducing the considerable burden of these patients on those living with them (13). Studies of a number of patients, using them as their own controls in a ‘mirror-image design’, having shown significant reductions in hospitalisation from the use of long-acting neuroleptics (7). In the City of Salford, England, data have now been recorded over a 10-year period on the use of these drugs in all schizophrenic patients derived from the resident population; a psychiatric case register records information continuously on all city residents receiving any form of care (3). A comprehensive, community-based mental health service provides psychiatric care, which has a special emphasis on the problem of schizophrenia (2).
+
+Until 2 years ago, depot fluphenazines were the only long-acting neuroleptic injections available, but a choice of drug is now possible with the arrival of the long-acting decanoate ester of flupenthixol, a compound which differs from fluphenazine by substitution of C for N in the tricyclic ring. This drug has been reported to have specific anti-depressant (14) and activating, as well as anti-psychotic (4) properties, which might be expected to benefit the apathetic and inert type of patient. The aim of this study was to compare anti-psychotic control by fluphenazine decanoate (‘Modecate’) with that by flupenthixol decanoate (‘Depixol’) in a population of schizophrenic out-patients who required long-term maintenance therapy. Special attention was to be paid to anergia, apathy and depression. In addition, the social effects of treatment were to be assessed in a similar way to the original study of Stevens (13).
+
+Method
+60 patients, between the ages of 18 and 65, were taken consecutively from the list of those attending the out-patient department of a psychiatric unit in a general hospital (Hope Hospital, Salford) for regular injections of long-term phenothiazines. They had all been previously diagnosed as schizophrenic by criteria generally accepted in the United Kingdom. All had documented evidence of at least one of Schneider’s first-rank symptoms of schizophrenia (10) during an acute phase of their illness.
+
+All patients were living in the community and the majority had relatives or friends who, it was hoped, would be able to give an account of the patient and of any difficulties experienced in the home environment.
+
+Patients were specifically excluded from the trial if they required EOT or had evidence of epilepsy, brain damage, marked mental retardation or Parkinsonism, or were pregnant.
+
+The patients were randomly allocated to 1 of 4 groups and were given injections at 3-weekly intervals of either 1 or 2 ml of fluphenazine decanoate or 1-2 ml of flupenthixol decanoate, the key to the allocation being known only to the hospital pharmacist and to the nurse administering the injections.
+
+During the first 9 weeks, the medication was adjusted if necessary by either halving or doubling the initial dosage, and this was then continued for 7 months, making the total trial period 9 months.
+
+Other psychotropic medication was controlled during the trial period. Benzhexol sustets were prescribed at 1/day and nitrazepam used for night sedation if required, and nortriptyline prescribed if anti-depressant medication was indicated.
+
+All patients were rated by a psychiatrist (H.B.K. or H.L.F.) on the Brief Psychiatric Rating Scale (9) and the Simpson Extrapyramidal Rating Scale (11). This was done at the initial interview, after 7 and 21 days of the trial and again at the conclusion of the trial period or at relapse. The patient’s closest relative or contact was interviewed by the social worker (B.B.), who completed a slightly shortened version of the Medical Research Council questionnaire used by Stevens (13).
+
+The ratings were carried out by the same psychiatrist for the same patient and good inter-rater reliability between the two psychiatrists involved was established prior to the start of the study. The relatives were seen again by the social worker, either in the last 3 months of the trial period or at the time of relapse.
+
+Results
+53 patients (18 male, 35 female), ages 18 to 64 (mean 41.9) completed the study. One patient became pregnant, and six relapsed - three on fluphenazine decanoate and three on flupenthixol. Six patients required additional anti-depressant medication during the trial, but these patients had all been taking anti-depressants previously and were loath to do without their accustomed medication.
+
+Clinical Findings
+Since the patients differed considerably in their conditions at the start of the trial, the BPRS and EP ratings were subjected to analyses of co-variance. This allowed the mean responses of each treatment group to be adjusted to take account of varying initial states, and considerably increased the precision with which differences in response between the groups could be assessed. Analyses were performed separately on each rating scale item result at week 1, week 3 and month 9, in each case using the initial score (day 0) as co-variate, as follows: Brief Psychiatric Rating Scale: total score; socially disturbing behaviour - sum of three items (hostility, grandiosity, unco-operativeness). Depressive Mood: global rating of disturbance. Extrapyramidal Scale: total score; global rating.
+
+Overall F-tests, looking simultaneously for differences between all the four treatment groups, were performed on the adjusted means, and in addition the Scheffe test was carried out to identify significant differences between any pair of treatment means. The adjusted means and SE of their differences are shown in table I. None of the treatment responses differed significantly, and the only result reaching statistical significance was the transiently greater mean score for extrapyramidal side effects at the third week of treatment in the group receiving 2 ml Modecate compared with the group receiving 2 ml Depixol, which just reached the 5% level. As well as comparing treatment responses among the groups of patients, the degree of change within each treatment group during the course of the 9 months was assessed by means of the paired t test. The results are shown in table II and it can be seen that none of the groups underwent significant overall changes during the trial period.
+
+Social Findings
+Owing to administrative difficulties, in only 34 cases were the patients’ relatives interviewed and rated on the social questionnaire.
+
+The results are summarized in table III for those patients whose relatives were interviewed both before and after the study. Owing to the small number of patients involved, the data for the patients on two dose levels of the same drug have been combined. The overall changes (before and after trial scores) within each treatment group for the separate items listed in table III were examined using Snedecor’s method (5) for scales with limited values, and no statistically significant changes were found.
+
+Discussion
+The patients involved in this study were all living in the community and were all established on long-term maintenance therapy with depot injections. Thus, their psychiatric state might be expected to be fairly stable and the lack of overall change during the 9-month study period did indeed confirm this, both in terms of direct clinical assessment and of the impact on relatives. On the other hand, the ability of a patient who is not overtly disturbed to function adequately in the community will be seriously impaired by the presence of negative symptoms of schizophrenia, i.e., depressed mood, apathy, and anergia. Early work on flupenthixol suggested encouraging and even dramatic activating and anti-depressant effects, but recent results have been less favourable (1,5).
+
+Our study, however, showed no advantage of flupenthixol over fluphenazine in reducing the severity of negative symptomatology and there was no significant overall change in the patients’ level of social functioning. On the other hand, there was also a lack of serious management problems arising in the patients receiving flupenthixol, such as were reported by Johnson and Malik (8) in their comparison study of maintenance therapy.
+
+Although our numbers of successfully completed social assessments are smaller, table IV indicates that the burden of these patients to their relatives was perceived as somewhat greater than that found by Stevens in her survey. Thus, a greater percentage of our patients were seen as posing problems in terms of lack of affection, neglect of household chores, tension-inducing behaviour, and not going out with others. In spite of this, relatives’ complaints of anxiety, as well as amount of dissatisfaction felt with the patient was, if anything, somewhat less than that found by Stevens. A possible explanation of this difference, assuming scoring criteria were similar, may be a higher degree of tolerance or stoicism among the Salford, as compared with the South London population. Side effects did not pose any major problems, and apart from the assessment at week 3, no difference in extrapyramidal reactions was found between the two treatments.
+
+In general, therefore, the results do not indicate any particular advantage or disadvantage to the use of flupenthixol decanoate as an alternative to fluphenazine decanoate in a stable population of chronic schizophrenic out-patients.
+
+# Tables
+## Table I. Brief psychiatric rating scale scores (adjusted using pre-trial score as co-variate) with SE of difference between any pair of means
+| Brief Psychiatric Rating Scale | Week 1 | | | Week 3 | | | Month 9 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | number of patients | adjusted mean score | SE of difference | number of patients | adjusted mean score | SE of difference | number of patients | adjusted mean score | SE of difference |
+| Total | | | | | | | | | |
+| 1 ml Modecate | 14 | 6.8 | 0.88 | 14 | 7.5 | 1.36 | 14 | 8.9 | 2.55 |
+| 1 ml Depixol | 15 | 5.5 | 0.88 | 15 | 5.0 | 1.36 | 12 | 8.0 | 2.55 |
+| 2 ml Modecate | 15 | 6.7 | 0.88 | 15 | 6.1 | 1.36 | 14 | 7.0 | 2.55 |
+| 2 ml Depixol | 15 | 5.9 | 0.88 | 15 | 5.7 | 1.36 | 14 | 7.9 | 2.55 |
+| Socially disturbing behaviour | | | | | | | | | |
+| 1 ml Modecate | 14 | 0.35 | 0.11 | 14 | 0.33 | 0.16 | 14 | 1.07 | 0.54 |
+| 1 ml Depixol | 15 | 0.11 | 0.11 | 15 | 0.12 | 0.16 | 12 | 0.44 | 0.54 |
+| 2 ml Modecate | 15 | 0.23 | 0.11 | 15 | 0.22 | 0.16 | 14 | 0.14 | 0.54 |
+| 2 ml Depixol | 15 | 0.20 | 0.11 | 15 | 0.22 | 0.16 | 14 | 0.92 | 0.54 |
+| Depression | | | | | | | | | |
+| 1 ml Modecate | 14 | 0.59 | 0.23 | 14 | 0.65 | 0.19 | 14 | 0.59 | 0.19 |
+| 1 ml Depixol | 15 | 0.46 | 0.23 | 15 | 0.26 | 0.19 | 12 | 0.33 | 0.19 |
+| 2 ml Modecate | 15 | 0.30 | 0.23 | 14 | 0.27 | 0.19 | 14 | 0.37 | 0.19 |
+| 2 ml Depixol | 15 | 0.36 | 0.23 | 15 | 0.21 | 0.19 | 14 | 0.26 | 0.19 |
+
+## Table II. Extrapyramidal Rating Scale scores (adjusted using pre-trial score as co-variate) with SE of difference between any pair of means
+| Extrapyramidal Rating Scale | Week 1 | | | Week 3 | | | Month 9 | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | number of patients | adjusted mean score | SE of difference | number of patients | adjusted mean score | SE of difference | number of patients | adjusted mean score | SE of difference |
+| Total | | | | | | | | | |
+| 1 ml Modecate | 14 | 1.08 | 0.39 | 14 | 0.96 | 0.41 | 13 | 1.07 | 0.99 |
+| 1 ml Depixol | 15 | 0.92 | 0.39 | 15 | 0.86 | 0.41 | 12 | 0.32 | 0.99 |
+| 2 ml Modecate | 15 | 1.85 | 0.39 | 14 | 1.89 | 0.41 | 14 | 2.16 | 0.99 |
+| 2 ml Depixol | 15 | 0.75 | 0.39 | 15 | 0.69 | 0.41 | 14 | 1.44 | 0.99 |
+| Global score | | | | | | | | | |
+| 1 ml Modecate | 14 | 0.44 | 0.16 | 14 | 0.47 | 0.16 | 13 | 0.32 | 0.21 |
+| 1 ml Depixol | 15 | 0.57 | 0.16 | 15 | 0.46 | 0.16 | 12 | 0.15 | 0.21 |
+| 2 ml Modecate | 15 | 0.58 | 0.16 | 14 | 0.49 | 0.16 | 13 | 0.61 | 0.21 |
+| 2 ml Depixol | 14 | 0.26 | 0.16 | 15 | 0.37 | 0.16 | 14 | 0.44 | 0.21 |
+Note: 2 ml Modecate > 2 ml Depixol; p<0.05
+
+## Table III. Social impairment of patient, according to next of kin, before and after study
+| | Patients on fluphenazine decanoate | | | | Patients on flupenthixol decanoate | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | no problem | moderate problem | severe problem | total percent creating problems | no problem | moderate problem | severe problem | total percent creating problems |
+| Getting on with others | | | | | | | | |
+| Start of trial | 12 | 3 | 1 | 33 | 9 | 6 | 0 | 40 |
+| End of trial | 12 | 3 | 1 | 33 | 11 | 4 | 0 | 27 |
+| Having friends | | | | | | | | |
+| Start of trial | 7 | 8 | 1 | 56 | 10 | 4 | 1 | 33 |
+| End of trial | 8 | 7 | 1 | 50 | 12 | 3 | 0 | 20 |
+| Preferring own company | | | | | | | | |
+| Start of trial | 8 | 7 | 1 | 50 | 8 | 5 | 2 | 47 |
+| End of trial | 9 | 6 | 1 | 44 | 12 | 3 | 0 | 20 |
+| Going out with others | | | | | | | | |
+| Start of trial | 7 | 4 | 5 | 56 | 9 | 2 | 4 | 40 |
+| End of trial | 8 | 2 | 6 | 50 | 7 | 6 | 2 | 53 |
+| Lack of affection or support | | | | | | | | |
+| Start of trial | 8 | 5 | 2 | 47 | 10 | 3 | 2 | 33 |
+| End of trial | 9 | 5 | 1 | 40 | 12 | 3 | 0 | 20 |
+| Lack of communication | | | | | | | | |
+| Start of trial | 7 | 6 | 2 | 53 | 9 | 4 | 2 | 40 |
+| End of trial | 10 | 3 | 2 | 33 | 9 | 6 | 0 | 40 |
+| Neglect of household chores | | | | | | | | |
+| Start of trial | 7 | 4 | 4 | 53 | 7 | 4 | 4 | 53 |
+| End of trial | 6 | 6 | 3 | 60 | 8 | 6 | 1 | 47 |
+| Dissatisfaction felt by next of kin | | | | | | | | |
+| Start of trial | 5 | 2 | 1 | 38 | 8 | 2 | 1 | 27 |
+| End of trial | 4 | 3 | 1 | 50 | 8 | 2 | 1 | 27 |
+| Tension | | | | | | | | |
+| Start of trial | 5 | 6 | 2 | 62 | 9 | 4 | 2 | 40 |
+| End of trial | 7 | 3 | 3 | 46 | 9 | 5 | 1 | 40 |
+
+## Table IV. Burden of patients on their families
+| | Patients on fluphenazine decanoate | | | | Patients on flupenthixol decanoate | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | no problem | moderate problem | severe problem | total percent creating problems | no problem | moderate problem | severe problem | total percent creating problems |
+| Relative’s distress | | | | | | | | |
+| Start of trial | 7 | 4 | 2 | 46 | 8 | 2 | 3 | 38 |
+| End of trial | 7 | 3 | 2 | 38 | 7 | 4 | 2 | 46 |
+| Relative's anxiety | | | | | | | | |
+| Start of trial | 6 | 5 | 2 | 54 | 7 | 2 | 5 | 50 |
+| End of trial | 7 | 4 | 2 | 46 | 7 | 4 | 2 | 46 |
+
+# Image Description
+No images are present in the document.

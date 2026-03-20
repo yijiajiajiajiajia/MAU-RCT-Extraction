@@ -1,0 +1,192 @@
+# Text Content (Before References)
+Fluphenazine Decanoate, Oral Fluphenazine, and Placebo in Treatment of Remitted Schizophrenics
+II. Rating Scale Data
+Arthur Rifkin, MD; Frederic Quitkin, MD; Donald F. Klein, MD
+
+\s=b\This study of patients with remitted chronic schizophrenia in an aftercare clinic was designed to test whether such patients require maintenance antipsychotic medication. A previous report showed that the group receiving active medication, fluphenazine decanoate and oral fluphenazine, had far fewer relapses; but the former group had a high incidence of akinesia. This present report presents rating scale data substantiating these two findings: (1) patients terminated on clinical grounds because of a schizophrenic relapse showed rating scale changes consistent with that diagnosis; and (2) the patients removed due to severe akinesia showed a worsening on items selected a priori to measure akinesia, and when compared to survivors on the same items, showed significant differences\p=m-\ thus confirming our clinical judgments.
+
+(Arch Gen Psychiatry 34:1215-1219, 1977)
+
+In our previous report of this study,1 we described the methodology and relapse data. To summarize, this study was conducted in the Aftercare Clinic of the Long Island Jewish-Hillside Medical Center. The purpose was to evaluate the value of prophylactic antipsychotic medication in formerly hospitalized remitted schizophrenics.
+
+Previous similar studies25 did not stratify according to remission. The finding from these previous studies that placebo is inferior to active drugs is not necessarily applicable to the issue of prophylaxis in remitted schizophrenics. This study specifically studied remitted schizophrenics.
+
+The sample consisted of 175 patients of whom 73 entered the study. All were referred from the inpatient service or the day hospital.
+
+The aftercare clinic provides long-term treatment, using many varieties of psychotherapy, social groups, recreational activities, vocational counselling, vocational rehabilitation, and a program in which the hospital sublets apartments to patients. The frequency, not the type of psychotherapy, was fixed at biweekly for six months, and monthly thereafter, on entry into the study.
+
+All patients referred to the clinic with a final hospital diagnosis of schizophrenia, any subtype, were eligible for the study. The patients were rediagnosed in the aftercare clinic. The diagnosis of schizophrenia was based on Kraepelinian criteria such as delusions, hallucinations, obviously disorganized speech, and bizarre behavior, in the absence of criteria for an organic syndrome or mood disorder. Fifteen percent of patients referred with a schizophrenic diagnosis were rediagnosed as nonschizophrenic by the research psychiatrists in the aftercare clinic. Such patients were included in the study but randomized separately to facilitate the analysis.
+
+During the transition period, the interval from admission into the clinic to entry into the study, which lasted a minimum of four weeks to a maximum of a year, the patient received fluphenazine decanoate and a small dose (5 mg) of oral fluphenazine, to accustom him to receiving both. The patient entered the study if (1) he reached a stable remission from fluphenazine decanoate and oral fluphenazine for at least four weeks; (2) he had no more than minor side effects; (3) he was cooperative in keeping appointments for therapy and injections (but he need not have been considered a reliable pill-taker); and (4) he gave informed consent.
+
+On entry into the study, the patient was assigned randomly to receive fluphenazine decanoate, oral fluphenazine, or placebo in a double-blind fashion. All patients received biweekly injections and daily pills-some being placebo. All patients receiving one drug or the other received procyclidine hydrochloride, 5 to 15 mg/day, physician's choice. Placebo patients, after the second month, received procyclidine placebo.
+
+Accepted for publication Oct 4, 1976.
+From the Hillside Division, Long Island Jewish-Hillside Medical Center, Glen Oaks, NY. The authors are now at the New York State Psychiatric Institute, and the Department of Psychiatry, College of Physicians and Surgeons, Columbia University, New York.
+Reprint requests to New York State Psychiatric Institute, 722 West 168th St, New York, NY 10032 (Dr Rifkin).
+Arch Gen Psychiatry-Vol 34, Oct 1977
+Fluphenazine in Schizophrenia-Rifkin et al1215
+
+The duration of the study was one year. Patients were terminated because of relapse, toxic effects, or dropout. The criteria for relapse were clinical, ie, significant clinical deterioration with a potential for, or actual, marked social impairment. All the patients terminated because of a schizophrenic relapse had, at termination, kraepelinian indicators of schizophrenia.
+
+Although all patients were in remission from all psychotic signs at entry, this left room for considerable psychopathology, as well as vocational and interpersonal difficulties. Our patients ran the gamut from those with a complete lack of psychopathology and with no functional impairment to others with chronic dysphoria and marked vocational and social ineptitude, viz, chronic psychiatric invalids supported by public assistance who led dismal, empty, withdrawn lives. But none had delusions, hallucinations, disorganized speech, or bizarre behavior.
+
+The point of the study was to determine whether antipsychotic medication would prevent relapse of psychotic symptoms since it is only such symptoms for which medication has proved helpful.
+
+The group receiving oral fluphenazine was included to see if the fluphenazine decanoate cohort might do better due to lack of compliance in pill-taking in the first group.
+
+Removing patients from the transition period who were not cooperative about keeping appointments limits the generalizability of our results to some extent, but our sample remains representative of commonly treated schizophrenics, and allows accurate detection of a true drug effect.
+
+Patients were divided according to chronicity. Acute meant only one episode and no significant psychopathology prior to three months before hospitalization. We wished to isolate a subgroup who would be least likely to require prophylactic medication.
+
+The ratio of fluphenazine decanoate to oral fluphenazine was constant: 0.5 ml biweekly to 5 mg/day. The dose was adjusted on clinical grounds within a stipulated range of 0.5 to 2.0 ml or 5 to 20 mg/day.
+
+The major findings from our previous report concerning relapse rates and toxic effects are as follows:
+1. Fifteen of 22 placebo patients (68%) relapsed compared to 10% of the two drug-treated groups. \(x^{2}\) analysis comparing relapses to all others shows that this drug-placebo difference is statistically significant.
+2. Fifteen percent of the patients were dropped from the study because of toxic effects from one of the drugs. Of these, 73% had received fluphenazine decanoate, and all fluphenazine decanoate toxic effects were for akinesia. Thirty-five percent of all patients who received fluphenazine decanoate had to be taken out of the study because of akinesia. We define akinesia as diminished spontaneity6- behavioral as well as motor. Such a state is characterized by few gestures, unspontaneous speech, and, particularly, apathy and difficulty initiating usual activities. It is often difficult to distinguish from residual schizophrenia, depression, or demoralization. Patients were removed for akinesia only if their diminished spontaneity significantly interfered with their lives. Following removal from study and termination of therapy with fluphenazine decancate, all patients' conditions improved completely or considerably, tending to confirm that this was a drug reaction, ie, none of the psychopathological states that might be confused with akinesia would be expected to improve on withdrawal of fluphenazine decanoate.
+3. The above two findings were true for the total sample of 73 and the subsample of 69 patients with chronic disease considered schizophrenic by the research staff.
+4. Of the 19 short-term research schizophrenics (including a few patients added to the original sample), no trend has emerged favoring active drug or placebo.
+5. None of the 11 patients considered nonschizophrenic had schizophrenic relapses, whereas 16 of the 62 schizophrenic patients had schizophrenic relapses. This tends to validate our diagnoses.
+
+This report presents data from the rating scales to support and extend the conclusions just summarized.
+
+Baseline Comparisons
+Comparison of the three treatment groups revealed no statistically significant differences both for the total sample and the subgroup of patients rediagnosed schizophrenic by the research staff for age, sex, number of previous episodes, socioeconomic status, age of first treatment, and marital status.
+
+Brief Psychiatric Rating Scale
+There are no statistically significant differences on the Brief Psychiatric Rating Scale (BPRS) items of anxiety, emotional withdrawal, tension, depressed mood or blunted affect; or on the factors of withdrawal-retardation and anxious depression. We omitted baseline comparisons of items and factors measuring psychotic symptoms, since by the design of the study, these had to be absent.
+
+The item "involvement in leisure time activities" taken from the psychiatrist's rating on the Patient Evaluation Record-Community (PER-C) (R. L. Spitzer, J. Endicott, Biometrics Research, New York State Psychiatric Institute) shows a wide distribution, the modal rating is moderate or fair. There are no statistically significant differences among the groups.
+
+All the baseline comparisons show that fate was kind to us and randomization effectively gave us equivalent groups on important predictor variables. (The baseline statistical data are available on request.)
+
+Baseline to Endpoint Comparisons
+Table 1 shows the changes on a global measure of severity, the Clinical Global Impression (CGI), for all premature terminators of the study. The groups of spontaneous dropouts and drug toxicity-cases are actually less severely ill at termination, although this is not significant. This indicates that we were not mislabeling clinical relapses incorrectly.
+
+1216 Arch Gen Psychiatry-Vol 34, Oct 1977
+Fluphenazine in Schizophrenia-Rifkin et al
+
+The nonschizophrenic relapsers were worse at termination, but not significantly. There were only seven such patients.
+
+The schizophrenic relapses have the worst ratings at termination, and are significantly worse at termination from study compared to baseline.
+
+Schizophrenic Relapses
+Comparison of the BPRS items between baseline and endpoint in schizophrenic relapses shows what one would expect: significant worsening on hallucinatory behavior, unusual thoughts, and conceptual disorganization. The significant worsening on BPRS factors of thinking disturbance, hostile-suspicious, and anxious depression is also compatible with the clinical diagnosis (Table 2).
+
+A close family member or friend rated the patient on the Katz Adjustment Scale (KAS).7 As Table 3 indicates, there were strong trends toward, or significant worsening on, many such items at termination, confirming the psychiatrist's judgment of severe clinical worsening.
+
+We conclude that the relevant rating scale data from schizophrenic relapses support the clinical diagnoses.
+
+Nonschizophrenic Relapses
+Seven patients from the total sample were dropped from the study because of severe clinical deterioration not of a schizophrenic nature. Five were for dysphoric mood states, usually accompanied by a suicide attempt; one was due to a hypomanic state, and one was because of death due to accidental overdose (which should possibly be considered a dropout not a relapse).
+
+No items or factors on the BPRS, or on the relative's version of the KAS showed significant changes between baseline and endpoint. These findings indicate that the nonschizophrenic-relapse patients were not as severely ill at termination as those with schizophrenic relapses. Unlike the schizophrenic-relapse patients, the rating scales do not demonstrate that the nonschizophrenic patients dropped from the study were clinically worse. This is mainly explained by the majority of these terminations occurring in patients with situational dysphoric reactions with suicidal gestures. Such incidents are not well reflected on the BPRS, which is designed to measure more severe psychopathology, and the characterological traits, which are measured on the KAS relative scale are not likely to be different at termination than at baseline.
+
+Akinesia Terminations
+One of our major findings was the high incidence of akinesia in patients taking fluphenazine decanoate. To attempt to support our clinical diagnoses with rating scale data, we selected items that we would expect to change in an akinesic patient, a priori, and examined the eight patients so removed.
+
+As Table 4 illustrates, five BPRS items were selected, four expected to worsen (emotional withdrawal, depressed mood, motor retardation, and blunted affect) and one to improve (excitement). No patient was rated as excited at baseline or termination. Of the other four items, all showed the expected worsening, to a statistically significant degree.
+
+Four items from the PER-C were selected to confirm akinesia: involvement in leisure time activity, withdrawn, impaired goal directedness, and productivity of speech. The last three items showed significant worsening (Table 4).
+
+Thus, the patients removed because of akinesia, did appear to become akinesic on the rating scale data.
+
+To further document this, we compared the akinesia terminators to the survivors, using the a priori selected akinesia items. The results for the four items from the BPRS appear in Table 5. On all items the akinesics are worse, on three to a statistically significant degree.
+
+Using the four akinesia items from the PER-C, the akinesics are much worse (Table 5). The last two analyses support our contention that our akinesic terminations were akinesic.
+
+The possibility remains that the akinesic terminations were really manifestations of schizophrenic abnormalities. A \(x^{2}\) distribution among the three treatments comparing those terminated due to akinesia to all others is skewed to a highly significant degree since all nine of the akinesic relapses occurred after fluphenazine decanoate therapy, except for one apparently misdiagnosed patient receiving a placebo \((X(d f 2)=15.90\), \(P<.001\) This distribution would not be expected if those nine patients really had schizophrenic relapses, because of our finding that the relapse rate was significantly higher after placebo and not different between the two active drugs.1
+
+Another way of examining the possibility that the akinesic terminators were misdiagnosed is to compare by treatment group all patients who entered the study, using the a priori akinesia items with an analysis of covariance. If fluphenazine decanoate causes akinesia across a wide distribution of the patients rather than discretely, then we might find a difference on these items among the treatment groups.
+
+The results of such an analysis are ambiguous. On the nine akinesia items, the patients receiving fluphenazine decanoate were significantly more akinesic than those receiving oral fluphenazine on four items; those receiving placebo more akinesic than those receiving oral fluphenazine on three items; and three other permutations of two-way comparisons of the three treatments showed a significantly more akinesic result on one of the nine items. This absence of a clear, consistent difference among the treatments is due, we believe, not to a misdiagnosis of akinesia in the eight patients, but to the probability that considering the total sample, some patients were scored on the akinesia items for reasons other than akinesia, eg, schizophrenic relapse. If our termination diagnoses were correct and some patients developed schizophrenic and nonschizophrenic relapses and others drug-induced akinesia, we would expect to obtain the type of result that we did from the analysis of covariance: some patients would score high on an item such as emotional withdrawal because of schizophrenic relapse and such patients would be overrepresented in the placebo group; whereas those rated high on this item because of akinesia would be more likely to be receiving fluphenazine decanoate.
+
+To avoid the blurring of the effects of psychopathological relapse and toxic effects from a drug, we examined the fluphenazine decanoate and oral fluphenazine survivors on the akinesia items. Only one of nine of the a priori akinesia items showed a significant difference-impaired goal-directed activity-favoring oral fluphenazine. Perhaps these items are insensitive to the less severe forms of akinesia, or fluphenazine decanoate-induced akinesia is an all-or-none phenomenon.
+
+As reported in our previous publication,' the eight patients receiving fluphenazine decanoate dropped out of the study because of severe akinesia, remitted completely, or improved considerably on withdrawal of the drug. This we took as supportive of the diagnosis of toxic drug effects. Yet, it is possible that those patients were not akinesic; rather the fluphenazine decanoate had exacerbated their schizophrenic symptoms of blunted affect and emotional withdrawal. If it were true that the a priori akinesia items that clearly worsened on our patients considered severely akinesic represented a worsening of schizophrenic symptoms, then such worsening would be more likely to occur in those patients receiving fluphenazine decanoate who at baseline scored the highest on those symptoms. That is, if fluphenazine decanoate exacerbates schizophrenic blunted affect and emotional withdrawal more than oral fluphenazine, one would expect this exacerbation to be most noticeable in those fluphenazine decanoate-treated-patients most blunted and withdrawn at baseline.
+
+We examined the slopes of the baseline-termination scores among the three treatments for the a priori akinesia items. In no instance were the slopes different to a statistically significant degree. This result does not support the hypothesis that fluphenazine decanoate exacerbates schizophrenic symptoms.
+
+COMMENT
+As stated in our previous report,1 these study patients are not entirely representative of outpatient schizophrenics because we excluded those patients who did not regularly keep their appointments during the baseline period. We did this to reduce the number of dropouts that would increase the hazards of interpretation. The price paid for such exclusions is to reduce the representativeness of the sample and therefore restrict the generalizability of our conclusions. But such conclusions are less likely to be erroneous than those from a study marred by a high dropout rate. We chose to focus on a sample that would be most likely to demonstrate the effects of medication. This publication gives the evidence from statistical analyses of the rating scale data that our clinical diagnoses of relapse and akinesia were accurate. We caution the clinician not to take from these data the conclusion that oral fluphenazine is superior to fluphenazine decanoate in the treatment of the typical outpatient chronic schizophrenic. Although in this sample both drugs equally prevented relapse and fluphenazine decanoate was associated with more toxic effects, we still consider unreliable pill-taking to be a major cause of treatment failure in outpatient clinics. If future research confirms our finding that fluphenazine decanoate is more likely to induce extrapyramidal side effects, it still, in many instances, may be preferable to use fluphenazine decanoate, rather than an oral antipsychotic, because EPS extrapyramidal side effects are observable, especially when the clinician is sensitive to its emergence, whereas covert noncompliance with pill-taking is not.
+
+CONCLUSION
+The rating scale data support our major clinical findings: (1) placebo is worse than active drug in community-maintained, remitted schizophrenics, and (2) patients receiving fluphenazine decanoate have a high incidence of akinesia.
+
+This investigation was supported by grant MH 21337 from the National Institute of Mental Health.
+
+The following staff members of the Long Island Jewish-Hillside Medical Center aided in this project: E. Brubaker; S. Feldman; F. Howard; J. Kane, MD; J.H. Kaplan, MD; J. Lavalle; D.V. Nayak, MD; M. Pereira, MD; . Saraf, MD; . Schmeising, RN; . Shaw, RN; P. Skomorowsky; D. Tieman, RN; J. Wegner; and A. Zaffuto.
+
+# Tables (TXT Format)
+## Table 1.-Baseline/Endpoint Comparisons of All Terminators-CGI-Severity of Illness
+| Group | N | Pre-mean | Post-mean | t | p (Two-Tailed) |
+| --- | --- | --- | --- | --- | --- |
+| Spontaneous DO | 7 | 3.29 | 2.57 | 1.70 | NS |
+| Toxic drug effects | 11 | 3.18 | 3.09 | 0.21 | NS |
+| Nonschizophrenic relapse | 7 | 3.00 | 4.14 | 1.92 | NS |
+| Schizophrenic relapse | 14 | 3.21 | 5.21 | 7.21 | < .001 |
+*Note: 1 indicates normal; 7, among the most extremely ill*
+
+## Table 2.-BPRS Items and Factors Showing Significant Worsening Between Baseline and Endpoint in Schizophrenic Relapses (N=14)
+| Category | Item/Factor | Premean | Pre-SD | Postmean | Post-SD | t Test | p (One-Tailed) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Item* | Anxiety | 2.43 | 1.24 | 4.14 | 1.46 | 4.04 | < .005 |
+| Item* | Emotional withdrawal | 1.64 | 0.97 | 2.86 | 1.85 | 2.07 | < .05 |
+| Item* | Conceptual Disorganization | 1.43 | 1.12 | 3.21 | 2.37 | 2.79 | < .025 |
+| Item* | Tension | 2.29 | 1.28 | 4.43 | 0.90 | 6.20 | < .0005 |
+| Item* | Depressive mood | 1.43 | 0.62 | 2.86 | 1.68 | 3.24 | < .005 |
+| Item* | Hostility | 1.07 | 0.26 | 2.50 | 2.10 | 2.50 | < .025 |
+| Item* | Suspiciousness | 1.36 | 0.72 | 3.93 | 1.71 | 4.93 | < .0005 |
+| Item* | Hallucinatory behavior | 1.00 | 0.0 | 2.36 | 1.63 | 3.00 | < .005 |
+| Item* | Uncooperativeness | 1.00 | 0.0 | 2.07 | 1.98 | 1.95 | < .05 |
+| Item* | Unusual thought content | 1.79 | 1.15 | 4.07 | 1.87 | 4.24 | < .0005 |
+| Item* | Excitement | 1.29 | 1.03 | 2.86 | 1.77 | 3.29 | < .005 |
+| Factors† | Thinking disturbance | 1.21 | 2.11 | 6.64 | 3.75 | 5.40 | < .0005 |
+| Factors† | Withdrawal-retardation | 1.50 | 1.88 | 3.86 | 3.96 | 1.93 | < .05 |
+| Factors† | Hostile-suspiciousness | 0.43 | 0.73 | 5.50 | 4.19 | 4.29 | < .0005 |
+| Factors† | Anxious-depression | 2.36 | 2.02 | 5.93 | 3.17 | 4.56 | < .0005 |
+*Note: * Brief Psychiatric Rating Scale items; † BPRS Factors*
+
+## Table 3.-KAS-R* Scales Showing Significant Worsening Between Baseline and Endpoint in Schizophrenic Relapses (N=12)†
+| KAS-R | Premean | Pre-SD | Postmean | Post-SD | t Test | p (One-Tailed) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Belligerence | 1.04 | 0.14 | 1.35 | 0.45 | 2.07 | < .05 |
+| Negativism | 1.47 | 0.57 | 1.76 | 0.50 | 2.20 | < .025 |
+| Helplessness | 1.81 | 0.58 | 2.44 | 0.74 | 2.42 | < .025 |
+| Suspiciousness | 1.77 | 0.55 | 2.32 | 1.08 | 3.00 | < .01 |
+| Anxiety | 1.24 | 0.32 | 1.90 | 0.73 | 2.67 | < .025 |
+| Nervousness | 1.94 | 0.49 | 2.44 | 0.59 | 2.83 | < .01 |
+| Bizarreness | 1.25 | 0.27 | 1.72 | 0.65 | 2.09 | < .05 |
+| Hyperactivity | 1.75 | 0.86 | 2.27 | 0.77 | 1.88 | < .05 |
+| General psychopathology | 1.54 | 0.32 | 1.98 | 0.48 | 2.36 | < .025 |
+*Note: * Katz Adjustment Scale-Relative: 1 indicates almost never; 4, almost always. † Two patients not included because of missing data.*
+
+## Table 4.-Change Scores on Akinesia Items for Patients Dropped From Study Because of Akinesia (N=8)
+| Category | Item | Premean | Pre-SD | Postmean | Post-SD | t Test | p (One-Tailed) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BPRS Items* | Emotional withdrawal | 1.25 | 0.66 | 2.12 | 1.16 | 1.98 | < .05 |
+| BPRS Items* | Depressed mood | 1.25 | 0.66 | 2.75 | 1.92 | 2.51 | < .025 |
+| BPRS Items* | Motor retardation | 1.25 | 0.66 | 3.00 | 1.80 | 2.59 | < .025 |
+| BPRS Items* | Blunted affect | 1.37 | 0.69 | 2.75 | 1.48 | 2.31 | < .05 |
+| BPRS Items* | Excitement | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | NS |
+| PER-C† | Involvement in leisure activity | 3.25 | 0.66 | 3.37 | 0.69 | 0.55 | NS |
+| PER-C† | Withdrawn | 1.87 | 1.05 | 3.62 | 1.11 | 4.25 | < .005 |
+| PER-C† | Impaired goal directedness | 2.25 | 1.20 | 3.37 | - | 3.81 | < .005 |
+| PER-C† | Productivity of speech | 2.87 | 0.33 | 1.62 | 0.69 | 5.00 | < .005 |
+*Note: * Brief Psychiatric Rating Scale: 1, not present; 7, extremely severe. † Periodic Evaluation Record-Community Version: 1, no pathology; 5, marked pathology, except productivity of speech, where 1 indicated marked reduction; 3, average; and 5, marked increase.*
+
+## Table 5.-Endpoint Comparisons Between Survivors and Akinesic Withdrawals
+| Category | Item | Survivors' Mean | Survivors's SD | Akinesic's Mean | Akinesic's SD | Test Statistic | p (One-Tailed) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BPRS Items* | Emotional withdrawal | 1.15 | 0.50 | 2.12 | 1.25 | 2.18 | < .05 |
+| BPRS Items* | Depressed mood | 1.20 | 0.59 | 2.75 | 2.05 | 2.11 | < .05 |
+| BPRS Items* | Motor retardation | 1.00 | 0.00 | 3.00 | 1.93 | 18.53† | < .001 |
+| BPRS Items* | Excitement | 1.06 | 0.24 | 1.00 | 0.00 | 0.00† | NS |
+| PER-C† | Withdrawn | 1.09 | 0.29 | 3.62 | 1.19 | 6.00 | < .001 |
+| PER-C† | Impaired functioning | 1.41 | 0.89 | 3.37 | 1.19 | 4.39 | < .0005 |
+| PER-C† | Productivity of speech | 2.94 | 0.42 | 1.62 | 0.74 | 4.82 | < .0005 |
+| PER-C† | Involvement in leisure time | 2.26 | 0.83 | 3.37 | 0.74 | 3.41 § | < .005 |
+*Note: * Brief Psychiatric Rating Scale: 1 indicates not present; 7, extremely severe. † χ² used comparing patients with no pathology to all others-because absence of variance in one group distorts t test. ‡ Periodic Evaluation Record-Community Version; 1 indicates no pathology; 5, marked pathology except for productivity of speech, where, 1, markedly reduced; 3, average; 5, marked increase. § t Test with similar variances.*
+
+# Image Description (TXT Format)
+There are no images included in the article.

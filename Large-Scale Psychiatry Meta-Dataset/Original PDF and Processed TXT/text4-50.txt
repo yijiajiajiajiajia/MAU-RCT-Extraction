@@ -1,0 +1,116 @@
+### Text Content (Before References)
+THE JOURNAL OF NERVOUS AND MENTAL DISEASE
+Copyright 1972 by The Williams & Wilkins Co.
+Vol. 154, No. 1
+Printed in U.S.A.
+
+HALOPERIDOL, CLOPENTHIXOL, AND CHLORPROMAZINE IN CHRONIC SCHIZOPHRENIA: CHEMICALLY UNRELATED ANTIPSYCHOTICS AS THERAPEUTIC ALTERNATIVES
+
+E. A. SERAFETINIDES, M.D., PH.D., S. COLLINS, MD. AND M. L. CLARK, M.D.
+
+1 Department of Psychiatry, University of California at Los Angeles, Center for the Health Sciences, Los Angeles, California.
+2 Department of Medicine, University of Oklahoma Medical Center, Oklahoma City, and Central State Griffin Memorial Hospital, Norman, Oklahoma.
+
+This research was supported in part by U.S. Public Health Service Grant MH 11666 and by National Institute of Mental Health Research Scientist Development Award K135278 (Dr. Serafetinides).
+
+In a double-blind placebo controlled clinical trial in chronic schizophrenic patients, haloperidol and clopenthixol were found to be effective antipsychotic agents, favorably altering behavior as observed by the psychiatrist, the nurse, and ward attendants. In this respect they appeared to compare adequately to the standard drug, chlorpromazine. In this experiment, neither the standard drug nor the investigational drugs affected psychological test performance.
+
+The expected side effects such as extrapyramidal signs and sedation did occur and in some instances required dose reduction for alleviation. One case of possible hepatoxicity in the CX group occurred at the end of the study and was considered of serious import requiring cessation of medication.
+
+It was concluded that these chemically unrelated antipsychotics could be used in practice as therapeutic alternatives, the particular choice depending on side effects and possibly symptomatology.
+
+Since it was first made available for clinical use in 1960 (10), haloperidol (HAL), a butyrophenone, has been widely used as an antipsychotic drug, especially in Europe. In terms of chronic psychosis, HAL was thought to have "considerable clinical utility" after having been tried in this country as well (11). Canadian investigators (2) found it "at least as effective as the most potent phenothiazine drugs" in drug resistant psychotics.
+
+Clopenthixol (CX), the thioxanthene analogue of perphenazine, was introduced as an antipsychotic drug in psychiatry during the last 10 years but its efficacy has been assessed in relatively few controlled studies in this country so far. Claims have been made regarding its usefulness in various categories of psychiatric patients, especially drug resistant schizophrenies with florid symptomatology, and also with respect to its low toxicity (1).
+
+This report deals with the results of a double blind placebo controlled study of the therapeutic efficacy of HAL and CX in chronic schizophrenic patients using chlorpromazine (CPZ) as a standard reference drug. Of particular interest is the fact that three antipsychotic drugs representing three different chemical families are included in the same study and may be examined under the same experimental conditions.
+
+METHOD
+
+Fifty-seven chronic schizophrenic subjects, 25 males and 32 females, ages 21 to 61, without evidence of organic disease, ill 2 years or longer, were selected for study when permission from a responsible family member was obtained. The subjects were housed together on a special two-wing ward, males in one wing, females in the other, with a common day room between. The effects of previous treatment were allowed to dissipate over a 12-week dry-out period during which time a physical examination was completed. Base line (pretreatment) measures were obtained during the 12th dry-out week and the subjects were randomly assigned to treatment. Each subject received medication from his own individual stock bottle, labeled only with his name. Starting with 2 capsules/day, the dose was increased by 1 capsule every 3 days to a maximum of 10 capsules, representing 15 mg of HAL, 250 mg of CX, 1000 mg of CPZ, or ten PL capsules. All medications were prepared in identically appearing capsules. Dose adjustment was permitted for the appearance of toxic symptoms or side effects and concomitant medication for Parkinsonism or bedtime sedation, when necessary, was also allowed. During the 12th week of medication, final (post-treatment) measures were obtained and the study was terminated.
+
+One subject (A.M.) because of rapid clinical deterioration with cessation of medication was removed from medication for only 2 weeks before the study.
+
+MEASURES OF RESPONSE
+
+1) Psychiatric assessments were based on individual interviews at the beginning and end of the treatment period permitting both clinical assessments of change (Clinical Global Impression (CGI) Severity of Illness and CGI Improvement) and the completion of the Overall and Gorham Brief Psychiatric Rating Scale (BPRS) (13). Background data were obtained by the project psychiatrist and the project social worker.
+
+2) Ward behavior was observed daily by nursing service personnel (ward attendants) who completed the Nurse's Observation Scale for Inpatient Evaluation (NOSIE) (9) at 4-week intervals throughout the study and the Oklahoma Behavior Rating Scale (OBRS) (4) at the beginning and end of the treatment period. A global clinical impression of change was also supplied by the research nurse at the end of treatment.
+
+3) A Psychological Test Battery was carried out at 4-week intervals throughout the study by a team of psychologists. It consisted of the following: Purdue Pegboard, Digit Symbol, Stroop Color Word Test, Muller-Lyer Illusion, Continuous Performance Test, Choice-Conflict Reaction Time Task, Finger Tapping Test, and Dotting Test.
+
+4) Measured biological parameters included daily axillary body temperature; body weight and blood pressure measured once a week; urinalysis, hematocrit, white blood count (WBC) and differential, alkaline phosphatase, serum glutamic pyruvic aminase (SGPT), serum bilirubin, and blood urea nitrogen (BUN) measured every 4 weeks; serum cholesterol, serum triglycerides, and serum zinc measured at the beginning and end of treatment; slit lamp examination carried out by consulting ophthalmologist at the beginning and end of treatment.
+
+5) Toxicity and the occurrence of side effects was observed through regular ward rounds, and side effects were recorded on the Early Clinical Drug Evaluation Unit "Treatment Emergent Symptoms" (TES) form every 4 weeks.
+
+6) The data were analyzed using Analysis of Variance (AOV) or Analysis of Covariance (AOCOV) for the overall F where initial and final mean scores were available. The Dunnett t test was then used for specific drug: PL comparisons. Significant regression effects precluding though invalidating the usual AOCOV mean comparisons, were considered effects in their own right. Significant mean comparisons in the face of heterogeneity of regression were validated by AOV. The data derived from CGI were analyzed by χ² test.
+
+RESULTS
+
+Four of the 57 subjects, three on CPZ, and one on PL, failed to complete the 12 weeks of study. The PL subject and one CPZ subject were terminated because of behavioral deterioration after 4 and 8 weeks respectively. The other two CPZ subjects developed intestinal obstruction secondary to massive fecal impactions and were terminated in the 7th week of study.
+
+The remaining 53 subjects completed the study and after 12 weeks, the average medication dose was HAL, 13 mg, CX, 227 mg, CPZ, 945 mg, and PL, 10 capsules. At that time 12 of 14 HAL subjects, 12 of 15 CX subjects, 10 of 11 CPZ subjects, and all of the 13 PL subjects were taking the maximum dose of 10 capsules per day (Table 1).
+
+Demographic data for each treatment group are shown in Table 2. It appears that the treatment groups were relatively comparable for most aspects of their backgrounds.
+
+Measures of response based on clinical global impression (CGI) were obtained from the psychiatrist and the research nurse. The CGI of the psychiatrist and the research nurse concerning overall improvement and the psychiatrist's CGI of Severity of Illness are shown in Tables 3 and 4, respectively.
+
+No significant differences were found among treatments with either the psychiatric Severity of Illness rating or the psychiatric CGI of overall improvement, although a trend (p<.10) favoring drugs over PL was present. On the other hand, the CGI of improvement provided by the nurse, did differentiate both the investigational drugs and the standard drug from PL to a statistically significant degree. In this instance the HAL and the CX groups appeared to exhibit improvement in ward behavior, somewhat more frequently than did the CPZ group.
+
+The mean, pre- and post-treatment, BPRS Total Scores for each treatment group are shown in Table 5. Significant Drug: PL differences were demonstrable for all three drug groups.
+
+A breakdown of the BPRS by items is shown in Table 6, showing initial and final means, adjusted final means and significant Drug: PL comparisons by AOCOV. All three active drugs were significantly more effective than placebo for tension. CX and HAL were also more effective for anxiety and excitement, CX and CPZ for conceptual disorganization, and CPZ for hallucinatory behavior and unusual thought content.
+
+The results obtained using the Nurse's Observation Scale for Inpatient Evaluation (NOSIE) are depicted in Table 7. The mean pre- and post-treatment scores and the adjusted post-treatment score for each treatment group for each factor and the total score are listed. Both investigational drug groups and the standard drug group showed significant Drug: PL differences on Total Score and the Manifest Psychosis factor. In addition the CX group exhibited a significant regression effect as well as mean effect (AOV) on Irritability, suggesting that those subjects with greater initial irritability were most favorably affected by treatment with CX.
+
+On the Oklahoma Behavior Rating Scale (Table 8), the subjects in both the HAL and CX drug groups exhibited significant Drug: PL mean effects on Total Extreme Behavior (E). In addition significant regression effects were demonstrable on Typical and Extreme Hyperactive Behavior (B+ and E+), most apparent for HAL on B+ and for CPZ on E+. In these instances those subjects exhibiting the most deviant behavior initially were the most affected by the drugs.
+
+The entire psychological test battery including the Digit Symbol Test, Purdue Pegboard Test, Reaction Time Tests, the Dotting Test, Finger Tapping, Stroop Color-Word Test, Muller-Lyer Illusion Test, and Continuous Performance Tests, all failed to reflect significant treatment effects.
+
+The Venables-O'Connor scale (16, 17) (Table 9) for rating withdrawal and paranoid schizophrenia reflected results as previously reported by Goldberg (7) in that the subjects on CPZ exhibited significant improvement on the withdrawal factor, but not the paranoid factor. The subjects on CX and HAL behaved similarly. However, a significant regression effect was demonstrable on the Paranoid Factor, most apparent for the HAL group, in which those subjects with high initial scores were most favorably affected by treatment.
+
+Signs and symptoms of toxicity or undesirable pharmacological effects and abnormal laboratory values possible attributable to treatment are listed in Tables 10 and 11. It appears that extrapyramidal signs occurred somewhat more frequently with HAL and CX than with CPZ. Transient sedation occurred often with CX and CPZ, but not at all with HAL. However, persistent sedation occurred in three instances with HAL and persisted as well in four subjects on CX, and one subject on CPZ. Orthostatic hypotension, significant constipation, and photosensitivity appeared only with CPZ. Significant weight loss occurred more frequently with HAL and PL (>10 lbs.) whereas significant weight gains (>10 lbs.) were more apparent with CPZ. Weight loss and weight gain occurred with equal frequency with CX.
+
+Post-treatment eosinophilia seemed to occur slightly more often with HAL and CX than with CPZ. Low serum cholesterol concentrations seemed to occur more often with HAL, whereas elevated triglycerides seemed more often to be associated with CX. SGPT alterations occurred only with CX in this study, and in one instance this was persistent and progressive and resulted in withholding medication and a complete workup for liver disease including a needle biopsy. The biopsy was interpreted as steatosis and possible early cirrhosis, but its relationship to drug treatment is difficult to assess. The patient subsequently made a complete clinical recovery, but unfortunately a follow-up liver biopsy could not be obtained. Otherwise none of the laboratory changes was considered of sufficient importance to alter treatment.
+
+DISCUSSION
+
+Although minor differences seem apparent among the three drug treatments, their similarity in terms of overall antipsychotic efficacy is perhaps the most striking finding in this study. Indeed, trying to differentiate treatments on the basis of antipsychotic activity alone would be most difficult. This is remarkable in view of the fact that these drugs are not chemically related. In addition to the theoretical issues involved, the practical implications of the finding are that these drugs can be used as alternatives in the treatment of chronic schizophrenic patients. Thus, the particular choice will be made largely on the basis of the side effects of the drug in question.
+
+The demographic data indicate that the average subject in this study might be described as a 40-year-old Caucasian male or female, probably never married, who had been ill for more than 15 years. Prior to study the subject was on the vegetative or withdrawn side, participating in only a limited fashion in ward activities. The subject's family and home situation were frequently unfavorable and the present episode of illness was generally continuous over more than 12 years. Thereby, the marked chronicity of illness of these subjects was established and the comparability of the four treatment groups on these variables was relatively good.
+
+It is of interest that the total BPRS score reflected Drug: PL differences for CX, HAL, and CPZ, but this appeared to be principally a function of the deterioration of the PL group. Only the CPZ group scores indicated slight overall improvement. However, a breakdown of the BPRS by items did bring out drug-induced improvement in some areas with HAL and CX appearing more effective for a constellation of secondary symptoms such as tension, anxiety, and excitement while CPZ appeared more effective for a constellation of more primary symptoms such as conceptual disorganization and unusual thought content. Interestingly, this is at variance with the findings of Gonnier, Schiele, and Vestre (8) who reported recently that HAL was more effective in reducing typically psychotic symptoms such as conceptual disorganization. Although, these investigators also used the BPRS in their assessment, comparison is difficult, since their control drug was thioridazine and their study populations consisted of male patients only.
+
+The NOSIE and OBRS which reflect ward behavior as seen by the ward attendants in this study, rather than the research nurse or psychiatrist, did depict significant Drug: PL differences on Manifest Psychosis, Irritability, and Total Score of the NOSIE and B+, E and E+ of the OBRS, based on positive improvement trends for the drug groups rather than negative trends for the PL group.
+
+The failure of the psychological test battery to reflect drug effect even in part is most striking. The fact that the numbers of groups were reduced by those who failed to participate either at the beginning or the end may account for this. The observation scales, on the other hand, do not require patient cooperation or participation.
+
+On the Venables-O'Connor scale (16, 17), CX and HAL as well as CPZ showed the expected improvement in withdrawal, and CPZ as expected showed no mean change on the Paranoid factor. This was in agreement with the observations of Goldberg (7). However, the significant regression effect on the Paranoid factor, suggesting differential treatment effects for high and low initial scores, appears to involve all treatments, including the CPZ and thereby clouds the issue.
+
+The incidence of extrapyramidal signs was higher with HAL and CX than with CPZ. This higher incidence among the HAL patients in our study is in keeping with the findings of other investigators (6). However, none of these signs were of a particularly severe or dystonic type. Claims have been made to the effect that whereas extrapyramidal signs occur with greater frequency at higher doses (above 5 mg, daily), the best therapeutic effects are seen with relatively low doses (up to 5 mg, daily) (11). However other reports stress that higher doses are necessary for good therapeutic results (6).
+
+Excessive sedation, as a transient side effect, was quite as noticeable with CX in this study as with CPZ. Simpson et al. (15) reported sedation with low doses CX, presumably early; Merlis (12) also reported "initial severe sedation" in all his 12 subjects who reached a maximum dose of 150 mg daily. In the present study, excessive sedation after an initial dose of 50 mg CX was noted in 10 of 15 subjects. In all but four instances this was a transient phenomenon disappearing over a period of a few days to a few weeks. In those four instances attempts to adhere to the dose increment prescribed by the study protocol were unsuccessful and eventually adjustments had to be made to control the sedation. Three instances of persistent sedation also occurred with HAL requiring dosage adjustment; with CPZ, sedation persisted in only one case. On the other hand, the restlessness and insomnia reported by Schiele (14) and the photophobia and high incidence of akathisia mentioned by Merlis (12) were not observed with CX. However, a relatively high incidence of extrapyramidal signs other than akathisia was noted.
+
+Finally, our tentative low serum cholesterol values for HAL, although needing further investigation, are noted with interest in view of the hypocholesterolemic effects of another butyrophenone [trifluperidol (3)] and the hypercholesterolemic effects of the phenothiazine chlorpromazine (5).
+
+In conclusion, it can probably be said that due to their overall antipsychotic similarity, these three drugs may be considered as therapeutic alternatives and prescribed as such despite their chemical dissimilarity. The particular choice would depend partly on the side effects in question and possibly also on the type of symptomatology present.
+
+### Tables (Labeled as Table 1 to Table 11)
+Table 1: Dosage Information
+|-----------------------------------|-------|-------|-------|---------------|
+| Average daily dose overall        | 205 mg| 830 mg| 12.3 mg| 8.7 capsules  |
+| Average dose last week of study   | 227 mg| 945 mg| 13.0 mg| 10 capsules   |
+| Number on max. dose last week of study | 12/15| 10/11| 12/14| 13/13         |
+| Number receiving Cogentin*        | 8     | 4     | 6     | 3             |
+* Benztropine mesylate, Merck Sharp & Dohme.
+
+Table 2: Demography
+|-----------------------------------|----------|----------|----------|---------|
+| Sex:                              |          |          |          |         |
+| Male                              | 7        | 6        | 5        | 6       |
+| Female                            | 8        | 8        | 9        | 7       |
+| Race:                             |          |          |          |         |
+| Caucasian                         | 14       | 14       | 11       | 13      |
+| Other                             | 1 Indian |          | 1 Indian, 2 Black |         |
+| Age:                              |          |          |          |         |
+| Average                           | 40.9     | 40.1     | 43.4     | 43.9|

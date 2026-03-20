@@ -1,0 +1,280 @@
+# A CONTROLLED ONE-YEAR STUDY OF PIPOTIAZINE PALMITATE AND FLUPHENAZINE DECANOATE IN CHRONIC SCHIZOPHRENIC SYNDROMES Evaluation of results at 6 and 12 months’ trial
+S. J. DENCKER, K. FRAIUKENBERG, U. MALM AND B. ZELL
+
+## INTRODUCTION
+Earlier open studies on two new depot neuroleptics, pipotiazine palmitate (PP) and fluphenazine decanoate (FD) had indicated their usefulness in treatment of schizophrenia (Kristjansen et al. (1971), Lambert (1970)).
+The AIM OF THIS STUDY was to evaluate the effects and side-effects of the two drugs in maintenance therapy of chronic schizophrenic syndromes. Another purpose was to ascertain whether the drugs could be given once every 4 weeks. In addition, special attention was given to the occurrence of depression, extrapyramidal side-effects, and the importance of life events.
+
+## MATERIAL AND METHODS
+### 1. General trial design
+The trial was planned to continue for one year. It was divided into three phases:
+Phase 1, adjustment phase. This period of three months was used to adjust dosage in order to obtain a maximal effect on the psychopathological symptoms, with due allowance for the side-effects. If necessary, additional injections could be given. Previous psychotropic drugs were withdrawn. The patients were assessed once a month.
+Phase 2, maintenance period 1, likewise three months long. During this period, the individually adjusted dose was given once every 4 weeks. As in phase 1, the patient was assessed once a month.
+Phase 3, maintenance period 2. This period lasted 6 months. As in phase 2, the patients received a monthly dose, which could, however, now be adjusted in amount if desired. Moreover, the monthly assessments were omitted, and the patients were instead assessed 9 and 12 months after the start of the trial.
+The trial was started in May 1971, and completed in June 1972.
+
+### 2. Patient selection
+All patients from the department who needed maintenance therapy with neuroleptics and met the following requirements were accepted for the trial:
+1. Only patients treated with long-acting neuroleptics.
+2. The diagnosis should fall within the category of schizophrenic syndromes.
+3. Age between 18 and 65 years.
+4. Duration of disease: >3 years; hospitalisation: <10 years
+Exclusions:
+1. Patients with toxicomania (alcoholism or narcomania).
+2. Patients with symptoms suggesting neurological or other somatic disorders.
+3. Patients treated with high doses (at least 250 mg, single dose) of fluphenazine enanthate.
+Sixty-seven patients met the requirements and entered the trial. These 67 patients were matched for sex and age (10 year classes), and distributed randomly between the treatment series.
+
+### 3. Administration of drugs
+No wash-out period was used. The first injection in the present trial was given at the time that the patient would otherwise have been given his ordinary injection of depot neuroleptic.
+The double blind technique was applied and one of the psychiatrists regulated the treatment by prescribing the neuroleptics in the form of dose units. The dose units and the dose range were based on experience from our previous trials with the drugs, as well as the manufacturer’s recommendations for optimal dose ranges for the respective drugs.
+The dose unit of pipotiazine palmitate was 50 mg (dose range 25-400 mg) and the initial dose was 100 mg, and the dose unit of fluphenazine decanoate was 6.25 mg (dose range 3.1-50 mg) and the initial dose 12.5 mg.
+The injections were given i. m. by a nurse, who was the only person who knew the code. After the initial adjustment period, treatment with all previous psychotropic drugs was terminated and only the following drugs were given:
+- Biperidene or benztropin for extrapyramidal symptoms of grade 3 on the scale for side-effects,
+- Diazepam for severe symptoms of anxiety (global rating),
+- Methaqualone or meburnal for insomnia,
+- Imipramine in cases of pronounced depression (global rating).
+
+### 4. Assessment methods (Table 1)
+Most of the ratings were made by one psychologist, and the rest by one of the psychiatrists.
+GPPQ (General Purpose Psychiatric Questionnaire) was used at the start of the trial for the registration of demographical information (Kline (1966)).
+Global rating. The psychiatrist and the psychologist together rated the patients with respect to symptoms and side-effects. The patients were judged improved, unchanged or deteriorated.
+The symptom scale (S-scale). The S-scale (Jonsson & Mirtens) is a scale for estimating schizophrenic symptoms (Mirtens (1966)). It consists of 25 items with operational definitions for each step of the scale, graded from 0 (lowest) to 4 (highest degree of severity) (see appendix 1).
+BPRS (Brief Psychiatric Rating Scale). This comprises 16 items that can be graded 1 (no symptom) to 7 (severe symptoms) (Overall & Gorham (1962)).
+Hamilton’s scale for depression. This has 22 items which are graded from 0 (lowest) to 2 or 4 (highest) with operational definitions for each grade of the scale (Hamilton (1960)).
+Side-effect rating scale. This scale has 24 items. It covers fairly common types of side-effects of psychopharmacological drugs, graded 0 to 4 (Malm & Perris (1970)) (see appendix 2).
+Rating scale for extrapyramidal side-effects. (Simpson & Angus (1970)) includes 12 items for extrapyramidal symptoms arising from psychopharmacological treatment, graded 0-4.
+Handwriting test (Haase et al. (1968)) is said to demonstrate mild or sub-clinical extrapyramidal symptoms.
+Activities of daily living (ADL performance) were assessed according to a 5 point rating scale (Claesson & Malm (1972)) (see appendix 3).
+Work performance. Working capacity was likewise assessed according to a 5 point rating scale (see appendix 4).
+SRE (Schedule for Recent Events; Rahe & Arthur (1968)) covers personal events considered relevant by the patient. Registration with SRE was done each half-year period.
+Before the trial and once a month during the first six months, as well as every third month during the second half-year, the patients were rated on the S-scale, BPRS, Hamilton’s scale for depression, the side-effect rating scale and the scale for extrapyramidal reaction. See also assessment schedule in Table 1.
+
+### 5. Laboratory examinations
+At the end of each six months of the trial, determinations were made of: E. S. R., serum haemoglobin, W. B. C., SGOT (serum glutamic-oxalic transaminase), SGPT (serum glutamic-pyruvic acid transaminase), urinary protein and urinary sugar.
+
+### 6. Statistics
+One-way analysis of variance was used to test the background variables as well as the Wilcoxon signed ranks test (Siegel (1956)) to test differences within the groups.
+
+## RESULTS
+This paper presents only the effects after 6 and 12 months of the trial. This was decided upon for two reasons:
+a. Carry-over effects of previous neuroleptics could not be excluded during the first half-year. Such effects can, however, very probably be excluded after 6 months’ treatment with the new drugs, and
+b. there were certain differences in the trial design between the two half-year periods. During the first three months the trial was concerned with adjustment of the new drugs, and ratings were made every month. During the second half-year period the design resembled clinical routine treatment.
+It is our intention to analyse also the process of treatment with item analyses, as well as factor analysis and to publish the results in a later paper.
+
+### 1. Description of the patient material
+From a statistical point of view, the two series turned out to be fairly comparable regarding age distribution and duration of disease (Table 2). Table 3 gives data on the previous treatment with depot neuroleptics.
+Sixty-five patients completed the initial adjustment period of three months. In those patients, 17 categories of demographic data from the GPPQ were analysed with one-way analysis of variance in order to demonstrate any skew distribution of the PP-and the FD-series. One significant difference (P<0.05) was found between the two groups, viz. a higher frequency of out-patients in the FD-series than in the PP-series at the start of the study. In the course of the trial, differences in the type of care between the two series became smaller and smaller, mostly due to an increase of the number of outpatients in the PP-group and a decrease in the FD-group. The distribution of patients according to type of care as out-patients, in-patients, and day-care is shown in Table 4.
+
+### 2. Patients withdrawn from the trial
+One patient in the PP-series, a 25-year old man, was excluded from the trial after one month because of attacks of choking, probably due to acute extrapyramidal side-effects. The patient afterwards refused to take the drug. The other was a patient of the FD-series whose symptoms of schizophrenia worsened and was excluded from the trial during the second month because other neuroleptics had to be added.
+Two patients in the PP-series and five in the FD-series were excluded during the last six months’ trial-in all these seven cases the exclusion was due to increased schizophrenic symptoms. Thus in the PP-series 31 (97%) patients completed 6 months’ trial and 29 (91%) patients 12 months’ trial. The corresponding figures in the FD-series were 34 (97%) and 29 (83%), respectively.
+
+### 3. Dosages
+The mean dose of single injections during the first half year’s trial was 131.5 mg in the PP-series and 16.8 in the FD-series, and for the second half year 145.7 mg and 16.2 mg, respectively. Figure 1 gives the distribution of the number of patients in relation to dosage at the end of 6 and 12 months’ trial, respectively.
+
+### 4. Ratings
+Apart from the global ratings, the drop-out patients are not included in the following statistical analysis.
+
+#### a. Global ratings (Table 5)
+The global ratings after 6 months’ trial showed a tendency for patients to improve in both series. The global ratings for the 58 patients that completed one year’s trial showed that, with one exception in each series, all patients were judged to be either unchanged or improved in comparison to the rating before the trial (when they were under treatment with previous drugs). In the PP-group 88% and in the FD-group 80% of the patients who entered the trial were in a satisfactory condition after 12 months trial.
+
+#### b. The symptom scale (S-scale)
+The mean total scores before treatment were low, about 7 points, and practically the same in both series. The total scores before and after 6 and 12 months’ trial, respectively, are given in Table 6. The statistical differences between the ratings before and after 6 months’ trial were calculated by the Wilcoxon test. The results showed a significant (P<0.05) reduction of symptoms in the FD-series (Figure 2). After one year‘s trial a significant (P<0.05) improvement was found in the PP- and the FD-series.
+Improvement or deterioration was defined as such when the individual score differed by more than one standard deviation from the mean value of the total score, improvement after the 12 months’ trial was found for two patients in the PP-series and in 8 of the FD-series (Table 7).
+
+#### c. The Brief Psychiatric Rating Scale (BPRS)
+The mean total score before treatment was relatively low, 24-27 mean points in both series. The total scores and their frequency of changes after 6 and 12 months’ trial are given in Table 6 and 7. The Wilcoxon testing at the end of the first half-year of the trial showed a significant reduction of symptoms for the FD-series (P<0.01). At the end of the second half of the trial, a significant improvement was found in the PP-series (P<0.05), as well as in the FD-series (P<0.01); Figure 2).
+
+#### d. The Hamilton rating scale for depression (Table 6 and 7)
+The mean total scores before the trial were roughly equal in both series (Table 6). The Wilcoxon test revealed a significant improvement (P<0.05) in the FD-series after the first 6 months. At the end of the second half-year period (Figure 2) a significant reduction was found in the PP-series (P<0.05), as well as in FD-series (P<0.01).
+
+#### e. Side-effect rating scale
+Before the trial the mean scores were roughly equally low in both series, and they decreased further in both by the end of each half-year period of the trial (Tables 6 and 7). After 6 and 12 months, the Wilcoxon test showed a significant improvement in both series (P<0.01); Figure 2).
+
+#### f. Rating scale for extrapyramidal side-effects (Table 6 and 7)
+Before the trial the mean total score for extrapyramidal side-effects was higher in the PP-series-3.55 points-than in the FD-series-1.76 points (Table 6). At the end of the first 6 months’ period, the Wilcoxon test showed a significant improvement in both series (P<0.01). At the end of one year trial only the PP-series revealed a significant improvement (P<0.05).
+
+#### g. ADL- and Work Performance
+As is apparent from Table 8, no significant changes occurred during the trial.
+
+#### h. Handwriting test
+Changes in handwriting showed only a poor correlation with clinical extrapyramidal symptoms in these patients and appeared to be due, among other things, to psychological factors. We therefore concluded that the validity of the test from demonstrating mild or sub-clinical extrapyramidal symptoms in the present investigation was poor. No results are therefore given.
+
+### 5. Laboratory studies
+No toxic effects occurred. Only 9 slightly abnormal values were found during the trial. The PP-series demonstrated one E. S. R. 38 mm/one hour, W. B. C. 11400 in one patient, SGOT 20 units (normal value <17 units) in two patients and SGPT 25 units (normal value <22 units) in one patient. In the FD-series there were found a W. B. C. of 11600 in one patient, SGOT 23 and 34 units in two patients and SGPT 28 in one patient.
+
+### 6. Concomitant drugs (Table 9)
+Twenty-one of the 31 patients in the PP-series and 16 of 31 in the FD-series were prescribed anti-parkinsonian drugs during the maintenance period 1, i. e. during 3-6 months’ trial. During the second half-year, 21 of 29 patients in the PP-series and 14 of 29 patients in the FD-series were given anti-parkinsonian drugs. Seven patients in the PP-series and one in the FD-series were given imipramine during the trial because of depressive symptoms. In both series a few patients were given diazepam and about one third of the patients were given hypnotics (Table 9).
+
+## DISCUSSION
+### 1. Sources of errors
+Though the first part of the trial lasted for as long as six months, carry-over effects of earlier treatment cannot be excluded for some patients. Carry-over effects may thus have contributed to activity as well as to side-effects during the first few months of the trial, during which period the dosage for maintenance period 1 was fixed. Most of the patients had been treated with fluphenazine enanthate or decanoate before the trial, and this may have meant a positive selection of patients for treatment with fluphenazine. This would be a bias with a positive effect on the FD-series and a negative effect on the PP-series. During the last 6 months of the trial, carry-over effects can, however, be excluded.
+The principles of selection were such that a positive group of patients was obtained for treatment with depot neuroleptics. This may explain why so many patients managed the trial so well. The skewness of the distribution of in- and out-patients in the two series at the start of the trial (Table 4) may be of some predictive value but should be elucidated by the fact that both types of patients had managed well on long acting neuroleptics, whilst before the trial the symptom level was the same whether they were in- or out-patients. Moreover, both series were very similar in respect of other GPPQ variables.
+Several patients thought it was an advantage to have an injection only once a month. This may have had a favourable effect on attitudes towards the new drugs, especially on the out-patients-and may consequently have resulted i. a. in a positive bias for the FD-series (significantly more out-patients) but then only during the first part of the trial.
+It has been mentioned above that drop-out-patients are not included in the statistical analysis. This might also be a positive bias for the FD-series where the number of drop-outs during maintenance periods 1 and 2 were five compared with two in the PP-series. This will be included in a future analysis.
+Personal experiences of the patient may play a role in a trial as long as one year, i. e. it may cause fluctuation in the frequency of reactive depressions. However, the number of “life events” according to the Schedule for Recent Events did not suggest any difference between the two series.
+During the investigation there were two examiners--a psychologist and a psychiatrist. The psychologist was responsible for most of the ratings. The reliability coefficient between the two raters for the S- and BPRS scales was found to be 0.84.
+During the trial, supervision of the patients by their previous therapists was continued with some exceptions. In both series the number of patients given psychotherapy was about the same as was also the number of patients given social training.
+
+### 2. Comments on the results
+One of the most important questions to be elucidated was whether the two drugs could be given at 4 week intervals. Two patients of the 58 that completed the trial, one in each group, had, according to the global rating, become worse during the trial. In ordinary maintenance treatment, these two patients as well as the nine withdrawn from the trial had been given treatment with a larger dose or injections at shorter intervals than 4 weeks or by the addition of other neuroleptics. The global ratings indicated that 80% of the patients in the FD-group and 88% of the patients in the PP-groups that entered the study, were well controlled after one year of trial. Our conclusion is that, in maintenance therapy, most patients with a chronic schizophrenic syndrome can be succesfully treated with one injection of pipotiazine palmitate or fluphenazine decanoate every 4 weeks.
+The results of the global ratings and the 5 rating scales indicated improvement in different respects in both the PP- and the FD-series, compared with earlier treatment. The differences were statistically significant after one year’s trial on both the S- and the BPRS scale for both series. It should be observed that before trial the patients were in a fairly good clinical condition as judged from, among other things, low total scores found at ratings of psychopathological symptoms and side-effects as well as assessments of social function.
+Alarcon & Carney (1969) reported the occurrence of depression with suicide during treatment with fluphenazine enanthate. They suggested a relationship between the treatment and the depression. Their conclusion has been criticized because their material included patients with recurrent depressions. In the PP-series, six of 32 patients, and the FD-series, 12 of 35, had a history of depressive episodes treated with ECT or antidepressant drugs. During the trial seven patients in the PP-series and one in the FD-series were given imipramine for depression (Table 9). These findings do not suggest that fluphenazine decanoate causes depression. On the other hand, four of the five patients excluded from the FD-series because of schizophrenic relapse, had had depressive episodes before the trial. Therefore, the patient which has a history of depression should, perhaps, be watched particularly when treated with pipotiazine palmitate or fluphenazine decanoate.
+The frequency of side-effects decreased significantly during the trial. Both groups showed a significant decrease in the scores for side-effects on both the scale for side-effects and the scale for extrapyramidal side-effects after six months’ trial. After 12 months’ trial the decrease was significant in both the scale for side-effects and the scale for extrapyramidal side-effects in the PP-series, but only in the scale for side-effects for the FD-series. These results should be seen against the background that the patients in the PP-series had a higher mean score on the rating scale for extrapyramidal side-effects before the trial and had more often been given anti-parkinsonian drugs during the trial. Imlah & Murphy (1970) suggested that fluphenazine decanoate is tolerated better than fluphenazine enanthate which has a shorter effect. Our findings may give some support to this opinion. One question beyond the scope of this trial is the relationship between the duration of action and the tolerance. Another question is to which extent the effect on target symptoms is related to the decreased side-effects of the drugs. The latter question is receiving attention in an item- and factor analysis.
+
+## SUMMARY
+Two depot neuroleptics, pipotiazine palmitate (PP) and fluphenazine decanoate (FD), were studied in a 12 months double blind trial using four week intervals between injections. The patients consisted of 67 chronic schizophrenics who were distributed randomly between two groups, age- and sex-matched. They were selected from a population that had previously been treated satisfactorily with long-acting neuroleptics. The one year trial was comprised of three phases:
+1. An adjustment period of three months,
+2. a maintenance period of three months without dosage changes,
+3. a maintenance period of six months, during which the dose was adjusted, if necessary, but not the intervals between doses.
+The global ratings showed that of the patients who entered the trial, 80% in the FD group and 88% in the PP group were satisfactorily controlled after 12 months.
+The outcome after 6 and 12 months of trial, evaluated by means of the global ratings, the social and work performance function levels and the S- and the BPRS-rating scales, indicated that the psychiatric symptoms decreased for most of the patients that completed the trial. At the same time the side-effects were reduced, especially those of an extrapyramidal type.
+However, the detailed results indicate certain differences between the two drugs and further analysis of results, especially in respect of the treatment process including item and factor analysis, will be published elsewhere.
+
+## RESUME
+ETUDE CONTROLLE, POURSUIVIE PENDANT UN AN, DU PALMITATE DE PIPOTIAZINE ET DU DECANOATE DE FLUPHENAZINE DANS LES SCHIZOPHRENIES CHRONIQUES
+Evaluation des resultats aux sixieme et douzieme mois de l'essai
+Deux neuroleptiques à longue durée d'action, le palmitate de pipotiazine (PP.) et le décanoate de fluphénazine (FD) ont fait l'objet d'une étude à double insu de 12 mois, en adoptant un intervalle de quatre semaines entre les injections. Soixante-sept malades, atteints de schizophrénie chronique, ont été, selon une répartition au hasard, divisés en deux groupes, appariés quant à l'âge et au sexe. Ils ont été choisis parmi une population précédemment traitée avec succès par les neuroleptiques à longue durée d'action. L'étude, qui a duré un an, a comporté trois phases :
+1. une période d'ajustement posologique de trois mois
+2. une période d'entretien de trois mois sans modification posologique
+3. une période d'entretien de six mois au cours de laquelle la dose a été adaptée lorsque cela était nécessaire, mais sans modifier les intervalles entre les injections.
+Les scores globaux montrent que 80% des malades du groupe FD et 88% des malades du groupe PP qui ont été soumis à l'essai étaient dans un état satisfaisant après 12 mois d'étude.
+Le résultat aux sixième et douzième mois de l'étude, basé sur les scores globaux, les degrés de réinsertion sociale et d'aptitude au travail ainsi que sur les échelles d'appréciation S et BPRS, a montré que les symptômes psychopathologiques ont été améliorés pour la plupart des malades chez lesquels l'essai a été mené jusqu'à son terme. En même temps, il a été noté une diminution des effets secondaires en particulier de ceux de type extrapyramidal.
+Cependant, les résultats détaillés ont mis en évidence certaines différences entre les deux produits et une analyse plus approfondie de ces résultats, concernant notamment le déroulement de traitement, avec un examen par item et une analyse factorielle, sera rapportée dans une autre publication.
+
+# Tables
+## Table 1. Assessment schedule
+Columns: Categories and methods of assessments, 0 months, 1 month, 2 months, 4 months, 5 months, 9 months, 12 months
+Rows:
+- Background data GPPQ: X at 0 months
+- Global rating: X at 0 months, X at 12 months
+- Symptoms:
+  - The symptom scale (S-scale): X at 0,1,2,4 months; X at 9,12 months
+  - BPRS: X at 0,1,2,4 months; X at 5,9,12 months
+  - Hamilton rating scale for depression: X at 0,1,2,4 months; X at 5,9,12 months
+- Side-effects:
+  - Side-effect rating scale: X at 0,1,2,4 months; X at 5,9,12 months
+  - Rating scale for extrapyramidal side-effects: X at 0,1,2,5 months; X at 5,9,12 months
+  - Handwriting test: X at 0,1,2,4 months; X at 5 months
+- Social function:
+  - ADL performance: X at 0 months, X at 12 months
+  - Work performance: X at 0 months, X at 12 months
+- Psychosocial life events:
+  - Schedule of recent experiences: X at 0 months, X at 12 months
+- Laboratory examinations: X at 0 months, X at 12 months
+
+## Table 2. The patients’ age, sex, and duration of illness
+Columns: Categories, Pipotiazine palmitate series, Fluphenazine decanoate series
+Rows:
+- Ages (years):
+  - 18-30: 12, 8
+  - 31-40: 4, 8
+  - 41-50: 4, 8
+  - 51-60: 9, 6
+  - 61-65: 2, 4
+  - Mean age (in years): 40.2, 42.1
+  - Median age (in years): 36, 42
+- Sex:
+  - Male: 25, 26
+  - Female: 6, 8
+- Duration of illness:
+  - 3-5 years: 4, 2
+  - >5 years: 27, 32
+
+## Table 3. Previous treatment with long-acting neuroleptics
+Columns: Drug, Number of patients (Pipotiazine palmitate series), Number of patients (Fluphenazine decanoate series)
+Rows:
+- Pipotiazine palmitate*: 7, 4
+- Fluphenazine enanthate: 12, 17
+- Fluphenazine decanoate: 10, 11
+- Fluspirilene: 2, 2
+*Note: Patients on pipotiazine palmitate received this drug for at most three months.
+
+## Table 4. Patients distributed according to type of care at the end of 6 months' and 12 months' trial
+Columns: Type of care, Pipotiazine palmitate (Before trial), Pipotiazine palmitate (At 6 months’ trial), Pipotiazine palmitate (At 12 months’ trial), Fluphenazine decanoate (Before trial), Fluphenazine decanoate (At 6 months’ trial), Fluphenazine decanoate (At 12 months’ trial)
+*Note: ( ) indicates number of patients withdrawn from the trial and included in the table.
+(Detailed patient counts for each type of care (out-patients, in-patients, day-care) are not fully presented in the original table format but are categorized as per the above columns.)
+
+## Table 5. Global ratings after 6 and 12 months of the trial compared with state at start of the trial
+Columns: Condition compared with beginning of trial, Pipotiazine palmitate (In 6 months’ trial), Pipotiazine palmitate (In 12 months’ trial), Fluphenazine decanoate (In 6 months’ trial), Fluphenazine decanoate (In 12 months’ trial)
+Rows:
+- Improved: 6, (not specified), (not specified), (not specified)
+- Unchanged: 24, (not specified), (not specified), (not specified)
+- Deteriorated*: 2 (1), (not specified), (not specified), (not specified)
+- Total*: 32 (1), 32 (3), 35 (1), 35 (6)
+*Note: ( ) indicates number of patients withdrawn from the trial.
+
+## Table 6. Mean total scores before trial as well as at 6 and 12 months (drop out patients not included)
+Columns: Scale*, Pipotiazine palmitate (Before), Pipotiazine palmitate (At 6 months), Pipotiazine palmitate (At 12 months), Fluphenazine decanoate (Before), Fluphenazine decanoate (At 6 months), Fluphenazine decanoate (At 12 months)
+Rows:
+- S-scale: 6.92, 6.19, 7.31, 7.24, 6.32, 4.55
+- BPRS: 24.35, 22.56, 21.75, 26.76, 21.32, 21.17
+- Hamilton scale for depression: 8.61, 8.29, 7.40, 6.38, 4.71, 3.89
+- Side-effects rating scale: 3.74, 2.47, 1.52, 3.32, 1.82, 1.59
+- Rating scale for extrapyramidal side-effects: 3.55, 1.93, 1.55, 1.76, 0.93, 1.28
+*Note: ( ) indicates the maximum score. (Maximum scores: S-scale (100), BPRS (112), Hamilton scale for depression (64), Side-effects rating scale (96), Rating scale for extrapyramidal side-effects (48))
+
+## Table 7. Outcome based on difference in total between ratings before and after 6 and 12 months’ trial (Drop out patients not included)
+Part 1:
+Columns: Rating scale, Pipotiazine palmitate (At the end of 6 months’ trial: I, U, D), Pipotiazine palmitate (At the end of 12 months’ trial: I, U, D), Fluphenazine decanoate (At the end of 6 months’ trial: I, U, D), Fluphenazine decanoate (At the end of 12 months’ trial: I, U, D)
+Rows:
+- S-scale: 2,25,4; 2,26,1; 6,26,2; 8,19,2
+- BPRS: 4,23,4; 14,12,3; 11,23,0; 17,11,1
+I = improved, U = unchanged, D = deteriorated. A change was defined as a difference of more than one standard deviation from the mean total score.
+
+Part 2:
+Columns: Rating scale, Pipotiazine palmitate (At the end of 6 months’ trial: I, U, D), Pipotiazine palmitate (At the end of 12 months’ trial: I, U, D), Fluphenazine decanoate (At the end of 6 months’ trial: I, U, D), Fluphenazine decanoate (At the end of 12 months’ trial: I, U, D)
+Rows:
+- Hamilton rating scale for depression: 1,28,2; 6,20,3; 11,20,3; 6,22,1
+- Side-effect rating scale: 6,22,5; 7,22,4; 6,28,4; 6,23,2
+- Rating scale for extrapyramidal side-effects: 25, (not specified),1; 24, (not specified),1; 29, (not specified),1; 25, (not specified),2
+I = improved, U = unchanged, D = deteriorated. A change was defined as a difference of more than one standard deviation from the mean total score.
+
+## Table 8. ADL Performance and work performance before and at end of 6 and 12 months' trial (means) (drop out patients not included)
+Columns: Category, Pipotiazine palmitate (Before), Pipotiazine palmitate (After 6 months), Pipotiazine palmitate (After 12 months), Fluphenazine decanoate (Before), Fluphenazine decanoate (After 6 months), Fluphenazine decanoate (After 12 months)
+Rows:
+- ADL performance*: 3.0, 3.0, 3.1, 3.4, 3.4, 3.4
+- Work performance*: 1.6, 1.8, 1.6, 2.1, 2.1, 2.2
+*Note: ( ) indicates the maximum score (5 for both ADL performance and Work performance).
+
+## Table 9. Use of concomitant drugs during maintenance period 1 (month 3-6) and 2 (month 6-12)
+Columns: Concomitant drugs, Pipotiazine palmitate (Before trial), Pipotiazine palmitate (Month 3-6), Pipotiazine palmitate (Month 6-12), Fluphenazine decanoate (Before trial), Fluphenazine decanoate (Month 3-6), Fluphenazine decanoate (Month 6-12)
+Notes:
+- Pipotiazine palmitate: Total 31 patients (Month 3-6), 29 patients (Month 6-12)
+- Fluphenazine decanoate: Total 31 patients (Month 3-6), 29 patients (Month 6-12)
+- Concomitant drugs include: Anti-parkinsonian drugs, Imipramine, Diazepam, Hypnotics (methaqualone or meburnal)
+- Details:
+  - Anti-parkinsonian drugs: Pipotiazine palmitate (21 in Month 3-6, 21 in Month 6-12); Fluphenazine decanoate (16 in Month 3-6,14 in Month 6-12)
+  - Imipramine: Pipotiazine palmitate (7 during trial); Fluphenazine decanoate (1 during trial)
+  - Diazepam: A few patients in both series
+  - Hypnotics: About one third of patients in both series
+
+# Figure Descriptions
+## Figure 1. Doses in units: distribution among patients at the end of 6 and 12 months’ trial
+The figure consists of two separate graphs, one for Pipotiazine palmitate and one for Fluphenazine decanoate.
+- Pipotiazine palmitate graph:
+  - X-axis: Dose units (ranging from 0.5 to 8)
+  - Y-axis: Number of patients (ranging from 0 to 15)
+  - Legend: Two data sets - "at the end of 6 months’ trial" and "at the end of 12 months’ trial"
+  - Dose unit: 50 mg
+  - The graph shows the distribution of patients across different dose units at the two time points.
+
+- Fluphenazine decanoate graph:
+  - X-axis: Dose units (ranging from 0.5 to 8)
+  - Y-axis: Number of patients (ranging from 0 to 15)
+  - Legend: Two data sets - "at the end of 6 months’ trial" and "at the end of 12 months’ trial"
+  - Dose unit: 6.25 mg
+  - The graph shows the distribution of patients across different dose units at the two time points.
+
+## Figure 2. Results of the statistical analysis at the end of 6 and 12 months’ trial. (Wilcoxon signed ranks test) (drop out patients not included)
+- Legend: Solid line with circles (●) represents Pipotiazine palmitate; Dashed line with circles (○) represents Fluphenazine decanoate
+- X-axis: Time points (6 Months, 12 Months)
+- Y-axis: Z-value (ranging from -4 to +4)
+- Analyzed scales (each with data at 6 and 12 months):
+  - The symptom scale (S-scale)
+  - The Brief Psychiatric Rating Scale (BPRS)
+  - The Hamilton rating Scale for depression
+  - Side-effect rating scale
+  - Rating scale for extrapyramidal side-effects
+- The Z-values indicate the statistical significance of changes from baseline (before trial) to 6 and 12 months, with negative Z-values suggesting improvement (reduction in symptom/side-effect scores) and positive values suggesting deterioration (increase in scores). Statistical significance (P<0.05 or P<0.01) is indicated by the magnitude of Z-values as per the Wilcoxon signed ranks test results described in the text.

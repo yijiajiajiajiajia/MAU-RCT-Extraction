@@ -1,0 +1,385 @@
+### Text Content (Before References)
+Drug and Sociotherapy in the Aftercare of Schizophrenic Patients
+One-Year Relapse Rates
+Gerard E. Hogarty, MSW, Baltimore; Solomon C. Goldberg, Rockville, Md; and the Collaborative Study Group, Baltimore
+
+The posthospital treatment of 374 schizophrenics was controlled and evaluated for two years. Relapse rates for the first year were recorded.
+
+At clinic intake, patients were randomly assigned to major role therapy (MRT; social casework and vocational rehabilitation counseling) and stabilized through the administration of chlorpromazine. After two months, further assignment to drug or placebo was made. Four groups were studied in each of three aftercare clinics: placebo alone; placebo and MRT; drug alone; drug and MRT.
+
+Relapse in the placebo group is twice that of the drug group, but one half of all relapsers (drug and placebo) cease medication prior to relapse. The prophylactic action of the drug is established for many remitted schizophrenics. The MRT also lowers relapse rate significantly, but only after six months. Drug and sociotherapy effects are additive rather interactive by 12 months. Results replicate across all clinics.
+
+Rehospitalization of the schizophrenic patient continues to be a major concern of contemporary psychiatry. Studies which have attempted to identify the variables that influence tenure and adjustment in the community have often, but not always, concluded that aftercare in general, and maintenance chemotherapy in particular, reduce the incidence of rehospitalization among schizophrenic patients. A cursory review of the literature suggests that these conclusions are well established empirically and are capable of being generalized to the majority of schizophrenic disorders. Closer inspection, however, reveals that among controlled studies, patients are frequently characterized by highly specific demographic or prognostic traits, but more often the results are based upon uncontrolled studies. While the conclusions may be accurate, methodological deficiencies detract somewhat from their validity.
+
+Nevertheless, for nearly two decades antipsychotic drugs have been used to maintain schizophrenic patients in the community. The validity of the practice appears to be more firmly established by controlled studies that seek to prevent the hospitalization of acutely ill patients rather than by investigations designed to explore the prophylactic action of drug among recently discharged and at least partially remitted patients. When the criterion of randomly assigning formerly hospitalized schizophrenics to drug and placebo is employed, only two studies appear to qualify as controlled trials. Gross et al studied the effects of drug withdrawal among a primarily schizophrenic group already maintained from 6 to 37 months in the community. Troshinsky et al studied 43 schizophrenics, between 40 and 50 years of age, who had been in the community for one year following discharge. Both demonstrated the efficacy of drugs in preventing relapse. Other trials favorable to the ability of drugs to reduce the incidence of rehospitalization appear deficient either in terms of adequate placebo controls or random assignment. Other uncontrolled studies are not favorable to the ability of drugs to reduce rehospitalization and questionable predrug vs postdrug comparisons have also challenged the influence of drug therapy on relapse.
+
+While attempts to prevent rehospitalization have been successful, the level of the schizophrenic patient's instrumental role performance and social adjustment seems disappointingly low. For this reason, as well as the fact that increasing numbers of schizophrenics are being treated and maintained in the community, a growing concern surrounds the efficacy of sociotherapeutic aftercare strategies as the media of enhancing community adjustment. While specific sociotherapies or modes of aftercare treatment have been evaluated as being effective, controlled comparisons with either drug or other nondrug therapies are not in evidence. Uncontrolled evaluations can be found that fail to demonstrate the value of aftercare. Nonrecipients of aftercare, for example, often fare better than treated patients; however, the groups are unlikely to be comparable.
+
+Most often the course of adjustment and tenure of formerly hospitalized patients is approached by means of cohort studies. Some evaluate posthospital outcome in terms of previous inpatient experiences but more often do not. None use controls for the aftercare treatment experiences of patients and usually include diagnostically, and hence prognostically, mixed patient groups. Understanding the course of illness and the influence of treatment for specific disorders is subsequently difficult and frequently impossible.
+
+While it is obvious that the sociotherapies need to be evaluated per se, it is necessary to ask how they interact with chemotherapy as well. Is each mode of treatment of value in its own right? Can one substitute for the other? Is one more effective in maintaining symptom remission and the other in enhancing work adjustment? Numerous questions can be raised, but to this date have not been answered, mainly due to the logistic difficulties in obtaining the appropriate data over a prolonged period of time in the community.
+
+Inpatient comparisons of drug and nondrug treatments of schizophrenics yield mixed results, with the better-designed studies showing no specific advantages of nondrug intervention. No such controlled comparisons are available for schizophrenic outpatients following hospitalization.
+
+The National Institute of Mental Health (NIMH) Collaborative Outpatient Study in Schizophrenia was designed to respond to these problems. It is a multiclinic attempt to provide evidence on how two modes of treatment (drug and sociotherapy) interact in the prevention of relapse and enhancement of community adjustment over a considerable period of time. With three clinic samples adhering to a common protocol of study, replication of results is made possible.
+
+This report is the first of a series to emanate from the study and will focus exclusively on the differential relapse rates during the first year post discharge. As the study proceeds, subsequent reports will describe relapse rates in the second and third year, predictors of relapse, and the immediate and long-term effects of the various treatments on performance and adjustment.
+
+Method and Procedure
+Study Design.-Hospitalized schizophrenic patients at each of the three Maryland State hospitals serving Baltimore city, (Crownsville, Springfield, and Spring Grove Hospitals) were selected and prepared for the outpatient study prior to their actual discharge. Eligible patients were consecutively discharged over an 18-month period to an outpatient clinic affiliated with the parent hospital. They were randomly assigned at intake to major role therapy (MRT): a sociotherapy consisting of intensive individual social casework and vocational rehabilitation counseling. All patients were maintained with drug therapy during the first two months with medication gradually shifted to chlorpromazine (Thorazine) exclusively. At two months following intake, patients were again randomly assigned on a double-blind basis to identical looking 100-mg or 50-mg tablets of chlorpromazine or placebo. A patient was considered a study participant when he received coded medication at two months. All terminations prior to this time were replaced. The study design initially specified that 15 male and 15 female patients at each clinic be randomly assigned to each of four treatments at the two month period: chlorpromazine alone, placebo alone, placebo and MRT, chlorpromazine and MRT. The desired 360 patients were then to be treated for a minimum of two years and for as long as three years.
+
+Criteria for Case Inclusion.-To be eligible for the study, patients were obliged to meet the following criteria: (1) age 18-55; (2) a primary hospital diagnosis of schizophrenia confirmed by the research psychiatrist; (3) currently hospitalized for less than 2 years; (4) no evidence of organic brain syndrome; (5) intelligence quotient above 70; (6) no history of unmanageable drinking or drug abuse; (7) no history of serious suicidal or homicidal behavior during drug-free intervals; (8) have received phenothiazine as an inpatient and have no medical contraindications for chlorpromazine therapy; (9) live within commuting distance of the clinic; (10) provide a "significant other" for rating purposes and supervision of medication; (11) appear at the clinic within 21 days of discharge; and (12) receive no other ataractic other than study medication during the course of the investigation.
+
+Furthermore, to test the effects of MRT, only wage earners and homemakers were included, with students excluded by design. The sample was not biased in terms of being overrepresented with motivated and cooperative patients. Only 14 of 527 potentially eligible patients refused to participate while they were inpatients.
+
+Measurements and Evaluations.-Study patients were evaluated on as many as 14 rating scales designed to yield important information on psychiatric history, psychopathology, social behavior, and adjustment as reported by the treating psychiatrist, social worker, vocational rehabilitation counselor, research assistant, family member, and patient. Insofar as MRT could not be blind, evaluations from the various rating sources included redundant areas of behavior and adjustment. Patients were evaluated at discharge and again at intake, 1, 2, 6,12,18, 24, and, should time permit, 36 months following intake. Termination ratings were completed if termination occurred prior to the end of the study. A minimum dose requirement of 100 mg of chlorpromazine a day was established, but remained open-ended according to the patient's requirements. Likewise, MRT required at least monthly contact, but in practice occurred more frequently according to the patient's needs. Non-MRT patients were seen on a monthly basis for the first two months, and at least bimonthly thereafter for the purpose of regulating medication. All eligible patients had, at outset, at least one and an average of ten problem areas considered to be the proper object of casework intervention. The typical treatment team consisted of two half-time psychiatrists, two full-time master's degree social workers, one half-time vocational rehabilitation counselor, a research assistant, and secretary. Except when the patient was hospitalized by self or family, relapse was judged by the psychiatrist to mean clinical deterioration of such magnitude that hospitalization seemed imminent.
+
+Results
+While it was hoped that 360 of the 513 eligible discharged patients would survive the two-month transition phase prior to the reception of coded medication, in fact 374 patients achieved this status. Table 1 describes the number of study patients by clinic, sex, and treatment who reached the strategic two-month period. The goal of assigning 90 study patients to each of the four treatments was, for the most part, accomplished, but slightly fewer than the desired 15 male patients per treatment cell was achieved. Nearly one half of all male schizophrenic patients at the participating hospitals who would otherwise have been eligible for the study were excluded on the basis of chronic alcoholism, transiency, or both. The goal of 120 study patients per clinic was exceeded at two of the three clinics.
+
+Patient Characteristics.-Table 2 describes the important demographic and history characteristics of study patients. The sample reflects the more typical features of hospitalized schizophrenic patients, particularly regarding diagnostic subtype, onset of symptoms prior to hospitalization, number and length of prior hospitalizations, and social class. Both good and poor prognostic subtypes are present, but the group resembles the prototype of severely ill patients who shuffle to and from the hospital. Clearly the study population is unlike the more selective samples used in previous outpatient studies involving controlled treatment of schizophrenic patients.
+
+Terminations.-Table 3 presents both treatment-related and administrative terminations following discharge, during the two month transition period, and through the first ten months of controlled treatment. (The table should not be used to calculate relapse rates by treatment because monthly administrative terminations must be considered in order to arrive at an accurate rate, corrections which will be presented below).
+
+Among the more important administrative reasons for termination is patient attrition; a problem that often deters investigators from outpatient research and frequently undermines the validity of published results. From Table 3, only 36 or 7% of otherwise eligible patients refuse to attend the clinic following discharge. Of 451 patients who appeared at clinic intake, approximately 6% voluntarily discontinue during the two-month transition phase, some because of apprehension surrounding the possibility of receiving placebo. Over the next ten months of controlled treatment, 2% of active patients seek treatment elsewhere and could justifiably be considered refusers. It is not to be implied that all patients treated between the 2nd and 12th months participated fully. Excluding administrative terminations, if a patient had been seen a minimum of three times prior to coded medication, he was considered a participant and continually pursued, even though he might and often did miss regularly scheduled evaluations or appointments.
+
+Also of note is the fact that 9% of the sample relapsed during the first two transitional months while all were assigned to drug. However, for one third of these patients, the treating staff did not concur with the decision to hospitalize at the time when either the patient or his family initiated the move. The influence of failure to take medication will be treated below, and other variables, yet to be explored, include the possibility that transfer from another phenothiazine to chlorpromazine or dose reduction itself contributed to the relapse of some patients.
+
+The nature of administrative terminations varies by period, as one might expect. Of the 17 administrative terminations following discharge, nine failed to meet study criteria as originally thought, five moved, and three were dropped for miscellaneous reasons such as intercurrent illness, an arrest, and problems with another agency. Between intake and two months, four subjects moved, four failed to meet criteria, two died from non-treatment-related causes, and three experienced side effects of chlorpromazine. During the controlled treatment phase, eight patients sought treatment elsewhere, five experienced intercurrent medical illness, four moved, three had allergic reactions to chlorpromazine, two died (non-treatment-related), two had hidden addictions, and two were arrested with no apparent behavioral or legal justification. For one patient, drug therapy interfered with his continuing employment.
+
+Drug and MRT Effects on Relapse.-The substance of this report is contained in the Figure which illustrates the cumulative relapse rates for each treatment from the point of random assignment to drug or placebo, through the twelve month period. The cumulative percentage is calculated in the following manner: the number of patients who relapse in a given month is expressed as a percent of the original in that treatment group. This original is subsequently corrected (lowered) by administrative terminations, if any, that occur during the month. The percentage relapsed at any month is added to the percentage relapsed in the preceding month(s). For example, 97 subjects were assigned to drug alone at the end of two months. During the third month, four patients relapsed and one terminated administratively. The percentage relapsed is 4/96 or 4.17%. In month four, one patient relapsed and none were terminated administratively, for a monthly rate of 1/96 or 1.04%. When added to the previous month, the cumulative relapse rate at the end of month four is 5.21%.
+
+At the end of 12 months, 72.5% of the placebo alone group has relapsed, 62.65% of the placebo + MRT group, 32.60% of the drug alone group, and 25.74% of the drug + MRT group. Overall, 67.48% of all placebo-group patients and 30.91% of all drug-group patients relapsed between the second and twelfth months. Comparably, 45.79% of all MRT patients relapsed while 51.39% of all non-MRT patients relapsed. Table 4, part A, shows that the difference between the drug and placebo relapse rates (36.5%) is highly significant statistically (t=7.02; P<.001). The difference between MRT and non-MRT over the entire controlled phase is not significant. However, it is clear from the Figure that MRT does begin to lower relapse by the seventh month. This is reasonable in that one would expect a social therapy to take longer to have an effect than a drug therapy among schizophrenic patients. Nevertheless, the level of statistical significance for the effect of MRT is attenuated by its inactivity in the first six months. The difference between MRT and non-MRT up to six months ((.291-.236=.055) favors non-MRT, but this difference is not significant (SE Diff =.046: t=1.19). Table 5 shows the percentage relapsed in each treatment, by clinic, from months 2 to 6 and 7 to 12. If one analyzes the effect of MRT on relapses after the sixth month, MRT is reliably more effective than non-MRT. As shown in Table 4, part B, the difference now favoring MRT is .113 which is significant beyond the .02 level with a two-tailed test.
+
+Interaction of Drug and MRT.-A second question that is asked of the data is whether MRT has a greater effect in drug-treated patients than in placebo patients. This is a kind of action that is often alluded to in advertisements for psychotropic drugs. In effect, the ad suggests that the drug will make the patient more accessible to the psychosocial treatment. This question can be answered by comparing the size of the drug-placebo difference between 2 to 12 months in MRT and non-MRT groups seen in the Figure. The drug-placebo difference for MRT patients is about 37% (.626 - .257) while the comparable difference for non-MRT patients is about 40% (.725 - .326). These two differences do not even begin to approach statistical significance, from which we conclude that the effect of MRT on relapse is essentially constant for both drug and placebo patients or, as a corollary, that the size of the drug effect is virtually constant for both MRT and non-MRT patients. The conclusion holds true between months 7 and 12 as well. In statistical terms, the effects of drug and MRT are additive as opposed to interactive. In practice, patients should receive both to achieve the maximum effect.
+
+Replication of Results Across Clinics.-One reason for using three clinics was to see whether the same results were obtained at each clinic. If they were, then the results concerning treatment effects could be stated with even greater confidence regarding their generalizability to different locations. If the results differed among the three clinics, we would consider this a failure to replicate.
+
+Table 6 shows the comparison among the three clinics on the size of the drug-placebo difference. These differences are 34.2%, 38.6%, and 38.3% for clinics 1, 2, and 3, respectively, between 2 and 12 months. These drug-placebo differences are virtually constant across clinics and do not even approach statistical significance.
+
+A comparable analysis was done for the size of the MRT-non-MRT difference. These differences as shown in Table 6 are 10.2%, 0.1%, and 9.0% between 2 and 12 months and 11.0%, 9.1%, and 15% between 7 and 12 months. Although it seems that clinic 2 has obtained different results from the others between two and six months, these differences too are not statistically different from each other. We conclude that the superiority of MRT over non-MRT, particularly in the latter months, is not a function of the specific clinic in which it was obtained.
+
+Effect of Regularity of Medication Taking.-The relapse rate among drug-treated patients (30.91%) is seemingly high, particularly if the 9% of drug-treated patients relapsing in the first two months is added. This drug relapse rate, like all published relapse rates, must be qualified, particularly in light of the patient's medication-taking practice. The medication practice of relapsed patients between intake and twelve months, and nonrelapsed patients at one slice of time (six months), is presented in Table 7. The data were gathered by social workers based on reports from patients and their families regarding medication taking during the month prior to termination or six months. The "not taking" categories appear valid. No sufficient reason exists that would lead both patient and his family to state that the patient was not taking medication, if in fact he were. On the other hand, without substantiating laboratory evidence, the validity of "drug taking" responses is subject to question. Nonetheless, 50% of the drug patients experiencing relapses in the first two months were clearly not taking medication. Likewise, 54.5% of drug failures between 2 and 12 months were not taking medication during the month prior to relapse. The drug relapse rate would therefore be reduced to 4.5% in the first two months and to 14.3% between 2 and 12 months if only "medication takers" were considered. Including only drug takers, we would estimate that 20% represents a more accurate drug relapse rate in the first year following discharge. Furthermore, nine of 18 drug takers relapsing in the first two months were hospitalized against medical advice as well as five of 25 drug takers between 2 and 12 months. It is not known, of course, whether the staff would have ultimately concurred with the decision to hospitalize had these patients continued in treatment. Finally, if relapse rates were to be adjusted in terms of dose reduction and/or adequacy of dose, it is probable that drug relapse rates would be lowered accordingly. Such qualifying data are infrequently offered with published relapse rates, but serve to underscore the fact that true drug failure may be substantially less than is often reported.
+
+The relationship between cessation of medication and relapse, however, is not as clear as it first appears. One might simply conclude from Table 7 that failure to take the drug leads to relapse (54.5%), particularly when only 14% of nonrelapsed patients at six months fail to take medication. If true, would one also conclude that failure to take placebo leads to relapse (47.75%), as only 18% of the nonrelapsed placebo patients were not taking medication? Clearly the pill-taking ritual is related to status as a relapsed or nonrelapsed subject. The relationship exists for placebo (x²=19.05, P<.001) as well as drug (x²=39.35, P<.001) but it must be recalled that twice as many relapse on placebo as drug. It is not clear from our data whether the cessation of medication occurs when a patient is in remission or follows an exacerbation of symptoms.
+
+Clinical Course of Relapsed Placebo Patients.-Finally, any discussion of relapse rates should consider the question of whether the maintenance chemotherapy of patients in partial or full remission represent essentially prophylactic or therapeutic drug action. One approach to the problem includes an evaluation of psychopathology which characterized placebo treated patients, particularly during their prerelapse clinical status.
+
+Nine items thought to represent the more gross manifestations of psychotic behavior from the Brief Psychiatric Rating Scale (BPRS) were scored as a single measure: emotional withdrawal, conceptual disorganization, mannerisms and posturing, grandiosity, suspiciousness, hallucinatory behavior, motor retardation, uncooperativeness, and unusual thought content. The means and standard deviations at various periods for relapsed placebo patients and nonrelapsed drug and placebo subjects are presented in Table 8. One might assume that placebo patients would be easily and readily identifiable at the symptom level immediately following removal of active medication and assignment to an inert substance. This is not always true. While placebo patients do relapse at a rate twice as great as drug patients, Table 8 clearly demonstrates that nonrelapsed placebo patients who survive one year are indistinguishable at this level from nonrelapsed drug patients. Furthermore, among late placebo relapses, (months 7 to 12), the prerelapse clinical picture of placebo patients is very similar to the successfully treated drug patient. Clearly, then, among many schizophrenics in remission longer than six months, drug action is essentially prophylactic; ie, the prerelapse clinical picture of drug and placebo patients is similar, but placebo patients then proceed to relapse at a rate twice as great as drug patients. Therapeutic drug action is more apparent among early placebo relapsers, who experience a dramatic increase of existing symptoms immediately following initiation of placebo. The same pattern applies to the minor symptoms of the BPRS as well as the total score.
+
+Few clinicians would justifiably withdraw medication from symptomatic schizophrenics shortly after discharge, as was required by the design of this study. More, however, might subscribe to the practice of withdrawing medication from asymptomatic patients who were successful in maintaining a remission from seven to twelve months. It is clear from Table 8 that such a practice would subject patients to a great risk of relapse, most often of such intensity as to require immediate hospitalization. A subsample of patients (30%) does exist that can sustain their adjustment for a ten-month period without drug. Whether these patients can be clearly identified and whether the adjustment continues beyond one year are questions to be resolved in later reports.
+
+Comment
+The motivation for the study reported here derives from the recognition of the repeatedly hospitalized schizophrenic as a major public mental health problem. The question is how to interrupt this process of rehospitalization in order to diminish the likelihood of ultimate chronic hospitalization and to enhance the quality of life in the community.
+
+Drugs and Sociotherapy.-Two forms of therapy in common clinical practice were employed in this study; ie, drugs and social casework (with available vocational rehabilitation counseling). It is doubtful that anyone seriously questioned the efficacy of drugs in this instance even though a search of the literature shows few controlled studies demonstrating drug efficacy on this specific kind of recently discharged schizophrenic outpatient. Rather, there may have been a question as to the degree of drug efficacy in preventing relapse. There was more question regarding the efficacy of social casework since this mode of intervention had never been evaluated in schizophrenia. Our expectation for social casework was not so much for effectiveness in reducing relapse as it was hoped that casework would enhance the quality of adjustment of patients who did not relapse. Observations of patients maintained on drugs in the community in other studies had shown their level of adjustment to be very low. Thus, it comes as a surprise that the data suggest social casework might be effective in reducing relapse for some schizophrenics after a period of time. This result is qualified because the effect is not large, as is the drug effect, and casework is not blind to those who evaluate relapse, as is the case with drug treatment. We, therefore, do not wish to represent the effect of social casework as hard fact, but rather as a suggestive preliminary indication of its possible effects on aspects of adjustment, in which case the treatment will be blind to certain evaluators. This will be the subject of future communications.
+
+The effect of drugs in reducing relapse can only be characterized as huge. Unlike in-hospital studies, the effect of drug is not the therapeutic one of reducing symptoms, but rather the prophylactic one of forestalling the onset of a further episode from a state of at least partial remission. The relapse rate of 30.91% while receiving the drug might appear substantial in itself, but when corrected for failures in medication-taking, the drug relapse rate must be considered small by any standards.
+
+Treatment specific relapse rates must further be qualified in terms of treatment exposure, adequacy of treatment, and inappropriate hospitalization. These qualifications apply to MRT as well as drug-treated patients. If only MRT "utilizers" were included, their relapse rate might well have been lower. likewise, some non-MRT patients constantly pressured staff for service (calling daily, for example) and probably lessened the MRT/non-MRT differences even further. Questions regarding adequacy and use of treatment and their effect on tenure and adjustment will be approached in subsequent reports.
+
+Within the limitations of this preliminary report, conclusions reported elsewhere can be challenged by our results. The question (if, in fact, it remains valid) whether a drug really reduces the incidence of rehospitalization for schizophrenics can be answered affirmatively and conflicting results from uncontrolled studies and pre-post drug era comparisons should be rejected.
+
+Regularity of Medication Taking.-Likewise, the implication that those who discontinue the use of medication are those who need it least, would not be supported by our data. Whether those patients who achieve a full remission over time are to be found among placebo-treated patients will be answered in subsequent analyses.
+
+Because placebo relapsers fail to take their medication in the same proportion as drug relapsers, one is encouraged to speculate. If schizophrenia represents, as some argue, a psychopathological means of coping with a threatening world, then cessation of pill taking among remitted patients might be more a flight to illness than to health (eg, the need to undo the stigma of mental illness reinforced by pill taking; an escape from stress; or removal of an agent that interferes with coping or performance). Each of our patients received a phenothiazine during their prestudy hospitalization. For the most part, they were aware of the positive effects of medication on their illness. Once in the community, the nonschizophrenic world might come to be viewed as less attractive and manageable than a schizophrenic existence. Cessation of medication would assuredly portend a rapid return to illness. Rajotte and Denber's non-medication takers often reported that they could not see how a pill could prevent a breakdown. Our results raise the possibility they might know full well how the drug acts. Only future research, directed toward assessing the patient's clinical status and motivation at the time of discontinuation, will answer this important question.
+
+Delayed Effect of MRT.-The fact that the effect of MRT does not begin to appear until after six months of treatment, makes good sense with chronically ill, but remitted, schizophrenics. Few would expect a sociotherapy to alter the patient's behavior within a brief period of time as would brief therapy with distressed nonpsychotic patients. The implication is clear for any future evaluation of the psychotherapies with previously hospitalized schizophrenics that treatment duration may have to be at least one year. Questions on the process of utilizing MRT over time in this study ought to be informative. If this preliminary result indicates a continuing trend, then future analyses hold promise of revealing important information concerning the influence of nondrug strategies, not only on relapse, but on the low levels of performance and adjustment that too often characterize schizophrenic patients in the community. Overall, the influence of nondrug therapy on the psychotic behavior of schizophrenic inpatients is unimpressive. The fact that a sociotherapy (or psychotherapy broadly defined) can delay or prevent an exacerbation of symptoms for some schizophrenics in remission for six months or more unveils theoretical considerations that only extensive analyses of data and considerable thinking can resolve. The prophylactic action of drug has a relatively strong empirical base in biological psychiatry. Similar action of psychotherapy has somewhat less factual data to support theoretical explanations.
+
+It is unclear at this time why the effects of MRT are not apparent early in treatment. One might hypothesize that early intensive treatment of some schizophrenics is overwhelming. Another plausible explanation, suggested elsewhere, contends that close surveillance of patients may lead to more rapid decisions to rehospitalize following an exacerbation of symptoms. Preliminary analyses of terminations in the first two months support this argument, and suggest that early MRT relapsers are less symptomatic and better adjusted than non-MRT relapsers at the point of termination. At six months, no apparent behavioral differences exist between MRT and non-MRT relapsers. Insofar as MRT was not blind, a suspected bias favoring MRT patients appears to go in the opposite direction; ie, at this time, MRT patients do not appear to be maintained in a more deteriorated clinical state than non-MRT patients in an effort to lower the MRT relapse rate. The criterion of relapse appears to have been applied uniformly across treatments and applied quite stringently, as the majority of relapses required immediate rehospitalization.
+
+Drug-MRT Interaction.-In studying the effects of two modes of therapy, it is appropriate to inquire, not only whether each has an effect, but also whether they interact. Two models of interaction have been proposed in the past. The first suggests that the psychotherapies will be effective only in patients who are treated with drugs. In this model we would expect to find an MRT effect in drug patients but not placebo patients.
+
+Another interaction model suggests that each mode of therapy is effective in itself but combining them yields no better results than the single best one alone. Under this model we should find an MRT effect only in placebo-treated patients but not in drug patients.
+
+Having two competing models making opposite predictions is the theoretician's dream. However, this dream was not realized by the finding of no interaction between drug and MRT. Instead the effects are additive. It is still possible that the two treatments interact with respect to the large number of dependent variables yet to be tested. All we may say at present is that the treatments do not interact with respect to relapse.
+
+Clinical Course of Placebo Relapsers.-When thinking of the placebo patient who eventually relapses, one could have the image of a clinical course which steadily deteriorates until a point when hospitalization is required. Our data indicate that there is not a steady downhill course. Instead, patients receiving placebo maintain as good a remission (in terms of low symptom severity) as drug patients, and seem to deteriorate suddenly rather than gradually over time. This finding would call into question the practice of discontinuing medication if the patient shows he can do without it for a substantial period of time. These results also suggest a class of schizophrenia with a cyclical course as in the case of placebo patients who are in remission for many months and then rapidly and markedly deteriorate.
+
+Refusal to Participate in Study.-Regarding attrition rate, ours is low compared to the 36.2% of formerly hospitalized patients who refused to participate in the first month following discharge during a followup study conducted by Michaux et al, and compared to the 35% attrition at three months and 65% at one year reported for the initial sample of formerly hospitalized schizophrenics in the Kings County study. The lowest rate, reported by Gross et al (10%), occurred among stabilized psychotics who had been maintained with medication therapy from 6 to 37 months prior to beginning of the study.
+
+Among the possible reasons contributing to our low attrition rate is the extensive preparation of patients for the outpatient study while they were still hospitalized. The speed with which contact was made by the outpatient staff following discharge, the dedication of personnel, and the desire of patients and their families to help others were also felt to be important factors that sustained patients in the study.
+
+Replication Across Clinics.-Any research results from a single research setting always require replication at another setting. One problem with the type of applied clinical research reported here is that studies are rarely replicated by other investigators. It was for this reason that the design of this study was repeated at three separate clinics. This represents a built-in replication feature to the study which would allow us to say which results did or did not replicate. For instance, before reporting the results of a drug-placebo difference, we would want to be satisfied that the size of the drug-placebo difference did not differ among the three clinics. If such a clinic difference did occur, we would regard that result as a failure to replicate and might or might not speculate on reasons for the failure. Successful replication in three homogeneous clinics within one state system is no guarantee that one could replicate the results in other geographic locations, but failure to replicate would indeed cast doubt on the generalizability of results to a broader range of clinical facilities.
+
+The results reported here concerning the difference between drug and placebo and the difference between MRT and non-MRT are found not to differ among the three participating clinics and, to this extent, we regard this as evidence showing replication of results with attendant increased confidence in them.
+
+Comparison With Literature.-Our unqualified crude relapse rates on drug and placebo appear higher than reported in the literature, although the discrepancy is probably due to the absence of conformity among studies regarding patient selection, experimental design, or even location. The Kings County Group reports a 15.1% chlorpromazine relapse rate and a 29.6% placebo relapse rate at one year; rates which increase to only 19.1% for chlorpromazine and 30.3% for placebo at the end of 30 months. Dropouts, however, are all treated as nonrelapsed. Furthermore, these authors suggest the existence of a finite group of relapses representing 33% of untreated schizophrenic outpatients. The conclusions are likely to be valid for acutely ill, prognostically different schizophrenics, many of whom had never been hospitalized. If, however, one considers only their patients with a previous history of hospitalization, the relapse rate of 16% with chlorpromazine and 34% with placebo at six months nearly equals our results at six months. Twelve-month rates are not published.
+
+Tuteur et al reports a placebo relapse rate over an unspecified period of time of 56.1% but only 20.4% for chlorpromazine patients after three years, which again may be valid for chronic female patients. An unqualified relapse rate of 25.7% among 1,336 schizophrenics who attended clinic at least once (Orlinsky and D'Elea) is considerably lower than our unqualified 39% relapse rate among drug-treated patients who attended clinic at least once. Nonhospitalized relapses, hospitalizations elsewhere, and subjects who subsequently moved, for example, are among the unspecified variables that would alter the former rates.
+
+Among controlled drug/placebo trials, the study by Gross et al is the only one that closely approximates our findings. Among a stabilized group of mixed functional psychotics who had been attending clinic for a considerable period of time, 13% of drug-treated patients relapse in the first six months compared to 51% relapse among patients being withdrawn. Crude relapse rates for their drug, withdrawal, and placebo groups were 28.4%, 70.5%, and 64.9%. Their average monthly relapse rate with drug of 4% is very close to our 3.63%. Similarly, average monthly relapse rates of 11.7% during the withdrawal phase and 13% during the placebo phase approximate our 10.89% placebo relapse rate.
+
+Uncontrolled drug studies report dramatically lower relapse rates with drug: eg, 7% among Pollack's known chlorpromazine takers; Goldman, 7%; and Kris and Carmichael. Again, patient selection and experimental design problems restrict generalizations.
+
+What is clear from these comparisons of nonspecific relapse rates is the fact that they weakly reflect treatment efficacy. Until relapse rates are specified for well-defined subgroups of patients along prognostic guidelines that are, in turn, based on relevant demographic, clinical, and psychological characteristics, then our understanding of treatment is severely restricted and comparisons of differential relapse rates between studies is a futile pursuit.
+
+This investigation was supported by grants M H 15829 and 15830 from the Psychopharmacology Research Branch, National Institute of Mental Health.
+
+Chlorpromazine was supplied as Thorazine by John Buckley of Smith, Kline & French Laboratories, Philadelphia.
+
+The following persons participated as members of the Collaborative Study Group: Administrative Staff.-Doretha Brown, Wayne Moore, Patrick O'Neill, MSW, Kristan Rodger, Carolyn Soliday, Richard Ulrich; Consultants.-Martin Gross, MD, Arthur Mandel, MD, Addison Pope, MD, Henry Schwartz (pharmacist), Myron Wotring, MA. Clinic Staff.-Social Workers.- Prem Bhaskar, MSW, Christine Hall, MSW, Shirley Hughes, MSW, Lee Messick, MSW, Frank Mussare, MSW, Carey Snyder, MSW; Psychiatrists.-Narciso Aristigueta, MD, Piyale Cerman, MD, Yavuz Inel, MD, Fritz Kobler, MD, John McGee, MD, Jose Puig, MD; Vocational Rehabilitation Counselors-Carrollton Green, Stuart Burman, Islia Rosado, MA, Francis Thomas, MA; Research Assistants.-Thomas Crook, MA, Ann Davison, John Herron, Joan Mansfield, Patricia Mikols; Project Secretaries.-Jean Payne, Connie Wayson, Laura Williams. NIMH Staff.-Richard Fabsitz, MA, Nina Schooler, PhD.
+
+### Tables (TXT Format)
+Table 1.-Study Patients (N=374) by Clinic, Sex, and Treatment at the Beginning of the Controlled Treatment Phase
+Treatment Groups: Placebo Alone, Placebo + MRT, Drug Alone, Drug + MRT
+Sex: F (Female), M (Male)
+
+Clinic 1 (N=135)
+Placebo Alone: F=17, M=17
+Placebo + MRT: F=17, M=17
+Drug Alone: F=13, M=21
+Drug + MRT: F=16, M=17
+
+Clinic 2 (N=126)
+Placebo Alone: F=13, M=22
+Placebo + MRT: F=12, M=15
+Drug Alone: F=12, M=20
+Drug + MRT: F=12, M=20
+
+Clinic 3 (N=113)
+Placebo Alone: F=11, M=17
+Placebo + MRT: F=10, M=16
+Drug Alone: F=13, M=16
+Drug + MRT: F=12, M=18
+
+Subtotals (Actual)
+Placebo Alone: F=41, M=56 (Total=97)
+Placebo + MRT: F=39, M=48 (Total=87)
+Drug Alone: F=38, M=57 (Total=95)
+Drug + MRT: F=40, M=55 (Total=95)
+
+Subtotals (Goal)
+Each Treatment Group (Placebo Alone, Placebo + MRT, Drug Alone, Drug + MRT): 90 (F=45, M=45)
+Grand Total (Goal): 360
+
+Grand Totals (Actual): 374
+
+Table 2.-Characteristics of 374 Study Patients
+Sex: Male=42.5%, Female=57.5%
+Race: Black=50.3%, White=49.5%
+Age:
+18-25: 22.8%
+26-35: 30.7%
+36-45: 31.1%
+46-55: 15.2%
+Average Age: Females=32.6, Males=35.8
+Social Class:
+I: 0%, II:2.4%, III:17.0%, IV:47.2%, V:33.4%
+Marital Status:
+Single:36.1%, Separated:38.5%, Married:15.5%, Divorced:7.0%, Widowed:2.7%
+Family Income Prior to Study:
+<$1,500:5.9%, $1,500-3,000:17.9%, $3,001-4,000:12.8%, $4,001-5,000:15.2%, $5,001-6,000:15.0%, $6,001-8,000:9.4%, $8,001-10,000:15.0%, >$10,000:8.3%
+Welfare Prior to Study: Yes=30.2%, No=69.8%
+Education:
+Attended grade school:16.6%, Completed grade school:35.8%, Attended high school:12.3%, Completed high school:21.1%, Attended college:2.9%, Completed college:1.1%, Postgraduate:0.5%
+Highest Occupation:
+Executive:1.6%, Administrative:6.4%, Clerical sales:17.4%, Machine operator:26.7%, Skilled manual:33.7%, Unskilled manual:8.8%, Wage earner; never worked:1.6%, Housewife; never worked:3.5%
+Diagnostic Subtype:
+Chronic undifferentiated:46.3%, Paranoid:39.0%, Acute differentiated:8.0%, Schizoid affective:3.8%, Other:2.7%
+Symptom Onset Prior to Study Hospitalization:
+Within 1 mo:45.2%, 1-6 mo:34.0%, 6-12 mo:9.9%, Over one yr:9.4%, No clear onset:1.3%
+Length of Prestudy Hospitalization:
+1-4 weeks:23.9%, 5-9 weeks:34.4%, 10-13 weeks:15.7%, 3-6 mo:16.8%, 6-12 mo:7.3%, 12-24 mo:1.8%, Average=11.6 weeks (SD=11.2 weeks)
+No. of Prior Hospitalizations:
+None:20.1%, One:20.1%, Two:13.4%, Three:13.6%, Four:9.9%, Five:6.1%, Six +:16.5%
+Length of All Prior Hospitalizations:
+1-6 mo:20.1%, 7-12 mo:29.1%, 13-24 mo:15.3%, 25-36 mo:17.1%, 37 +:8.1%, Unknown:10.8%
+Length of All Prior Outpatient Treatment:
+0:22.2%, 1-6 mo:22.6%, 7-12 mo:17.9%, 13-24 mo:15.2%, 25-36 mo:9.0%, 37 +:9.7%, Unknown:3.4%
+
+Table 3.-Reasons for Termination From Discharge to One Year
+Termination Categories: Treatment Related (Hospitalized by Staff, Hospitalized by Self or Family*, Clinical Deterioration Without Hospitalization), Non-Treatment Related (Refused to Participate, Other), Administrative
+Treatment Groups: Placebo Alone, Placebo + MRT, Drug Alone, Drug + MRT
+
+Discharged but never seen:
+Placebo Alone:9, Placebo + MRT:36, Drug Alone:17, Drug + MRT:0
+*Against medical advice. Includes eight terminations for side effects, principally allergic reactions to chlorpromazine.
+†Includes eight terminations who received treatment elsewhere and could be considered refusers. Validity of decision to hospitalize is unknown since patients were never seen by staff.
+
+Transition phase (intake to 2 mo):
+Placebo Alone:11, Placebo + MRT:26, Drug Alone:13, Drug + MRT:0
+
+Controlled treatment phase (2-12 mo):
+Placebo Alone:15, Placebo + MRT:18, Drug Alone:24, Drug + MRT:38
+Drug Alone (Other):33, Drug + MRT (Other):15, Placebo Alone (Other):27, Placebo + MRT (Other):0
+
+Table 4.-Treatment Differences in Proportion of Relapses
+Part A:
+Contrast: Drug (2-12 mo) vs Placebo (2-12 mo)
+Drug (2-12 mo): Ns=187, Proportion Relapsed=0.309
+Placebo (2-12 mo): Ns=174, Proportion Relapsed=0.674
+Difference=0.365, SE of Difference=0.052, t=7.02, P<0.001
+
+Contrast: MRT (2-12 mo) vs Non-MRT (2-12 mo)
+MRT (2-12 mo): Ns=180, Proportion Relapsed=0.458
+Non-MRT (2-12 mo): Ns=181, Proportion Relapsed=0.514
+Difference=0.056, SE of Difference=0.052, t=1.08, NS
+
+Part B:
+Contrast: MRT (7-12 mo) vs Non-MRT (7-12 mo)
+MRT (7-12 mo): Ns=174, Proportion Relapsed=0.164
+Non-MRT (7-12 mo): Ns=177, Proportion Relapsed=0.277
+Difference=0.113, SE of Difference=0.044, t=2.57, P<0.02
+
+Contrast: MRT (2-6 mo) vs Non-MRT (2-6 mo)
+MRT (2-6 mo): Ns=183, Proportion Relapsed=0.291
+Non-MRT (2-6 mo): Ns=182, Proportion Relapsed=0.236
+Difference=0.055, SE of Difference=0.046, t=1.19, NS
+
+*Original N, less the average number of administrative terminations within time periods.
+
+Table 5.-Cumulative Relapse Rates by Clinic, Treatment, and Period
+Periods: 2-6 Mo, 7-12 Mo, Totals
+
+Clinic 1:
+Placebo-non-MRT: 2-6 Mo=38.6%, 7-12 Mo=37.1%, Totals=75.7%
+Placebo + MRT: 2-6 Mo=24.3%, 7-12 Mo=33.5%, Totals=57.8%
+Drug-non-MRT: 2-6 Mo=5.9%, 7-12 Mo=27.8%, Totals=33.7%
+Drug + MRT: 2-6 Mo=21.9%, 7-12 Mo=9.4%, Totals=31.2%
+
+Clinic 2:
+Placebo-non-MRT: 2-6 Mo=38.2%, 7-12 Mo=33.4%, Totals=71.6%
+Placebo + MRT: 2-6 Mo=50.0%, 7-12 Mo=16.9%, Totals=66.9%
+Drug-non-MRT: 2-6 Mo=16.6%, 7-12 Mo=11.8%, Totals=28.4%
+Drug + MRT: 2-6 Mo=22.9%, 7-12 Mo=10.0%, Totals=32.9%
+
+Clinic 3:
+Placebo-non-MRT: 2-6 Mo=26.9%, 7-12 Mo=42.3%, Totals=69.2%
+Placebo + MRT: 2-6 Mo=42.8%, 7-12 Mo=22.2%, Totals=65.0%
+Drug-non-MRT: 2-6 Mo=17.85%, 7-12 Mo=17.85%, Totals=35.70%
+Drug + MRT: 2-6 Mo=14.2%, 7-12 Mo=7.7%, Totals=21.9%
+
+Table 6.-Interaction of Drug-Placebo and MRT-non-MRT by Clinic on Relapse
+Proportions averaged from data in Table 5; equals original sample within clinic treatment groups.
+
+Drug vs Placebo (2-12 mo):
+Clinic 1: Drug N=67, Proportion Relapsed=0.325; Placebo N=68, Proportion Relapsed=0.667; Difference=0.342, SE of Difference=0.086
+Clinic 2: Drug N=67, Proportion Relapsed=0.306; Placebo N=59, Proportion Relapsed=0.692; Difference=0.386, SE of Difference=0.089
+Clinic 3: Drug N=58, Proportion Relapsed=0.288; Placebo N=55, Proportion Relapsed=0.671; Difference=0.383, SE of Difference=0.094
+
+MRT vs non-MRT (2-12 mo):
+Clinic 1: MRT N=67, Proportion Relapsed=0.445; non-MRT N=68, Proportion Relapsed=0.547; Difference=0.102, SE of Difference=0.086
+Clinic 2: MRT N=64, Proportion Relapsed=0.499; non-MRT N=62, Proportion Relapsed=0.500; Difference=0.001, SE of Difference=0.089
+Clinic 3: MRT N=59, Proportion Relapsed=0.435; non-MRT N=54, Proportion Relapsed=0.525; Difference=0.090, SE of Difference=0.094
+
+MRT vs non-MRT (7-12 mo):
+Clinic 1: MRT N=67, Proportion Relapsed=0.215; non-MRT N=68, Proportion Relapsed=0.325; Difference=0.110, SE of Difference=0.076
+Clinic 2: MRT N=64, Proportion Relapsed=0.135; non-MRT N=62, Proportion Relapsed=0.226; Difference=0.091, SE of Difference=0.069
+Clinic 3: MRT N=59, Proportion Relapsed=0.150; non-MRT N=54, Proportion Relapsed=0.300; Difference=0.150, SE of Difference=0.078
+
+Table 7.-Medication Taking Among Relapsed and Nonrelapsed Patients*
+*Percentages exclude patients on whom information is unknown.
+†Since the number of relapsed patients within a given month is quite small compared to nonrelapsed, the slice of time (6 mo) seems a preferred method of comparing medication taking among nonrelapsed patients even though it underestimates the true relationship between medication taking and relapse, ie, non takers at 6 mo were more likely to relapse in subsequent months.
+
+Relapsed Patients:
+Intake to 2 mo (Drug):
+Takes as prescribed:10 (50%), Some dose/frequency irregularity:8, Gross dose/frequency irregularity:4, Does not take:14, Information not available:0
+2 mo to 12 mo (Drug):
+Takes as prescribed:13 (45.4%), Some dose/frequency irregularity:12, Gross dose/frequency irregularity:12 (54.5%), Does not take:18, Information not available:0
+2 mo to 12 mo (Placebo):
+Takes as prescribed:36 (53.1%), Some dose/frequency irregularity:24, Gross dose/frequency irregularity:28 (46.9%), Does not take:25, Information not available:0
+
+Nonrelapsed Patients at 6 mo:
+Drug:
+Takes as prescribed:88 (86.7%), Some dose/frequency irregularity:36, Gross dose/frequency irregularity:9 (13.3%), Does not take:10, Information not available:10
+Placebo:
+Takes as prescribed:53 (82.2%), Some dose/frequency irregularity:30, Gross dose/frequency irregularity:7 (17.8%), Does not take:11, Information not available:0
+
+Table 8.-Symptom Profiles of Placebo Relapses Compared to Nonrelapsed Placebo and Drug Patients Surviving One Year: BPRS Major Symptoms*
+*Score range 9-63.
+†Months 4, 8, and 10 were not regularly scheduled evaluation periods and have the most missing ratings.
+Groups: Nonrelapsed drug group (at 12 mo), Nonrelapsed placebo group (at 12 mo), Placebo relapses (At mo 3; At mo 4; At mo 5 & 6; At mo 7 & 8; At mo 9 & 10; At mo 11 & 12)
+Evaluation Periods: Clinic Intake, Month 1, Month 2, Month 4, Month 6, Month 8, Month 10, 12 Month, Relapse (for placebo relapses)
+Measures: Mean (X), Standard Deviation (SD)
+
+Nonrelapsed drug group (at 12 mo):
+Total N=124, Average No. of Ratings Per Period=107
+Clinic Intake: X=13.83, SD=5.93
+Month 1: X=13.23, SD=5.16
+Month 2: X=12.48, SD=5.03
+Month 4: X=11.74, SD=4.27
+Month 6: X=12.72, SD=5.99
+Month 8: X=11.80, SD=4.07
+Month 10: X=12.01, SD=4.21
+12 Month: X=12.83, SD=5.99
+
+Nonrelapsed placebo group (at 12 mo):
+Total N=49, Average No. of Ratings Per Period=43
+Clinic Intake: X=13.57, SD=5.31
+Month 1: X=12.50, SD=4.01
+Month 2: X=12.53, SD=4.95
+Month 4: X=12.81, SD=4.10
+Month 6: X=12.38, SD=4.15
+Month 8: X=11.88, SD=3.41
+Month 10: X=11.82, SD=3.41
+12 Month: X=13.36, SD=5.31
+
+Placebo relapses (At mo 11 & 12):
+Total N=13, Average No. of Ratings Per Period=12
+Clinic Intake: X=14.71, SD=7.17
+Month 1: X=11.71, SD=3.04
+Month 2: X=11.43, SD=3.45
+Month 4: X=13.91, SD=5.59
+Month 6: X=12.30, SD=3.42
+Month 8: X=11.92, SD=2.25
+Month 10: X=12.91, SD=3.76
+Relapse: X=22.73, SD=8.30
+
+Placebo relapses (At mo 9 & 10):
+Total N=11, Average No. of Ratings Per Period=11
+Clinic Intake: X=15.58, SD=4.37
+Month 1: X=14.00, SD=4.20
+Month 2: X=14.24, SD=4.50
+Month 4: X=13.71, SD=3.05
+Month 6: X=13.85, SD=4.04
+Month 8: X=12.60, SD=3.87
+Relapse: X=25.22, SD=9.88
+
+Placebo relapses (At mo 7 & 8):
+Total N=28, Average No. of Ratings Per Period=25
+Clinic Intake: X=14.84, SD=5.48
+Month 1: X=14.33, SD=4.91
+Month 2: X=13.55, SD=5.25
+Month 4: X=11.81, SD=3.57
+Month 6: X=14.59, SD=7.23
+Relapse: X=25.46, SD=10.47
+
+Placebo relapses (At mo 5 & 6):
+Total N=18, Average No. of Ratings Per Period=17
+Clinic Intake: X=14.55, SD=5.63
+Month 1: X=12.76, SD=4.12
+Month 2: X=14.94, SD=6.65
+Month 4: X=16.35, SD=7.24
+Relapse: X=22.77, SD=9.53
+
+Placebo relapses (At mo 4):
+Total N=20, Average No. of Ratings Per Period=18
+Clinic Intake: X=14.94, SD=7.49
+Month 1: X=13.66, SD=4.93
+Month 2: X=14.47, SD=6.19
+Relapse: X=21.72, SD=9.20
+
+Placebo relapses (At mo 3):
+Total N=27, Average No. of Ratings Per Period=24
+Clinic Intake: X=14.92, SD=6.27
+Month 1: X=16.12, SD=7.24
+Month 2: X=16.20, SD=6.45
+Relapse: X=23.36, SD=8.33
+
+### Image Description (TXT Format)
+Figure: Cumulative Relapse Rates Over 12 Treatment Months
+- X-axis (Horizontal): Labeled "Treatment Month", ranging from 2 to 12 (months 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12)
+- Y-axis (Vertical): Labeled "Cumulative Relapse Rates (%)", ranging from 0 to 70 (0, 10, 20, 30, 40, 50, 60, 70)
+- Four Treatment Groups (with distinct symbols):
+  1. Placebo Alone: Represented by a specific symbol (not explicitly stated, but tracked as a separate line)
+  2. Placebo + MRT: Represented by "o" (circle)
+  3. Drug Alone: Represented by "·" (dot)
+  4. Drug + MRT: Represented by "+" (plus sign)
+- Trend Summary:
+  - Placebo Alone group shows the highest cumulative relapse rate, reaching 72.5% at 12 months.
+  - Placebo + MRT group has a lower relapse rate than Placebo Alone, reaching 62.65% at 12 months.
+  - Drug Alone group has a significantly lower relapse rate than placebo groups, reaching 32.60% at 12 months.
+  - Drug + MRT group has the lowest cumulative relapse rate, reaching 25.74% at 12 months.
+  - MRT begins to show a relapse-lowering effect after the 7th month, while drug shows consistent prophylactic effect throughout the 12-month period.
+  - The effects of drug and MRT are additive, with no significant interaction observed.

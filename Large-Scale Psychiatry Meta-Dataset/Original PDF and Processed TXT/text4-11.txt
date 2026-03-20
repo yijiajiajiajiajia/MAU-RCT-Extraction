@@ -1,0 +1,153 @@
+### Text Content Before References
+A COMPARISON OF RISPERIDONE AND HALOPERIDOL FOR THE PREVENTION OF RELAPSE IN PATIENTS WITH SCHIZOPHRENIA
+JOHN G. CSERNANSKY, M.D., RAMY MAHMOUD, M.D., M.P.H., AND RONALD BRENNER, M.D.,
+FOR THE RISPERIDONE-USA-79 STUDY GROUP*
+
+ABSTRACT
+SCHIZOPHRENIA is a chronic illness with a lifetime prevalence of 0.7 percent in the United States and with serious physical, social, and economic consequences. The economic burden of schizophrenia on society was estimated as $33 billion in the United States in 1990. Much of this cost was attributed to the consequences of psychotic relapse.
+
+Background Prevention of relapse is a major goal of maintenance treatment in patients with psychotic disorders. We performed a long-term comparison of a newer, atypical antipsychotic drug, risperidone, and an older, conventional neuroleptic drug, haloperidol, in terms of the rate of relapse in patients with schizophrenia and schizoaffective disorder.
+
+Methods In a double-blind, prospective study at 40 sites, we randomly assigned adult outpatients in stable condition with chronic schizophrenia or schizoaffective disorder to receive treatment with flexible doses of either risperidone or haloperidol for a minimum of one year.
+
+Results Of the 397 patients who underwent randomization, data from 2 were excluded because they did not receive study medication; data from all 30 patients from one site were excluded by the sponsor, the Janssen Research Foundation, because of concern about the integrity of the data. The median duration of treatment was 364 days in the risperidone group and 238 days in the haloperidol group (P=0.02). Of the 177 patients assigned to risperidone and the 188 assigned to haloperidol who remained in the analysis, 44.1 percent and 52.7 percent, respectively, discontinued treatment for reasons other than relapse. The Kaplan–Meier estimate of the risk of relapse at the end of the study was 34 percent for the risperidone group and 60 percent for the haloperidol group (P<0.001); the risk ratio for relapse with haloperidol, from the Cox model, was 1.93 (95 percent confidence interval, 1.33 to 2.80; P<0.001). Early discontinuation of treatment for any reason was more frequent among haloperidol-treated patients (risk ratio, 1.52; 95 percent confidence interval, 1.18 to 1.96). Patients in the risperidone group had greater reductions in the mean severity of both psychotic symptoms and extrapyramidal side effects than those in the haloperidol group.
+
+Conclusions Adult outpatients with clinically stable schizophrenia or schizoaffective disorder have a lower risk of relapse if they are treated with risperidone than if they are treated with haloperidol. (N Engl J Med 2002;346:16-22.)
+
+The course of schizophrenia varies, but most patients have a chronic course with frequent relapses, typically characterized by exacerbation of psychosis and rehospitalization. Successive relapses can reduce the degree and duration of the next remission, worsen disability, and increase refractoriness to future treatment.
+
+To prevent relapse, maintenance treatment with antipsychotic drugs is obligatory for most patients who have schizophrenia or schizoaffective disorder. Nevertheless, long-term outcomes have generally been disappointing.
+
+Drugs referred to as atypical antipsychotic drugs are antagonists at both dopamine and serotonin receptors in the central nervous system; in contrast, conventional agents act predominantly at the dopamine receptor. Although considered a class of drugs, these atypical agents (clozapine, risperidone, olanzapine, and quetiapine) differ in their receptor-binding profiles and clinical effects. Some authors have expressed doubt that atypical antipsychotic drugs offer any advantages beyond improved tolerability and therefore argue for the continued use of conventional agents.
+
+The results of short-term studies indicate that all available atypical antipsychotic drugs (clozapine, risperidone, olanzapine, and quetiapine) are more effective than the conventional antipsychotic drug haloperidol for the treatment of “negative” schizophrenic symptoms, such as withdrawal from social interactions and blunted emotional expression. For “positive” symptoms, such as hallucinations and delusions, risperidone was found to be superior to haloperidol in a combined analysis of large controlled trials. We therefore hypothesized that treatment with risperidone would be superior to haloperidol in reducing the risk of relapse among outpatients with schizophrenia or schizoaffective disorder.
+
+METHODS
+Patients
+Eligibility criteria included an age of 18 to 65 years, a diagnosis of schizophrenia or schizoaffective disorder according to the criteria of the Diagnostic and Statistical Manual of Mental Disorders, fourth edition (DSM-IV), and inpatient psychiatric hospitalization, daytime psychiatric hospitalization, outpatient crisis management, or short-term treatment in a psychiatric hospital emergency room within the 24 months before study entry. All patients had received a stable dose of antipsychotic medication for at least 30 days before entry, had resided at the same address for at least 30 days before entry, and were judged clinically stable by the principal investigator at each site. Exclusion criteria included another current DSM-IV Axis I diagnosis, an Axis II diagnosis of borderline personality disorder or antisocial personality disorder, current substance dependence or abuse, clinically significant or unstable medical illness, current treatment with clozapine, a history of refractoriness to antipsychotic drugs, and treatment with depot neuroleptic injections within one treatment cycle before screening. Patients who were allergic to either risperidone or haloperidol and women who were pregnant or nursing were also excluded.
+
+The study protocol was approved by an institutional review board at each site, and each patient or his or her legal guardian provided written informed consent for participation.
+
+Procedure
+During the period from May 1996 to September 1998, patients were randomly assigned to double-blind treatment with risperidone (Risperdal, Janssen, Titusville, N.J.) or haloperidol (Haldol, Ortho-McNeil, Raritan, N.J.). To minimize possible adverse events associated with the discontinuation of medication that the patients were taking before the trial began, the gradual reduction of such antipsychotic drugs was permitted during days 1 to 7. During days 1 to 3, doses were increased from 1 mg to 4 mg of risperidone per day and from 2 mg to 10 mg of haloperidol per day. Both drugs were given once daily. From day 8 onward, investigators at each site adjusted the doses of identical-appearing tablets (range of permissible doses, 2 to 8 mg of risperidone per day and 5 to 20 mg of haloperidol per day) to maximize clinical benefits and minimize adverse events. Lower doses (e.g., 1 mg of risperidone per day or 2.5 mg of haloperidol per day) were permitted in rare cases. Concomitant medications were not allowed, except for antacids; acetaminophen; propranolol, benztropine mesylate, biperiden, or procyclidine for extrapyramidal symptoms caused by treatment; chloral hydrate, zolpidem, or flurazepam to improve sleep; and lorazepam for agitation, in doses not exceeding 4 mg per day for no more than four days in any seven-day period.
+
+Patients were assessed weekly during the first four weeks of the trial and then every four weeks until the last patient enrolled had completed one year of treatment. Because of concern that the prospect of discontinuation of treatment and dismissal from the study could influence reporting of relapses, a patient who had a relapse could attend the remaining scheduled study visits if both the patient and the investigator wished. However, all patients who had a second relapse were removed from the trial and no longer followed for any study outcome.
+
+The investigators at participating academic institutions contributed to the design of the study, had full access to the study data base, and were involved in data analysis and interpretation. Investigators from the Janssen Research Foundation, the developer of both risperidone and haloperidol, also participated in the design, analysis, and reporting of the trial.
+
+Assessment of Outcomes
+We calculated relapse rates and time to first relapse. Relapse was defined by any one of the following: psychiatric hospitalization; an increase in the level of psychiatric care (e.g., from clinic visits to day treatment) and an increase of 25 percent from base line in the total score on the Positive and Negative Syndrome Scale, or an increase of 10 points if the base-line score was 40 or less (total possible scores range from 30 to 210, with higher scores indicating greater severity of symptoms); deliberate self-injury; suicidal or homicidal ideation that was clinically significant in the investigator’s judgment; violent behavior resulting in clinically significant injury to another person or property damage; or substantial clinical deterioration, defined as a change score of 6 (“much worse”) or 7 (“very much worse”) on the Clinical Global Impressions Scale (possible scores range from 1 to 7, with a score of 4 indicating no change, 1 to 3 improvement, and 5 to 7 worsening).
+
+Secondary outcome measures included the total score and five factor scores from the Positive and Negative Syndrome Scale, including positive symptoms, negative symptoms, anxiety–depression, hostility–excitement, and disorganized thoughts.
+
+Safety assessments included monitoring for adverse events, a battery of standard laboratory tests, electrocardiography, and physical examination. Extrapyramidal symptoms were assessed with the Extrapyramidal Symptom Rating Scale (total possible scores range from 0 to 162, with higher scores indicating greater severity of adverse effects). A patient questionnaire is included within this scale; the scores range from 0 to 36, with higher scores indicating greater perception of adverse effects.
+
+Statistical Analysis
+The sample sizes were selected to make possible the detection of a 15 percent difference in relapse rates after one year with 80 percent power and a two-tailed level of significance of 0.05 (165 patients per treatment group). The sample sizes were then increased to 207 per group to account for a 20 percent rate of dropout for reasons other than relapse. Primary analyses were performed on all subjects who underwent randomization and were assessed at least once during drug treatment. Base-line characteristics and duration of treatment were compared between the two groups by analysis of variance or the Cochran–Mantel–Haenszel test. Duration of treatment and follow-up were summarized by descriptive statistics. Differences in time to relapse between treatment groups were analyzed with use of a Cox proportional-hazards model and a logrank test with control for site and sex. Follow-up for end points ceased after the discontinuation of treatment, and data for the analysis of time to relapse were therefore censored at the time of discontinuation of treatment. Risk ratios and reductions in risk (with corresponding confidence intervals) were derived with use of the Cox model. Differences between the groups in the degree of change in scores on the Positive and Negative Syndrome Scale and Extrapyramidal Symptom Rating Scale from base line to the last assessment were studied by analysis of covariance. All statistical tests were two-tailed.
+
+RESULTS
+A total of 397 patients were recruited at 40 sites and randomly assigned to double-blind treatment with either risperidone or haloperidol. The data on two patients assigned to risperidone who did not receive study medication were excluded from analysis. The data from all 30 patients at another site were also excluded, because the principal investigator at that site did not conduct the trial in a manner that was consistent with restrictions previously placed on him by the Food and Drug Administration (FDA) after an inspection by the FDA. The restrictions were intended to ensure the integrity of the data in the trial. The decision to exclude the data from this site was made by the quality-assurance department of Janssen Research Foundation and not by a committee of the authors. The quality-assurance department did not know to which treatment patients had been assigned. Exclusion of the data from this site did not change the findings regarding the primary end point (data not shown). Data from the remaining 365 patients were included in the final analysis.
+
+Characteristics of Patients and Withdrawals
+The characteristics of the 365 patients in the two treatment groups were similar (Table 1). Most patients had had a diagnosis of schizophrenia and had been ill for more than a decade. The median duration of treatment was 364 days (range, 3 to 799) in the risperidone group and 238 days (range, 4 to 794) in the haloperidol group (P=0.02 by analysis of variance).
+
+The rate of premature discontinuation of study treatment for any reason was higher in the haloperidol group than in the risperidone group (risk ratio, 1.52; 95 percent confidence interval, 1.18 to 1.96). The reasons for discontinuation, other than relapse, were similar in the two treatment groups: the patient’s choice in 18.1 percent in the risperidone group and 17.6 percent in the haloperidol group; adverse events in 12.4 percent and 15.4 percent, respectively; loss to follow-up in 5.1 percent and 4.8 percent; poor compliance in 2.8 percent and 5.3 percent; inadequate response in 1.1 percent and 3.7 percent; administrative reasons in 2.8 percent and 1.1 percent; and other reasons in 1.7 percent and 4.8 percent.
+
+Dosage and Compliance
+The means (±SD) of the modal daily doses were 4.9±1.9 mg of risperidone and 11.7±5.0 mg of haloperidol. The modal daily doses of risperidone were less than 4 mg in 12.4 percent of patients, 4 to 6 mg in 68.4 percent, and 8 mg in 19.2 percent. The modal daily doses of haloperidol were 2.5 to 5 mg in 19.1 percent of patients, 7.5 to 10 mg in 44.1 percent, and 15 to 20 mg in 36.7 percent.
+
+Almost all patients were found to be compliant with the study medication regimen, as assessed by pill count (97.0 percent of patients taking risperidone and 96.0 percent of patients taking haloperidol). Compliance was also high according to pill count in the 30 days before relapse among patients who had relapses (95.3 percent of the risperidone group and 95.2 percent of the haloperidol group were compliant).
+
+Relapse
+At the end of the study, 25.4 percent of patients in the risperidone group (45 of 177) and 39.9 percent of patients in the haloperidol group (75 of 188) had relapsed (Fig. 1). The Kaplan–Meier estimate of the risk of relapse was 34 percent (95 percent confidence interval, 28 to 43 percent) in the risperidone group and 60 percent (95 percent confidence interval, 50 to 70 percent) in the haloperidol group (P<0.001). The risk of relapse was substantially higher among patients assigned to haloperidol (risk ratio, 1.93; 95 percent confidence interval, 1.33 to 2.80; P<0.001). For patients assigned to risperidone, the relapse rate represented a 48 percent reduction in risk (95 percent confidence interval, 25 to 64 percent) as compared with haloperidol treatment.
+
+The Kaplan–Meier estimates of the relapse rates were similar in patients with schizophrenia (34 percent for the risperidone group and 59 percent for the haloperidol group) and in those with schizoaffective disorder (34 percent and 62 percent, respectively). The subtypes of relapse were similar in the two groups of patients: psychiatric hospitalization in 44 percent and 48 percent, respectively; substantial clinical deterioration in 36 percent and 29 percent; an increase in level of care in 18 percent and 19 percent; and suicidal or homicidal ideation in 2 percent and 4 percent.
+
+Before the study, 25 percent of patients were receiving risperidone, 27 percent haloperidol, and 48 percent other conventional antipsychotic medications. To assess the effect of the change in treatment caused by random assignment to another drug in these stable outpatients, patients assigned to a new treatment were compared with patients whose treatment was unchanged. Switching therapy had no effect on the estimated relapse rates at the end of the study; 29 percent of patients who were switched from haloperidol to risperidone had relapsed, as compared with 60 percent of patients switched from risperidone to haloperidol; 28 percent of patients who continued to take risperidone had relapsed, as compared with 60 percent who continued to take haloperidol.
+
+Symptom Scales
+The overall reduction in symptoms was smaller than that reported in previous studies of patients with acute exacerbations of schizophrenia, as would be expected in patients with stable disease. Significant differences between subjects assigned to risperidone and those assigned to haloperidol were seen in total scores on the Positive and Negative Syndrome Scale and in four of the five factor scores at the last study rating (Fig. 2). In the risperidone group, improvements from base line to one year or to the last study rating were seen in total scores and in positive symptoms, negative symptoms, disorganized thoughts, and anxiety–depression. In the haloperidol group, symptoms were not improved over base line. In post hoc analyses, patients in the risperidone group had a significant improvement from base line in symptoms after one week of double-blind treatment: the changes in total scores on the Positive and Negative Syndrome Scale were a decrease of 3.7 in the risperidone group (P<0.001) and a decrease of 1.1 in the haloperidol group (P=0.17).
+
+Extrapyramidal Symptoms
+The severity of extrapyramidal symptoms was reduced from base line to the last recorded value in the risperidone group and increased in the haloperidol group (Table 2). Differences between the groups were significant on each measure on the Extrapyramidal Symptom Rating Scale. Antiparkinsonian drugs were prescribed for 30 consecutive days for twice as many patients assigned to haloperidol (33 of 188 [17.6 percent]) as patients assigned to risperidone (16 of 177 [9.0 percent], P=0.02 by the Cochran-Mantel–Haenszel test). The new onset of tardive dyskinesia was reported in one patient assigned to risperidone (0.6 percent) and five assigned to haloperidol (2.7 percent).
+
+Adverse Events and Body-Weight Changes
+Adverse events were identified in 89.8 percent of patients assigned to risperidone and 91.0 percent of those assigned to haloperidol. The events reported in more than 10 percent of subjects in at least one group were somnolence (14 percent with risperidone and 25 percent with haloperidol), agitation (10 percent and 18 percent, respectively), and hyperkinesia (5 percent and 20 percent). There was a mean increase in body weight of 2.3 kg (5.0 lb) in patients assigned to risperidone - similar in magnitude to the weight gain seen in short-term studies - and a mean decrease of 0.73 kg (1.6 lb) in patients assigned to haloperidol (P<0.001).
+
+DISCUSSION
+Among patients with clinically stable chronic schizophrenia or schizoaffective disorder, the risk of relapse was significantly lower during treatment with risperidone than during treatment with haloperidol. The benefit with risperidone was substantial. The means of the modal daily doses of risperidone (4.9 mg) and haloperidol (11.7 mg) were similar to those used in clinical practice. The relapse rate among subjects receiving haloperidol (39.9 percent) was similar in magnitude to that found previously among patients receiving conventional antipsychotic agents.
+
+The reduced risk of relapse with risperidone could be due to that drug’s superior efficacy, better tolerability, or both. Patients who received risperidone had both early and late improvements in symptoms overall, as well as an amelioration of extrapyramidal symptoms. In contrast, patients receiving haloperidol had a slight worsening of both psychotic and extrapyramidal symptoms. These findings are similar to those previously reported for an eight-week comparative trial of risperidone and haloperidol. In our trial, compliance with the study medication, which can also influence the rate of relapse, was similar in the two treatment groups. Improvements in cognition or other symptoms of schizophrenia produced by risperidone but not well assessed by the Positive and Negative Syndrome Scale may also have contributed to the reductions in the rate of relapse.
+
+Receptor profiles and mechanisms of action vary among atypical antipsychotic agents. Therefore, other agents should be assessed individually with regard to their ability to prevent relapses.
+
+The longer duration of drug treatment with risperidone than with haloperidol appeared to be the result of lower rates of relapse in patients receiving risperidone, since the rates of other reasons for discontinuation were similar in the two treatment groups. Analysis of the time to relapse (Fig. 1) suggested that the benefits of risperidone over haloperidol appeared early and grew progressively larger throughout the trial. Thus, the full clinical benefits of treatment with an antipsychotic drug should be judged over an extended period.
+
+A limitation of our study is the number of patients who left the trial. To the extent that such discontinuation is dependent on the treatment assignment, bias may be introduced. The reasons for discontinuation did not differ between treatment groups, and the differences between the groups in the effects of treatment appeared early, grew consistently with time, and were substantial.
+
+In our study, patients with chronic but stable schizophrenia were randomly assigned to treatment, in contrast to studies in which patients successfully treated in a short-term trial were continued on the same antipsychotic agent. Our results demonstrate that substantial reductions in the risk of relapse can be achieved in such patients with the use of risperidone, even in comparison with the use of an effective conventional antipsychotic.
+
+Supported by Janssen Research Foundation. Dr. Csernansky has received research grant support and honorariums for delivering lectures from Janssen Research Foundation, Eli Lilly, AstraZeneca Pharmaceuticals, and Pfizer Pharmaceuticals. Dr. Brenner has received research support from Janssen Research Foundation, Eli Lilly, AstraZeneca Pharmaceuticals, and Pfizer Pharmaceuticals.
+
+APPENDIX
+The following investigators participated in the Risperidone-USA-79 Study: F. Adan, Miami; D. Brown, Austin, Tex.; J. Chou, New York; C. Cohn, Houston; M. DePriest and B. Cole, Las Vegas; L. Dunn, Durham, N.C.; W. Goodman and M. Byerly, Gainesville, Fla.; A.I. Green and D.A. Klegon, Boston; R.M. Hamer and M. Menza, Piscataway, N.J.; M. Hamner, Charleston, S.C.; H. Harsch, Milwaukee; G.G. Jaskiw, Brecksville, Ohio; B. Johnson, Houston; A. Kiev, Englewood, N.J.; I.S. Kolin, Winter Park, Fla.; M.A. Knesevich, Dallas; A. Kopelowicz, Mission Hills, Calif.; D. Levinson, Philadelphia; H.E. Logue, Birmingham, Ala.; M.J. Miller, Indianapolis; R. Nakra, Chesterfield, Mo.; G. Pahl, Oklahoma City; M. Plopper, San Diego, Calif.; S. Preskorn, Wichita, Kans.; G. Simpson, Los Angeles; S. Strakowski, Cincinnati; M. Thomas, Denver; S.A. West, Orlando, Fla.; J. Yaryura-Tobias, Great Neck, N.Y.; and T.P. Yoo, Detroit.
+
+### Tables
+Table 1: Base-Line Characteristics of the 365 Patients.*
+| CHARACTERISTIC | RISPERIDONE (N=177) | HALOPERIDOL (N=188) |
+| --- | --- | --- |
+| Male sex (%) | 71.8 | 68.1 |
+| Race or ethnic group (%) | | |
+| White | 45.8 | 49.5 |
+| Black | 37.9 | 33.5 |
+| Hispanic | 13.6 | 14.4 |
+| Other | 2.8 | 2.7 |
+| Age (yr) | 40.3±10.6 | 40.1±10.4 |
+| DSM-IV diagnosis (%) | | |
+| Schizophrenia | 81.4 | 83.0 |
+| Schizoaffective disorder | 18.6 | 17.0 |
+| Age at onset of symptoms (yr) | 24.4±8.3 | 23.5±7.5 |
+| Scores on PANSS | | |
+| Total | 65.0±15.9 | 67.3±17.4 |
+| Positive symptoms | 18.6±5.8 | 19.2±6.4 |
+| Negative symptoms | 17.0±6.0 | 17.8±6.3 |
+| Disorganized thoughts | 14.9±4.3 | 15.4±5.0 |
+| Hostility–excitement | 6.0±2.2 | 6.3±2.5 |
+| Anxiety–depression | 8.4±3.7 | 8.8±3.7 |
+*Plus–minus values are means ±SD. Differences were not significant between the groups. Possible scores on the Positive and Negative Syndrome Scale for Schizophrenia (PANSS) range from 30 (no symptoms) to 210 (extremely severe symptoms). Possible scores for positive symptoms range from 8 to 56, scores for negative symptoms from 7 to 49, scores for disorganized thoughts from 7 to 49, scores for hostility–excitement from 4 to 28, and scores for anxiety–depression from 4 to 28. In each case, higher scores indicate greater severity of symptoms. DSM-IV denotes Diagnostic and Statistical Manual of Mental Disorders, fourth edition.
+
+Table 2: The Extrapyramidal Symptom Rating Scale at Base Line and Least-Squares Mean Changes from Base Line to the Last Recorded Value.*
+| SCORE | RISPERIDONE (N=173) | HALOPERIDOL (N=187) | P VALUE † |
+| --- | --- | --- | --- |
+| Total score‡ | | | |
+| Base line | 4.3±5.2 | 4.9±6.5 | 0.36 |
+| Change | -1.0±0.4§ | 0.3±0.4 | 0.02 |
+| Parkinsonism subscale | | | |
+| Base line | 3.0±3.5 | 3.4±3.9 | 0.29 |
+| Change | -0.7±0.3§ | 0.5±0.3 | 0.003 |
+| Global Impression score for parkinsonism | | | |
+| Base line | 1.9±1.2 | 2.1±1.3 | 0.15 |
+| Change | -0.3±0.1¶ | 0.1±0.1 | 0.002 |
+| Global Impression score for dyskinesia | | | |
+| Base line | 1.5±1.0 | 1.6±1.2 | 0.55 |
+| Change | -0.1±0.1 | 0.1±0.1 | 0.03 |
+| Patient questionnaire | | | |
+| Base line | 1.7±2.4 | 1.9±2.7 | 0.39 |
+| Change | -0.2±0.2 | 0.4±0.2§ | 0.009 |
+*Possible scores on the total Extrapyramidal Symptom Rating Scale range from 0 to 162, scores on the parkinsonism subscale from 0 to 48, Global Impression scores for severity of parkinsonism from 0 to 8, Global Impression scores for severity of dyskinesia from 0 to 8, and scores on the patient questionnaire from 0 to 36. In all cases, higher scores indicate more severe symptoms. Values for scores are means ±SD. Values for changes in scores are means ±SE. Data were available for 173 patients in the risperidone group and 187 patients in the haloperidol group for all scores except the patient-questionnaire scores, for which data were available for 173 patients in the risperidone group and 183 patients in the haloperidol group. †P values are for differences between the groups and were derived by analysis of covariance. ‡The total score is for parkinsonism plus dystonia plus dyskinesia. §P=0.02 for the comparison with the base-line value. ¶P=0.002 for the comparison with the base-line value.
+
+### Image Descriptions
+Figure 1: Kaplan–Meier Analysis of Time to Relapse in Patients Assigned to Risperidone or Haloperidol.
+- The x-axis represents "Days" (ranging from 0 to 800).
+- The y-axis represents "Probability of Remaining Relapse-free (%)" (ranging from 0 to 100).
+- Two curves are displayed: one for the risperidone group (labeled "Risperidone") and one for the haloperidol group (labeled "Haloperidol").
+- The risperidone curve consistently lies above the haloperidol curve throughout the study period, indicating a higher probability of remaining relapse-free in the risperidone group.
+- Below the graph, two sections are provided: "NO. AT RISK" and "NO. WITH RELAPSE", each listing values for risperidone and haloperidol at different time points (0, 100, 200, 300, 400, 500, 600, 700, 800 days). For example, at day 0, the number at risk is 177 for risperidone and 188 for haloperidol; the number with relapse is 0 for both. As days increase, the number at risk decreases and the number with relapse increases, with the haloperidol group showing a higher number of relapses at each time point.
+- The P value for the comparison between the two groups is <0.001.
+
+Figure 2: Mean (±SE) Changes from Base Line to the End of the Study in Total and Factor Scores on the Positive and Negative Syndrome Scale for Schizophrenia in Patients Assigned to Risperidone or Haloperidol.
+- The x-axis lists different outcome measures: "Total", "Positive Symptoms", "Negative Symptoms", "Disorganized Thoughts", "Hostility–Excitement", "Anxiety–Depression".
+- The y-axis represents "Change Score" (ranging from -5 to 3). Negative change scores indicate improvement in symptoms, while positive change scores indicate worsening.
+- For each outcome measure, two bars are shown: one for haloperidol and one for risperidone.
+- The risperidone group shows negative change scores (improvements) for all measures except possibly "Hostility–Excitement" (with a near-zero score), while the haloperidol group shows positive or near-zero change scores (no improvement or worsening).
+- Corresponding P values are displayed above the bars for each measure: P<0.001 (Total), P=0.004 (Positive Symptoms), P=0.003 (Negative Symptoms), P=0.01 (Disorganized Thoughts), P=0.08 (Hostility–Excitement), P=0.005 (Anxiety–Depression). These P values are derived by analysis of covariance.
