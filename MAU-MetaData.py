@@ -158,7 +158,7 @@ def safe_json_parse(json_text, default_value=None):
 print("=== OpenAI GPT 模型配置 ===")
 
 # OpenAI GPT 配置
-api_key = "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"  # 替换为你的 OpenAI Key
+api_key = ""  # 替换为你的 OpenAI Key
 base_url = "https://api.openai.com/v1"  # OpenAI API 端点
 model_name = "gpt-4.1"
 print("已选择 OpenAI GPT 模型")
