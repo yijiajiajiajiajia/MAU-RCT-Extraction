@@ -1,0 +1,234 @@
+### Text Content (Before References)
+ORIGINAL INVESTIGATION
+Cardiovascular Events and Correlates in the Veterans Affairs Diabetes Feasibility Trial
+Veterans Affairs Cooperative Study on Glycemic Control and Complications in Type II Diabetes
+Carlos Abraira, MD; John Colwell, MD, PhD; Frank Nuttall, MD, PhD; Clark T. Sawin, MD; William Henderson, PhD; John P. Comstock, MD; Nicholas V. Emanuele, MD; Seymour R. Levin, MD; Ivan Pacold, MD; Hae Sook Lee; and the Veterans Affairs Cooperative Study on Glycemic Control and Complications in Type II Diabetes (VACSDM) Group
+
+Background: The risks and benefits of intensive therapy in non-insulin-dependent diabetes mellitus (NIDDM) need to be defined. In preparation for a long-term trial, a feasibility study of 153 men in 5 medical centers compared standard vs intensive insulin therapy.
+
+Objective: To assess the rate of development of new cardiovascular events and their correlates.
+
+Methods: Patients with a mean ± SD age of 60 ± 6 years and diagnosis of NIDDM for 7.8 ± 4.0 years were randomly assigned to a standard (1 insulin injection every morning) or to an intensive treatment arm (stepped plan from 1 evening injection of insulin, alone or with glipizide, to multiple daily injections) designed to attain near-normal glycemia levels. A 2.07% separation of glycosylated hemoglobin (HbA₁c) was sustained for a mean follow-up of 27 months (P<.001). Predefined cardiovascular events were assessed by a committee unaware of treatment assignment.
+
+Results: Mild and moderate hypoglycemic events were more frequent in the intensive than in the standard treatment arm (16.5 vs 1.5 per patient per year, respectively). Mean insulin dose was 23% lower in the standard treatment arm (P<.001). There were 61 new cardiovascular events in 24 patients (32%) in the intensive treatment arm and in 16 patients (20%) in the standard treatment arm (P=.10). There was no difference in total and cardiovascular mortality (n=5 and n=3 in the intensive and standard treatment arms, respectively) or in new events in patients with cardiovascular history (n=10 in each arm). In Cox regression analysis, the only significant correlate for new cardiovascular events was previous cardiovascular disease (P=.04). Entering in the analysis any baseline cardiovascular abnormality, the regression model indicated a lower HbA₁c level prior to the event as the correlate for new cardiovascular events (P=.05).
+
+Conclusion: A long-term prospective trial is needed to assess the risk-benefit ratio of intensive insulin therapy for NIDDM in patients who require it.
+
+Arch Intern Med. 1997;157:181-188
+
+THE RESULTS of the Diabetes Control and Complications Trial (DCCT) indicated a continuous reduction in the rate of progression or appearance of retinopathy, neuropathy, and albuminuria for each decrease in glycosylated hemoglobin (HbA₁c) level in subjects with insulin-dependent (type I) diabetes mellitus (IDDM). A significant effect of intensive insulin therapy on macrovascular disease could not be determined.¹
+
+The relative risks and benefits of insulin treatment regimens designed to attain near-normal glycemia levels in people with non-insulin-dependent (type II) diabetes mellitus (NIDDM) are not yet known. This type of diabetes accounts for 85% to 90% of patients with diabetes mellitus.² During the course of the disease, there is a gradual loss of responsiveness to oral sulfonylurea therapy, and insulin therapy is required for control of blood glucose levels in most patients.³⁴
+
+Macrovascular disease is the major cause of morbidity and mortality in NIDDM. Hyperinsulinemia (or insulin resistance) is one of the identified risk factors for macrovascular disease in the general population⁵ and is common in people with NIDDM. Other risk factors for macrovascular disease, such as hypertension, dyslipidemia, and obesity, also are common.³,⁶
+
+Insulin therapy has been associated with worsening of obesity,⁷ hypertension,⁸ or dyslipidemia⁹ and with adverse cardiovascular outcomes,¹⁰¹¹ although the latter may be due to longer and more severe disease.³ Other data indicate a benefit of insulin therapy on dyslipidemia and on short-term cardiovascular effects.¹²,¹³
+
+In the published results of the University Group Diabetes Program study,¹⁴ there were fewer cardiovascular events in the group assigned to standard insulin therapy than in the group assigned to treatment with oral agents, although the average fasting blood glucose value was not lower.¹⁵¹⁶ A review of several reports indicates little independent effect of overt hyperglycemia in cardiovascular disease associated with NIDDM, although impaired glucose tolerance or even minimal hyperglycemia correlates with an increased risk for cardiovascular disease.⁶ However, more recently, several articles have associated severity of hyperglycemia in people with NIDDM and development of cardiovascular morbidity¹⁷⁻²¹ or mortality.²²⁻²⁵
+
+We recently completed a feasibility trial designed to evaluate whether near-normal HbA₁c levels in patients with NIDDM could be achieved in a group undergoing intensive insulin therapy (intensive treatment arm) and whether a clinically and statistically significant separation in mean HbA₁c levels could be maintained for a 2-year period when these patients were compared with a group receiving standard insulin therapy (standard treatment arm). This study was done in preparation for a longer-term trial, the Veterans Affairs Cooperative Study on Glycemic Control and Complications in Type II Diabetes (VACSDM).²⁶ (A proposal for a long-term trial of 1463 patients in 20 medical centers was prepared by an expanded planning committee and scientifically approved with a high rating by the Department of Veterans Affairs Cooperative Studies Evaluation Committee, and is awaiting funding.²⁷) Adherence to protocol, measurement of end points for a long-term trial and side effects, and the evaluation of possible unintended differences in risk factors between treatment arms were additional objectives. A detailed report indicated that all of these objectives were met.²⁷
+
+The sample size and duration of the feasibility trial did not provide the statistical power, and was not expected to demonstrate an effect of treatment on cardiovascular end points. However, one of the objectives of the feasibility trial was the assessment of the frequency and types of cardiovascular end points for a long-term trial. Herein, we report those cardiovascular events and their correlates.
+
+See Subjects and Methods on next page
+
+ARCH INTERN MED/VOL 157, JAN 27, 1997
+181
+
+The affiliations of the authors appear in the acknowledgment section at the end of this article. A list of the members of the VACSDM Study Group appears on page 184.
+
+SUBJECTS AND METHODS
+STUDY DESIGN
+The exclusion criteria, the randomization process, and the treatment strategies have been described previously.²⁶ ²⁷ In brief, 153 men with NIDDM, 40 to 69 years of age, with suboptimal glycemic control after being treated with insulin or with maximum doses of oral agents, were randomized into standard and intensive treatment arms. In the standard treatment arm, the subjects injected insulin once daily. The objective was to prevent symptoms of hyperglycemia or glycosuria. In the intensive treatment arm, a stepped therapy designed to attain near-normal glycemia levels was used. The regimen began with 1 injection of insulin in the evening (phase I). If the glycemic goal was not met, each patient successively received more intensive therapy, consisting of an evening insulin injection with daytime glipizide (phase II), 2 injections of insulin alone (phase III), or 3 or more injections of insulin (phase IV).
+
+Patients with preexisting nonincapacitating cardiovascular disease generally were included. However, patients reporting more than 1 preexisting myocardial infarction, severe congestive heart failure (New York Heart Association class III or IV), or amputation due to gangrene were excluded. Elevated serum creatinine levels (>141.4 μmol/l [>1.6 mg/dL]), albuminuria over 500 mg/d, or symptomatic neuropathy also were exclusion criteria. Stratification was done on the basis of clinical history of cardiovascular disease (myocardial infarction, class I or II congestive heart failure, angina pectoris, or cerebrovascular conditions) and by participating hospitals. Hypertension, dyslipidemia, smoking, and obesity were treated similarly in both arms and according to the guidelines of the American Diabetes Association.²⁸ All patients underwent quarterly assessment for smoking, hypertension, body weight, dyslipidemia, and intercurrent medical events. These were addressed per protocol. Twelve-lead electrocardiograms (ECGs) were obtained quarterly. Patients in the intensive treatment arm were also seen monthly for the sole purpose of adjusting the treatment of hyperglycemia. Assessment of end points was not done at these visits.²⁶,²⁷
+
+Baseline albuminuria was determined by a timed 3-hour urine collection and quantitated in a central laboratory (Edward J. Hines, Jr, Veterans Affairs Hospital, Hines, Ill). Intermittent claudication and ankle and foot pulses were assessed semiannually. At entry, a complete history was obtained and physical examination was performed using a standardized form. A 24-hour ambulatory ECG and multigated radioisotopic examination of cardiac function (MUGA) also were performed. All analyses were performed in central laboratories without knowledge of treatment assignment. The principal investigators (F.N., C.T.S., J.P.C., N.V.E., and S.R.L.) were unaware of the data from the central laboratories, with the exception of the HbA₁c values in the subjects in the intensive treatment arm. In both arms, investigators were notified of plasma lipid values requiring treatment and critical ambulatory ECG abnormalities as determined by prior criteria.²⁶⁻²⁹
+
+ASSESSMENT OF NEW CARDIOVASCULAR END POINTS
+The specified cardiovascular events for the long-term trial were newly appearing myocardial infarctions (by clinical manifestations and/or quarterly ECGs), congestive heart failure, stroke, amputation for ischemic gangrene, cardiovascular mortality, angina or documented coronary disease, angioplasty or bypass graft surgery, transient ischemic attacks, new claudication, or ischemic ulcers. Events characterized by a recurrent clinical character (angina, congestive heart failure, claudication, or transitory ischemic attacks) and preexisting at enrollment were counted as new only if they unequivocally increased in severity and frequency. Electrocardiographic criteria of the Minnesota code³⁰ were followed for definite myocardial infarction, silent infarction detected by quarterly ECGs ("interim" infarction), and suspected myocardial infarction. Both definite and silent myocardial infarction required the presence or development of major Q-QS wave abnormalities (code 1.1 or 1.2). All ECGs were read at the University of Minnesota, Minneapolis. New angina or documented coronary disease was diagnosed by clinical presentation and related workup, but not solely by patterns appearing in routine resting or ambulatory ECGs. Limb ulcers or amputations were computed as end points only if diagnosed as ischemic. The external Endpoints Committee of 5 consultants, unaware of treatment assignment, used predetermined criteria to decide whether an event occurred and, if so, how to categorize it. Pertinent medical records and laboratory, ECG, pathological, radiological, and other imaging procedure reports were submitted to the committee for each event. Diagnosis was determined individually by each member and submitted in writing to the committee chairman.
+
+BASELINE SILENT CARDIAC ABNORMALITIES
+Baseline ECGs were read at a central location (University of Minnesota) and infarctions, ischemic patterns, conduction defects, and arrhythmias were counted. The baseline left ventricular mass was estimated by the ECG criteria of Rautaharju et al³¹; a left ventricular mass index exceeding 131 g/m² was considered abnormal.
+
+Baseline ambulatory ECGs (measured on Holter monitors) were processed in the central ECG laboratory, and a real-time analysis of the ECGs was performed using a computer algorithm. The baseline end points were abnormal ST segment deviations of at least 1 mm for 30 to 500 minutes, premature ventricular beat frequency and complexity according to a defined risk score, ventricular tachycardia and other alert levels,²⁹ and QTc (QT interval corrected for the heart rate) greater than 0.44 seconds measured at the beginning of the recording.
+
+The MUGA scans for assessment of the left ventricular ejection fraction (LVEF) were obtained at each participating institution according to a centrally directed protocol. An LVEF of less than 0.50 was considered abnormal.
+
+QUALITY CONTROL
+Measurements and assessments, which were performed in central laboratories, were assessed for reproducibility. Quality control reports were generated periodically by the Cooperative Studies Program Coordinating Center (Edward Hines, Jr, Veterans Affairs Hospital) for review by the independent Data Monitoring Board. Documentation of laboratory accreditation, proficiency testing programs, and intra-assay and interassay coefficients of variation were reviewed by the Data Monitoring Board.
+
+ANALYSIS OF RESULTS
+Baseline comparisons of treatment arms on all variables were analyzed with either Student t tests in the case of continuous variables or χ² test in the case of discrete variables. Analysis of variables during the course of the study, including time and treatment as independent variables, were accomplished by repeated measures analysis of variance.
+
+Occurrences of cardiovascular events were analyzed first, using Kaplan-Meier product-limit estimates of survival with the log rank test. Survival was defined as time from randomization to the occurrence of the first cardiovascular event. A Cox regression analysis, including cardiovascular history and time-dependent covariates, was performed on the survival estimates to account for the influence of those covariates. A univariate Cox regression analysis was performed first, with time from randomization to cardiovascular event as the dependent variable and each potential predictor as the independent variable. This analysis was followed by a stepwise multivariable Cox regression that included all of the predictor variables simultaneously. The baseline variables included were treatment assignment, clinical history of cardiovascular disease, and excess albuminuria (more than 30 mg/d). In addition, the effect of smoking, body mass index, daily total insulin dose, hypoglycemic event rate, systolic and diastolic blood pressure, serum high- and low-density lipoprotein cholesterol levels, serum triglyceride levels, and serum total cholesterol levels were entered as the most recent observation before the event or as the last study measurement for patients without events. In each analysis, the risk ratio and 95% confidence intervals are given. Commercially available software (the PHREG procedure in SAS, SAS Technical Report P-229, Release 6.07, SAS Institute, Cary, NC) was used for the Cox analysis. All analyses were intent to treat, with patients remaining in their originally assigned treatment arms, regardless of compliance.
+
+ARCH INTERN MED/VOL 157, JAN 27, 1997
+182
+
+RESULTS
+ENROLLMENT AND BASELINE CHARACTERISTICS
+Of 289 patients who completed the screening evaluations, 153 were enrolled in the study.²⁷ Excluded patients were similar to patients enrolled regarding age, duration of diabetes, previous treatment, race, employment, and education. Many (26%) were excluded for uncooperativeness or unreliability. Additional causes involving 10% or less of rejected subjects (listed in order of frequency) were albuminuria of more than 500 mg/d, low HbA₁c level (<6.55%), duration of NIDDM more than 15 years, or low or undetected serum C peptide levels.²⁷
+
+Baseline characteristics are summarized in Table I. There were no significant differences between treatment arms at baseline, except for pipe smoking.²⁷ Mean±SE HbA₁c level at admission into the study was 9.8%±1.9%, but on completion of enrollment procedures, baseline values were slightly lower in both arms (Table 1).²⁶,²⁷ Eighty percent of the enrolled patients were overweight (body mass index at or over 27 kg/m²). Thirty-eight percent had known preexisting cardiovascular disease. When patients with cardiac abnormalities first detected at baseline screening were included, a total of 82% of patients had a history of cardiovascular disease and/or previously undiagnosed silent cardiac abnormalities. The test with most frequently abnormal results at baseline was the ambulatory ECG (95 subjects [62.1%]). The baseline resting ECG finding was abnormal in 56 patients (36.6%). Most commonly, this was due to ST or T wave changes. There were 2 definite and 8 possible preexisting myocardial infarctions diagnosed by ECG criteria at baseline. Thirty-two subjects (20.9%) had a low LVEF detected by MUGA scan. Slightly less than half of the subjects did not have microalbuminuria at entry.
+
+GLYCEMIC CONTROL
+Patients kept 98.6% of scheduled visits, and the mean follow-up time was 27 months (range, 18-35 months). Only 1 patient withdrew voluntarily from the study. After 6 months, the mean HbA₁c level in the intensive treatment arm was 7.1%, and remained 2.1% lower than in the standard treatment arm for the duration of the trial (P<.001) (Figure 1). Most of the decrease in mean HbA₁c levels in the intensive treatment arm was obtained by a single injection of evening intermediate insulin (phase I or phase II). The insulin dose used increased significantly from baseline in both treatment arms but was 23% lower overall in the standard treatment arm (P<.001).²⁷ Severe hypoglycemia was rare (2 events per 100 patients per year) and not significantly different between arms. Mild (84%) and moderate (16%) hypoglycemic events occurred more frequently in the intensive treatment arm (16.5 per patient per year) than in the standard treatment arm (1.5 per patient per year [P<.001]). However, in the standard treatment arm, hypoglycemia may have occurred more often than was noted because of less frequent measurement of blood glucose levels.²⁷
+
+CARDIOVASCULAR RISK FACTORS
+Significant differences in body mass index, serum triglyceride levels, total cholesterol levels, or low- and high-density lipoprotein cholesterol levels between treatment arms were not present at any time, and there were no significant changes from baseline between arms.²⁷ The percent of patients receiving drug therapy for dyslipidemia was 7% at entry and 18% by the end of the study. They were similarly distributed between treatment arms.²⁷ Mean blood pressure level did not change during the study; it was identical in both treatment arms. Half of the patients were treated with antihypertensives at study entry, and two thirds by 2 years. There were no differences between arms.²⁷ Eighty-four percent were former smokers, but only 18% of the patients reported that they were smokers at study entry. This did not change during the study. The number of patients reporting cigarette smoking was similar, but all 4 pipe smokers (2.6% of patients) were assigned to the intensive treatment arm. Thus, there was a higher prevalence of all types of smoking in the intensive treatment arm.²⁷
+
+CARDIOVASCULAR EVENTS AND DEATHS
+Classification of cardiovascular events by the Endpoints Committee was unanimous except for 6 cases; these were determined by simple majority. The majority of the counted conditions normally characterized by recurrent symptoms first appeared during the trial. Only 1 patient was counted solely by aggravation of a preexisting diagnosis (angina).
+
+There were 61 new cardiovascular events during the study; 35 occurred in 24 patients (32%) during intensive therapy. There were 26 events in 16 patients (20%) during standard therapy (P=.10) (Table 2). Four of the 9 myocardial infarctions were silent and were detected by routine ECGs. Ten patients died during the study, 5 in each treatment arm. Of these, 3 deaths in each arm were due to a cardiovascular cause. Of these, there were 2 sudden deaths (not attributable to a noncardiac cause), both in the standard treatment arm. Deaths due to coronary heart disease (not meeting the criteria for fatal myocardial infarction) occurred in 1 patient in the standard treatment arm and in 3 patients in the intensive treatment arm.
+
+None of the cardiovascular events occurred in association with a recognized hypoglycemic episode or documented hypoglycemia. The cardiovascular events were evenly distributed among the participating medical centers (mean number of events per center, 12; range, 8-18).
+
+When all patients with cardiovascular events were combined, an unadjusted comparison between treatment arms of the time to first event using Kaplan-Meier estimates showed no significant differences between arms (P=.13) (Figure 2). The univariate Cox regression analyses (Table 3) showed that history of a clinical cardiovascular event was the strongest univariate predictor of a cardiovascular event (P=.06). This was followed by a lower HbA₁c value prior to the event (P=.10) and assignment to intensive treatment (P=.12). When history of a clinical cardiovascular event and/or silent baseline abnormality are combined, this predictor variable is not predictive of future events univariately (P=.68). This may be due to the high prevalence of this combined variable. A stepwise Cox regression analysis on times to cardiovascular events was then performed (Table 4). The only significant variable brought into the model was history of cardiovascular disease (P=.04) (Table 4). Substituting HbA₁c levels at the time of event or the last HbA₁c level for patients without events in place of treatment assignment, a lower HbA₁c level was a borderline correlate with new cardiovascular events (P=.06) (Table 4). In separate Cox regression analyses using baseline HbA₁c levels or difference between HbA₁c levels at the time of event and at baseline, no correlations with new events were found. New cardiovascular events in men with a history of cardiovascular disease were not different in the treatment arms (10 of 27 patients with cardiovascular history had events in the standard treatment arm, and 10 of 31 in the intensive treatment arm).
+
+ARCH INTERN MED/VOL 157, JAN 27, 1997
+183
+
+VACSDM Study Group
+Boston Department of Veterans Affairs Medical Center, Boston, Mass: Cynthia K. Silben, MD; Roberta Cypoliski, RN, MEd, CDE. Edward Hines, Jr, Veterans Affairs Hospital, Hines, Ill: Mirian Vasquez, RN. Houston Department of Veterans Affairs Center, Houston, Tex: Diane Kernan, RN; Minneapolis Department of Veterans Affairs Medical Center, Minneapolis, Minn: Catherine Niewoehner, MD; Marie Backes, RN. Wadsworth Department of Veterans Affairs Medical Center, Los Angeles, Calif: Mark Bradley, MD; Micheline Bradley, RN, CDE.
+
+Endpoints Committee
+Ivan Pacold, MD (Chairman), Maywood, Ill; Richard Crow, MD, Minneapolis, Minn; Frank Rubino, MD, Jacksonville, Fla; David Bushneil, MD, Iowa City, Iowa; Michael Pfeifer, MD, Springfield, Ill.
+
+Data Monitoring Board
+F. John Service, MD, PhD (Chairman), Rochester, Minn; Barbara Howard, PhD, Washington, DC; Emily Chew, MD, Bethesda, Md; Byron Hoogwerf, MD, Cleveland, Ohio; Daniel Seigel, ScD, Bethesda, Md.
+
+Policy Advisory Board
+John A. Colwell, MD, PhD (Chairman), Charleston, SC; Charles M. Clark, Jr, MD, Indianapolis, Ind; Jerrold M. Olefsky, MD, San Diego, Calif; Daniel Porte, Jr, MD, Seattle, Wash; Karl E. Sussman, MD, Denver, Colo.
+
+Hines Veterans Affairs Cooperative Studies Program Coordinating Center, Hines, Ill
+Nancy Johnson, PhD; Barbara Christine; Kelly Tir.
+
+Cooperative Studies Central Research Pharmacy, Albuquerque, NM
+Mike Sather (Chief); Philip Day, MS, RPH; Nancy Morgan, MS, RPh.
+
+Department of Veterans Affairs Central Office, Boston, Mass, and Washington, DC
+Daniel Deykin, MD (Chief, Cooperative Studies Program); Janet Gold (administrative officer); Ping Huang, PhD (staff assistant).
+
+Central Electrocardiogram Reading Laboratory School of Public Health, University of Minnesota, Minneapolis: Richard Crow, MD (consultant).
+
+ARCH INTERN MED/VOL 157, JAN 27, 1997
+184
+
+COMMENT
+As previously reported, the VACSDM Feasibility Trial Study has demonstrated that intensive insulin therapy designed to sustain a clinically significant HbA₁c separation, compared with standard therapy, can be sustained without causing an elevation of blood pressure, dyslipidemia, or severe hypoglycemia or an excessive weight gain or insulin requirement.²⁷
+
+The high rate of cardiovascular events observed in the study and reported herein is consistent with the projection of the VACSDM for a longer-term study.²⁶,²⁷
+
+Within the short duration and relatively small number of patients in the feasibility trial, the mortality rates were nearly identical between treatment arms. The numbers of cardiovascular events in each treatment arm in patients with previously identified cardiovascular disease also were nearly identical. As would be expected, cardiovascular history had a significant effect on the risk for new cardiovascular events. Nevertheless, the high prevalence of combined baseline ECG abnormalities independently did not add predictive power for new cardiovascular events. It is likely that, with a larger cohort of subjects in a long-term trial,²⁷ specific abnormalities such as arrhythmias³² or ischemic patterns²³ will correlate with new cardiac events.
+
+Blood pressure and prevalence of dyslipidemia, obesity, and cigarette smoking were similar in the 2 arms and were not significant variables for cardiovascular events during the short duration of the feasibility trial.
+
+There was a borderline trend toward more cardiovascular events in patients with a lower HbA₁c level. This trend was almost entirely attributable to patients assigned to the intensive treatment arm. This finding should be interpreted with great caution. Glycemic control intensification could have had a transient aggravating effect on cardiovascular events in the VACSDM, as was observed with retinopathy in studies of subjects with IDDM.¹²,³³,³⁴ If so, the pathogenic mechanism remains to be determined. If macrovascular disease could be prevented or delayed by pharmacological intensified glycemic control in NIDDM, it might not be detected for a substantial length of time. In primary lipid intervention trials, there is delay of about 3 years in the observable effects.³³,³⁶ A similar interval elapsed in the DCCT before a separation in microvascular disease progression was observable between treatment groups.¹²
+
+The higher insulin dose and the enhanced insulin secretion in phase II therapy in the intensive treatment arm could theoretically contribute to macrovascular disease.¹⁰¹¹ However, 2 proposed mechanisms are increased blood pressure and dyslipidemia,⁸⁹ and this was not observed in the feasibility trial. Furthermore, insulin dose was not a significant variable for new events.
+
+Although the higher incidence of mild hypoglycemia in the intensive treatment arm could have been deleterious in older subjects with NIDDM, no cardiovascular event was temporally associated with hypoglycemic episodes, and a statistical correlation between hypoglycemic event rates and new cardiovascular events was not present. The common clinical concern that hypoglycemia can provoke cardiac events is so rarely documented that it still merits a case report.³⁷
+
+The DCCT results demonstrating that glycemic control prevents or delays the rate of progression of retinopathy and nephropathy in type I diabetes raises an ethical question concerning a long-term study in people with NIDDM. In the VACSDM standard treatment arm, blood glucose levels are maintained below those prevalent in similar populations with diabetes,²,³⁸⁻⁴¹ but not as low as the levels possible with intensive treatment. The VACSDM planning group concluded that a prospective comparison of the effects of standard and intensive treatments on cardiovascular disease is needed before recommendations for treatment of NIDDM can definitely be made.²⁶²⁷ Furthermore, unlike IDDM, in which visual loss is overwhelmingly due to diabetic retinopathy, in NIDDM, two thirds of such loss is due to other causes.⁴² Of the fraction of patients subject to diabetic retinopathy-induced visual loss, over 90% of the retinopathic changes leading to this risk can be prevented with periodic retinal examinations and treatment.⁴³ Clinical diabetic nephropathy eventually develops in only 10% of patients with NIDDM.⁴⁴ Of these, blood pressure control will further reduce the progression of functional loss to near-normal rates in older patients with NIDDM.⁴⁴⁻⁴⁶ Thus, management according to the study protocol guidelines should prevent most of the possible imbalances in microangiopathy outcomes for the planned duration of the full trial, while the relative benefits and risks of intensive insulin therapy on the macrovascular events in patients with NIDDM are being determined.
+
+In the interim, practitioners need to adopt treatment objectives for insulin-requiring patients with NIDDM. It is generally assumed that glycemic control is beneficial for microangiopathy in patients with NIDDM, as it is in those with IDDM. There might be a threshold for retinopathy in IDDM at HbA₁c levels between 8% and 8.5%.⁴⁷⁻⁴⁹ An earlier population-based study of IDDM and NIDDM did not detect such a threshold.⁵⁰ In any event, the absolute benefits of HbA₁c levels lower than 8% are comparatively small.⁵⁰,⁵¹ For insulin-treated patients with previously uncontrolled NIDDM, it might be reasonable to set a therapeutic goal of HbA₁c levels not much lower than 8% (for an upper limit of normal at 6.1%),⁵² until such time that targeting HbA₁c levels to normal is found to be beneficial for the prevention or progression of clinical macrovascular disease.
+
+Accepted for publication July 2, 1996.
+
+From the Endocrinology/Diabetes Section, Edward Hines, Jr, Veterans Affairs Hospital (Drs Abraira and Emanuele), VA Cooperative Studies Center (Drs Henderson and Lee), Hines, Ill; Research Service, Department of Veterans Affairs Medical Center, Charleston, Minn (Dr Colwell); Endocrinology Section, Department of Veterans Affairs Medical Center, Minneapolis, Minn (Dr Nuttall); Endocrinology Section, Boston Department of Veterans Affairs Medical Center, Boston, Mass (Dr Sawin); Ambulatory Care Service, Houston Department of Veterans Affairs Medical Center, Houston, Tex (Dr Comstock); Special Diagnosis and Treatment Unit, Wadsworth Department of Veterans Affairs Medical Center, Los Angeles, Calif (Dr Levin); Cardiology Department, Loyola University Medical Center, Maywood, Ill (Dr Pacold); and MacNeal Hospital, Berwyn, Ill (Dr Pacold). A complete list of the Veterans Affairs Cooperative Study on Glycemic Control and Complications in Type II Diabetes Group is given in reference 26.
+
+Supported by the Cooperative Studies Program of the Department of Veterans Affairs Medical Research Service, Washington, DC, and by a grant-in-aid from Roerig/Pfizer Pharmaceuticals, New York, NY.
+
+The following organizations gave generous support in pharmaceuticals and reagents: Boehringer Mannheim Diagnostics, Indianapolis, Ind; Eli Lilly, Indianapolis; Medisense, Cambridge, Mass; Miles Diagnostics, Elkhart, Ind; Progene, Overland Park, Kan; and Squibb-Novo, Princeton, NJ.
+
+Reprints: Carlos Abraira, MD, Study Chairman, Edward Hines, Jr, Veterans Affairs Hospital, PO Box 5000, Hines, IL 60141-5111.
+
+### Tables (TXT Format)
+#### Table 1. Baseline Characteristics*
+| Characteristics | Standard Treatment Arm (n=78) | Intensive Treatment Arm (n=75) |
+|-----------------|--------------------------------|---------------------------------|
+| Patient data, mean±SD |                                |                                 |
+| Age, y | 59.9 ± 6.7 | 60.4 ± 6.4 |
+| Duration of diabetes, y | 7.7 ± 4.3 | 8.0 ± 3.6 |
+| Body mass index, kg/m² | 31.3 ± 5.5 | 30.7 ± 4.4 |
+| HbA₁c, % | 9.52 ± 1.46 | 9.28 ± 1.81 |
+| Total cholesterol, mmol/L (mg/dL) | 5.6 ± 1.3 (218 ± 51) | 5.9 ± 3.0 (230 ± 117) |
+| LDL cholesterol, mmol/L (mg/dL) | 3.6 ± 1.0 (141 ± 39) | 3.5 ± 1.3 (136 ± 50) |
+| HDL cholesterol, mmol/L (mg/dL) | 1.1 ± 0.3 (41 ± 10) | 1.1 ± 0.3 (42 ± 11) |
+| Triglyceride, mmol/L (mg/dL)† | 2.2 ± 1.6 (193 ± 138) | 2.3 ± 1.8 (204 ± 159) |
+| Systolic blood pressure, mm Hg | 134.5 ± 15.4 | 136.1 ± 15.6 |
+| Diastolic blood pressure, mm Hg | 81.0 ± 7.6 | 80.8 ± 9.0 |
+| LVEF | 57.5 ± 9.6 | 57.6 ± 9.4 |
+| Prior known cardiovascular complications, No. (%) of patients‡ | 27 (34.6) | 31 (41.3) |
+| - Myocardial infarction | 9 (11.5) | 12 (16.0) |
+| - Angina and/or coronary artery disease | 15 (19.2) | 14 (18.7) |
+| - Congestive heart failure | 3 (3.8) | 0 (0.0) |
+| - Cerebral vascular accident | 4 (5.1) | 6 (8.0) |
+| - Transient ischemic attack | 2 (2.6) | 5 (6.7) |
+| - Intermittent claudication | 10 (12.8) | 10 (13.3) |
+| - Coronary artery bypass graft | 3 (3.8) | 4 (5.3) |
+| Silent findings, No. (%) of patients§ | 67 (85.9) | 59 (78.7) |
+| Smoking status, No. (%) of patients | | |
+| - Cigarettes | 10 (12.8) | 13 (17.3) |
+| - Cigars and/or pipe | 0 (0.0) | 4 (5.3) |
+| - None | 68 (87.2) | 58 (77.3) |
+| Albuminuria, No. (%) of patients | | |
+| - 0-30 mg/d | 35 (44.9) | 33 (44.0) |
+| - 31-300 mg/d | 39 (50.0) | 37 (49.3) |
+| - 301-500 mg/d | 4 (5.1) | 5 (6.7) |
+*HbA₁c indicates glycosylated hemoglobin; LDL, low-density lipoprotein; HDL, high-density lipoprotein; LVEF, left ventricle ejection fraction; and MUGA, multigated radioisotopic examination of cardiac function. †Corrected mean excludes 2 patients with gross lipidemia and with triglyceride levels >11.3 mmol/L (1000 mg/dL). ‡Some patients had multiple diagnoses. §Includes patients with prior known cardiovascular complications. Findings include abnormal resting or ambulatory electrocardiograms, or MUGA-detected LVEF less than 0.50.
+
+#### Table 2. Cardiovascular Events
+| | Standard Treatment Arm (n=78) | Intensive Treatment Arm (n=75) |
+|-----------------|--------------------------------|---------------------------------|
+| No. (%) of patients with events* | 16 (20.5) | 24 (32.0)† |
+| No. of events | | |
+| - Myocardial infarction | 4 | 5 |
+| - Stroke | 2 | 5 |
+| - Congestive heart failure | 1 | 5 |
+| - Amputation for gangrene | 0 | 4 |
+| - Cardiovascular death | 3 | 3 |
+| - New angina and/or coronary artery disease | 3 | 1 |
+| - Coronary artery bypass graft | 3 | 8 |
+| - Percutaneous transtuminal coronary angioplasty | 4 | 6 |
+| - Transient ischemic attack | 1 | 5 |
+| - Ischemic ulcer | 1 | 3 |
+| - New intermittent claudication | 4 | 0 |
+*Several patients had multiple events. †P=.10.
+
+#### Table 3. Univariate Cox Regression Analysis of Predictors of Time to Cardiovascular Event*
+| Predictor Variable | Risk Ratio† | 95% Confidence Interval | P Value |
+|---------------------|-------------|--------------------------|---------|
+| History of clinical cardiovascular events | 1.82 | 0.98-3.38 | .06 |
+| History of clinical cardiovascular events and silent baseline abnormalities | 0.85 | 0.39-1.84 | .68 |
+| Higher HbA₁c | 0.84 | 0.68-1.03 | .10 |
+| Assignment to standard therapy | 0.60 | 0.32-1.14 | .12 |
+| Daily insulin dose | 1.003 | 0.996-1.011 | .42 |
+*HbA₁c indicates glycosylated hemoglobin. †A risk ratio below 1.0 means that a higher HbA₁c level or assignment to standard therapy tends to result in lower risk for cardiovascular event.
+
+#### Table 4. Multivariable Cox Regression Analysis of Predictors of Time to Cardiovascular Event*
+| Predictor Variable | HbA₁c Level in Model | | | Treatment Arm in Model | | |
+|---------------------|-----------------------|-------|-------|-------------------------|-------|-------|
+| | RR† | 95% CI | P Value | RR† | 95% CI | P Value |
+| History of Clinical Cardiovascular Event | | | | | | |
+| - Cardiovascular status | 1.97 | 1.04-3.73 | .04 | 1.97 | 1.04-3.72 | .04 |
+| - Higher HbA₁c level | 0.81 | 0.65-1.01 | .06 | - | - | .12 |
+| - Assignment to standard therapy | - | - | .49 | 0.60 | 0.31-1.14 | .46 |
+| - Daily insulin dose | - | - | - | - | - | - |
+| History of Clinical Cardiovascular Event and Silent Baseline Abnormalities | | | | | | |
+| - Cardiovascular status | - | - | .98 | - | - | .90 |
+| - Higher HbA₁c level | 0.80 | 0.64-1.00 | .05 | - | - | - |
+| - Assignment to standard therapy | - | - | - | 0.58 | 0.30-1.10 | .10 |
+| - Daily insulin dose | - | - | .29 | - | - | .42 |
+*RR indicates risk ratio; CI, confidence interval; and HbA₁c, glycosylated hemoglobin. †A risk ratio below 1.0 means that a higher HbA₁c or assignment to standard therapy tends to result in lower risk for cardiovascular event.
+
+### Image Descriptions (TXT Format)
+#### Figure 1
+The figure consists of two parts (top and bottom). 
+- Top part: Shows the mean ± SE glycosylated hemoglobin (HbA₁c) levels over time (months) for the standard and intensive treatment arms. The x-axis represents time in months (0, 6, 12, 18, 24, 30), and the y-axis represents HbA₁c levels (percentage). The intensive treatment arm maintains a consistently lower HbA₁c level (around 7.1% after 6 months) compared to the standard treatment arm (around 9.2% after 6 months), with a 2.1% separation sustained throughout the trial (P<.001). Sample sizes for each time point: Standard arm - baseline (78), 6 months (74), 12 months (74), 18 months (76), 24 months (74), 30 months (28); Intensive arm - baseline (75), 6 months (74), 12 months (72), 18 months (68), 24 months (67), 30 months (30).
+- Bottom part: Displays the mean ± SE fasting serum glucose levels over the same time period for both treatment arms. The x-axis is time in months (consistent with the top part), and the y-axis is fasting serum glucose levels (mg/dL, with values labeled as 50, 75, 100, 125, 150, 175, 200, 225, 250, 300 corresponding to 2.8, 4.2, 5.6, 6.9, 8.3, 9.7, 11.1, 12.5, 13.9, 16.6 mmol/L). The intensive treatment arm shows lower fasting serum glucose levels compared to the standard arm throughout the follow-up period.
+
+#### Figure 2
+This is a Kaplan-Meier plot showing the estimates of cardiovascular event-free intervals for patients in the standard and intensive treatment arms. The x-axis represents time in days (ranging from 0 to 1100), and the y-axis represents the percentage of patients free of cardiovascular events (ranging from 0% to 100%). Both curves start at 100% (all patients event-free at baseline) and gradually decline over time. There is no significant difference in the event-free survival between the two arms (P=.13). The standard treatment arm curve remains slightly higher than the intensive arm curve throughout the follow-up period, indicating a trend toward fewer cardiovascular events in the standard arm, but this difference is not statistically significant. Sample sizes at each interval correspond to those provided in Figure 1.
