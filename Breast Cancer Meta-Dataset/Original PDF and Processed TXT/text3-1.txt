@@ -1,0 +1,377 @@
+# Robotic-assisted Skin sparing mastectomy and immediate reconstruction using latissimus dorsi flap a new effective and safe technique: A Comparative study 2
+Authors: Gilles HouvenaeghelA, PhD, Houssein El HajjB, MD, Andy SchmittB, MD, Monique CohenB, MD, Sandrine RuaB, MD, Julien BarrouB, MD, Eric LambaudieA, PhD, Marie BannierB, MD.
+Affiliations:
+A Department of surgical oncology, Paoli Calmettes Institute and CRCM, CNRS, INSERM, Aix Marseille Université., 232 Bd de Sainte Marguerite, 13009 Marseille, France.
+B Department of surgical oncology, Paoli Calmettes Institute, 232 Bd de Sainte Marguerite, 13009 Marseille, France.
+Email addresses:
+houvenaeghelg@ipc.unicancer.fr ;
+elhajjh@ipc.unicancer.fr;
+andy.schmitt27@gmail.com;
+bannierm@ipc.unicancer.fr ;
+ruas@ipc.unicancer.fr ;
+barrouj@ipc.unicancer.fr ; lambaudiee@ipc.unicancer.fr ; cohenm@ipc.unicancer.fr
+Corresponding author: Professor Gilles Houvenaeghel.
+Department of surgical oncology, Paoli Calmettes Institute and CRCM, CNRS, INSERM, Aix Marseille Université., 232 Bd de Sainte Marguerite, 13009 Marseille, France.
+Téléphone: 04.91.22.35.32 / 04.91.22.33.66
+Fax: 04.91.22.36.13
+Email: houvenaeghelg@ipc.unicancer.fr
+Financing of the study: This study did not receive any specific subsidy from public, commercial or non-profit funding organizations.
+Short title: Traditional versus robotic assisted latissimus dorsi flap – A comparative study
+Keywords: Mastectomy ; breast reconstruction ; latissimus dorsi flap ; robotic surgery.
+© 2020 published by Elsevier. This manuscript is made available under the Elsevier user license https://www.elsevier.com/open-access/userlicense/1.0/
+Version of Record: https://www.sciencedirect.com/science/article/pii/S0960740420304059 Manuscript_10832d4157b6fe41e6f50a80fb656d84
+
+## ABSTRACT:
+INTRODUCTION: Breast reconstruction is an essential part of breast cancer treatment. After skin sparing mastectomy, Immediate Breast Reconstruction (IBR) can be achieved using breast implants, autologous flaps (i.e. latissimus dorsi-myo-cutaneous flap (LDF)) or an association of both. Robotic assistance has gained popularity in many surgical fields including breast surgery. This study aims to compare the post-operative results of Robotic Assisted Latissimus Dorsi Flap (RALDF) to Traditional Latissimus Dorsi Flap (TLDF) for IBR after Skin Sparing Mastectomy (SSM) without nipple conservation.
+MATERIALS AND METHODS: Between March 2016 and June 2019, all patients who underwent a SSM and a concurrent IBR with a TLDF were retrospectively compared to patients who underwent SSM and a concurrent IBR with a RALDF. Outcomes compared included operative time, length of hospital stay and complications rate.
+RESULTS: 105 cases of SSM with a LDF based IBR were included in the study. 46 patients underwent RALDF and 59 patients underwent TLDF. Mean operative time was longer in the RALDF group (290.5min versus 259.7min). In binary regression, the concomitant placement of breast implant was the only factor associated with an operative time exceeding 290 minutes (p=0.032). Univariate analysis showed no significant difference concerning the rate of complications (p=0.061). After logistic regression, RALDF was associated with a decreased rate of complications (p=0.042; OR 0.37; IC 95% (0.142-0.966)).
+DISCUSSION: SSM with IBR using RALDF is an effective and safe technique. This technique is actually associated with a lower complication rate at the expense of a longer operative time.
+
+## INTRODUCTION:
+In the last few years, robotic assisted surgery has gained popularity. The use of robotic assistance in breast aesthetic and breast reconstructive surgery after breast cancer treatment is very recent [1].
+On the basis of current evidence and the guidelines of the French National Cancer Institute (Institut National de Cancer), Nipple Sparing Mastectomy (NSM) is the Gold Standard approach in cases of prophylactic mastectomy [2]. Due to the limited data on the oncologic outcome after preservation of the Nipple-Areola Complex (NAC), this technique is still under evaluation in cases of therapeutic mastectomies. On the other hand, Skin Sparing Mastectomy (SSM) without nipple sparing has been well documented and the absence of a negative oncologic outcome when compared to traditional non skin sparing mastectomy was proven.
+After NSM and SSM, to achieve the best esthetic outcome, immediate breast reconstruction (IBR) could be proposed using either a breast implant, an autologous muscular or myo-cutaneous latissimus dorsi-flap (LDF) or a combination of both. Following the trend towards minimally invasive surgery, few articles reported the application of Non Robotic Laparoscopic-Assisted Breast Reconstruction with Latissimus Dorsi Muscle Flap [3-8]. When compared to traditional surgery and non-robotic laparoscopic surgery, the advantages of robotic assisted breast reconstructive surgery are its minimally invasiveness associated with an enhanced surgical exposure. This results in scar minimization, lesser tissue traction, lesser tissue trauma and the minimization of skin necrosis. On the other side, the potential longer operative time and the lesser volume of the flap due to the absence of the skin paddle are the most reported disadvantages of the robotic assisted breast reconstructive surgery with LDF. Very little data exist in literature on robotic assistance in breast conserving surgeries, mastectomies and breast reconstructive surgeries (i.e. RALDF: robotic latissimus-dorsi-flap) and most of the published studies contain small numbers of patients [9-14].
+The aim of this study is to compare the outcomes of patients who underwent SSM with RALDF to those who underwent SSM with TLDF.
+
+## MATERIALS AND METHODS:
+All patients who underwent a SSM with a concurrent IBR using a LDF between March 2016 and June 2019 were included in the study. Patients operated traditionally were compared to patients operated with robotic assistance. Both techniques were applicable for all patients when skin paddle is not required, and the choice of technique was left to the surgeon to decide. Patients were not randomized due to logistic reasons (i.e. availability of the robotic systems that are shared with other departments) and the fact that not all of the breast surgeons master the RALDF technique.
+All patients were informed about the surgical technique and the risks associated to either techniques. Data was retrieved from the Institutional Breast Cancer Database and the study protocol was approved by our Institutional Ethical Committee: NCT02869607. The data reported in the current analysis also include the patient data reported in the earlier publications [14, 15].
+
+### Surgical Techniques:
+We previously described the surgical technique for SSM with IBR using RALDF [14, 15]. In summary,
+
+a) Surgical technique for mastectomy and immediate breast reconstruction with a traditional latissimus dorsi flap
+All patients first underwent SSM in a dorsal decubitus position, then LDF in a lateral decubitus position. Patients were marked preoperatively in a standing position. The anterior border of the latissimus dorsi and the inframammary fold were marked. A single incision around the NAC was performed for SSM. Dissection was carried out to separate the glandular tissue and the fat lobules from the dermis at the level of the Cooper ligaments (also known as the crêtes de Duret), aided by the cold light retractor. Once mastectomy was finished, the patient’s position was changed from dorsal decubitus (DD) to lateral decubitus (LD).
+A horizontal elliptic incision following the pre-operative markings was carried out to perform the myo-cutaneous latissimus dorsi-flap. After harvest, the flap was then rotated, placed and fixed in the mastectomy space. Two suction drains were placed in the LDF donor site before wound closure and another one was placed in the mastectomy space. A de-epithelialization was carried out leaving a circular skin paddle corresponding to the neo-Areola.
+
+b) Surgical technique for mastectomy and immediate breast reconstruction with a robotic assisted latissimus dorsi flap
+All patients first underwent SSM in a dorsal decubitus position, then LDF in a lateral decubitus position. Patients were marked preoperatively in a standing position. The anterior border of the latissimus dorsi and the inframammary fold were marked. A single incision around the NAC was performed for SSM. When the SSM was finished, the patient’s position was changed from DD to LD. For the majority (84.8%: 39/46) of patients in this group, the LDF harvest was performed through the mastectomy incision. For the remaining patients, a second 6-7cm vertical incision was performed at the level of the mid-axillary line. Subcutaneous dissection prepared the space for the single port (Gelpoint® device) and was carried out downwards to the level of the infra mammary fold where the third robotic port was placed.
+The Gelpoint® path single site device was inserted through the incision. Two robotic ports and a third port dedicated for the Airseal® insufflation system were placed through the Gelpoint® path. The robotic assisted part was performed under low insufflation pressure (7 mm Hg). A 0° camera was introduced through the central robotic port, and depending on the side operated on, monopolar scissors and bipolar forceps were introduced through the upper or the lower robotic ports.
+The robotic assisted part starts with the superficial dissection of the latissimus dorsi muscle. The dissection was carried out downward (6-8cm below the inferior mammary fold) and upwards to the level of the Latissimus dorsi tendon that was resected at its insertion. The following step was the deep dissection of the Latissimus dorsi muscle that was carried out downwards to the previous limit and upwards to the level of the latissimus dorsi pedicle. The harvesting of the LDF was started at the level of the posterior attachments, then inferiorly, gradually mobilizing the muscle. This was performed using monopolar scissors. Two suction drains were placed in the LD donor site and passed through the infra-centimetric port incision, and one drain was placed in the reconstructed breast space (Figure 1).
+
+### Data collection:
+Data collected included patient’s characteristics (age, body mass index (BMI), smoking status, presence of diabetes, ASA score, breast size), prior breast cancer treatment (sentinel lymph node biopsy, axillary lymph node dissection (LND), neoadjuvant chemotherapy, prior breast radiation therapy), the type of the breast cancer (new primary or a local recurrence) and the type of breast reconstruction (LDF with or without a breast implant).
+Surgery related collected data included: the surgical technique, the robotic system used (da Vinci Si® or Xi® surgical systems, Intuitive surgical, Sunnyvale, CA), the number of ports used, the skin incision type, the duration of anesthesia, the surgical time, the association of surgical procedures (breast implant, LDF, sentinel lymph node, axillary LND and contralateral breast surgery).
+Duration of anesthesia was calculated from the induction time to the extubation. The surgical time included all the procedures performed from the first skin incision to the end of skin suturing including the time required to change the patient’s position.
+The Clavien-Dindo classification was used to stratify and analyze the complications [16], and we added the term “grade 0” to describe the patients that did not present any complications. The reoperation rate, the complications type and the length of hospital stay were also reported. Data was prospectively collected and then retrospectively analyzed.
+
+### Statistics:
+Means, medians and a Confidence Interval of 95% (CI95) were used to report the main quantitative characteristics of the analysis. The Chi2 test was used to compare qualitative variables, and the Student’s t-test or the Anova test were used to compare continuous variables. Binary logistic regression using the SPSS 16.0 was used to predict the odds ratios (OR).
+
+## RESULTS:
+Throughout the study period, 105 patients underwent SSM with a concurrent IBR using a LDF: 46 patients were operated for RALDF and 59 were operated for traditional latissimus dorsi flap (TLDF).
+
+### Indications and Type of Reconstruction:
+There was a statistical significance in the distribution of the types of reconstruction (p=0.001):
+In the Traditional technique group, there were 2 cases of Latissimus dorsi-myo-cutaneous flap, 6 cases of LDF with concomitant breast implant placement, 50 cases of LDF with the associated/surrounding fatty tissue and 1 case of LDF with the associated fatty tissue and a concomitant breast implant placement.
+In the robotic assisted group, there were 7 cases of Latissimus dorsi myocutaneous flap, 9 cases of LDF with concomitant breast implant placement, 23 cases of LDF with the associated/surrounding fatty tissue (autologous LDF) and 7 cases of autologous LDF and a concomitant breast implant placement.
+In the traditional group, 81.4% of the patients presented a new primary breast cancer versus 89.1% in the robotic assisted group (p=0.206): The remaining 18.6% and 10.9% of the patients in the traditional group and the robotic assisted group presented for a locally recurrent breast cancer.
+In the TLDF group there were 7 cases of Ductal Carcinoma in Situ (DCIS), 45 cases of Invasive Ductal Carcinoma (IDC), 6 cases of Invasive lobular carcinoma (ILC) and one case of “other histologic type” breast cancer. In the RALDF, 10 patients had DCIS, 24 patients had IDC, 11 patients had ILC and one patient presented “other histological type” breast cancer.
+No significant difference was found between the two groups concerning the history of a previous ipsilateral breast surgery (50.8% of TLDF patients versus 50% of RALDF patients, (p=0.544)), Body Mass Index (p=0.068), breast size, smoking status and the presence of diabetes (Table 1).
+The mean age of the patients was 49.5 years and 58.1 years in the TLDF and RALDF groups respectively (p=0.001) (Table 2).
+
+### Additional or Associated Treatment:
+The rate of Neoadjuvant chemotherapy was significantly higher in the TLDF group (50.8% vs 19.6%; p=0.001). The rate of patients who had a previous history of ipsilateral breast radiation therapy (neoadjuvant or a history of radiation therapy) was significantly higher in the TLDF group (66.1% vs 30.5%, p<0.0001).
+During the same operation, sentinel lymph node biopsy was performed in 22% of TLDF versus 43.5% of RALDF (p=0.016), while there was no significant difference in the rates of axillary lymph node dissection (p=0.563).
+Adjuvant chemotherapy rates were similar in both groups (p=0.354). An adjuvant hormonal therapy was administered in 64.4% of the TLDF group compared to 69.6% of the cases in the other group (p=0.635) (Table 1).
+
+### Surgical time:
+The mean anesthesia and surgical durations were longer in the RALDF group compared to the TLDF group. The median anesthesia and surgical durations were respectively 356.9 min and 290.5 min for RALDF patients versus 327.5 min and 259.7 min for TLDF patients (Table 2-3). The association of breast implant to LDF was significantly longer than LDF alone (p=0.006 and p=0.032 for anesthesia and surgical time respectively).
+Concomitant axillary lymphadenectomy and the breast size did not affect the operative time.
+After binary regression, the LDF associated with the placement of breast implant was the only factor associated with an operative time exceeding 290 min (p=0.032). Breast Implant placement multiplied by three the number of surgeries exceeding 290min (OR 3.019 IC 95% (1.103-8.262)). Concomitant axillary lymphadenectomy, BMI<25 and the robotic assistance were not associated with an operative time exceeding 290min (Table 4).
+
+### Post-operative Data:
+Mean hospital stay was 3 to 5 days with no significant difference between the two groups (p=0.089) (Table 2). After subgroup analysis, concomitant breast implant placement was significantly associated with a longer mean hospital stay (Table 3). However, after logistic regression, breast implant placement was not associated to a hospital stay of more than 3 days. The only factor that was associated with a hospital stay of more than 3 days was overweight (BMI>25) with an OR of 2.48 (p=0.045) (Table 4).
+
+### Complications:
+When comparing the rate of all complications combined after univariate analysis, there was no significant difference between the two groups (p=0.061), however, a significant difference was found in the severity of complications (p=0.03) (Table 1). Dorsal complications only (excluding breast complications) were 23 and 12 dorsal seromas (39% and 26.1%: non-significant), 2 and 1 dorsal bleeding, 0 and 2 infections on seroma with 1 and 2 reoperations for non-robotic and robotic procedures, respectively.
+No significant difference was found when comparing no complications (grade 0) and mild complications (grade1) to severe complications (grade 2-3) in both groups (p=0.06).
+After logistic regression, robotic assisted surgery was the only factor associated with a decreased risk of complications (p=0.042; OR 0.37; IC 95% (0.142-0.966)). Overweight (BMI25), concomitant breast implant placement, concomitant axillary lymphadenectomy, previous history of ipsilateral breast radiation therapy and neo adjuvant chemotherapy were not factors associated with an increased risk of complications.
+After binary regression, no factors were significantly associated with an increased risk of severe complications (grade 2-3) (Table 4).
+
+## DISCUSSION:
+For patients, the most important advantage of SSM and IBR with RALDF is the absence of a dorsal scar with less dorsal pain (pain not documented in this study), and in the majority of the cases (84.8%) the presence of only one scar (the peri-areolar incision). However, the absence of a dorsal scar and skin paddle does not allow the reconstruction of a new-NAC. Moreover, RALDF without skin flap has a smaller volume than the myo-cutaneous TLDF.
+In univariate analysis, the surgical time was longer in RALDF. This difference was no more significant after binary regression, which implies that this difference is related to other factors.
+Our experience showed a significant decrease in the anesthesia and the surgical durations as the surgeons progressed along their learning curves. In a previous study, we defined three periods of time, with P1 corresponding to the year 2016, P2 corresponding to the year 2017 and P3 corresponding to the year 2018. We noticed an improvement in the surgical time when passing from P1 to P3. In the third period of the learning curve, the mean surgical time was 254 minutes and the mean time for the robotic assisted part was 45-60 minutes [15].
+No difference was found between the RALDF group and the TLDF group concerning the postoperative complications. Furthermore, we noticed a trend towards a decrease in the post-operative complications in the RALDF group (OR=0.37). This can be explained by the enhanced surgical exposure resulting in the minimization of tissue traction and the resultant tissue trauma and skin necrosis. Clemens et al. published similar results and concluded that RALDF harvesting is an efficient technique with low complications rate (16.7% among 12 RALDF versus 37.5% among 64 TLDF) (12). In the systematic review of Agha et al [17] that compared NSM and SSM, NSM was associated with a higher complication rate (22.6% versus 14% respectively). In the NSM group 15% presented a partial or complete nipple necrosis while only 3.9% of the patients in the SSM presented skin flap necrosis.
+A prospective multicenter study reported by Jagsi et al [18] shows that autologous reconstruction appears to yield a superior patient-reported satisfaction and lower risk of complications than implant placement among patients receiving post mastectomy radiation therapy (PMRT). Currently, none of the published studies compared the esthetic outcome between robotic assisted and traditional SSM. However two studies evaluating axillary endoscopic mastectomy showed that endoscopic surgery were associated with a better esthetic outcome [19, 20].
+Robotic surgery is associated with many advantages when compared to traditional surgery such as a smaller incision, better surgical exposure, decreased tissue trauma and an enhanced viability of the LDF. Acquiring a good experience in robotic surgery (pelvic or breast surgery) is considered crucial, this can be accomplished while assisting more experienced surgeons especially when the operating room is equipped with a dual robot console.
+In conclusion, SSM with IBR using a RALDF is a feasible and efficient technique that leaves no dorsal scar. It can be performed in a wide range of patients including patients who underwent radiation therapy or patients with large breasts. IBR using a RALDF is not associated with an increased rate of complications when compared to TLDF. It can even be considered as a technique that reduces postoperative complications at the expense of a longer operative time, knowing also that operative time can be increased with increased BMI patients.
+
+## ACKNOWLEDGMENTS:
+Not applicable
+
+## DECLARATIONS:
+Database collection and analysis were performed at the Paoli Calmette Institute.
+This work was approved by our institutional review board (IPC-Comité d’Orientation Stratégique). All procedures performed in this study involving human participants were done in accordance with the French ethical standards and with the 2008 Helsinki declaration.
+All included patients provided written informed consent before surgery, including the use of their data for research.
+
+## CONFLICTS OF INTEREST:
+Nothing to declare
+
+## CONTRIBUTIONS:
+Study concepts: Gilles Houvenaeghel
+Study design: Gilles Houvenaeghel
+Data acquisition: Gilles Houvenaeghel, Monique Cohen, Sandrine Rua, Julien Barrou, Marie Bannier
+Quality control of data and algorithms: Gilles Houvenaeghel
+Data analysis and interpretation: Gilles Houvenaeghel, Andy Schmitt
+Statistical analysis: Gilles Houvenaeghel
+Manuscript preparation: Gilles Houvenaeghel, Houssein El Hajj, Monique Cohen, Andy Schmitt, Marie Bannier
+Manuscript editing: Gilles Houvenaeghel, Houssein El Hajj
+Manuscript review: Gilles Houvenaeghel, Houssein El Hajj, Monique Cohen, Eric Lambaudie, Marie Bannier
+
+## Tables Legends:
+Table 1: Patient’s characteristics
+Table 2: Comparison of operative and post-operative data between robotic assisted and traditional procedures.
+Table 3: Comparison of operative and post-operative data according to the type of reconstruction, breast cup-sizes and axillary lymph node procedures.
+Table 4: Binary Regression analyzing surgical time, mean hospital stay and post-operative complications
+
+## Figure Legend:
+Figure 1: Pre-operative Patient positioning, Per-operative positioning and Post-Operative Result.
+
+---
+
+## Tables
+
+### Table 1: Patient’s characteristics
+| Category | Subcategory | No Robotic (N=59) - N | No Robotic (N=59) - % | Robotic (N=46) - N | Robotic (N=46) - % | Chi2 p-value |
+|----------|-------------|------------------------|------------------------|---------------------|---------------------|--------------|
+| | Total | 59 | 56.2 | 46 | 43.8 | |
+| Indication | Primary BC | 48 | 81.4 | 41 | 89.1 | 0.206 |
+| | Local recurrence | 11 | 18.6 | 5 | 10.9 | |
+| Year of surgery | 2016 | 19 | 32.2 | 10 | 21.7 | 0.507 |
+| | 2017 | 18 | 30.5 | 18 | 39.1 | |
+| | 2018 | 19 | 32.2 | 17 | 37.0 | |
+| | 2019 | 3 | 5.1 | 1 | 2.2 | |
+| ASA | 1 | 19 | 32.2 | 22 | 47.8 | 0.249 |
+| | 2 | 39 | 66.1 | 23 | 50.0 | |
+| | 3 | 1 | 1.7 | 1 | 2.2 | |
+| Smoking | No | 47 | 79.7 | 36 | 78.3 | 0.634 |
+| | Yes | 11 | 18.6 | 10 | 21.7 | |
+| Diabetes Mellitus | No | 59 | 100 | 43 | 93.5 | 0.081 |
+| | Yes | 0 | 0 | 3 | 6.5 | |
+| Cup size previous | A-B | 29 | 49.2 | 19 | 41.3 | 0.725 |
+| | C | 21 | 35.6 | 19 | 41.3 | |
+| | > C | 9 | 15.3 | 8 | 17.4 | |
+| Homolateral surgery | No | 29 | 49.2 | 23 | 50.0 | 0.544 |
+| | Yes | 30 | 50.8 | 23 | 50.0 | |
+| Type of IBR | LDF | 2 | 3.4 | 7 | 15.2 | 0.001 |
+| | Implant + LDF | 6 | 10.2 | 9 | 19.6 | |
+| | Autologous LDF | 50 | 84.7 | 23 | 50.0 | |
+| | Implant + A-LDF | 1 | 1.7 | 7 | 15.2 | |
+| Histology | DCIS | 7 | 11.9 | 10 | 21.7 | 0.076 |
+| | Ductal | 45 | 76.3 | 24 | 52.2 | |
+| | Lobular | 6 | 10.2 | 11 | 23.9 | |
+| | Others | 1 | 1.7 | 1 | 2.2 | |
+| Endocrine therapy | No | 21 | 35.6 | 14 | 30.4 | 0.365 |
+| | Yes | 38 | 64.4 | 32 | 69.6 | |
+| SLNB | No | 46 | 78.0 | 26 | 56.5 | 0.016 |
+| | Yes | 13 | 22.0 | 20 | 43.5 | |
+| ALND | No | 42 | 71.2 | 33 | 71.7 | 0.563 |
+| | Yes | 17 | 28.8 | 13 | 28.3 | |
+| Adjuvant chemotherapy | No | 49 | 83.1 | 36 | 78.3 | 0.354 |
+| | Yes | 10 | 16.9 | 10 | 21.7 | |
+| Neo adjuvant chemotherapy | No | 29 | 49.2 | 37 | 80.4 | 0.001 |
+| | Yes | 30 | 50.8 | 9 | 19.6 | |
+| Radiotherapy | No | 18 | 30.5 | 25 | 54.3 | 0.002 |
+| | PMRT | 2 | 3.4 | 7 | 15.2 | |
+| | Previous RTH* | 11 | 18.6 | 5 | 10.9 | |
+| | Neo-adjuvant | 28 | 47.5 | 9 | 19.6 | |
+| Complication | No | 22 | 37.3 | 25 | 54.3 | 0.061 |
+| | Yes | 37 | 62.7 | 21 | 45.7 | |
+| Grade complication | 0 | 22 | 37.3 | 25 | 54.3 | 0.03 |
+| | 1 | 34 | 57.6 | 14 | 30.4 | |
+| | 2 | 0 | 0 | 2 | 4.3 | |
+| | 3 | 3 | 5.1 | 5 | 10.9 | |
+| Surgical incision | Areolar | 9 | 45.0 | 34 | 73.9 | |
+| | Previous BCS central elliptic | 9 | 45.0 | 8 | 17.4 | |
+| | Incision | 0 | 0 | 3 | 6.5 | |
+| | Inversed T incision | 2 | 10.0 | 1 | 2.2 | |
+
+Abbreviations: BC: breast cancer, BCS: breast conservative surgery, LDF: Latissimus dorsi-flap, ALDF: autologous LDF (LDF with the associated fatty tissue), PMRT: post mastectomy radiation therapy, RTH: radiotherapy. *Previous radiotherapy or neo adjuvant radiotherapy versus no radiotherapy or PMRT: p<0.0001
+
+### Table 2: Comparison of operative and post-operative data between robotic and traditional procedures.
+| Category | Group | Mean | Median | 95% CI | p-value |
+|----------|-------|------|--------|---------|---------|
+| | Total | 53.3 | 52.0 | 50.6-56.0 | |
+| BMI | Total | 24.8 | 23.6 | 23.9-25.6 | |
+| Duration of surgery | Total | 273.3 | 270 | 261-286 | |
+| Duration of anesthesia | Total | 340.5 | 339 | 328-353 | |
+| Mastectomy weight | Total | 429 | 370 | 374-484 | |
+| Post operative stay | Total | 4.06 | 4.0 | 3.8-4.3 | |
+| Age | No robotic | 49.5 | 49 | 46.2-52.9 | 0.001 |
+| | Robotic | 58.1 | 59.5 | 54.0-62.2 | |
+| BMI | No robotic | 24.1 | 23.4 | 23.1-25.1 | 0.068 |
+| | Robotic | 25.7 | 24.0 | 24.2-27.2 | |
+| Duration of anesthesia | No robotic | 327.5 | 328 | 311-344 | 0.024 |
+| | Robotic | 356.9 | 346 | 337-377 | |
+| Duration of surgery | No robotic | 259.7 | 266 | 244-276 | 0.016 |
+| | Robotic | 290.5 | 277 | 271-310 | |
+| Mastectomy weight | No robotic | 405 | 388 | 349-460 | 0.329 |
+| | Robotic | 460 | 354 | 354-566 | |
+| Post operative stay | No robotic | 3.86 | 4.0 | 3.55-4.18 | 0.089 |
+| | Robotic | 4.3 | 4.0 | 3.88-4.73 | |
+
+Abbreviations: BMI: body mass index.
+
+### Table 3: Comparison of operative and post-operative data according to the type of reconstruction, breast cup-sizes and axillary lymph node procedures.
+| Category | Subcategory | Mean | Median | 95% CI | p-value |
+|----------|-------------|------|--------|---------|---------|
+| Duration of anesthesia | LDF | 304 | 316 | 264-344 | 0.013 |
+| | I + LDF | 361.4 | 364 | 303-420 | |
+| | A-LDF | 335 | 332 | 321-348 | |
+| | I + A-LDF | 396.2 | 407 | 362-431 | |
+| Duration of surgery | LDF | 244.6 | 248 | 207-282 | 0.081 |
+| | I + LDF | 289.1 | 297 | 230-349 | |
+| | A-LDF | 268.8 | 266 | 256-281 | |
+| | I + A-LDF | 317.3 | 320 | 275-360 | |
+| Post operative stay | LDF | 3.33 | 3.0 | 2.95-3.72 | <0.0001 |
+| | I + LDF | 4.47 | 5.0 | 3.81-5.12 | |
+| | A-LDF | 3.85 | 4.0 | 3.56-4.13 | |
+| | I + A-LDF | 6.0 | 6.0 | 5.0-7.0 | |
+| Duration of anesthesia | Cup size A-B | 334.6 | 326 | 317-352 | 0.360 |
+| | Cup size C | 344 | 340.5 | 324-365 | |
+| | Cup size >C | 348.3 | 352 | 303-394 | |
+| Duration of surgery | Cup size A-B | 267.9 | 266 | 252-283 | 0.506 |
+| | Cup size C | 274.1 | 268 | 252-297 | |
+| | Cup size >C | 286.4 | 293 | 244-329 | |
+| Duration of anesthesia | No ALND | 337.4 | 332 | 322-353 | 0.449 |
+| | ALND | 348.3 | 345.5 | 323-374 | |
+| Duration of surgery | No ALND | 269.6 | 265 | 254-285 | 0.365 |
+| | ALND | 282.4 | 280 | 259-306 | |
+
+Abbreviations: LDF: Latissimus dorsi-flap, A-LDF: autologous LDF (LDF with the associated fatty tissue), I: implant, ALND: axillary lymph node dissection. *LDF or A-LDF versus I+LDF or I+A-LDF: p=0.006 ° LDF or A-LDF versus I+LDF or I+A-LDF: p=0.032
+
+### Table 4: Binary Regression analyzing surgical time, mean hospital stay and post-operative complications
+| Outcome | Factor | p-value | HR | CI 95% - Inferior | CI 95% - Superior |
+|---------|--------|---------|----|-------------------|-------------------|
+| Duration of surgery (<= vs > 290mn) | ALND vs no | 0.628 | 1.253 | 0.503 | 3.119 |
+| | Robotic LDF vs no | 0.44 | 1.405 | 0.593 | 3.33 |
+| | BMI >=25 vs < | 0.152 | 1.852 | 0.797 | 4.308 |
+| | I+LDF vs LDF | 0.032 | 3.019 | 1.103 | 8.262 |
+| Post-operative stay (<= vs > 3) | ALND vs no | 0.563 | 1.316 | 0.519 | 3.334 |
+| | Robotic LDF vs no | 0.644 | 1.228 | 0.513 | 2.94 |
+| | BMI >=25 vs < | 0.045 | 2.481 | 1.02 | 6.036 |
+| | I+LDF vs LDF | 0.071 | 3.061 | 0.909 | 10.304 |
+| Complication | BMI >=25 vs < | 0.386 | 1.446 | 0.628 | 3.331 |
+| | I+LDF vs LDF | 0.666 | 1.259 | 0.442 | 3.587 |
+| | Robotic LDF vs no | 0.042 | 0.37 | 0.142 | 0.966 |
+| | ALND vs no | 0.132 | 2.313 | 0.777 | 6.885 |
+| | Previous RTH vs no | 0.829 | 1.119 | 0.402 | 3.117 |
+| | NACh vs no | 0.252 | 0.493 | 0.147 | 1.653 |
+| Complication G2-3 | BMI >=25 vs < | 0.863 | 0.879 | 0.206 | 3.762 |
+| | I+LDF vs LDF | 0.625 | 1.502 | 0.293 | 7.691 |
+| | Robotic LDF vs no | 0.206 | 3.306 | 0.517 | 21.133 |
+| | ALND vs no | 0.415 | 2.196 | 0.331 | 14.561 |
+| | Previous RTH vs no | 0.69 | 0.695 | 0.116 | 4.165 |
+| | NACh vs no | 0.57 | 0.511 | 0.05 | 5.195 |
+
+Abbreviations: BMI: body mass index, LDF: Latissimus dorsi-flap, A-LDF: autologous LDF (LDF with the associated fatty tissue), I: implant, ALND: axillary lymph node dissection, RTH: radiotherapy, NACh: neo-adjuvant chemotherapy.
+# Robotic-Assisted Skin-Sparing Mastectomy and Immediate Latissimus Dorsi Flap Reconstruction: Key Findings and Supplementary Research
+
+
+## 1. Main Study: "Robotic-assisted Skin sparing mastectomy and immediate reconstruction using latissimus dorsi flap a new effective and safe technique: A Comparative study"  
+### 1.1 Basic Information  
+- **Authors**: Gilles Houvenaeghel (corresponding author), Houssein El Hajj, Andy Schmitt, et al.  
+- **Affiliations**: Department of Surgical Oncology, Paoli Calmettes Institute, CRCM, CNRS, INSERM, Aix Marseille Université, Marseille, France.  
+- **Publication**: © 2020 Elsevier (https://www.sciencedirect.com/science/article/pii/S0960740420304059)  
+- **Funding**: No specific subsidies from public, commercial, or non-profit organizations.  
+
+
+### 1.2 Study Aim  
+To compare postoperative outcomes of **Robotic-Assisted Latissimus Dorsi Flap (RALDF)** versus **Traditional Latissimus Dorsi Flap (TLDF)** for Immediate Breast Reconstruction (IBR) following Skin-Sparing Mastectomy (SSM, without nipple conservation).  
+
+
+### 1.3 Materials and Methods  
+- **Study Period**: March 2016 – June 2019  
+- **Participants**: 105 patients who underwent SSM + LDF-based IBR (46 in RALDF group; 59 in TLDF group).  
+- **Outcomes Assessed**: Operative time, length of hospital stay (LOS), complication rate (stratified by Clavien-Dindo classification, with "Grade 0" for no complications).  
+- **Randomization**: Not performed (logistic constraints: shared robotic systems; variable surgeon proficiency in RALDF).  
+- **Ethics Approval**: Institutional Ethical Committee (NCT02869607); written informed consent from all patients.  
+
+
+### 1.4 Key Results  
+#### 1.4.1 Patient Characteristics  
+- **Age**: RALDF group (mean 58.1 years) was significantly older than TLDF group (mean 49.5 years; p=0.001).  
+- **BMI**: No significant difference (RALDF: mean 25.7; TLDF: mean 24.1; p=0.068).  
+- **Previous Treatments**:  
+  - Neoadjuvant chemotherapy: Higher in TLDF (50.8% vs 19.6% in RALDF; p=0.001).  
+  - Ipsilateral radiotherapy: Higher in TLDF (66.1% vs 30.5% in RALDF; p<0.0001).  
+  - Sentinel Lymph Node Biopsy (SLNB): Higher in RALDF (43.5% vs 22.0% in TLDF; p=0.016).  
+
+#### 1.4.2 Surgical and Anesthesia Time  
+- **Mean Operative Time**: RALDF (290.5 min) > TLDF (259.7 min; p=0.016).  
+- **Mean Anesthesia Time**: RALDF (356.9 min) > TLDF (327.5 min; p=0.024).  
+- **Key Influencing Factor**: Concomitant breast implant placement was the only factor associated with operative time >290 min (p=0.032; OR=3.019, 95%CI:1.103-8.262). Robotic assistance itself did not affect prolonged operative time (p=0.44).  
+
+#### 1.4.3 Length of Hospital Stay (LOS)  
+- **Mean LOS**: RALDF (4.3 days) vs TLDF (3.86 days; p=0.089, no significant difference).  
+- **Key Influencing Factor**: Overweight (BMI>25) was associated with LOS >3 days (p=0.045; OR=2.481). Concomitant implants did not affect LOS (p=0.071).  
+
+#### 1.4.4 Complications  
+- **Univariate Analysis**: No significant difference in total complication rate (RALDF:45.7% vs TLDF:62.7%; p=0.061), but significant difference in complication severity (p=0.03).  
+- **Logistic Regression**: RALDF was associated with a reduced complication risk (p=0.042; OR=0.37, 95%CI:0.142-0.966).  
+- **Specific Complications**:  
+  - Dorsal seroma: TLDF (39%) vs RALDF (26.1%; non-significant).  
+  - Severe complications (Grade 2-3): No significant group difference (p=0.06).  
+
+
+### 1.5 Conclusion  
+RALDF is a safe and effective technique for SSM + IBR, associated with lower complication rates but longer operative times. It avoids dorsal scars (84.8% of RALDF cases use only a peri-areolar incision) and is feasible for patients with radiotherapy history or large breasts.  
+
+
+## 2. Supplementary Abstracts  
+### 2.1 Abstract 1: "Robotic harvest of a latissimus dorsi flap using a single-port surgical robotic system in breast reconstruction" (Korean Society of Plastic Surgery)  
+- **Institution**: Departments of Plastic and Reconstructive Surgery & Surgery, Yonsei University College of Medicine, Seoul, Korea.  
+- **Core Content**: Presents a case of robot-assisted nipple-sparing mastectomy (NSM) + immediate IBR with LDF using the **da Vinci SP single-port robotic system**.  
+- **Advantages of Single-Port System**:  
+  - Shorter, less visible incisions (reduces donor-site scarring).  
+  - Minimizes robotic arm collision.  
+  - Improves visualization of the LD muscle’s medial border (where back curvature limits visibility in multiport systems).  
+- **Conclusion**: Single-port robotic systems are recommended for minimally invasive LD flap harvest.  
+
+
+### 2.2 Abstract 2: "Post Market In-depth Clinical Evaluation for the Safety and the Current Local Practice of Robotically-Assisted Surgical Devices in Mastectomy" (Saudi Food and Drug Authority, beta.sfda.gov.sa; Published: Nov 13, 2025)  
+- **Background**: Robotically-Assisted Surgery (RAS) is used off-label for Nipple-Sparing Mastectomy (NSM) (not approved by FDA/regulatory bodies). In 2019, FDA issued a safety warning that RAS safety/effectiveness for mastectomy is unproven.  
+- **NSM Advantages**: Preserves skin envelope and nipple-areola complex (NAC), improves cosmetic outcomes and patient satisfaction.  
+- **NSM Challenges**: Technical difficulty (limited visualization/access via inframammary fold incisions), surgeon fatigue, visible scars, and NAC necrosis (partial/full-thickness).  
+- **Aim**: Evaluate RAS safety and local clinical practice in mastectomy.  
+
+
+### 2.3 Abstract 3: "Pilot Study of Robotic-Assisted Harvest of the Latissimus Dorsi Muscles" (ClinicalTrials.gov; NCT02274493)  
+- **Design**: Single-center, non-randomized, prospective study (The University of Texas MD Anderson Cancer Center, Houston, TX).  
+- **Aim**: Evaluate safety/feasibility of the **da Vinci surgical system** for minimally invasive LD muscle flap harvest.  
+- **Enrollment**: Up to 15 subjects (breast, scalp, upper/lower extremity reconstruction requiring LD flap).  
+- **Study Duration**: Enrollment (Q1’15 – Q2’17); Follow-up (0-2 weeks, 2-4 weeks, 1-3 months, 3-6 months post-procedure).  
+- **Endpoints**:  
+  - Primary: Muscle flap failure.  
+  - Secondary: Donor-site complications, flap viability (Doppler), conversion rate to open surgery, shoulder function (QuickDASH questionnaire).  
+- **Exclusion Criterion**: BMI >35.  
+
+
+### 2.4 Abstract 4: "Robotic Latissimus Dorsi-Flap Breast Reconstruction: 101 Procedures in 30 Months" (Clinics of Surgery; Published: Apr 8, 2024)  
+- **Institution**: Paoli Calmettes Institute, Marseille, France; Centre Léon Bérard, Lyon, France.  
+- **Core Content**: Analyzes 101 Robotic Latissimus Dorsi Flap Reconstructions (RLDFR) over 30 months.  
+- **Patient/Procedure Details**:  
+  - Reconstruction Types: 63 autologous RLDF (muscle + surrounding fat); 38 non-autologous RLDF (muscle only) + implant (12 autologous + implant; 20 non-autologous + implant).  
+  - Previous Treatments: 22 local recurrences, 14 primary breast cancers (BC) with radiotherapy.  
+- **Key Results**:  
+  - Median LOS: 4 days.  
+  - Complications: 30 Grade 1 (dorsal seroma); 1 Grade 3 (reoperation for dorsal bleeding).  
+  - Operative Time (>305 min) associated with SSM, autologous RLDF (without implant), and later study periods (P2/P3, indicating surgeon learning curve).  
+- **Conclusion**: RLDFR is reproducible and safe, with increased adoption of autologous flaps based on patient/surgeon preference.  
+
+
+### 2.5 Abstract 5: Unspecified Title (scitemed.com; Published: Nov 21, 2025)  
+- **Key Citations**:  
+  - Park KU, et al. (2023): "Robot-assisted nipple sparing mastectomy: recent advancements and ongoing controversies" (Curr Breast Cancer Rep, 15(2):127-134).  
+  - Lai HW, et al.: "Minimal access (endoscopic and robotic) breast surgery in the surgical treatment of early breast cancer - trend and clinical outcome" (2016; 53(3):326-331).  
+
+
+### 2.6 Abstract 6: "Robotic approaches to breast reconstruction" (f.oaes.cc; Published: Jul 10, 2024)  
+- **Core Content**: Details robotic techniques for LD flap and Deep Inferior Epigastric Perforator (DIEP) flap breast reconstruction.  
+- **LD Flap Harvest Steps**:  
+  - Port placement: Axillary incision (8-12 mm) for endoscope/robotic arms; insufflation maintained at 10 mmHg.  
+  - Robotic Setup: da Vinci system positioned posterior to the patient; arms aligned with LD muscle plane.  
+  - Dissection: Undersurface → superficial plane of LD muscle; preservation of thoracodorsal pedicle is critical.  
+  - Closure: Drains placed via lower port sites; LD muscle delivered through reopened axillary incision.

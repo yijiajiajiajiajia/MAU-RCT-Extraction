@@ -1,0 +1,397 @@
+# Annals of Surgery
+DOI:10.1097/SLA.0000000000004969
+A Randomized Trial of Robotic Mastectomy versus Open Surgery in Women With Breast Cancer or BRCA Mutation
+Antonio Toesca1, M.D., Claudia Sangalli2, M.Sc., Patrick Maisonneuve3, P.hD., Giulia Massari1, M.D., Antonia Girardi1, M.D., Jennifer L. Baker4, M.D., Germana Lissidini1, M.D., Alessandra Invento1, M.D., Gabriel Farante1, M.D., Giovanni Corso1,5, M.D., Mario Rietjens6, M.D., Nickolas Peradze1, M.D., Alessandra Gottardi6, M.D., Francesca Magnoni1, M.D., Luca Bottiglieri 7, M.D., Matteo Lazzeroni 8, M.D., Emilia Montagna9, M.D., Piergiorgio Labò10, R.N., Roberto Orecchia11, M.D., Viviana Galimberti1, M.D., Mattia Intra1, M.D., Virgilio Sacchini1,5,12 M.D., and Paolo Veronesi1,5 M.D.
+
+1. Division of Breast Surgery, European Institute of Oncology IRCCS, Milan, Italy 
+2. Data Management, European Institute of Oncology IRCCS, Milan, Italy 
+3. Division of Epidemiology and Biostatistics, IEO European Institute of Oncology IRCCS, Milan, Italy 
+4. Breast Surgery Division, Department of Surgery, David Geffen School of Medicine, University of California Los Angeles, Los Angeles CA, USA 
+5. University of Milan School of Medicine, Milan, Italy 
+6. Division of Plastic and Reconstructive Surgery, European Institute of Oncology IRCCS, Milan, Italy 
+7. Division of Pathology, European Institute of Oncology IRCCS, Milan, Italy 
+8. Division of Cancer Prevention and Genetics, IEO, European Institute of Oncology IRCCS, Milan, Italy 
+9. Division of Medical Senology, European Institute of Oncology IRCCS, Milan, Italy 
+10. Operating Theatre, European Institute of Oncology IRCCS, Milan, Italy 
+11. Scientific Direction, European Institute of Oncology IRCCS, Milan, Italy 
+12. Breast Service, Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY, USA
+
+Correspondence to: Antonio Toesca, Breast Surgical Oncologist, European Institute of Oncology IRCCS, Division of Breast Surgery, Via Ripamonti 435, 20141, Milan, Italy. Tel: +39-02-94371092; E-mail: antonio.toesca@ieo.it
+
+Sources of support:
+This trial was funded by Italian Ministry of Health with “Ricerca Corrente and 5x1000”, IEO Foundation® and Intuitive Surgical®.
+
+# ABSTRACT
+Objective: To compare robotic mastectomy with open classical technique outcomes in breast cancer patients.
+Summary Background Data: As the use of robotic nipple sparing mastectomy continues to rise, improved understanding of the surgical, oncologic and quality of life outcomes is imperative for appropriate patient selection as well as to better understand indications, limits, advantages and dangers.
+Methods: In a phase III, open label, single center, randomized controlled trial involving 80 women with breast cancer (69) or with BRCA mutation (11), we compared the outcome of robotic and open nipple sparing mastectomy. Primary outcomes were surgical complications and quality of life using specific validated questionnaires. Secondary objective included oncologic outcomes.
+Results: Robotic procedure was 1 hour and 18 minutes longer than open (P<0.001). No differences in the number or type of complications (P=0.11) were observed. Breast-Q scores in satisfaction with breasts, psychosocial, physical and sexual well-being were significantly higher after robotic mastectomy vs open procedure. Respect to baseline, physical and sexual well-being domains remained stable after robotic mastectomy while they significantly decreased after open procedure (P ≤0.02). The overall Body Image Scale questionnaire score was 20.7 ±13.8 vs.9.9± 5.1 in the robotic vs open groups respectively, P<0.0001. At median follow-up 28.6 months (range 3.7-43.3), no local events were observed.
+Conclusions: Complications were similar among groups upholding the robotic technique to be safe. Quality of life was maintained after robotic mastectomy while significantly decrease after open surgery. Early follow up confirm no premature local failure. ClinicalTrials.gov NCT03440398
+
+# Keywords
+breast cancer; robotic mastectomy; nipple-sparing mastectomy; conservative mastectomy; risk-reducing surgery; Breast reconstruction; Robotic Surgery; cancer BRCA
+
+# Mini Abstract
+In this randomized clinical trial that included 80 women, no differences in terms of absolute number or type of postoperative complications were observed and results showed a better quality of life of patients after robotic surgery, compared to open classical nipple sparing mastectomy, maintaining the same early oncologic follow up.
+
+# INTRODUCTION
+Owing to superior cosmetic results and oncologic safety, the use of nipple-sparing mastectomy has increased in recent years [1]. The conventional open surgical approach is limited by higher rates of nipple necrosis with the peri-areolar access incision and by compromised exposure of the superior pole with access from the inframammary fold [1]. Robotic nipple-sparing mastectomy was developed from 2014 [2-4] to allow for enhanced visualization and more precise dissection of tissue planes that are difficult to reach with the open technique. Additionally, access for the robotic approach was intentionally planned to provide less vascular compromise to the nipple areolar complex in a cosmetically preferred location off the breast.
+
+Feasibility and safety of robotic technique has been reported in several prospective studies that consistently report a low complication rate and no local failure at short-term follow-up [5-11]. During the 15th St Gallen International Breast Cancer Conference, robotic mastectomy was recognized as an option in selected patients [12]. However, the use of the robotic breast surgery is not currently approved by the US Food and Drug Administration (FDA) that issued a statement on February 2019, warning that the safety and effectiveness of robotic devices for mastectomy had not been established. The world scientific community has felt the need to publish several opinion manuscripts [13-17], an international protocol [18] and a consensus statement [19] to self-regulate its clinical trials and clinical practice. In this scenario, as the use of robotic nipple sparing mastectomy continues to rise, improved understanding of the surgical, oncologic and quality of life outcomes is imperative for appropriate patient selection and counseling, as well as for regulatory authorities to better understand indications, limits, advantages and dangers.
+
+We present a randomized controlled trial comparing robotic nipple sparing mastectomy to open classical technique. The aim of the study was to determine how surgical technique affected rates and types of complications, health related quality of life and patient satisfaction outcomes at 1 year. A secondary objective is to evaluate the long-term oncologic outcomes. In this manuscript we present final results of our primary objective and intermediate results for our secondary objective.
+
+# METHODS
+## Study Design
+The trial was a phase III, open label, single center, randomized controlled trial comparing conventional open nipple sparing mastectomy to robotic nipple sparing mastectomy. The whole research was designed and conducted at European Institute of Oncology in Milan, Italy. The Principal Investigator designed the study and data was gathered by co-investigators and data managers whom supervised the adherence to protocol and ensure accuracy of the data. Study authors analyzed data and wrote the manuscript. The protocol was approved by the institutional review board and ethics committee. The trial was registered at ClinicalTrials.gov (NCT03440398) [20].
+
+## Patients
+Women with invasive breast cancer, ductal carcinoma in-situ (DCIS), or a genetic predisposition to breast cancer (i.e. pathogenic BRCA 1 or BRCA 2 mutation), aged 18 years or older, candidates for nipple-sparing mastectomy with immediate breast reconstruction were eligible to participate. Multifocal and multicentric cancers were allowed as well as any clinical tumor size, however, tumors had to be located greater than 1 cm from the nipple-areola complex as assessed by clinical examination and breast imaging. Patients with preoperative evidence of axillary lymph-nodes metastasis, inflammatory breast cancer, evidence of tumor involvement in skin or nipple-areolar complex, Paget’s disease, mesenchymal, inflammatory or recurrent breast cancer, history of previous thoracic radiation therapy were not eligible. Additionally, patients were not eligible if they were pregnant, had a high ASA score (>2), uncontrolled diabetes mellitus, were prior or current heavy smokers (>20 cigarettes/day), or had large breast volume (greater than cup D breast) or with previous surgery in ipsilateral breast. All patients provided written informed consent. Enrollment speed was calibrated over time on the availability of the robotic operative room dedicated to this research.
+
+## Randomization
+Using an automated dynamic allocation system, eligible patients were randomly assigned in a 1:1 ratio, at patient level, to undergo either robotic or open mastectomy. The system assigned a patient identification number, treatment group, and date of randomization. The study involved no masking patients, participating staff, trial management and surgeons were all aware of assigned treatments. Surgeons and patients were informed of treatment arm at least 7 days prior to procedure.
+
+## Surgical Procedures, Pathological Analyses and Adjuvant Treatments
+Details of the surgical technique for the open surgery and robotic surgery arm have been previously described [3, 21-23]. The incision location used for open surgery was on the breast, radial external (34), peri-areolar (3), peri-areolar with radial internal extension (1), peri-areolar with radial external extension (1) and in the inframammary fold (1), according to our previous publication [23]. Prophylactic antibiotic therapy was used in all patients. In all cancer cases, the retro-areolar ducts were excised and examined intraoperatively by frozen section to confirm no tumor involvement. Sentinel node biopsy/axillary dissection was performed according to the clinical indication. In the case of axillary surgery, all were performed using open technique and utilizing the same axillary incision. The incision was not extended for larger breasts. In both groups, the breast was immediately reconstructed, either with permanent implants or tissue expanders with retro-pectoral approach in both arms. The use of immediate implant versus tissue expander was up to the discretion of the operating plastic surgeon.
+
+The pathological evaluation was identical between groups. The breast was removed en-bloc in all cases. Surgical margin involvement was defined as the presence of cancer cells at the surgical margin in invasive carcinoma cases or <2 mm from the peripheral margin in cases of DCIS.
+
+Adjuvant therapy was determined by multidisciplinary board according to international protocols, without consideration of surgical arm.
+
+## Post-operative Outcome
+All post-surgical adverse events were recorded for 3 months after mastectomy. Complications were also classified according to Dindo D et al. [24] using a therapy-oriented, 4-level severity grading. Peri-operative technical outcome measures included total surgery time, total blood loss, conversion rate to open mastectomy, and length of hospital stay. In cases of bilateral mastectomy, the procedure time was divided in half. If loss of implant occurred, patient data was analyzed to evaluate the reason for explant.
+
+Early results of local failure (ipsilateral breast tumor recurrence), disease free and overall survival rate was recorded and analyzed.
+
+## Quality of Life Evaluation Outcome
+The version 2 of BREAST-Q [25], a validated patient-reported outcome measure consisting of a health related quality of life and a satisfaction domain, was completed preoperatively, 1month, 6-month, and 1-year post-operative. The pre-operative and post-operative scales were linked psychometrically to measure change over time and between the two groups. Higher BREAST-Q indicate beneficial score.
+
+The Hopwood’s body image scale (BIS) [26] was administered 12 months postoperative. The BIS a 10-item monofactorial questionnaire, validated by the European Organization for Research and Treatment of Cancer (EORTC), that is designed to capture and compare distress and symptoms related to body image in cancer patients. The total score ranges from 0 to 30 and can be calculated by summing up the 10 items. A higher score means a higher level of body image disturbance.
+
+Patient satisfaction with the nipple areola complex (NAC) and subjective nipple sensitivity was evaluated at 12 months post-operative using a NAC-specific questionnaire [27]. The questionnaire comprises 9 items that are scored on a 5-point Likert scale.
+
+The baseline survey was given after enrollment, before randomization. All questionnaires were self-administered and completed either at the outpatient clinic or by mail.
+
+## Statistical Analysis
+We estimated that a target sample of 80 patients (40 receiving open and 40 robotic mastectomy) would provide the trial with 80% power, at a two-sided alpha level of 0.05, to detect a difference of -15.6 of the mean score of the BREAST-Q reconstruction questionnaire scale for satisfaction with outcome between the two arms. This was based on an assumption that the mean±SD of the score in the open arm would be similar to that reported by van Verschuer et al. (61.5± 24.6) [27].
+
+The difference in the distribution of patients’ characteristics, peri-operative outcome measures, complications, and response to the QoL questionnaires (BIS and NAC) between the two groups were calculated using the Fisher exact test, the Mantel Haenszel test for trend and the Student T test, respectively for categorical, ordinal and continuous variables. Overall survival was calculated from the date of surgery to the date of last contact or death. Disease free survival was calculated for patients treated for invasive breast cancer from the date of surgery to the date of first breast-cancer related event or death. Survival curves were drawn using the Kaplan-Meier methods and compared using the Log-rank test. Analyses were performed with SAS software version 9.4 (Cary, NC). Statistical significance was defined by a 2-tailed value <0.05.
+
+## Role of the funding source
+The study funding source had no role in study design, data collection, data analysis, data interpretation, or writing of the report. The corresponding author had full access to all the data in the study and had final responsibility for the decision to submit.
+
+# RESULTS
+Patients were enrolled and randomized from March 31, 2017 to December 31, 2018. Forty patients underwent open nipple-sparing mastectomy and 40 patients underwent robotic nipple sparing mastectomy.
+
+Patient and disease characteristics were well balanced between the two groups [Table 1]. A majority of the patients were premenopausal (81.3%), were of normal BMI (85%), and had an A or B cup volume breasts with minimal ptosis (79%). The indication for mastectomy was cancer (DCIS or invasive) in 69 cases and prophylaxis without cancer diagnosis (BRCA mutation carriers) in 11 cases (n=5 in the open mastectomy group and n=6 in the robotic group). Five different surgeons performed the robotic mastectomy procedures, 15 performed the open procedure.
+
+Technical operative outcome measures are included in Table 2. The gland was removed en-bloc in all cases and no robotic cases were converted to open mastectomy. On average, the total procedure time for a unilateral procedure was 1 hour and 18 minutes longer in the robotic procedure compared to the open procedure (P<0.001).
+
+Peri-operative complications are also presented in Table 2. Overall, 20/40 (50%) of patients in the open group compared to 12/40 (30%) of patients in the robotic group experienced a complication from surgery (P=0.11). Among patients with any complication, patients undergoing open mastectomy were more likely to have multiple complications compared to patients in the robotic group (P=0.009). There were no significant differences in grade 3 complications between groups (P=0.86). The rate of skin necrosis (any grade) was observed in 12.5% of patients after open surgery, including ischemia of the nipple-areola complex in 2 patients (5%). No skin or nipple necrosis was observed among the 40 patients undergoing robotic surgery. Permanent silicone implant loss occurred in 3 patients: one patient in the open mastectomy arm due to infection and two patients in the robotic arm (infection in one patient and implant exposure 2 months after surgery during chemotherapy in the other patient).
+
+The use of systemic therapies and radiation were similar between groups. Of all invasive breast cancer patients, 4 (7.1%) women in each arm received neoadjuvant treatment, 11 (19.6%) received adjuvant chemotherapy in open arm vs 10 (19.9%) in robotic arm, 24 (42.9%) received endocrine therapy in open arm vs 23 (39.3%) in robotic arm. Targeted therapy was done in 5 (8.9%) patients in open arm vs 2 (1.8%) in robotic arm. Six (10.7%) patients in open arm received radiation therapy vs 5 (7.1%) in robotic arm.
+
+At median follow-up of 28.6 months (range 3.7-43.3), there were no breast cancer occurences among high risk patients (n=11) and no locoregional relapse events among DCIS (n=12) or invasive breast cancer (n=57) patients, in either group. One breast cancer related distant metastasis was observed in each trial arm resulting in breast cancer related death. One patient in open arm developed an ovarian cancer during follow up.
+
+Median time from surgery to follow-up BREAST-Q was 1 year. The results from the pre-operative and post-operative BREAST-Q survey are presented in Table 3. Regarding the change in Q-score (Figure 1), satisfaction with breasts increased in the robotic group whereas the opposite trend was seen after open mastectomy (P=0.03 for paired difference at 12months). Scores in psychological well-being significantly improved after robotics however the paired differences were not significantly different from the open group. Overtime, scores in the physical well-being (chest) domain and sexual well-being initially decreased, however, after 1 year, both domains returned to pre-operative level in the robotic arm only (P=0.03 for paired difference at 12-months).
+
+Figure 1 also summarizes paired difference in pre-operative and 1-year post-operative scores in selected domains for each group. Mean scores in satisfaction with breasts and psychosocial well-being significantly increased from baseline in the robotic arm at 1 year, while there was not significant change after open surgery. Mean scores in physical well-being and sexual well-being significantly decreased after open mastectomy while they remained stable after robotic mastectomy.
+
+The responses to BIS questionnaire are listed in Table 4. In all categories, patients underwent robotics reported significantly less distress with appearance and body changes related to treatment. While the psychometric reliability and validity of the Italian version of BIS has been previously tested, it was determined that the meaning of “self-conscious” was lost in translation from English to Italian. In order to correct for this, the first category was replaced by the mean of the other items. The overall BIS score was 20.7 ± 9.9 vs. 13.8 ± 5.1 in the open vs robotic groups respectively, P<0.001 (Figure 2).
+
+The responses to the NAC-specific questionnaire between the two groups are listed in Table 5. The sensitivity of NAC was mostly preserved after robotics (P=0.0002). Patients undergoing open mastectomy were more likely to be satisfied with the position of the NAC on the breast with 32/36 (88.9%) being satisfied/very satisfied with NAC position compared to 25/36 (69.4%) in the open group (P=0.01). Lateral displacement was the most common mal-position reported. Additionally, patients who underwent robotics described less change in sexual pleasure related to NAC sensitivity and were more likely to describe touching of the NAC as pleasant (P<0.0001). Patients in the robotic group were more likely to choose the same operation again (P=0.0004) and advise other women to have the operation (P<0.001).
+
+# DISCUSSION
+In this randomized trial comparing the robotic nipple sparing mastectomy and open classical technique for the treatment of breast cancer or prophylaxis, we found no significant differences in terms of post-operative complication rates between the two groups confirming the results of surgical safety of the robotic procedure [5-11]. Moreover, women experienced robotic mastectomy maintain their pre-operative health related quality of life condition in contrast with respect to women received an open classical technique. Furthermore, although with a median follow up of 28.6 months it is premature to define a difference in oncologic outcome between two surgical techniques, we clearly report that there were no cases of local failure in both groups and the overall survival was equivalent between trial arms.
+
+The importance of the findings and his application in clinical care is focused on understanding of peri-operative safety concern, quality of life outcomes and on oncologic considerations.
+
+Regarding the peri-operative outcome, although the mean operating time of the robotic procedure compared to open was 1 hour and 18 minutes longer, outcomes nor functional recovery were impacted demonstrating that there was no difference in postoperative pain, intra-operative blood loss, or length of hospital stay between groups. The post-operative events classifications by Dindo D et al. [24] was used to be able to register and consider each type of variation with respect to normality. If we consider the true complications, those classified as G2 or higher (Table 2), we find very few true complications in both groups, without significant differences. It is interesting to note that despite robotic surgery being relatively new compared to the open procedure, the number of complications after robotic surgery were slightly less than with open surgery. In particular, we observed no skin or nipple necrosis in patients after robotic mastectomy. This is likely because most complications after classical nipple sparing mastectomy are related to compromised blood flow. In the robotic technique, the incision location (off the breast in the mid-axillary line) as well as the heightened exposure allow the surgeon to more precisely dissect glandular tissue while preserving important subcutaneous fat and vessels.
+
+The second point is related to increased quality of life following robotic mastectomy. With the heightened focus on improving satisfaction and quality of life after cancer treatment, these results cannot be over-looked. After 1 year, patients in the robotic arm maintained the same high level of quality of life as they reported prior to mastectomy. This is a significant finding since mastectomy is known to have damaging effects on self-reported outcome. Prior studies have found improved scores in health related quality of life domains after nipple sparing mastectomy compared to skin sparing mastectomy [28]. However, these studies fail to control for pre-operative levels and thus interpretation is limited. Here, after controlling for pre-operative scores, we find patients who underwent open mastectomy had significantly lower scores in several important quality of life measures, including physical and sexual wellbeing. However, patients undergoing robotic mastectomy maintained preoperative levels of physical and sexual well-being and had improved satisfaction with breasts and psychosocial well-being as compared to baseline levels. The scores for surgeon, medical staff and office staff are presumably referring to patient satisfaction towards these providers.
+
+Furthermore, this research found a similar trend favoring the robotic mastectomy based on responses to Hopwood’s BIS questionnaire reducing psychosocial health and body image disturbances after cancer treatment [26]. It is also noteworthy that nipple sensitivity and sexual pleasure were less disturbed after robotic approach in our study. While reasons for these results are speculative, we consider that incision placement plays a role. The superficial skin web nerves and the vascular supply to the nipple after mastectomy rely on small vessels that traverse subcutaneous tissue from larger branching vessels off the internal mammary, anterior intercostal and lateral thoracic arteries with less reliance on branches from the axillary artery or posterior intercostal branches [29]. Options used for open nipple sparing mastectomy including the inframammary fold or a lateral extension off the nipple can threaten these branches more than an incision placed in the mid/posterior-axillary line as in the robotic approach.
+
+Regarding the last consideration, the increasing use of nipple sparing mastectomy in expanding patient populations is largely occurring among absence of long-term oncologic safety outcomes. While recurrence at the NAC related to leaving terminal ductal-lobular units was an early concern, the local recurrence at the NAC has been low in retrospective studies as long as verification of a negative nipple margin is obtained [1]. However, surgeons who perform open nipple sparing mastectomy recognize the technical challenge related to incision location and poor visualization of the dissection plane. This can lead to incomplete resection of glandular tissue and there is need for data to verify long-term oncologic safety of the procedure [30]. With the robotic technique, because of complete glandular dissection is performed, there is no reason to think that oncologic safety would be less than that of an open procedure. However, we stress the importance of rigorous study of the oncologic outcomes of both techniques. To this end, a recent short-term follow-up of all consecutively performed robotic surgery performed over a 5 year period with median follow-up 19 months has been published [6]. The local relapse rate, disease free survival rate and overall survival were low, and similar to rates found in studies evaluating nipple sparing mastectomy performed through standard open technique [1, 22,23]. This study will proceed along a 2nd-phase time line when secondary endpoint will evaluate the long-term analysis of cumulative incidence of local recurrence, axillary recurrences, distant recurrences, disease free survival and overall survival at a median follow up of 5 years. We await the mature follow-up of our study which will report on long-term recurrence and survival outcomes.
+
+In conclusion, we report a randomized trial comparing robotic to open nipple sparing mastectomy. Consistent to prior prospective trials, we confirm robotic mastectomy is a surgically safe technique. We found long term health related quality of life and patient satisfaction were maintained from pre-operative levels after robotic mastectomy, while they significantly declined after open surgery. Early follow up is promising with no early local failure while we look forward to long-term oncologic safety data.
+
+# ACKNOWLEDGMENTS
+AT: conception, design and supervision of the study, interpretation of data, writing of original draft; 
+CS: acquisition of data, critical revision of the draft; 
+PM: statistical analysis, data interpretation, critical revision of the draft; 
+GM, AG, GL, AI, GC, NP, AG, PL and FM: acquisition of data, critical revision of the draft; 
+JLB: interpretation of data, writing of original draft; 
+GF: data interpretation, critical revision of the draft; 
+LB, ML, EM: data interpretation, critical revision of the draft; 
+MR, RO, VG, MI, VS and PV: data interpretation and final approval of the draft.
+
+Financial support came from Italian Ministry of Health with “Ricerca Corrente and 5x1000”, IEO Foundation® and Intuitive Surgical®.
+
+We declare no competing interests.
+
+---
+
+# Tables
+## Table 1. Patient demographics/pre-operative parameters/staging
+| | Open (N=40) | Robotic (N=40) | p-value* |
+| --- | --- | --- | --- |
+| Age - median (range) | 45.5 (29-62) | 44.5 (30-60) | - |
+| Age group - no. (%) | | | |
+| <40 | 7 (17.5) | 9 (22.5) | |
+| 40-44 | 10 (25.0) | 11 (27.5) | |
+| 45-49 | 12 (30.0) | 10 (25.0) | |
+| 50+ | 11 (27.5) | 10 (25.0) | 0.94 |
+| Menopausal status - no. (%) | | | |
+| Pre-menopause | 32 (80.0) | 27 (67.5) | |
+| Peri-menopause | 2 (5.0) | 4 (10.0) | |
+| Post-menopause | 6 (15.0) | 9 (22.5) | 0.47 |
+| Smoking status - no. (%) | | | |
+| Never smoker | 30 (75.0) | 31 (77.5) | |
+| Former smoker | 6 (15.0) | 6 (15.0) | |
+| Current smoker | 4 (10.0) | 3 (7.5) | 1.00 |
+| BMI§ - no. (%) | | | |
+| Underweight | 8 (20.0) | 4 (10.0) | |
+| Normal weight (18.5-24.9 Kg/m²) | 32 (80.0) | 36 (90.0) | 0.35 |
+| Breast ptosis - no. (%) | | | |
+| No ptosis | 19 (47.5) | 9 (22.5) | |
+| Grade1 | 9 (22.5) | 12 (30.0) | |
+| Grade 2 | 9 (22.5) | 10 (25.0) | |
+| Grade 3 | 2 (5.0) | 3 (7.5) | 0.26 |
+| Nipple ptosis - no. (%) | | | |
+| No ptosis | 19 (47.5) | 9 (22.5) | |
+| Grade1 | 9 (22.5) | 12 (30.0) | |
+| Grade 2 | 9 (22.5) | 9 (22.5) | |
+| Grade 3 | 2 (5.0) | 4 (10.0) | 0.23 |
+| Cup size - no. (%) | | | |
+| Cup A | 10 (25.0) | 10 (25.0) | |
+| Cup B | 21 (52.5) | 22 (55.0) | |
+| Cup C | 7 (17.5) | 5 (12.5) | |
+| Cup D | 1 (2.5) | 1 (2.5) | 0.93 |
+| Mastectomy procedure - no. (%) | | | |
+| Unilateral | 32 (80.0) | 29 (72.5) | |
+| Bilateral | 8 (20.0) | 11 (27.5) | 0.60 |
+| Indication for procedure - no. (%) | | | |
+| Risk Reducing Surgery | 5 (12.5) | 6 (15.0) | |
+| In situ Breast Cancer | 5 (12.5) | 7 (17.5) | |
+| Invasive Breast Cancer Cases | 30 (75.0) | 27 (67.5) | 0.78 |
+| Axillary procedure - no. (%) | | | |
+| No axillary staging | 5 (12.5) | 6 (15.0) | |
+| Negative sentinel node biopsy | 28 (70.0) | 27 (67.5) | |
+| Positive sentinel node (axillary dissection) | 7 (17.5) | 7 (17.5) | 1.00 |
+| Cancer Stage - no. (%) | | | |
+| Stage 0 | 5 (12.5) | 7 (17.5) | |
+| Stage 1a | 15 (37.5) | 12 (30.0) | |
+| Stage 2a | 9 (22.5) | 9 (22.5) | |
+| Stage 2b | 6 (15.0) | 3 (7.5) | |
+| Stage 3a | 0 (0.0) | 2 (5.0) | |
+| Stage 4 | 0 (0.0) | 1 (2.5)† | 0.54 |
+| Margin involvement - no. (%) | 0 (0.0) | 0 (0.0) | - |
+| Tumor subtype - no. (%) (among n=57 with invasive breast cancer) | | | |
+| ER+HER2- | 22 (64.7) | 20 (74.1) | |
+| ER+HER2+ | 2 (5.9) | 3 (11.1) | |
+| ER-HER2+ | 2 (5.9) | 1 (3.7) | |
+| ER-HER2– | 4 (11.8) | 3 (11.1) | 0.96 |
+
+* Fisher exact test. § Body-mass index (BMI) is the weight in kilograms divided by the square of the height in meters. †Patient with stage 4 triple negative breast cancer (oligometastatic to bone only) underwent neoadjuvant treatment with promising response.
+
+## Table 2. Peri-operative characteristics and complications*
+| Characteristic | Open (N=40) | Robotic (N=40) | p-value |
+| --- | --- | --- | --- |
+| Total surgery time (hours) | 2.3 ± 0.8 | 3.6 ± 0.8 | <0.0001 |
+| Mastectomy procedure time (hours) | 1.0 ± 0.4 | 1.8 ± 0.7 | <0.0001 |
+| Reconstruction procedure time (hours) | 1.1 ± 0.6 | 1.4 ± 0.6 | 0.009 |
+| Estimated Blood loss (drainage ml) | 209 ± 146 | 202 ± 98 | 0.69 |
+| Length of hospital stay (days, admission to discharge) | 2.4 ± 0.6 | 2.3 ± 1.2 | 0.04 |
+| Gland removed en-bloc - no. (%) | 40 (100%) | 40 (100%) | 1.00 |
+| Robotic cases converted to open - no. (%) | - | 0 (0.0%) | - |
+| Reconstruction - no. (%) | | | |
+| Tissue expander | 11 (27.5) | 5 (12.5) | 0.16 |
+| Postoperative pain - no. (%) | | | |
+| NRS 0-1 | 10 (25.0) | 5 (12.5) | |
+| NRS2 | 24 (60.0) | 26 (65.0) | |
+| NRS3-4-5-6 | 6 (15.0) | 9 (22.5) | 0.36 |
+| Number of complications‡ - no. (%) | | | |
+| Women without complications | 20 (50.0) | 28 (70.0) | |
+| Women with 1 complication | 10 (25.0) | 11 (27.5) | |
+| Women with 2 or more complications | 10 (25.0) | 1 (2.5) | 0.009† |
+| Grade of complication§ - no. (%) | | | |
+| Women without complications | 20 (50.0) | 28 (70.0) | |
+| G1 | 12 (30.0) | 6 (15.0) | |
+| G2 | 2 (5.0) | 1 (2.5) | |
+| G3 | 6 (15.0) | 5 (12.5) | 0.86 |
+| Type of complication - no. (%) | | | |
+| Axillary web syndrome | 7 (17.5) | 0 (0.0) | 0.01 |
+| Infection without implant loss | 1 (2.5) | 1 (2.5) | 1.00 |
+| Infection with implant loss | 1 (2.5) | 1 (2.5) | 1.00 |
+| Skin flap necrosis (any grade) | 5 (12.5) | 0 (0.0) | 0.055 |
+| Seroma | 6 (15.0) | 3 (7.5) | 0.48 |
+| Disepithelization/Eschar | 3 (7.5) | 2 (5.0) | 1.00 |
+| Implant loss for implant exposure | 0 (0.0) | 1 (2.5) | 1.00 |
+| Implant displacement | 1 (2.5) | 0 (0.0) | 1.00 |
+| Capsular contracture | 1 (2.5) | 0 (0.0) | 1.00 |
+| Hematoma/Ecchymosis/Hemorrhage | 7 (17.5) | 4 (10.0) | 0.52 |
+| Erythema | 0 (0.0) | 1 (2.5) | 1.00 |
+| Wound dehiscence | 1 (2.5) | 0 (0.0) | 1.00 |
+| Edema | 1 (2.5) | 0 (0.0) | 1.00 |
+| NAC ischemia | 2 (5.0) | 0 (0.0) | 0.49 |
+| Intercostal brachial syndrome | 2 (5.0) | 0 (0.0) | 0.49 |
+
+*Plus-minus values are observed means ± SD. §Classification according to Dindo D. et al. †Mantel-Haenszel test for trend. ‡In total 38 complications were observed in the Open arm and 13 in the Robotic arm.
+
+## Table 3. BREAST Q
+| Breast Q item | Pre |  |  | Post 1-month |  |  | Post 6-month |  |  | Post 12-month |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Open | Robotic | p-value | Open | Robotic | p-value | Open | Robotic | p-value | Open | Robotic | p-value |
+| Satisfaction with breasts - Mean ± SD | 56.9±11.2 | 63.1±15.6 | 0.04 | 51.8±23.5 | 68.5±19.4 | <0.0001 | 47.3±22.0 | 69.5±20.4 | 0.0008 | 47.2±21.6 | 70.9±21.2 | <0.0001 |
+| Difference from Pre - Mean (95%CI) | -10.7(-18.6,-2.8) | 7.6±21.3 | 0.02 | -5.8±24.2 | 9.8±24.2 | 0.005 | -9.6±23.6 | 6.7±24.5 | 0.03 | - | - | - |
+| P-value compared to Pre | 0.006 | 0.02 | - | 0.19 | 0.02 | - | 0.02 | 0.14 | - | 0.02 | 0.03 | - |
+| Psychological well-being - Mean ± SD | 64.3±18.7 | 73.8±17.9 | 0.02 | 57.0±21.6 | 78.0±20.4 | <0.0001 | 64.9±21.3 | 78.2±21.2 | 0.009 | 64.8±22.5 | 81.4±19.6 | 0.002 |
+| Difference from Pre - Mean (95%CI) | 1.4(-5.4,8.1) | 4.2±20.8 | 0.49 | -0.6±23.5 | 4.2±21.5 | 0.37 | -0.4±23.6 | 6.7±24.5 | 0.23 | - | - | - |
+| P-value compared to Pre | 0.79 | 0.02 | - | 0.10 | 0.02 | - | 0.98 | 0.02 | - | 0.90 | 0.02 | - |
+| Physical well-being (chest) - Mean ± SD | 70.5±16.1 | 78.2±13.7 | 0.02 | 53.1±18.4 | 68.4±18.7 | 0.0005 | 62.2±20.6 | 75.8±18.8 | 0.004 | 57.6±18.1 | 77.3±18.2 | <0.0001 |
+| Difference from Pre - Mean (95%CI) | -16.7±25.1 | -9.8±20.1 | 0.19 | -9.3±25.1 | -1.2±19.2 | 0.12 | -11.3±23.5 | 1.2±16.2 | 0.01 | - | - | - |
+| P-value compared to Pre | 0.0001 | 0.005 | - | 0.046 | 0.58 | - | 0.005 | 0.93 | - | 0.005 | 0.58 | - |
+| Sexual well-being - Mean ± SD | 59.8±17.5 | 69.3±18.9 | 0.02 | 42.3±28.9 | 71.7±24.8 | <0.0001 | 51.5±29.2 | 69.6±23.2 | 0.005 | 45.2±30.3 | 71.0±23.5 | 0.0002 |
+| Difference from Pre - Mean (95%CI) | -16.9±28.3 | -1.5±24.6 | 0.004 | -8.9±29.6 | 0.3±20.7 | 0.14 | -15.1±32.7 | 0.4±25.2 | 0.03 | - | - | - |
+| P-value compared to Pre | 0.0006 | 0.70 | - | 0.10 | 0.69 | - | 0.02 | 1.00 | - | 0.005 | 0.93 | - |
+| Satisfaction with outcome - Mean ± SD | 70.6±27.5 | 89.6±11.6 | 0.0003 | 69.4±25.3 | 87.7±15.7 | 0.0004 | 65.8±26.7 | 86.6±16.4 | 0.0003 | - | - | - |
+| Difference from Pre - Mean (95%CI) | -3.0±17.2 | 2.8±18.0 | 0.30 | -6.2±23.5 | 2.9±17.1 | 0.45 | - | - | - | - | - | - |
+| P-value compared to Pre | 0.97 | 0.45 | - | 0.05 | 0.43 | - | 0.52 | 0.43 | - | - | - | - |
+| Satisfaction with nipple - Mean ± SD | 76.3±20.0 | 63.8±26.5 | 0.35 | 78.7±19.8 | 80.5±27.6 | 0.94 | 54.2±33.5 | 80.5±27.6 | 0.38 | - | - | - |
+| Difference from Pre - Mean (95%CI) | 15.0±26.0 | 0 | 0.67 | -18.3±74.2 | 0 | 0.85 | - | - | - | - | - | - |
+| P-value compared to Pre | 1.00 | - | - | 1.00 | - | - | - | - | - | - | - | - |
+| Surgeon - Mean ± SD | 67.9±24.5 | 74.8±19.9 | 0.18 | 78.1±20.2 | 72.7±19.4 | 0.25 | 77.0±20.2 | 78.0±21.3 | 0.85 | - | - | - |
+| Difference from Pre - Mean (95%CI) | 10.8±25.2 | -0.2±17.5 | 0.04 | 8.9±20.2 | 5.1±17.8 | 0.41 | - | - | - | - | - | - |
+| P-value compared to Pre | 0.03 | 0.48 | - | 0.01 | 0.02 | - | - | - | - | - | - | - |
+| Medical staff - Mean ± SD | 91.1±13.5 | 93.1±13.6 | 0.53 | 93.7±12.3 | 92.1±15.0 | 0.62 | 94.2±13.4 | 90.7±17.0 | 0.35 | - | - | - |
+| Difference from Pre - Mean (95%CI) | 2.7±13.0 | 0.1±12.3 | 0.40 | 1.5±14.7 | -1.3±13.1 | 0.41 | - | - | - | - | - | - |
+| P-value compared to Pre | 0.40 | 0.48 | - | 0.25 | 0.48 | - | - | - | - | - | - | - |
+
+## Table 4. Hopwood's Body Image Scale (BIS) Questionnaire
+| BIS Scale item | 12 months - No. (%) |  |  | P-value | P-value for trend |
+| --- | --- | --- | --- | --- | --- |
+| | Total (N=80) | Open (N=40) | Robotic (N=40) | | |
+| 1 Self-conscious *** | | | | | |
+| Not at all | 39 (49.4) | 13 (32.5) | 26 (65.0) | | |
+| A little | 25 (31.6) | 15 (37.5) | 10 (25.0) | | |
+| Quite a bit | 9 (11.4) | 6 (15.0) | 3 (7.5) | | |
+| Very much | 6 (7.6) | 6 (15.0) | 0 (0.0) | 0.004 | 0.0006 |
+| 2 Less physically attractive | | | | | |
+| Not at all | 39 (49.4) | 14 (35.0) | 25 (62.5) | | |
+| A little | 25 (31.6) | 15 (37.5) | 10 (25.0) | | |
+| Quite a bit | 9 (11.4) | 6 (15.0) | 3 (7.5) | | |
+| Very much | 6 (7.6) | 5 (12.5) | 1 (2.5) | 0.045 | 0.006 |
+| 3 Dissatisfied with appearance | | | | | |
+| Not at all | 39 (49.4) | 13 (32.5) | 26 (65.0) | | |
+| A little | 25 (31.6) | 15 (37.5) | 10 (25.0) | | |
+| Quite a bit | 9 (11.4) | 7 (17.5) | 2 (5.0) | | |
+| Very much | 6 (7.6) | 5 (12.5) | 1 (2.5) | 0.02 | 0.007 |
+| 4 Less feminine | | | | | |
+| Not at all | 39 (49.4) | 14 (35.0) | 25 (62.5) | | |
+| A little | 25 (31.6) | 14 (35.0) | 11 (27.5) | | |
+| Quite a bit | 9 (11.4) | 6 (15.0) | 3 (7.5) | | |
+| Very much | 6 (7.6) | 6 (15.0) | 0 (0.0) | 0.02 | 0.007 |
+| 5 Difficult to see self-naked | | | | | |
+| Not at all | 39 (49.4) | 12 (30.0) | 27 (67.5) | | |
+| A little | 25 (31.6) | 15 (37.5) | 10 (25.0) | | |
+| Quite a bit | 9 (11.4) | 7 (17.5) | 2 (5.0) | | |
+| Very much | 6 (7.6) | 6 (15.0) | 0 (0.0) | 0.002 | 0.0002 |
+| 6 Less sexually attractive | | | | | |
+| Not at all | 39 (49.4) | 11 (27.5) | 28 (70.0) | | |
+| A little | 25 (31.6) | 14 (35.0) | 11 (27.5) | | |
+| Quite a bit | 9 (11.4) | 8 (20.0) | 1 (2.5) | | |
+| Very much | 6 (7.6) | 7 (17.5) | 0 (0.0) | 0.0005 | <0.0001 |
+| 7 Avoid people | | | | | |
+| Not at all | 39 (49.4) | 15 (37.5) | 24 (60.0) | | |
+| A little | 25 (31.6) | 14 (35.0) | 11 (27.5) | | |
+| Quite a bit | 9 (11.4) | 6 (15.0) | 3 (7.5) | | |
+| Very much | 6 (7.6) | 5 (12.5) | 1 (2.5) | 0.003 | 0.001 |
+| 8 Body less whole | | | | | |
+| Not at all | 39 (49.4) | 14 (35.0) | 25 (62.5) | | |
+| A little | 13 (16.5) | 7 (17.5) | 6 (15.0) | | |
+| Quite a bit | 10 (12.7) | 9 (22.5) | 1 (2.5) | | |
+| Very much | 7 (8.9) | 6 (15.0) | 1 (2.5) | 0.003 | 0.0004 |
+| 9 Dissatisfied with body | | | | | |
+| Not at all | 42 (53.2) | 15 (37.5) | 27 (67.5) | | |
+| A little | 19 (24.0) | 11 (27.5) | 8 (20.0) | | |
+| Quite a bit | 8 (10.1) | 6 (15.0) | 2 (5.0) | | |
+| Very much | 10 (12.7) | 8 (20.0) | 2 (5.0) | 0.02 | 0.003 |
+| 10 Dissatisfied with scar | | | | | |
+| Not at all | 45 (53.2) | 15 (37.5) | 30 (75.0) | | |
+| A little | 15 (19.0) | 10 (25.0) | 5 (12.5) | | |
+| Quite a bit | 7 (8.9) | 6 (15.0) | 1 (2.5) | | |
+| Very much | 12 (15.2) | 9 (22.5) | 3 (7.5) | 0.003 | 0.001 |
+| Overall BIS score - Mean ± SD | 17.3±8.6 | 20.7±9.9 | 13.8±5.1 | 0.0002 | - |
+
+*** In calculating the overall BIS score in each group, the result in the first category was replaced by the mean of the other items as it was determined that the meaning of the question was lost in translation from English to Italian.
+
+## Table 5. Response to the nipple areolar complex (NAC) questionnaire at 12 months
+| NAC Scale item | 12 months - No. (%) |  |  | p-value |
+| --- | --- | --- | --- | --- |
+| | Total (N=80) | Open (N=40) | Robotic (N=40) | |
+| NAC sensitivity compared with before the operation | | | | |
+| Insensitive | 38 (50.7) | 25 (67.6) | 13 (34.2) | |
+| Less sensitive | 25 (33.3) | 12 (32.4) | 13 (34.2) | |
+| The same | 10 (13.3) | 0 (0.0) | 10 (26.3) | |
+| Very sensitive | 2 (2.7) | 0 (0.0) | 2 (5.3) | |
+| Hypersensitive | 0 (0.0) | 0 (0.0) | 0 (0.0) | 0.0002 |
+| Total answers | 75 (93.7) | 37 (92.5) | 38 (95.0) | - |
+| Did sexual pleasure change since the operation because of loss of NAC sensitivity? | | | | |
+| Absent | 12 (15.8) | 11 (29.7) | 1 (2.6) | |
+| Decrease a lot | 11 (14.5) | 10 (27.0) | 1 (2.6) | |
+| Substantially decrease | 21 (27.6) | 6 (16.2) | 15 (38.5) | |
+| A little decrease | 3 (3.9) | 2 (5.4) | 1 (2.6) | |
+| Unchanged | 29 (38.2) | 8 (21.6) | 21 (53.8) | <0.0001 |
+| Total answers | 76 (95.0) | 37 (92.5) | 39 (97.5) | - |
+| Touching of the NAC is | | | | |
+| Very unpleasant | 9 (11.8) | 8 (21.1) | 1 (2.6) | |
+| Unpleasant | 13 (17.1) | 12 (31.6) | 1 (2.6) | |
+| Neither pleasant nor unpleasant | 45 (59.2) | 18 (47.4) | 27 (71.1) | |
+| Pleasant | 9 (11.8) | 0 (0.0) | 9 (23.7) | |
+| Very pleasant | 0 (0.0) | 0 (0.0) | 0 (0.0) | <0.0001 |
+| Total answers | 76 (95.0) | 38 (95.0) | 38 (95.0) | - |
+| Change of nipple reaction to cold or touch | | | | |
+| No reaction | 24 (32.0) | 18 (48.6) | 6 (15.8) | |
+| A lot weaker | 19 (25.3) | 12 (32.4) | 7 (18.4) | |
+| Weaker | 14 (18.7) | 3 (8.1) | 11 (28.9) | |
+| Slightly weaker | 6 (8.0) | 3 (8.1) | 3 (7.9) | |
+| Unchanged | 12 (16.0) | 1 (2.7) | 11 (28.9) | <0.0001 |
+| Total answers | 75 (93.7) | 37 (92.5) | 38 (95.0) | - |
+| Satisfaction with position of NAC on the breast | | | | |
+| Very unsatisfied | 7 (9.7) | 6 (16.7) | 1 (2.8) | |
+| Unsatisfied | 6 (8.3) | 5 (13.9) | 1 (2.8) | |
+| Neither satisfied nor unsatisfied | 7 (9.7) | 5 (13.9) | 2 (5.6) | |
+| Satisfied | 32 (44.4) | 15 (41.7) | 17 (47.2) | |
+| Very satisfied | 20 (27.8) | 5 (13.9) | 15 (41.7) | 0.0005 |
+| Total answers | 72 (90.0) | 36 (90.0) | 36 (90.0) | - |
+| Would choose the same operation again | | | | |
+| Certainly not | 5 (6.9) | 5 (13.5) | 0 (0.0) | |
+| Probably not | 8 (11.0) | 6 (16.2) | 2 (5.6) | |
+| Maybe | 4 (5.5) | 4 (10.8) | 0 (0.0) | |
+| Probably | 3 (4.1) | 2 (5.4) | 1 (2.8) | |
+| Certainly | 53 (72.6) | 20 (54.1) | 33 (91.7) | 0.0004 |
+| Total answers | 73 (91.2) | 37 (92.5) | 36 (90.0) | - |
+| Would advise this operation to other women | | | | |
+| Certainly not | 5 (6.9) | 5 (13.5) | 0 (0.0) | |
+| Probably not | 9 (12.5) | 7 (18.9) | 2 (5.7) | |
+| Maybe | 3 (4.2) | 3 (8.1) | 0 (0.0) | |
+| Probably | 2 (2.8) | 2 (5.4) | 0 (0.0) | |
+| Certainly | 53 (73.6) | 20 (54.1) | 33 (94.3) | 0.0003 |
+| Total answers | 72 (90.0) | 37 (92.5) | 35 (87.5) | - |
+
+Percentage for single responses are calculated on total answers. Questionnaires were completed by 39/40 (97.5%) in RNSM arm because 1 patient died before 1 year and by 38/40 (95%) in open arm because of NAC intraoperatively removal due to frozen section positivity. Some patients in both groups failed to respond to sporadic single questions for unknown reason.
+
+---
+
+# Figure Descriptions
+## Figure 1. Change in Breast Q scores at 1, 6 and 12 months and paired difference at 12 months, compared to preoperative evaluation
+This figure presents the changes in Breast-Q scores across four domains (satisfaction with breasts, psychosocial well-being, physical well-being [chest], and sexual well-being) at 1 month, 6 months, and 12 months postoperatively, as well as the paired differences between 12-month and preoperative scores for the open and robotic mastectomy groups. Key observations include:
+- Satisfaction with breasts: Increased in the robotic group over time, while a decreasing trend was seen in the open group (paired difference at 12 months, P=0.03).
+- Psychosocial well-being: Significantly improved in the robotic group postoperatively, with no significant change in the open group.
+- Physical well-being (chest): Initially decreased in both groups but returned to preoperative levels only in the robotic group at 12 months (paired difference P=0.03).
+- Sexual well-being: Similarly, initial decrease was observed in both groups, but only the robotic group regained preoperative levels at 12 months (paired difference P=0.03).
+Paired difference values (with 95% confidence intervals) and corresponding P-values are provided for each domain, highlighting significant differences between the two groups in terms of post-operative quality of life changes.
+
+## Figure 2. Difference of overall Hopwood’s body image scale (BIS) score between arms at 12 months
+This figure illustrates the difference in overall BIS scores between the open and robotic mastectomy groups at 12 months postoperatively. The BIS score ranges from 0 to 30, with higher scores indicating greater body image disturbance. The robotic group had a significantly lower mean BIS score (13.8 ± 5.1) compared to the open group (20.7 ± 9.9), with a mean difference of 6.9 (95% confidence interval: 3.4 to 10.5) and a P-value of 0.0002. This indicates that patients who underwent robotic mastectomy experienced significantly less distress related to body image and appearance changes compared to those who had open mastectomy.
