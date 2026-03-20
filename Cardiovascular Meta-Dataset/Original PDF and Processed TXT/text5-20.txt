@@ -1,0 +1,240 @@
+### Text Content Before References (English)
+Research
+Original Investigation
+Cholecalciferol Treatment to Reduce Blood Pressure in Older Patients With Isolated Systolic Hypertension The VitDISH Randomized Controlled Trial
+Miles D. Witham, PhD; Rosemary J. G. Price, MSc; Allan D. Struthers, MD; Peter T. Donnan, PhD; Claudia-Martina Messow, PhD; Ian Ford, PhD; Marion E. T. McMurdo, MD
+
+IMPORTANCE Observational data link low 25-hydroxyvitamin D levels to both prevalent blood pressure and incident hypertension. No clinical trial has yet examined the effect of vitamin D supplementation in isolated systolic hypertension, the most common pattern of hypertension in older people.
+
+OBJECTIVE To test whether high-dose, intermittent cholecalciferol supplementation lowers blood pressure in older patients with isolated systolic hypertension.
+
+DESIGN Parallel group, double-blind, placebo-controlled randomized trial.
+
+SETTING Primary care clinics and hospital clinics.
+
+PARTICIPANTS Patients 70 years and older with isolated systolic hypertension (supine systolic blood pressure >140 mm Hg and supine diastolic blood pressure <90 mm Hg) and baseline 25-hydroxyvitamin D levels less than 30 ng/mL were randomized into the trial from June 1, 2009, through May 31, 2011.
+
+INTERVENTIONS A total of 100 000 U of oral cholecalciferol or matching placebo every 3 months for 1 year.
+
+MAIN OUTCOMES AND MEASURES Difference in office blood pressure, 24-hour blood pressure, arterial stiffness, endothelial function, cholesterol level, insulin resistance, and b-type natriuretic peptide level during 12 months.
+
+RESULTS A total of 159 participants were randomized (mean age, 77 years). Mean baseline office systolic blood pressure was 163/78 mm Hg. Mean baseline 25-hydroxyvitamin D level was 18 ng/mL. 25-Hydroxyvitamin D levels increased in the treatment group compared with the placebo group (+8 ng/mL at 1 year, \(P<.001\)). No significant treatment effect was seen for mean (95% CI) office blood pressure (−1 [−6 to 4]/−2 [−4 to 1] mm Hg at 3 months and 1 [−2 to 4]/0 [−2 to 2] mm Hg overall treatment effect). No significant treatment effect was evident for any of the secondary outcomes (24-hour blood pressure, arterial stiffness, endothelial function, cholesterol level, glucose level, and walking distance). There was no excess of adverse events in the treatment group, and the total number of falls was nonsignificantly lower in the group receiving vitamin D (36 vs 46, P = .24).
+
+CONCLUSIONS AND RELEVANCE Vitamin D supplementation did not improve blood pressure or markers of vascular health in older patients with isolated systolic hypertension.
+
+TRIAL REGISTRATION isrctn.org Identifier: ISRCTN92186858
+
+JAMA Intern Med. doi:10.1001/jamainternmed.2013.9043
+Published online August 12, 2013.
+
+Invited Commentary
+Supplemental content at jamainternalmedicine.com
+
+Author Affiliations: Aging and Health, University of Dundee, Dundee, United Kingdom (Witham, Price, McMurdo); Department of Clinical Pharmacology, University of Dundee, Dundee, United Kingdom (Struthers); Dundee Epidemiology and Biostatistics Unit, Medical Research Institute, University of Dundee, Dundee, United Kingdom (Donnan); Robertson Centre for Biostatistics, University of Glasgow, Glasgow, United Kingdom (Messow, Ford).
+
+Corresponding Author: Miles D. Witham, PhD, Ninewells Hospital, Dundee DD1 9SY, United Kingdom (m.witham@dundee.ac.uk).
+
+Isolated systolic hypertension (ISH) is the most common form of hypertension in older people,1-4 is associated with an increased incidence of both cerebrovascular and cardiovascular events, and is a driver of left ventricular hypertrophy-itself a risk factor for sudden cardiac death and heart failure.5,6 Antihypertensive therapies improve cardiovascular outcomes in ISH,7-9 but few studies have enrolled typical older patients with multimorbidity.3 The recent Hypertension in the Very Elderly trial10 confirms that the benefits of blood pressure reduction extend to selected very old patients, but despite this evidence, many older patients are undertreated in part because of the treatment constraints imposed by the presence of multimorbidity and polypharmacy and in part because of the adverse effects inherent in many antihypertensive medications, including dizziness and falls. New, simple, safe, and inexpensive ways of treating blood pressure in older people are highly desirable.
+
+Low 25-hydroxyvitamin D (25OHD) levels are strongly associated with both prevalent and incident hypertension11-13 and cardiovascular disease14,15 in observational studies, and meta-analyses of previous intervention trials16 suggest that vitamin D may reduce blood pressure in selected patient groups. Trials to date have not evaluated the effects of vitamin D on ISH. We conducted the VitDISH (Vitamin D in Isolated Systolic Hypertension) randomized controlled trial to test the effect of intermittent, high-dose cholecalciferol on blood pressure and markers of vascular function in older patients with ISH.
+
+Methods
+Design and Participants
+Research ethics approval was obtained from the Fife and Forth Valley National Health Service Research Ethics Committee (08/S0501/90). Clinical trials authorization was obtained from the UK Medicines and Healthcare Regulatory Authority (European Union Drug Regulating Authorities Clinical Trials No. 2008-004534-24). The trial sponsor was the University of Dundee, and the trial was registered at www.controlled-trials.com (ISRCTN92186858). The complete protocol is available from the authors.
+
+The study was a randomized, double-blind, placebo-controlled, parallel-group trial. We studied community-dwelling patients 70 years and older with ISH. Inclusion criteria were as follows: age of 70 years or older, 25OHD level less than 30 ng/mL (to convert to nanomoles per liter, multiply by 2.496), and office systolic blood pressure greater than 140 mm Hg. Full exclusion criteria and detailed trial methods are given in the eMethods in the Supplement. Patients were recruited via 3 routes: from the community via primary care practices, via an article in the local newspaper about the research study, and via secondary care clinics (cardiovascular and medicine for the elderly).
+
+Intervention
+Participants enrolling in the study were allocated to intervention or placebo in a 1:1 ratio. Stratified randomization was performed using a minimization algorithm, administered by the Robertson Centre for Biostatistics (Glasgow Clinical Trials Unit, University of Glasgow, United Kingdom) using a telephone-based system to conceal study allocation from investigators and participants. Minimization variables used were baseline 25OHD level above or below 20 ng/mL, baseline systolic blood pressure above or below 160 mm Hg, baseline age older or younger than 80 years, and the presence of diabetes mellitus. Identical, masked medication bottles were used; patients were observed ingesting 100 000 U of oral cholecalciferol (Vigantol oil; Merck KgAA) or matching placebo (Mygliol oil; Merck KgAA) after completion of baseline and 3-, 6-, and 9-month assessments.
+
+Primary Outcome Measures
+All outcome measures were performed by researchers who were masked to treatment allocation. Outcomes, including venepuncture for 25OHD levels, were all measured on the same day, with trial medication dosing occurring the next day. The primary outcome measure was prespecified as the between-group difference in office blood pressure at 3 months analyzed using all participants regardless of whether they received their allocated intervention.
+
+Secondary Outcome Measures
+24-Hour Blood Pressure
+The 24-hour blood pressure was measured using an ambulatory monitor (Meditech ABPM-04; Meditech Ltd) at 0, 3, 6, 9, and 12 months. The mean of the 24-hour recording was used as the main measure; daytime and nighttime readings were also analyzed separately. Sensitivity analyses using a quality threshold (minimum of 14 daytime and 7 nighttime readings per the British Hypertension Society guidance17) were also performed.
+
+Soluble Markers of Cardiovascular Risk
+Soluble markers were collected at baseline and 3 and 12 months after a minimum 6-hour fast. Samples were collected for measurement of b-type natriuretic peptide, high-sensitivity C-reactive protein, and insulin measurement. Insulin and glucose measurements were used to construct a homeostasis model assessment of insulin resistance18 using the following formula: (fasting glucose level × fasting insulin level)/405.
+
+Endothelial Function
+Endothelial function was assessed at 0, 3, and 12 months by measuring flow-mediated dilatation of the brachial artery in response to hyperemia (endothelium-dependent vasodilation) after 5 minutes of forearm cuff occlusion using standard techniques.19 Mean diameter was measured during baseline acquisition and was compared with the maximum diameter achieved after cuff deflation. Flow-mediated dilatation was then expressed as the percentage change from baseline diameter.
+
+Pulse Wave Velocity
+Carotid-radial pulse wave velocity and augmentation index were measured using the Sphygmocor applanation tonometry system (AtCor Medical) at 0, 3, and 12 months to give indices of arterial stiffness. Augmentation index is presented normalized to a heart rate of 75/min.
+
+Other Biochemical Measurements
+We measured the levels of glucose, total cholesterol, low-density lipoprotein cholesterol, high-density lipoprotein cholesterol, triglycerides, serum albumin, calcium, parathyroid hormone (PTH), and 25OHD on fasting blood samples. Screening samples were analyzed in small batches before enrollment in the trial to ascertain trial eligibility; follow-up samples were stored and batch analyzed at the end of the trial. Calcium intake was assessed at baseline using the Scottish Collaborative Group Food Frequency Questionnaire.20
+
+Exercise Capacity and Falls
+Exercise capacity was determined by 6-minute walks at 0, 6, and 12 months.21 The walk test was performed on a 25-m flat course, using standardized encouragement every 2 minutes. Fall frequency was prospectively recorded by patients using monthly diaries.
+
+Statistical Analysis
+A 2-sided \(P<.05\) was considered significant for all analyses. For each outcome measure, repeated-measures, mixed-effects analyses were conducted, with estimation and testing of main effects of treatment allocation (t test) and group × time interaction (F tests). Analyses for outcome measures at individual time points, including the primary outcome measures, were based on analysis of covariance, adjusting for baseline values of the response variable and levels of the stratification variables. Analyses were based on a modified intent-to-treat population (all participants with baseline and follow-up values of the response variable being analyzed). We calculated unadjusted models and models adjusted for baseline values of the outcome measure under study, along with baseline 25OHD level, baseline blood pressure, the presence of diabetes, and age. We also adjusted for use of thiazide diuretics given the known effects of these medications on calcium metabolism and use of statins given their known interaction with vascular health and vitamin D metabolism. Sensitivity analyses were conducted using multiple imputation to account for missing data and excluding patients with changes in antihypertensive medication type or dose for blood pressure analyses. On the basis of blood pressure data from a previous vitamin D intervention trial for hypertension,22 we powered the study to detect a 7-mm Hg between-group difference in systolic blood pressure change between baseline and 3 months, assuming an SD change of 18 mm Hg. To detect this change with 80% power at an α level of .05 required 73 patients per group. We originally anticipated a dropout rate of 20% and, thus, aimed to recruit 180 patients into the trial.
+
+Results
+Patients from 13 primary care practices were invited to express interest in the trial; a total of 341 agreed to attend the screening, and of these, 159 were randomized into the trial from June 1, 2009, through May 31, 2011. The last visit of the last patient occurred at the end of May 2012. Participant flow through the trial is shown in Figure 1. The 159 participants randomized had a mean age of 76.8 years, a mean office blood pressure of 163/78 mm Hg, and only minor differences in baseline characteristics between the 2 groups (Table 1). Recruitment was terminated at this point because the dropout rate was lower than projected and the trial was on course to obtain the required number of completing participants.
+
+Effect of Intervention on 25OHD Levels
+Mean 25OHD levels increased from a baseline level of 18 ng/mL to 28 ng/mL at 6 months in the intervention group before plateauing. A small (3-ng/mL) increase was seen by 6 months in the placebo group; the overall effect estimate of the intervention during the 12-month study period was equivalent to a 7-ng/mL increase in 25OHD levels in the intervention group. Details are shown in Figure 2. Adherence to study medication was high; 301 of 303 planned doses (99%) were ingested in the intervention group, and 285 of 294 planned doses (97%) were ingested in the placebo group. Missing doses were withheld because of elevated calcium level or suspected medication adverse effects; no participant declined to ingest medication at any time point.
+
+Primary Outcome Measure
+Office systolic blood pressure was not statistically different between treatment and placebo groups at 3 months (Table 2). Office systolic blood pressure decreased by a mean (SD) of 2.7 (12.5) mm Hg in the treatment group between baseline and 3 months compared with a smaller mean (SD) decrease of 1.4 (14.9) mm Hg in the placebo group. The between-group treatment effect after adjusting for covariates was −0.7 mm Hg (95% CI, −5.2 to 3.8 mm Hg; \(P=.76\)). Season of recruitment (May-October vs November-April, reflecting peak and trough 25OHD levels in population studies) did not change the effect of treatment on blood pressure at 3 months; between-group difference in systolic blood pressure change was −0.9 mm Hg (95% CI, −5.3 to 3.5 mm Hg) after adjustment for season. No participant changed antihypertensive therapy between baseline and 3 months.
+
+Secondary Outcome Measures
+Details of blood pressure change in each group over time are given in Table 2. No significant between-group differences in blood pressure at any time point for either office blood pressure or daytime 24-hour blood pressure and no significant between-group differences on repeated measures analysis were found. Further analysis that excluded participants with a change in their antihypertensive medication (1 in the placebo group and 3 in the vitamin D group by 12 months) revealed no relevant change in these results. Daytime 24-hour blood pressure results were similar after excluding recordings that had fewer than 14 daytime readings.
+
+Table 3 lists the changes in other outcome measures at each time point. No significant change in serum calcium levels was noted, and PTH levels decreased by a small (3.8 pg/mL) but significant amount in the intervention group relative to placebo.
+
+Subgroup Analyses
+A series of hypothesis-generating post hoc interaction analyses were conducted. No significant interaction was found between baseline 25OHD level, baseline systolic blood pressure, dietary calcium intake, or PTH level (used as continuous variables) and the treatment effect of vitamin D on systolic blood pressure. A significant interaction was noted between angiotensin-converting enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) use and treatment effect, with a greater treatment effect seen in those already taking ACE inhibitors or ARB medication (−4 mm Hg vs +8 mm Hg, \(P=.02\)). No significant interaction was seen between the effect of treatment on diastolic blood pressure and baseline 25OHD level, ACE inhibitor or ARB use, baseline calcium intake, or baseline PTH level.
+
+Exercise Capacity and Falls
+Exercise capacity as measured by a 6-minute walk did not increase by a clinically significant amount with vitamin D therapy; the between-group difference compared with baseline was 16 m (95% CI, 2 to 31 m; \(P=.03\)) at 6 months and 12 m (95% CI, −4 to 28 m; \(P=.13\)) at 12 months. There were nonsignificantly fewer falls in the vitamin D group during the 12-month study period (36 vs 46 falls; hazard ratio, 0.77; 95% CI, 0.50 to 1.20; \(P=.24\)); the time to first fall in each group was similar (\(P=.94\) by log-rank test) as was the number of participants in each group falling at least once (25 in the intervention group and 26 in the placebo group).
+
+Safety
+Adverse events were similar in both trial arms, with no significant excess of adverse events in any subcategory of events (eTable in the Supplement). One participant in each group had an adjusted serum calcium level greater than 10.6 mg/dL (to convert to millimoles per liter, multiply by 0.25) during the study; neither participant had symptoms or required treatment. Similarly, 3 of 80 participants (4%) in the vitamin D group and 5 of 79 participants (6%) in the placebo group had an increase in creatinine level greater than 20% compared with baseline during the study.
+
+Discussion
+Previous meta-analyses16,23,24 have suggested that vitamin D supplementation produces a modest reduction in systolic blood pressure between 2 and 4 mm Hg. Selected groups of patients (eg, patients with type 2 diabetes and patients with elevated baseline blood pressure)25,26 have demonstrated larger improvements in blood pressure with vitamin D supplementation of 8 to 13 mm Hg. Mixed results have been reported for the effects of vitamin D on endothelial function and b-type natriuretic peptide levels, although significant effects were reported in some studies,22,25-31 and one recent trial did not find any improvement in arterial stiffness with vitamin D supplementation.32 Previous trials have not found significant effects on lipid profile with vitamin D,33 but in patients with low 25OHD levels, supplementation may enhance the effect of statins metabolized via the cytochrome 3A4 pathway.34
+
+Several explanations are possible for the lack of effect of vitamin D seen in this study. First, vitamin D may have no significant effect on blood pressure. The overall effect size seen by combining small trials to date is modest, and it is possible that a real biological effect on blood pressure is not present.
+
+A second possibility is that vitamin D may not reduce blood pressure in this specific patient group. Vitamin D may not reverse vascular stiffness and calcification during a 1-year period or might only act effectively at an earlier stage in the disease process. Hypertension in older people is characteristically not due to elevated renin levels (in contrast to younger patients); if vitamin D acts predominantly via the renin-angiotensin-aldosterone system as has been previously postulated,35-37 this could explain the lack of effect seen, especially because 50% to 60% of patients were already taking ACE inhibitors or ARBs.
+
+Although office blood pressure readings were all in the hypertensive range in this study, mean daytime blood pressures were markedly lower, with almost 50% of participants having a daytime mean systolic blood pressure less than 135 mm Hg. It is possible that a proportion of patients therefore had whitecoat hypertension (ie, elevated blood pressure when measured by health care professionals but lower blood pressure at other times), but the known high prevalence of orthostatic hypotension in older hypertensive patients may also have contributed to this discrepancy; office blood pressures were recorded in the supine position, whereas most daytime ambulatory readings would be recorded in the seated or standing position.
+
+A third possibility is that the dose used was insufficient or incorrect. Intermittent dosing might theoretically have different biological effects to daily dosing, and extrapolation from observational data has suggested that 25OHD levels higher than 30 ng/mL are required for optimal health.38 The dose used in this study was sufficient to raise mean nadir levels from 18 to 28 ng/mL, and similar intermittent doses producing similar increments in 25OHD levels have caused marked reductions in blood pressure in some previous studies.22,25
+
+A fourth possibility is that other permissive factors, for instance, adequate calcium intake, are required for vitamin D to produce a beneficial effect on blood pressure. Patients in this study had a high calcium intake (mean, >1 g/d). It is possible that vitamin D supplementation has little extra effect in calcium-replete individuals; calcium is itself thought to have a slight antihypertensive effect,39 although a possible deleterious role in precipitating cardiovascular events is the subject of ongoing controversy.40 We found no evidence of an interaction between calcium intake and the degree of blood pressure lowering on subgroup analysis to support this hypothesis, however.
+
+Cholecalciferol was well tolerated in this trial, with no increase in adverse events compared with placebo. High-dose cholecalciferol was associated with an increase in falls in a recent trial41; our vitamin D group had a reassuringly low number of falls, consistent with previous data.42 A small improvement was seen in the 6-minute walk distance in keeping with previous trial results; however, the magnitude of the effect seen in this study was less than the minimum clinically important difference of 20 m for the 6-minute walk test.21
+
+Our study has several strengths. The projected final evaluable sample size was reached, and the mean age (77 years) was considerably older than that seen in most hypertension trials. Patients had a wide range of comorbidity and concomitant medication use and, thus, the study population reflects that seen in the real world. Despite enrolling older and sometimes frail patients, the dropout rate was only 11% in 12 months. Baseline patient characteristics were well balanced between the 2 groups, and a substantial increase in 25OHD levels was achieved with the intervention.
+
+Limitations of our study include recruitment from a single health board area and patients all being of white ethnicity, limiting generalizability. Recent data on the pharmacokinetics of vitamin D suggest that serum 25OHD levels peak at 7 days before decreasing, with a half-life of a few weeks.43,44 More frequent doses (ie, monthly or every 2 months) would be more effective at raising and maintaining serum 25OHD levels; this larger dose of vitamin D could conceivably have had an effect. However, 4-month administration of 100 000 U of cholecalciferol was effective at increasing 25OHD levels and reducing fractures in a previous large osteoporosis trial,45 a finding that underpinned our choice of dose timing for the current trial. Ambulatory blood pressure was somewhat lower than expected, which may have limited our ability to demonstrate reductions in ambulatory blood pressure. The size of our trial means that a small beneficial effect on blood pressure still cannot be excluded, but the clinical relevance of such small improvements, at least at an individual patient level, is questionable.
+
+Our results do not lend support to performing large randomized controlled trials aimed specifically at blood pressure reduction, at least in this patient group. It is still possible, however, that vitamin D supplementation could have beneficial effects on cardiovascular health via non–blood pressure effects,46 and ongoing large randomized trials are due to report on this in the next few years. In the meantime, our results do not support the use of high-dose, intermittent cholecalciferol to treat ISH in older white patients.
+
+ARTICLE INFORMATION
+Accepted for Publication: May 28, 2013.
+Published Online: August 12, 2013.
+doi:10.1001/jamainternmed.2013.9043.
+
+Author Contributions: Study concept and design: Witham, Price, Struthers, Donnan, Ford, McMurdo. Acquisition of data: Witham, Price, Struthers, Donnan, Ford, McMurdo. Analysis and interpretation of data: Witham, Struthers, Donnan, Messow, Ford, McMurdo. Critical revision of the manuscript for important intellectual content: All authors. Administrative, technical, and material support: All authors.
+
+Conflict of Interest Disclosures: Dr Witham was funded by a Chief Scientist Office Clinician Scientist Fellowship. We also acknowledge the financial support of National Health Service Research Scotland through National Health Service Tayside in facilitating this research.
+
+Funding/Support: This clinical trial was funded by the Chief Scientist Office, Scottish Government, grant CZH/4/470. The trial sponsor was the University of Dundee.
+
+Role of the Sponsors: Neither the sponsor nor the funder had influence over the analysis, interpretation of the data, or preparation, review, or approval of the manuscript. Both the funder and the sponsor contributed to the design and conduct of the study, data collection, and data management.
+
+Additional Contributions: Lesley McFarlane, BSc (University of Dundee), performed laboratory analyses, the Scottish Primary Care Research Network and Tayside Clinical Research Centre provided recruitment assistance, and Valona Gouck (University of Dundee) provided secretarial support.
+
+---
+
+### Tables (English, Labeled as Table 1, Table 2, Table 3)
+#### Table 1. Baseline Characteristics of Randomized Participants
+| Characteristic | Vitamin D Group (n = 80) | Placebo Group (n = 79) |
+| --- | --- | --- |
+| Age, mean (SD), y | 76.9 (4.8) | 76.7 (4.5) |
+| Male, No. (%) | 40 (50) | 42 (53) |
+| BMI | 28.5 (5.0) | 27.9 (4.5) |
+| Myocardial infarction, No. (%) | 5 (6) | 5 (6) |
+| Angina, PTCA, or CABG, No. (%) | 20 (25) | 17 (22) |
+| Peripheral vascular disease, No. (%) | 5 (6) | 7 (9) |
+| Diabetes mellitus, No. (%) | 11 (14) | 11 (14) |
+| Stroke or TIA, No. (%) | 10 (12) | 8 (10) |
+| No. of medications, median (IQR) | 4 (3 to 6) | 5 (3 to 8) |
+| No. of antihypertensive medications, median (IQR) | 2 (1 to 2) | 2 (1 to 2.5) |
+| RAAS blockers, No. (%) | 41 (51) | 50 (63) |
+| β-Blockers, No. (%) | 23 (29) | 26 (33) |
+| Calcium channel blockers, No. (%) | 32 (40) | 35 (44) |
+| Diuretics, No. (%) | 37 (46) | 31 (39) |
+| Statins, No. (%) | 41 (51) | 46 (58) |
+| 25OHD, ng/mL | 18 (6) | 18 (6) |
+| PTH, pg/mL | 5.3 (2.9) | 5.3 (1.9) |
+| Serum-adjusted calcium, mg/dL | 9.2 (0.28) | 9.2 (0.32) |
+| Creatinine, mg/dL | 0.93 (0.23) | 0.92 (0.25) |
+| Office BP, mm Hg - Systolic | 163 (11) | 162 (10) |
+| Office BP, mm Hg - Diastolic | 78 (7) | 77 (8) |
+| Daytime BP, mean, mm Hg - Systolic | 136 (11) | 133 (11) |
+| Daytime BP, mean, mm Hg - Diastolic | 71 (9) | 67 (12) |
+| Pulse wave velocity, m/s | 8.8 (1.2) | 8.7 (1.2) |
+| Flow-mediated dilatation of brachial artery, No. (%) | 5.1 (2.7) | 5.1 (2.7) |
+| Cholesterol, mg/dL - Total | 189 (46) | 193 (42) |
+| Cholesterol, mg/dL - LDL | 108 (39) | 108 (39) |
+| Cholesterol, mg/dL - HDL | 62 (15) | 62 (15) |
+| Triglycerides, mg/dL | 115 (53) | 115 (62) |
+| Glucose, mg/dL | 54 (13) | 54 (16) |
+| HOMA-IR index | 5.5 (4.0) | 4.5 (3.7) |
+| BNP, median (IQR), pg/mL | 21 (11-68) | 44 (21-90) |
+| CRP, median (IQR), mg/L | 2.0 (1.0-4.2) | 1.5 (0.8-3.4) |
+| 6-Minute walk distance, m | 398 (94) | 402 (105) |
+| Daily mean calcium intake, mg | 1127 (407) | 1123 (372) |
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); BNP, b-type natriuretic peptide; BP, blood pressure; CABG, coronary artery bypass graft; CRP, C-reactive protein; HDL, high-density lipoprotein; HOMA-IR, homeostasis model assessment of insulin resistance; IQR, interquartile range; LDL, low-density lipoprotein; 25OHD, 25-hydroxyvitamin D; PTCA, percutaneous transluminal coronary angioplasty; PTH, parathyroid hormone; RAAS, renin-angiotensin-aldosterone system; TIA, transient ischemic attack. SI conversion factors: To convert 25OHD to nanomoles per liter, multiply by 2.496; PTH to nanograms per liter, multiply by 1; calcium to millimoles per liter, multiply by 0.25; creatinine to micromoles per liter, multiply by 88.4; total cholesterol, LDL, and HDL to millimoles per liter, multiply by 0.0259; triglycerides to millimoles per liter, multiply by 0.0113; glucose to millimoles per liter, multiply by 0.0555; BNP to nanograms per liter, multiply by 1; and CRP to nanomoles per liter, multiply by 9.524.
+
+#### Table 2. Changes in Office BP at Each Time Point by Randomization Group
+| Variable | Vitamin D - Systolic BP (Mean (SD)) | Placebo - Systolic BP (Mean (SD)) | Systolic BP - Unadjusted Treatment Effect (95% CI) | Systolic BP - Adjusted Treatment Effect (95% CI) | Vitamin D - Diastolic BP (Mean (SD)) | Placebo - Diastolic BP (Mean (SD)) | Diastolic BP - Unadjusted Treatment Effect (95% CI) | Diastolic BP - Adjusted Treatment Effect (95% CI) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Office blood pressure, mm Hg |  |  |  |  |  |  |  |  |
+| Baseline | 163 (11) | 162 (10) | … | … | 78 (7) | 77 (8) | … | … |
+| 3 mo | 161 (15) | 161 (16) | −1 (−6 to 4) | −1 (−6 to 3) | 77 (8) | 78 (9) | −2 (−4 to 1) | −2 (−4 to 1) |
+| 6 mo | 161 (16) | 159 (16) | 1 (−3 to 6) | 1 (−3 to 6) | 78 (9) | 77 (9) | 1 (−2 to 3) | 1 (−2 to 3) |
+| 9 mo | 164 (16) | 161 (16) | 3 (−2 to 7) | 3 (−2 to 7) | 78 (9) | 77 (8) | 1 (−2 to 3) | 1 (−1 to 3) |
+| 12 mo | 163 (18) | 160 (15) | 2 (−3 to 6) | 2 (−3 to 7) | 78 (9) | 76 (8) | 1 (−1 to 4) | 2 (−1 to 4) |
+| Overall treatment effect (95% CI) | … | … | 1 (−2 to 4) | 1 (−2 to 4) | … | … | 0 (−2 to 2) | 0 (−2 to 2) |
+| P value for group × time interaction | … | … | .58 | .54 | … | … | .06 | .03 |
+| Daytime ambulatory BP, mm Hg |  |  |  |  |  |  |  |  |
+| Baseline | 136 (11) | 133 (11) | … | … | 69 (8) | 68 (9) | … | … |
+| 3 mo | 135 (11) | 134 (9) | −1 (−4 to 2) | −1 (−4 to 2) | 68 (8) | 69 (8) | −1 (−3 to 1) | −1 (−2 to 1) |
+| 6 mo | 134 (10) | 132 (12) | −1 (−4 to 3) | 0 (−4 to 3) | 68 (8) | 68 (9) | 0 (−2 to 2) | 1 (−1 to 2) |
+| 9 mo | 136 (12) | 132 (10) | 1 (−2 to 4) | 1 (−2 to 5) | 68 (8) | 68 (9) | 0 (−2 to 2) | 0 (−2 to 2) |
+| 12 mo | 135 (12) | 133 (12) | 1 (−2 to 4) | 1 (−2 to 5) | 69 (9) | 68 (9) | 1 (−1 to 3) | 1 (−1 to 3) |
+| Overall treatment effect (95% CI) | … | … | 0 (−3 to 2) | 0 (−2 to 2) | … | … | 0 (−2 to 1) | 0 (−1 to 2) |
+| P value for group × time interaction | … | … | .46 | .36 | … | … | .58 | .45 |
+
+Abbreviation: BP, blood pressure. Ellipses indicate data not applicable.
+
+#### Table 3. Secondary Outcome Measures: Adjusted Between-Group Treatment Effect at Each Time Point
+| Outcome | Month 3 - Treatment Effect (95% CI) | Month 6 - Treatment Effect (95% CI) | Month 9 - Treatment Effect (95% CI) | Month 12 - Treatment Effect (95% CI) | Overall - Treatment Effect (95% CI) |
+| --- | --- | --- | --- | --- | --- |
+| FMD, % | 0.0 (−0.9 to 0.9) | ND | ND | −0.7 (−1.7 to 0.2) | −0.4 (−1.1 to 0.4) |
+| Pulse wave velocity, m/s | −0.1 (−0.5 to 0.3) | ND | ND | −0.2 (−0.6 to 0.2) | −0.2 (−0.5 to 0.2) |
+| Cholesterol, mg/dL - Total | −3 (−11 to 4) | 0 (−8 to 7) | −3 (−11 to 4) | −5 (−12 to 3) | −3 (−9 to 2) |
+| Cholesterol, mg/dL - LDL | −2 (−8 to 3) | −1 (−7 to 5) | −3 (−9 to 3) | −5 (−11 to 1) | −3 (−7 to 2) |
+| Cholesterol, mg/dL - HDL | 0 (−2 to 3) | 0 (−3 to 2) | −1 (−3 to 2) | −2 (−4 to 1) | 0 (−3 to 2) |
+| Triglycerides, mg/dL | −7 (−19 to 5) | 1 (−12 to 13) | −2 (−14 to 12) | −1 (−14 to 12) | −3 (−12 to 7) |
+| Fasting glucose, mg/dL | −1 (−5 to 3) | ND | ND | 0 (−3 to 4) | 0 (−3 to 3) |
+| BNP, pg/mL | 3 (−27 to 32) | ND | ND | 35 (5 to 65) | 18 (−5 to 41) |
+| HOMA-IR index | −0.4 (−1.3 to 0.4) | ND | ND | 0.0 (−1.1 to 1.1) | −0.2 (−1.0 to 0.6) |
+| CRP, mg/L | −0.5 (−3.0 to 2.0) | ND | ND | 1.3 (−1.2 to 3.8) | 0.4 (−1.7 to 2.5) |
+
+Abbreviations: BNP, b-type natriuretic peptide; CRP, C-reactive protein; FMD, flow-mediated dilatation; HDL, high-density lipoprotein; HOMA-IR, homeostasis model assessment of insulin resistance; LDL, low-density lipoprotein; ND, not done. Adjusted for baseline value of variable, age, 25-hydroxyvitamin D level, the presence of diabetes mellitus, systolic blood pressure, thiazide use, and statin use.
+
+---
+
+### Image Descriptions (English)
+#### Figure 1. CONSORT Diagram for Participant Flow Through the Trial
+The diagram illustrates the recruitment and follow-up process of participants in the VitDISH trial:
+- Initial recruitment: 2255 individuals were invited from 13 general practices, 22 expressed interest via a news article, and 8 were informed via clinics.
+- Expression of interest: 730 individuals from general practices, 22 from the news article, and 8 from clinics expressed interest (total 760).
+- Screening attendance: 341 individuals attended the screening.
+- Screening failures: Reasons included blood pressure (BP) too low (83), BP too high (30), 25OHD >75 ng/mL (39), estimated glomerular filtration rate (eGFR) <40 (6), other reasons (3), illness (7), BP out of range (2), and end of recruitment (7).
+- Baseline visit: 178 individuals attended the baseline visit; 19 withdrew consent.
+- Randomization: 159 individuals were randomized (80 to the vitamin D group, 79 to the placebo group).
+- Follow-up visits:
+  - 3-month visit: 74 (94%) in the vitamin D group, 76 (95%) in the placebo group.
+  - 6-month visit: 71 (90%) in the vitamin D group, 75 (94%) in the placebo group.
+  - 9-month visit: 73 (91%) in the vitamin D group, 70 (89%) in the placebo group.
+  - 12-month visit: 73 (91%) in the vitamin D group, 69 (87%) in the placebo group.
+- Dropout reasons: Death (1 in vitamin D group), illness (1 in vitamin D group, 1 in placebo group), unwilling to continue (3 in vitamin D group, 3 in placebo group).
+
+#### Figure 2. Effect of Intervention on 25-Hydroxyvitamin D (25OHD) Levels
+The line graph displays the change in 25OHD levels (ng/mL) over time (months) in the vitamin D group and the placebo group, with error bars indicating standard deviation (SD):
+- X-axis: Time in months (0, 3, 6, 9, 12, 15).
+- Y-axis: 25OHD level in ng/mL (ranging from 0 to 40).
+- Vitamin D group: Baseline 25OHD level is 18 ng/mL, increases to approximately 28 ng/mL at 6 months, then plateaus through 12 months (remaining around 28 ng/mL).
+- Placebo group: Baseline 25OHD level is 18 ng/mL, shows a small increase of approximately 3 ng/mL by 6 months (reaching ~21 ng/mL), and remains relatively stable thereafter.
+- The overall between-group difference in 25OHD levels at 1 year is +7 ng/mL in the vitamin D group compared with the placebo group (\(P<.001\)).

@@ -1,0 +1,137 @@
+### Text Content (Before References)
+ORIGINAL INVESTIGATION
+Effects of Ergocalciferol Added to Calcium on the Risk of Falls in Elderly High-Risk Women
+Richard L. Prince, MD; Nicole Austin, BSc; Amanda Devine, PhD; Ian M. Dick, PhD; David Bruce, MD; Kun Zhu, PhD
+
+Background: Ergocalciferol (vitamin D₂) supplementation plays a role in fall prevention, but the effect in patients living in the community in sunny climates remains uncertain. We evaluated the effect of ergocalciferol and calcium citrate supplementation compared with calcium alone on the risk of falls in older women at high risk of falling.
+
+Methods: A 1-year population-based, double-blind, randomized controlled trial of 302 community-dwelling ambulant older women aged 70 to 90 years living in Perth, Australia (latitude, 32°S), with a serum 25-hydroxyvitamin D concentration of less than 24.0 ng/mL and a history of falling in the previous year. Participants were randomized to receive ergocalciferol, 1000 IU/d, or identical placebo (hereinafter, ergocalciferol and control groups, respectively). Both groups received calcium citrate, 1000 mg/d. Fall data were collected every 6 weeks.
+
+Results: Ergocalciferol therapy reduced the risk of having at least 1 fall over 1 year after adjustment for baseline height, which was significantly different between the 2 groups (ergocalciferol group, 53.0%; control group, 62.9%; odds ratio [OR], 0.61; 95% confidence interval [CI], 0.37-0.99). When those who fell were grouped by the season of first fall or the number of falls they had, ergocalciferol treatment reduced the risk of having the first fall in winter and spring (ergocalciferol group, 25.2%; control group, 35.8%; OR, 0.55; 95% CI, 0.32-0.96) but not in summer and autumn, and reduced the risk of having 1 fall (ergocalciferol group, 21.2%; control group, 33.8%; OR, 0.50; 95% CI, 0.28-0.88) but not multiple falls.
+
+Conclusion: Patients with a history of falling and vitamin D insufficiency living in sunny climates benefit from ergocalciferol supplementation in addition to calcium, which is associated with a 19% reduction in the relative risk of falling, mostly in winter.
+
+Trial Registration: actr.org.au Identifier: 12606000331538
+Arch Intern Med. 2008;168(1):103-108
+
+THE INCREASED SUSCEPTIBILITY to fall with aging is a major clinical problem, especially in women. Approximately one-third of women older than 65 years fall each year, and 6% sustain a fracture as a result of the fall.¹ In addition, fear of falling is a major problem in older people.²
+
+A recent systematic review³ of vitamin D supplementation concluded that it reduced the risk of falls, especially in institutionalized individuals. This conclusion was based in part on studies of vitamin D metabolites, which are not as readily available or as safe as ergocalciferol or cholecalciferol for dietary supplementation. Another systematic review⁴ of vitamin D supplementation was not so encouraging and suggested that the lack of efficacy may be caused by variation in the calcium nutritional status of the subjects. In addition, we have recently shown⁵ that calcium reduces fracture risk by 34% in unselected women provided that they are compliant with the medication regimen. Thus, we considered it potentially unethical not to ensure a high calcium intake in future trials. The aim of this study was to determine if ergocalciferol, in addition to calcium, reduced the risk of falls.
+
+Ambulant community-dwelling women at high risk of falling because of a fall in the last 12 months were selected for the study because of evidence that these individuals are at higher risk of falling than those who have not fallen previously.⁶⁻⁸ Furthermore, this is a large segment of the elderly community. Because the study was undertaken in a sunny climate, the women were selected to have a vitamin D insufficiency or deficiency with a serum 25-hydroxyvitamin D (25OHD) level lower than 24.0 ng/mL, approximately the median level for 25OHD levels in older women in Western Australia.⁹
+
+Author Affiliations: School of Medicine and Pharmacology, University of Western Australia, Perth, Australia (Drs Prince, Devine, Dick, Bruce, and Zhu and Ms Austin); Department of Endocrinology and Diabetes, Sir Charles Gairdner Hospital, Nedlands, Australia (Drs Prince, Dick, and Zhu); and School of Exercise, Biomedical and Health Sciences, Edith Cowan University, Perth (Dr Devine).
+
+(REPRINTED) ARCH INTERN MED/VOL 168 (NO. 1), JAN 14, 2008
+WWW.ARCHINTERNMED.COM
+103
+©2008 American Medical Association. All rights reserved.
+
+METHODS
+SUBJECTS
+Women aged 70 to 90 years were recruited from April 2003 to October 2004 in Perth, Australia (latitude, 32° south), by invitation letter sent to patients derived from 3 sources: patients attending the emergency departments of teaching hospitals, patients receiving services from the local community home nursing service for management of falls, and the electoral roll that lists more than 98% of women of this age range. The only inclusion criteria were a history of falling in the past 12 months and a plasma 25OHD concentration of less than 24.0 ng/mL. To convert 25OHD to nanomoles per liter, multiply by 2.496. For ethical reasons and to allow clarification of possible mechanisms of action, the exclusion criteria included current vitamin D consumption; current consumption of bone or mineral active agents apart from calcium; a bone mineral density z score at the total hip site of less than −2.0; medical conditions or disorders that influence bone mineral metabolism, including laboratory evidence of renal insufficiency (a creatinine level more than 2-fold above the reference range); a fracture in the past 6 months; a Mini-Mental State Examination score of less than 24; or the presence of marked neurological conditions likely to substantially impair balance or physical activity, such as stroke and Parkinson disease.
+
+The study was approved by the human research ethics committee of the Sir Charles Gairdner Hospital, Nedlands, Australia. Written informed consent was obtained from each woman. The study was conducted in compliance with the ethical principles of the Declaration of Helsinki and the International Conference on Harmonization Good Clinical Practices Guidelines and was registered with the Australian Clinical Trials Registry.
+
+TREATMENT
+Participants received 1000 mg/d of calcium as calcium citrate (Citracal; Mission Pharmacal, Key Pharmaceutical Pty Ltd, Rhodes, Australia) for 1 year as two 250-mg calcium citrate tablets in the morning with breakfast and two 250-mg calcium citrate tablets with the evening meal. They were randomized to receive 1000 IU/d of ergocalciferol or identical placebo (Ostelin; Boots Healthcare, North Ryde, Australia) consumed with the evening meal for 1 year (hereinafter, ergocalciferol group and control group, respectively).
+
+The randomization schedule to ergocalciferol or placebo was generated by an independent research scientist (I.M.D.) and was kept in the pharmacy department of the Sir Charles Gairdner Hospital, where the bottles were labeled and dispensed to the subjects. The randomization procedure used a random number generator with a block size of 10 to assign participants to ergocalciferol or placebo in a ratio of 1:1, thus ensuring equal recruitment to the 2 groups during the various seasons. The study subjects and the study staff remained blinded to the treatment code until all the data had been entered, evaluated for accuracy, and the a priori hypotheses reviewed. Adherence to the study medications was established by counting tablets returned at the clinic visits at 6 and 12 months.
+
+FALL DEFINITION AND RECORDING
+Falls were defined as unintentionally coming to rest on the ground, floor, or other lower level. Subjects were interviewed by study staff every 6 weeks via telephone or during clinic visits. The number of falls that had occurred in the previous 6 weeks and the associated features of the falls were recorded on a falls questionnaire.
+
+ASSESSMENTS
+At screening, demographic information including smoking history, use of community services, medications, patient recall of prevalent morbidity, and socioeconomic status was obtained. The standard Mini-Mental State Examination was used to assess subjects’ mental status at baseline. Calcium intake was assessed by a food frequency questionnaire developed in a previous study.¹⁰ This questionnaire includes 39 food items and utilizes the NUTTAB 90 database,¹¹ a nutritional database that uses chemical analysis of Australian foods. Weight and height were measured with light clothes and without shoes. Ankle dorsiflexion, knee flexion and extension, and hip flexion, extension, abduction, and adduction strength were assessed using a strain gauge.
+
+Activity levels were calculated in kilocalories per day using a validated method using body weight, questions on the number of hours and type of physical activity, and energy costs of such activities.¹²,¹³
+
+At screening and at 6- and 12-month follow-up visits, a venous blood sample was collected after an overnight fast and serum 25OHD concentrations assessed by radioimmunoassay (DiaSorin, Stillwater, Minnesota). Serum calcium and phosphorus levels were assessed by routine laboratory methods.
+
+ADVERSE EVENT RECORDING
+Using a previously validated method,⁵ participants were asked to fill out an adverse event diary in which each contact with a physician was recorded. At 3 monthly intervals, the diary was photocopied and returned to the patient. The event data were coded using the International Classification of Primary Care (ICPC2 Plus)¹⁴ system database of disease coding (developed by the Family Medicine Research Unit, Department of General Practice, University of Sydney, Sydney, Australia). Adverse events were grouped according to 17 categories identified by the ICPC2 Plus system.¹⁴
+
+SAMPLE SIZE CALCULATION
+Power calculations were performed prior to the commencement of the study. The percentage of subjects expected to have at least 1 fall during the 1-year period was estimated to be at least 60%. To detect a 37% reduction in the relative risk (RR) of falling, an α of .05 and 90% power, 113 subjects per group were needed (Fisher exact test). Allowing for a 30% drop-out rate, the number of subjects required per group was at least 147.
+
+STATISTICAL ANALYSIS
+The main intention-to-treat analysis included all 302 subjects enrolled. Logistic regression was used to evaluate the effects of ergocalciferol treatment on a person’s risk of falling at least once during the 1-year follow-up. The analytical approach was chosen because it enabled our results to be comparable with the outcome of a recently published meta-analysis.³ In further analysis, multinomial logistic regression was used to model the effects on first falling in winter/spring vs summer/autumn. A similar method was used to assess the treatment effect on 1 fall or more than 1 fall. In both multinominal logistic regression models, those who did not fall were used as the reference group, and no ordering was assumed. Summer/autumn was defined as the period from December to May and winter/spring as the period from June to November.
+
+The length of follow-up until the time of withdrawal for those who withdrew from the study or 1 year for those who completed the study was a covariate in all analyses. Odds ratios (ORs) obtained from the logistic regression models were transformed to RR by using the following formula: RR=OR/(1 − p₀ + p₀ × OR), where p₀ is the probability of a fall in the control group. All tests were 2-tailed, and the significance value was set at P<.05.
+
+RESULTS
+Participant flow through the study is shown in Figure 1. Of the 827 subjects who attended the clinic screening visit, 558 had serum 25OHD concentrations measured and 215 (38%) were excluded because they had concentrations higher than 24.0 ng/mL; 39 (12.9%) of the 302 subjects enrolled in the study had 25OHD concentrations lower than 12.0 ng/mL.
+
+Because of the block randomization study design, there were no seasonal differences in the number of subjects enrolled in the 2 treatment groups, with 77.4% and 76.1% of subjects in the ergocalciferol group and control group, respectively, enrolled during winter/spring. There was no difference between the ergocalciferol group and the control group in the number of subjects who discontinued medication or were lost to follow-up. The rate of compliance with study medication in subjects who continued to receive the medication, as determined from tablet counting, was 86% in both groups.
+
+There were no differences between the ergocalciferol and control groups in any baseline characteristics, except that the women in the ergocalciferol group were considerably shorter (P<.05) (Table). Height was positively correlated with the strength of muscle groups, showing significant association with ankle dorsiflexion, knee flexion and extension, and hip flexion, extension, abduction, and adduction strength after accounting for baseline age and body weight (r=0.23-0.26; P<.001). There was no difference in baseline comorbidity rates between the 2 groups (data not shown).
+
+FALLS OUTCOMES
+Eighty subjects (53.0%) in the ergocalciferol group and 95 subjects (62.9%) in the control group had at least 1 fall (OR, 0.66; 95% CI, 0.41-1.06) (Figure 2). Because the randomization process failed to equalize the height of the ergocalciferol and control groups and because height was a significant predictor of falling (OR per centimeter increase in height, 0.94; 95% CI, 0.91-0.98), the fall data were adjusted for the differences in the height in the 2 groups. In this analysis, the ergocalciferol group had a lower risk of falling compared with controls (OR, 0.61; 95% CI, 0.37-0.99) equating to a 19% RR reduction (Figure 2).
+
+Eighty-two patients (47%) had their first fall in summer/autumn and 93 (53%) in winter/spring. Ergocalciferol therapy significantly reduced the proportion of patients who had their first fall in winter/spring (OR, 0.55; 95% CI, 0.32-0.96), equivalent to an RR of 0.77 (95% CI, 0.56-0.98) but not those who had their first fall in summer/autumn (OR, 0.81; 95% CI, 0.46-1.42) (Figure 2 and Figure 3).
+
+Eighty-three patients (47%) had 1 fall and 92 (53%) had more than 1 fall during the study. Ergocalciferol treatment significantly reduced the percentage of subjects who sustained 1 fall (OR, 0.50; 95% CI, 0.28-0.88) but not the percentage with multiple falls (Figure 2).
+
+EXPLANATORY ANALYSIS
+In the ergocalciferol group, supplementation considerably improved the 25OHD status in summer/autumn and winter/spring, whereas the 25OHD status of the control group improved only in summer/autumn (Figure 4). In winter/spring, the mean circulating 25OHD level was 28.1% higher in the ergocalciferol group compared with the control group and in summer/autumn was 12.5% higher.
+
+ADVERSE EVENTS
+During the study period, there were no differences between the ergocalciferol and the control groups in the rate of incident cancer (ergocalciferol group, 0.7%; control group, 3.3%), ischemic heart disease (ergocalciferol group, 1.3%; control group, 2.0%), stroke (ergocalciferol group, 2.0%; control group, 2.0%), constipation (ergocalciferol group, 10.6%; control group, 11.9%), or fracture (ergocalciferol group, 2.6%; control group, 2.0%). One participant in the ergocalciferol group had mild asymptomatic hypercalcemia on 1 occasion.
+
+COMMENT
+The risk of falling increases with age and is the most frequent cause of fractures in elderly patients. This study showed that supplementation with ergocalciferol and calcium is associated with a 19% reduction in the RR of falling in noninstitutionalized women with vitamin D insufficiency and high risk of falling compared with patients given calcium alone. The size of the treatment effect is consistent with the CI for RR reported in a recent meta-analysis of the effect of cholecalciferol.³ However, there are important new findings related to the study design and outcomes that are of interest.
+
+First, the seasonal variation in falling has been shown to be due in large part to the critical role of seasonal variation in 25OHD levels. In this study, the effect of increasing 25OHD levels by mouth was principally confined to an effect on reducing the risk of falling in winter/spring when the 25OHD levels were substantially lower in the control group than in the ergocalciferol group. In summer/autumn, the risk of falling and 25OHD levels in the control group approximated those of the ergocalciferol group. Thus, the effectiveness of the intervention could be considered to be the result of the maintenance of higher summer/autumn 25OHD levels, attained through increased exposure to UV-B, through winter/spring. These data are also consistent with the hypothesis that a 25OHD level lower than 24.0 ng/mL is a reasonable predictor of individuals who may benefit from supplementation in winter/spring.
+
+A seasonal effect of increased falling risk in winter has been shown in a New Zealand study.¹⁵ In addition, a seasonal variation in hip fracture, usually caused by falling, has been shown in several epidemiological studies. In both Sydney and New York City, more hip fractures occur in colder months than warmer months,¹⁶,¹⁷ whereas studies in Perth have shown that 25OHD levels in patients with hip fractures were related to ambient sunshine and to ambient sunshine exposure in the 2 months before fracture.¹⁸ Taken together, these studies suggest that low 25OHD status associated with reduced UV radiation in colder months increases the risks of falls and hip fracture and may account, in part, for the effectiveness of the combination of vitamin D and calcium on the prevention of hip fracture.¹⁹ Because Western Australia has a Mediterranean climate, the seasonal variation in the 25OHD level demonstrated in the present study is likely to be amplified in other, less congenial climates. However, to our knowledge, seasonal effects of vitamin D treatment on falls have not previously been undertaken in randomized control trials and may possibly account for the lack of benefit of vitamin D treatment reported in some studies.²⁰,²¹
+
+It is interesting that the ergocalciferol therapy effect was confined to those who were to sustain 1 fall but not those destined to have more than 1 fall. This result is supported by a previous study²² that found that women with frequent falls failed to benefit from treatment with cholecalciferol and calcium. Older people who fall frequently tend to have more risk factors for falling, including greater degrees of disability and poorer levels of physical function. It is possible that biochemical correction of a 25OHD deficiency is insufficient to prevent falls in this particular population.
+
+A weakness of the study is that the randomization failed to correct for height, which proved to be an important covariate, as supported by previous studies.²³ This effect may be due to the fact that short stature was associated with weaker leg musculature. Second, the seasonal effect was quite marked and resulted in nonlinear changes over the duration of the study. It should be noted that our study used ergocalciferol rather than cholecalciferol. Ergocalciferol has been reported to be less potent, unit for unit, in maintaining 25OHD levels in the circulation; therefore, the effect of vitamin D₃ on reduction of falls could be greater.²⁴ Among the main strengths of the study is its double-blind, randomized, placebo-controlled design. In addition, falls were the primary outcome variable of the study and were closely monitored through interviews every 6 weeks over the telephone or during clinical visits.
+
+In conclusion, these data suggest that in patients living in sunny climates at latitude 32° south, ergocalciferol supplementation has no treatment benefit on falls reduction in summer when mean levels of 25OHD of 21.7 ng/mL are achieved with increased incident solar radiation. Ergocalciferol, 1000 IU/d, added to a high calcium intake is associated with 23% reduction of the risk of falling in winter/spring to the same level as in summer/autumn. Thus, we propose that 25OHD levels averaging 21.7 ng/mL should be considered as adequate to prevent the risk of falling owing to vitamin D deficiency in elderly women living in the community. In individual patients at risk of falling, it would be reasonable to aim to achieve 25OHD levels of 24.0 ng/mL or higher.
+
+Author Contributions: Drs Prince, Devine, Dick, Bruce, and Zhu and Ms Austin had full access to all of the data in the study and take responsibility for the integrity of the data and the accuracy of the data analysis. Study concept and design: Prince, Devine, Dick, and Bruce. Acquisition of data: Prince, Austin, and Dick. Analysis and interpretation of data: Prince, Austin, Dick, Bruce, and Zhu. Drafting of the manuscript: Prince, Bruce, and Zhu. Critical revision of the manuscript for important intellectual content: Prince, Austin, Devine, Dick, Bruce, and Zhu. Statistical analysis: Zhu. Obtained funding: Prince, Devine, and Bruce. Administrative, technical, and material support: Austin, Devine, and Dick. Study supervision: Prince and Devine.
+
+Financial Disclosure: None reported.
+
+Funding/Support: This study was supported by a research grant from the National Health and Medical Research Council of Australia (project grant 353638).
+
+Role of the Sponsor: None of the funding agencies had any role in the conduct of the study; collection, management, analysis, or interpretation of the data; or preparation, review, or approval of the manuscript.
+
+Additional Contributions: The Boots Company of Australia supplied the ergocalciferol preparation (Ostelin) and identical placebo free of charge. Mission Pharmaceutical supplied the calcium citrate free of charge.
+
+
+### Tables (TXT Format)
+Table 1: Baseline Characteristics of Subjects
+Abbreviation: 25OHD, 25-hydroxyvitamin D. SI conversion factors: To convert serum calcium and serum phosphorus to millimoles per liter, multiply by 0.25 and 0.323, respectively; to convert 25OHD to nanomoles per liter, multiply by 2.496. aResults are given as mean (SD) unless otherwise stated. bData are given as median and interquartile range. cSignificantly lower than that of placebo; P<.05.
+
+Characteristic                                  Ergocalciferol With Calcium Citrate (n = 151)    Placebo With Calcium Citrate (n = 151)
+Demographics
+Age, y                                          77.0 (4.2)                                       77.4 (5.0)
+Mini-Mental State Examination, U                28.5 (1.5)                                       28.4 (1.6)
+Calcium intake, mg/d                            1067 (484)                                       1080 (426)
+Physical activity, kcal/d b                     54.6 (2.9, 187.6)                                52.0 (9.9, 130.0)
+Anthropometry
+Weight, kg                                      73.0 (13.9)                                       71.5 (13.2)
+Height, cm                                      157.8 (6.3) c                                    159.2 (6.1)
+Biochemical measures
+25OHD, ng/mL                                    18.1 (5.0)                                       17.7 (5.1)
+Serum calcium, mg/dL                            9.7 (0.4)                                        9.7 (0.4)
+Serum phosphorus, mg/dL                         3.7 (0.4)                                        3.7 (0.4)
+No. of falls in the past 12 mo, %
+1                                               59.6                                             57.6
+2                                               27.2                                             26.5
+3                                               9.9                                              13.2
+>3                                              3.3                                              2.6
+
+
+### Image Descriptions (TXT Format)
+Figure 1: Participant flow through the study. The figure illustrates the recruitment and enrollment process of subjects. Initially, 3968 women were screened by telephone interview; 3141 were excluded (2502 did not meet inclusion criteria, 482 were not interested, 157 for other reasons). 827 women were screened at the clinic; 525 were excluded (215 had 25OHD level >60 nmol/L, 140 did not meet other inclusion criteria, 71 refused to participate, 99 for other reasons). Finally, 302 women were randomized into two groups: 151 in the Ergocalciferol + calcium citrate group and 151 in the Placebo + calcium citrate group. In the ergocalciferol group, 12 completed follow-up but discontinued medication, 12 had incomplete follow-up (6 lost to follow-up, 5 due to adverse events, 1 deceased), and 151 were included in the analysis. In the control group, 8 completed follow-up but discontinued medication, 15 had incomplete follow-up (7 lost to follow-up, 8 due to adverse events), and 151 were included in the analysis. 25OHD indicates 25-hydroxyvitamin D. To convert serum 25OHD to nanograms per milliliter, divide by 2.496.
+
+Figure 2: Effects of treatment on falls. The bar graph displays odds ratios (OR) for different fall outcomes. "Faller" refers to participants who had at least 1 fall during the study period: unadjusted OR is 0.66 (95% CI, 0.41-1.06) (logistic regression analysis); OR adjusted for baseline height is 0.61 (95% CI, 0.37-0.99) (logistic regression analysis). For the season of first fall: winter/spring OR is 0.55 (95% CI, 0.32-0.96) (multinomial logistic regression analysis), summer/autumn OR is 0.81 (95% CI, 0.46-1.42) (multinomial logistic regression analysis). For the number of falls: 1 fall OR is 0.50 (95% CI, 0.28-0.88) (multinomial logistic regression analysis), 2 or more falls OR is 0.86 (95% CI, 0.50-1.49) (multinomial logistic regression analysis). Error bars represent 95% confidence intervals (CI), and the significance level is P <.05.
+
+Figure 3: Percentages of subjects who had at least 1 fall, by season of first fall. The bar graph compares the percentage of fallers in the two groups (Placebo + calcium citrate vs Ergocalciferol + calcium citrate) by the season of their first fall. For first fall in summer/autumn: 27.8% in the ergocalciferol group and 27.2% in the control group. For first fall in winter/spring: 25.2% in the ergocalciferol group and 35.8% in the control group. Percentages of fallers were compared using χ² testing, with a significance level of P <.05.
+
+Figure 4: Effect of season and treatment on the 25-hydroxyvitamin D (25OHD) status during the study. The line graph shows serum 25OHD concentrations (nmol/L) at baseline, summer/autumn, and winter/spring for the two groups (Ergocalciferol + Calcium Citrate vs Placebo + Calcium Citrate). Error bars represent standard deviations. At baseline, the 25OHD levels are similar between the two groups. In summer/autumn, both groups show increased 25OHD levels, with the ergocalciferol group having higher levels than the control group (P <.001). In winter/spring, the ergocalciferol group maintains high 25OHD levels, while the control group’s levels decrease; the ergocalciferol group has significantly higher 25OHD levels than the control group (P <.001). Means were compared using 1-factor repeated-measures analysis of variance. To convert serum 25OHD to nanograms per milliliter, divide by 2.496.
