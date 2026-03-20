@@ -1,0 +1,233 @@
+### Text Content (Before References)
+Journal of the American College of Cardiology
+© 2007 by the American College of Cardiology Foundation Published by Elsevier Inc.
+Vol. 49, No. 16, 2007
+ISSN 0735-1097/07/$32.00
+doi:10.1016/j.jacc.2006.10.077
+Heart Failure
+A Randomized, Placebo-Controlled Trial Assessing the Effects of Rosiglitazone on Echocardiographic Function and Cardiac Status in Type 2 Diabetic Patients With New York Heart Association Functional Class I or II Heart Failure
+Henry J. Dargie, MBCHB,* Per R. Hildebrandt, MD,† Günter A. J. Riegger, MD,‡ John J. V. McMurray, MD,* Stephen O. McMorn, PHD,§ Jeremy N. Roberts, MSC, Andrew Zambanini, MRCP,§ John P. H. Wilding, DM¶ Glasgow, Scotland; Fredriksberg, Denmark; Regensberg, Germany; Harlow and Liverpool, England; and Oakville, Canada
+
+Objectives
+This study investigated the effects of rosiglitazone (RSG) on left ventricular ejection fraction (LVEF) in subjects with type 2 diabetes (T2DM) and pre-existing chronic heart failure (CHF) (New York Heart Association [NYHA] functional class I to II).
+
+Background
+Fluid retention is an important consideration in the use of thiazolidinediones in T2DM patients because it could exacerbate symptoms or precipitate decompensation in those with previously stable CHF.
+
+Methods
+A total of 224 patients with T2DM and NYHA functional class I to II CHF with LVEF ≤45% were randomized to a 52-week treatment with RSG (4 to 8 mg daily, n=110) or placebo (PLB) (n=114) in addition to background antidiabetes therapy. Treatment was uptitrated to achieve target fasting plasma glucose <126 mg/dl; CHF medications were adjusted as appropriate.
+
+Results
+The LVEF was similar in both groups at baseline (RSG 35.3±6.2%, PLB 35.7±7.8%) and after 52 weeks of treatment (mean difference 1.49%, p=0.1). Glycemic control was significantly better in the RSG group (mean difference in hemoglobin A1c -0.65%, p<0.0001). There were significantly more adjudicated events in the RSG group of new or worsening edema (RSG n=28 [25.5%]; PLB n=10 [8.8%]; p=0.005) and increased CHF medication (RSG n=36 [32.7%], PLB n=20 [17.5%]; p=0.037), but no significant difference between groups for other adjudicated end points. A similar proportion of patients withdrew from each treatment group because of adverse events.
+
+Conclusions
+After 52 weeks of treatment, RSG improved glycemic control but did not adversely affect LVEF in patients with T2DM and NYHA functional class I to II CHF. More fluid-related events occurred with RSG, although these generally did not lead to withdrawal from the study. (J Am Coll Cardiol 2007;49:1696–704) © 2007 by the American College of Cardiology Foundation
+
+Journal Club Selection www.jaccjc.org
+Chronic heart failure (CHF) is common in patients with type 2 diabetes mellitus (T2DM) and is associated with considerable morbidity and mortality (1). The poor prognosis in patients with T2DM and CHF has been attributed to increased myocardial hypertrophy, myocardial fibrosis (2), and abnormal cardiac metabolism, which may contribute to the development of myocardial ischemia, worsening ventricular dysfunction, and arrhythmias (3). To prevent complications in patients with T2DM, treatment has focused on the management of concomitant risk factors and on improving glycemic control (4).
+
+Thiazolidinediones such as rosiglitazone (RSG) are peroxisome proliferator-activated receptor-γ agonists that improve insulin sensitivity in the liver, muscle, and adipose tissue (5,6), resulting in improved glycemia. A potential limiting factor for the use of thiazolidinediones in CHF patients is their tendency to cause fluid retention. This can lead to the development of peripheral edema, although this may not necessarily represent deterioration in cardiac function. Symptomatic heart failure can be precipitated or exacerbated because of plasma volume expansion in patients with impaired ventricular function (7).
+
+A key question that remains unanswered, despite the presence of anecdotal reports and observational studies (8–12), is whether RSG can be administered safely to patients with established CHF that is mild to moderate in severity, and what effect it has on cardiac function in these patients. The primary goal of this study was to investigate the effects of treatment with RSG for a period of 1 year on cardiac structure and function as determined by echocardiography (ECHO) in T2DM patients with New York Heart Association (NYHA) functional class I to II CHF. The secondary objectives were to evaluate the extent of RSG-induced fluid retention in this potentially at-risk population and assess its impact on clinical status.
+
+Methods
+This was a 52-week, multicenter, double-blind, randomized, placebo-controlled, parallel group study in patients with T2DM and mild to moderate stable CHF (NYHA functional class I to II). Ethical approval was obtained in each of the 14 European countries that participated in the study, and all patients gave written informed consent. The study was funded by GlaxoSmithKline (protocol 49653/211).
+
+Patients were required to have inadequate glycemic control at screening (fasting plasma glucose ≥126 mg/dl [7 mmol/l] and ≤216 mg/dl [12 mmol/l]) and could be receiving any antidiabetes treatment except for a thiazolidinedione, insulin, or combination therapy with an insulin secretagogue and acarbose. Only stable patients in NYHA functional class I to II CHF were included, and all had to be treated with an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker. In addition, patients with NYHA functional class II CHF had to be treated with a diuretic. According to recommended practice at the inception of the study, patients were not required to be on a beta-blocker. All patients were required to have a left ventricular ejection fraction (LVEF) ≤45%. Patients were excluded if they had a body mass index >35 kg/m², creatinine clearance <40 ml/min (calculated using the Cockcroft-Gault equation adjusted for ideal body weight), significant hepatic disease, or laboratory-confirmed anemia (hemoglobin <11 g/dl for men and <10 g/dl for women).
+
+After a 4-week, single-blind run-in period on placebo (PLB) and background antidiabetes therapy, eligible patients, stratified by NYHA functional class at screening, entered the 52-week double-blind period. Patients were randomized in a 1:1 ratio using a computer-generated fixed block size of 4, initially receiving Level 1 study medication (RSG 4 mg once daily or PLB once daily) in addition to background antidiabetes therapy.
+
+Adjustment of study medication and background oral antidiabetes medication. Throughout the study, patients were treated to a target fasting plasma glucose level <126 mg/dl (7 mmol/l) by uptitrating to Level 2 study medication (RSG 4 mg twice daily or PLB twice daily). At week 52, 56 patients (69%) in the RSG group were taking the maximal (8 mg) dose. If glycemic control was still inadequate at or beyond week 16, additional oral antidiabetes agents, with the exception of metformin and insulin, could be prescribed. Patients were withdrawn from the study if fasting plasma glucose was >270 mg/dl (15 mmol/l) during the first 16 weeks of treatment or >216 mg/dl (12 mmol/l) thereafter on 2 consecutive occasions. Unless the patient had been prematurely withdrawn from the study, each case was reviewed at least every 4 weeks until week 20 and every 8 weeks thereafter.
+
+ECHO and laboratory assays. The ECHOs were performed on all patients within 7 days of screening and in the 7 days before or at week 28 and week 52. If patients were withdrawn from the study prematurely, an ECHO was performed at or within 7 days of the early withdrawal visit. A standard ECHO examination was performed in the left lateral decubitus position after 5 min rest, to assess left ventricular function. At least 15 cardiac cycles for both the apical 4- and 2-chamber views were obtained during quiet respiration (13).
+
+All ECHOs were read centrally in a blinded manner. Raw videotape images were analyzed with a TomTec P90 (version 2.2) offline ECHO analyzer (TomTec Imaging Systems GmbH, Munich, Germany). The biplane disc summation method (Simpson rule) for the apical 2- and 4-chamber views was used to determine left ventricular end-diastolic volume index (LVEDVI), left ventricular end-systolic volume index (LVESVI), and LVEF (13). If the LVEF on the screening ECHO was >45% + 6.5% when analyzed by the central ECHO reader, patients were excluded from the study. The figure of 6.5% was based on the standard deviation of the mean LVEF from former studies performed at the core laboratory. Left ventricular mass index (LVMI) was determined using left ventricular mass (American Society of Echocardiography criteria [13]) divided by body surface area. Cardiac index was determined as: heart rate × (LVEDVI - LVESVI) / (1,000 × body surface area). The transmitral Doppler flows were measured from the apical 4-chamber view by placing the sample volume at the leaflet tips of the open mitral valve. The peak velocities of 3 sequential E and A waves were recorded. Transmitral Doppler waveforms were considered unsuitable for analysis if the angle between the cursor and the direction of flow was >30°, the sample volume was inadequately positioned, the Doppler signal was weak/indistinct, or the heart rate was >100 beats/min. The E:A ratio was calculated by dividing the mean E-wave velocity by the mean A-wave velocity. Isovolumic relaxation time was measured on the spectral Doppler trace as the time from aortic valve closure to mitral valve opening on 3 sequential waveforms. The E-wave deceleration time was measured as the time from peak velocity to baseline of the E-wave in 3 sequential waveforms.
+
+Blood samples were taken at baseline and at each study visit. Hemoglobin (Hb) A1c was determined using a Bio-Rad Variant II (Bio-Rad Laboratories, Hercules, California) and reported as DCCT (Diabetes Control and Complications Trial)-aligned values. Brain natriuretic peptide (BNP) concentration was determined by nonextraction radioimmunoassay (Peninsula Laboratories, San Carlos, California).
+
+Clinical end points. All potential clinical end points were reported to an independent clinical end point committee consisting of 3 consultant cardiologists. The occurrence of an end point was determined by the committee from information provided by the study centers and from available hospital records.
+
+ALL-CAUSE MORTALITY. The clinical end point committee classified all deaths as either cardiovascular or noncardiovascular. In the absence of a definite noncardiovascular cause, death was defined as being cardiovascular. Events included were sudden death; death caused by myocardial infarction, heart failure, or stroke; death caused by a cardiovascular investigation, procedure, or operation; or another specific cardiovascular cause.
+
+CARDIOVASCULAR HOSPITALIZATION. A similar approach was adopted for cardiovascular hospitalization, defined as overnight hospitalization for a cardiovascular reason.
+
+DEFINITE WORSENING OF CHF. This was defined as an overnight admission to hospital plus 1 criterion from each of the 4 following groups: 1) new or worsening symptoms (dyspnea during exercise, dyspnea at rest, paroxysmal nocturnal dyspnea); 2) physical examination signs (rales, S₃ gallop, edema, elevated jugular venous distension); 3) relevant findings on investigation (chest radiograph, ECHO, worsening LVEF, hemodynamic changes); and 4) changes in the current treatment or the addition of new medications for CHF.
+
+POSSIBLE WORSENING OF CHF. This was defined as: 1) signs and symptoms of worsening CHF (as previously noted); 2) a supporting investigation (as previously noted); and 3) a change in medication for CHF. Admission to hospital was not required. All potential cases were considered by the clinical end point committee.
+
+NEW OR WORSENING EDEMA/DYSPNEA. New or worsening edema/dyspnea was defined as investigator-reported development of new edema/dyspnea during the study or the worsening of the severity (mild, moderate, severe) of existing edema/dyspnea compared with baseline. Patients who had an adjudicated event of new or worsening edema/dyspnea could also have an adjudicated event of definite or possible worsening of CHF provided the additional criteria discussed above were met.
+
+INCREASE IN CHF MEDICATION. Increase in CHF medication was defined as any increase in the total daily dose of any medications taken at screening or the addition of new medications for the treatment of CHF during the study. This could include any medication prescribed as treatment for fluid retention or CHF, especially diuretics.
+
+Study populations. The intent-to-treat with last observation carried forward (ITT) population included all randomized patients who had at least 1 valid post-baseline observation for an efficacy variable while on randomized treatment. Baseline measurements were not carried forward. The efficacy evaluable (EE) population consisted of all randomized patients who had at least 1 valid post-baseline observation for an efficacy variable while on randomized treatment and who did not have a major protocol violation. Major protocol violations included the use of insulin, an increase in dose or initiation of a beta-blocker, or an acute cardiac event within 1 month before a scheduled ECHO. The EE population was determined before the study was unblinded. The adjudicated clinical end point data included all patients who had received at least 1 dose of double-blind study medication.
+
+Primary end point. The hypothesis to be tested was that RSG was noninferior to PLB with respect to change from baseline to week 52 in LVEF in the EE population.
+
+Secondary end points. The hypothesis that RSG was superior to PLB in the change from baseline to week 52 in LVEF was tested in the ITT population. Other secondary end points included the between- and within-treatment group differences in the ITT population for LVEDVI, LVESVI, LVMI, cardiac index, E:A ratio, E-wave deceleration time, isovolumic relaxation time, HbA1c, and BNP. Although the study was not powered to detect statistically significant differences between the treatment groups, the incidence of adjudicated clinical end points in each treatment group from the entire randomized population was assessed.
+
+Statistical analyses. As defined a priori in the protocol, an analysis of covariance procedure was carried out (PROC MIXED in SAS, SAS Institute Inc., Cary, North Carolina) using terms for treatment, center, body mass index, baseline measurement, and NYHA functional class (I to II). For the change in LVEF from baseline to week 52, a 95% confidence interval (2-sided) based on the above model for the difference in treatment means (RSG vs. PLB) was constructed. If the lower limit of this confidence interval was greater than -3.5 percentage units in the EE population, RSG was deemed to be noninferior to PLB. The limit of 3.5% was judged to be a clinically meaningful difference in LVEF between treatment groups. As defined a priori in the protocol, the assessment of incidence of specific cardiovascular morbidity and mortality end points (Table 1) was compared between treatment regimens using a proportional hazard regression model (PROC PHREG in SAS) with baseline HbA1c, body mass index, and NYHA functional class (I to II) as covariates. Additionally, similar post hoc analyses were performed on the end points shown in Table 2.
+
+Results
+In total, 377 patients from 77 European centers were screened for entry into the study, with 224 patients from 67 European centers subsequently randomized to receive double-blind medication (PLB n=114, RSG n=110) (see Appendix). Of the patients who were screened but not randomized, most failed to meet the study inclusion/exclusion criteria (148 of 153; 96.7%).
+
+The demographic characteristics for the ITT population were similar between treatment groups and are summarized in Table 3. Baseline glycemic control and the duration of CHF were well matched in both treatment groups, but the proportion of patients in NYHA functional class II was slightly higher in the RSG group. These characteristics of the EE population were similar to those of the ITT population.
+
+The most commonly reported cardiovascular conditions at screening are summarized in Table 4. The spectrum of individual conditions was similar in both groups, but the prevalence of previous myocardial infarction was higher in the RSG group, although unexpectedly low for this population. The overall rate of coronary heart disease (which includes a reported history of ischemic heart disease, angina, and myocardial infarction) was slightly higher in the RSG group (53 patients, 48.2%) compared with the PLB group (47 patients, 41.2%).
+
+The proportion of patients who received antidiabetes medication in the 90 days before screening was similar in both groups (Table 5). The most commonly received medications were glibenclamide and metformin. In addition to angiotensin-converting enzyme inhibitors or angiotensin receptor blockers, which were mandatory, the most frequently reported cardiovascular medications in both groups were aspirin and loop diuretics (Table 5). Although not mandated, beta-blockers were being taken by 70% of patients, and equivalent proportions of patients were being treated with loop diuretics, aspirin, and statins in each treatment group.
+
+Baseline ECHO parameters were similar in both treatment groups (Table 6). In both groups, the mean LVEF was <40%, thus fulfilling the a priori definition of systolic heart failure; left ventricular volumes were also increased. The LVEF was similar in the EE and ITT populations.
+
+Of the 224 patients randomized, 62 (27.7%) withdrew during the double-blind treatment period. The withdrawal rate was similar in the RSG and PLB groups (RSG 30 patients [27.3%], PLB 32 patients [28.1%]). The primary reason for withdrawal in both groups was adverse events (RSG 14 patients [12.7%], PLB 12 patients [10.5%]). These included CHF/edema (RSG 3 patients, PLB 3 patients), stroke/transient ischemic attack (RSG 1 patient, PLB 2 patients), myocardial infarction/angina (RSG 0 patients, PLB 1 patient), ventricular tachycardia (RSG 1 patient, PLB 0 patients), ventricular fibrillation (RSG 1 patient, PLB 0 patients), and sudden death (RSG 0 patients, PLB 1 patient). In the PLB group, 9 patients (7.9%) withdrew because of an insufficient therapeutic response, compared with 2 patients (1.8%) in the RSG group.
+
+ECHO and laboratory end points. With respect to the change in LVEF from baseline to week 52 in the EE population, RSG was noninferior to PLB (i.e., the lower bound of the 95% confidence interval was greater than -3.5%) (Table 6). There was no significant between-treatment difference in the change in LVEF in the ITT population (Table 6), although there was a small significant increase from baseline in LVEF in the RSG group. There were no significant between-treatment differences for LVEDVI, LVESVI, or cardiac index in the ITT population (Table 6). Approximately one-third of the patients had evaluable data at baseline and follow-up to permit the measurement of LVMI; there were no between-group differences or changes from baseline in LVMI. The E:A ratio decreased from baseline with PLB but remained unchanged with RSG (Table 6). No changes from baseline or between-group differences were observed for E-wave deceleration time or the isovolumic relaxation time.
+
+Although a goal of the study was to achieve similar glycemic control in both treatment groups, after 52 weeks of treatment, HbA1c was significantly lower in the RSG group, (7.3±1.2%) compared with PLB (8.0±1.4%). The adjusted mean difference between the treatment groups was -0.65% (95% confidence interval -0.94 to -0.37), p<0.0001. For both groups of patients, and irrespective of NYHA functional class, there was no correlation between changes in HbA1c and changes in LVEF (class I: r=-0.08, p=0.48; class II: r=-0.08, p=0.41).
+
+At week 52, serum BNP had increased from baseline in the RSG group (geometric mean percentage change from baseline 57.5%, 95% confidence interval 25.9 to 97.0, p<0.0001). However, there was no significant difference in mean BNP concentration between groups (p=0.08) (Fig.1).
+
+Clinical end points. There were no between-group differences for any clinical outcomes analyzed as time to first event (Table 1). A similar number of patients in both groups had an adjudicated event of definite worsening CHF (PLB n=4 [3.5%], RSG n=5 [4.5%]; p=0.858). Two patients (1.8%) in the RSG group and none in the PLB group experienced possible worsening of CHF (Table 2).
+
+There were more cardiovascular hospitalizations in the RSG group than in the PLB group, although the difference between treatment groups was not significant (p=0.465) (Table 2). The main reasons for cardiovascular hospitalization included worsening CHF (PLB n=9 [7.9%], RSG n=9 [8.2%]), myocardial infarction (PLB n=0, RSG n=5 [4.5%]) and stroke/transient ischemic attack (PLB n=2 [1.8%], RSG n=2 [1.8%]). Both new or worsening edema and dyspnea were reported more frequently in the RSG group compared with PLB, although the difference between groups only reached significance for edema (p=0.005). The majority of edema and dyspnea events were not associated with adjudicated events of definite or possible worsening of CHF (Fig. 2). Significantly more patients in the RSG group had an increased use of CHF medications compared with PLB (p=0.037), primarily as a result of increased diuretic use (RSG 28 patients [25.5%], PLB 16 patients [14.0%]).
+
+NYHA CHF class changes from baseline: weight gain and changes in serum creatinine, hemoglobin, and hematocrit. There was no change in the NYHA functional class from baseline to week 52 in the majority of patients in both groups; NYHA functional class was unchanged in 74 patients (77.9%) in the RSG group and in 81 patients (78.6%) in the PLB group. Worsening of NYHA functional class occurred in a similar number of patients in both groups, namely in 16 (16.8%) taking RSG and in 18 (17.5%) taking PLB. A small proportion improved during the study: 5 patients (5.3%) taking RSG and 4 patients (3.9%) taking PLB.
+
+At week 52, weight had increased more in the RSG group (1.3±4.8 kg) compared with the PLB group (0.3±3.2 kg). There were no clinically or statistically significant changes from baseline in either treatment group or between groups in mean systolic and diastolic blood pressure, nor in mean heart rate. There was no change in serum creatinine in either group (change from baseline: RSG 0.3±2.4 μmol/l, PLB -3.3±2.0 μmol/l), although in the RSG group there was evidence of a small reduction from baseline in both hemoglobin (RSG -1.19±1.10 g/dl, PLB -0.13±0.84 g/dl) and hematocrit (RSG -3.80±3.42%; PLB -0.15±2.79%).
+
+Discussion
+The primary objective of this study was to investigate the effects of RSG on cardiac structure and function in patients with T2DM and pre-existing CHF (NYHA functional class I to II). The results show that the use of RSG over a period of 1 year was not associated with any significant changes in left ventricular volumes, LVEF, or cardiac index. Similar findings have been reported in a diabetic patient cohort without CHF who also were treated with RSG for 52 weeks (14). The interpretation of the LVMI data in this study is limited by the small number of evaluable images available, but previous studies have not suggested that RSG is associated with progression of left ventricular hypertrophy in humans (14).
+
+The patients recruited into the present study were similar in terms of the distribution of age and gender to those recruited in previous studies of CHF (15,16). They had mild to moderately severe symptoms of heart failure and a moderately reduced mean LVEF. All were taking either an angiotensin-converting enzyme inhibitor or an angiotensin receptor blocker, and although not a requirement, 70% were also taking a beta-blocker. Because of regulatory safety concerns, patients with class III to IV CHF were excluded from this study.
+
+Approximately one-quarter of patients in both treatment groups withdrew from the study; as expected, more patients taking PLB withdrew because of insufficient therapeutic effect compared with those taking RSG. Nevertheless, the study retained at least 90% power to assess the primary end point. In addition, the EE population with evaluable ECHO data closely matched the ITT population.
+
+Although improvements in glycemic control and insulin sensitivity may have contributed to improved myocardial metabolism (17), there was no evidence from this study that this led to an improvement in cardiac function after 1 year of treatment with RSG. Linear regression analysis also showed no relationship between a change in HbA1c and a change in LVEF, which is consistent with the literature in a general diabetic population (18). However, the lack of an association between changes in HbA1c and LVEF in our dataset may have occurred because of the comparatively small number of patients studied, the modest improvement in glycemia, or the relatively short duration of the study. The BNP increased slightly from baseline in the RSG group, suggesting that the fluid retention observed in this group also was associated with an increase in left ventricular wall stress despite no change in mean LVEDVI. The LVEF did not deteriorate in the PLB group, probably reflecting the high standards of care and the use of multiple CHF medications for all patients in this study. The clinical relevance of a small but statistically significant increase from baseline of 20 pg/ml BNP in the RSG group during the study is unclear. Although the increase in BNP may have occurred in response to increased left ventricular strain as a result of thiazolidinedione-induced plasma volume expansion, an increase in end-diastolic volume was not observed on ECHO. An alternative explanation is that the increase in BNP may reflect regression to the mean from a low baseline value. More studies are needed to understand the clinical implications, if any, of small changes in BNP in this high-risk population.
+
+The NYHA functional class was assessed both at screening and at week 52, and showed no change for the majority of patients within each treatment group and no differences between treatment groups. These data are consistent with the ECHO data, which probably excluded any major deleterious effect on systolic function in the time frame studied. It is important to recognize that physician-evaluated functional status may differ from that determined by the patients themselves (19). Approximately one-quarter of the patients developed some fluid-related symptoms or signs, and almost one-third required an increase in CHF medications during the course of the study. The increased use of CHF medications may explain the stability of ECHO parameters over the 1-year treatment period, and also the stability of NYHA functional class at study end compared with baseline, despite the development of fluid-related events in both treatment groups during the study.
+
+Clinical end point data relating to cardiovascular events were collected by the investigators and independently and consistently adjudicated by a panel of experts. It should be noted that the study was powered to evaluate left ventricular function by ECHO rather than the effect of RSG on clinical end points. There were no statistically significant between-group differences for major events such as all-cause mortality, cardiovascular death, or hospitalization for worsening CHF. Although this study was not powered to definitively show potential treatment differences in other (fluid-related) adjudicated end points, more fluid-related events were adjudicated to have occurred in the RSG group than in the PLB group. Significantly more events of new or worsening edema and increased CHF medication occurred in the RSG group, although there was no significant difference between groups in the incidence of dyspnea or any other adjudicated end points, including cardiovascular hospitalization. Bearing in mind the similar rates of withdrawal from the study in both treatment groups, it is reasonable to conclude that most fluid-related events were managed by investigators in the clinic using standard medications. Regular visits every 4 to 8 weeks ensured that patients were monitored for fluid retention and that this was managed appropriately to prevent clinical worsening. Importantly, renal function, as determined by serum creatinine, did not deteriorate despite the increased use of diuretics.
+
+Awareness of left ventricular diastolic dysfunction is increasing among physicians, and it is a problem that may be particularly important for T2DM patients (20). One case series has also suggested that diabetic patients with diastolic dysfunction may be at risk of developing CHF with thiazolidinediones (12). Although in this study transmitral flow velocities were measured using pulsed Doppler, changes in plasma volume either with the use of RSG or changes in the dose of diuretics used limit the interpretation of these data. Future studies, ideally in people with normal systolic function, could assess potential changes in diastolic function associated with thiazolidinediones, but these studies will require the use of novel imaging techniques that account for left atrial pressure changes.
+
+Recently published data suggest that thiazolidinediones may be associated with an improvement in cardiovascular outcomes in stable T2DM patients without overt heart failure (21). For the individual patient with T2DM and CHF, these potential benefits should be weighed against the potential risks from fluid retention. This study was not designed to evaluate the potential for RSG to improve cardiovascular outcomes in patients with NYHA functional class I to II CHF. However, it confirms that the use of RSG in such patients resulted in an improvement in glycemic control, although approximately one-third of patients treated with RSG required a change in medication to treat fluid retention.
+
+Patients with NYHA functional class I to II CHF treated with RSG need to be supervised and managed carefully to avoid deterioration of their functional status, and in this study patients were seen every 4 to 8 weeks. These data support the recommendations suggested by the Joint American Heart Association/American Diabetes Association Consensus Statement regarding thiazolidinedione use (7). In patients with impaired left ventricular systolic function, the dose of RSG should be increased cautiously while observing for signs of CHF. In the event that worsening symptoms of CHF occur, the use of standard CHF therapies is advocated and the dose of RSG may need to be reduced or temporarily/permanently discontinued.
+
+Conclusions
+After 52 weeks of treatment, RSG in addition to background antidiabetes medication was associated with an improvement in glycemic control and did not adversely affect LVEF, left ventricular volumes, cardiac index, or transmitral Doppler flow parameters as determined by ECHO in T2DM patients with pre-existing CHF (NYHA functional class I to II). However, there was a higher incidence of fluid-related end points during treatment with RSG. Most of the fluid-related events did not lead to early withdrawal of patients from the study. The majority of events were managed in the clinic by the timely and appropriate use of diuretics.
+
+Reprint requests and correspondence: Dr. Henry J. Dargie, Western Infirmary, CRI Department, Level 4, Glasgow, G11 6NT United Kingdom. E-mail: H.Dargie@bio.gla.ac.uk.
+
+### Tables (TXT Format)
+Table 1: Time-to-Event Analysis of Major Adjudicated Clinical End Points
+| Adjudicated End Point               | PLB, n = 114 n (%) | RSG, n = 110 n (%) | Hazard Ratio* (95% CI), p Value |
+|-------------------------------------|--------------------|--------------------|----------------------------------|
+| All-cause mortality or worsening CHF| 8 (7.5)            | 11 (10.6)          | 1.283 (0.513-3.209), 0.59        |
+| All-cause mortality                 | 5 (4.8)            | 8 (7.7)            | 1.495 (0.487-4.593), 0.48        |
+| CV death                            | 4 (3.8)            | 5 (4.8)            | 1.134 (0.303-4.254), 0.85        |
+*Data adjusted for withdrawals. Hazard ratio is the ratio of RSG hazard rate to control hazard rate. CHF=chronic heart failure; CI=confidence interval; CV=cardiovascular; PLB=placebo; RSG=rosiglitazone.
+
+Table 2: Proportion of Patients With Other Adjudicated Clinical End Points
+| Adjudicated End Point               | PLB, n = 114 n (%) | RSG, n = 110 n (%) | p Value |
+|-------------------------------------|--------------------|--------------------|---------|
+| Cardiovascular hospitalization      | 15 (13.2)          | 21 (19.1)          | 0.465   |
+| Definite worsening CHF              | 4 (3.5)            | 5 (4.5)            | 0.858   |
+| Possible worsening CHF              | 0                  | 2 (1.8)            | -       |
+| New or worsening edema              | 10 (8.8)           | 28 (25.5)          | 0.005   |
+| New or worsening dyspnea            | 19 (16.7)          | 29 (26.4)          | 0.197   |
+| Increase in CHF medication          | 20 (17.5)          | 36 (32.7)          | 0.037   |
+*No events occurred in 1 treatment group, preventing analysis using this model. Abbreviations as in Table 1.
+
+Table 3: Summary of Demographic and Baseline Characteristics (Intent-to-Treat Patients)
+| Demographic Characteristic          | PLB, n = 110 (mean±SD/%) | RSG, n = 108 (mean±SD/%) |
+|-------------------------------------|---------------------------|---------------------------|
+| Age (yrs)                           | 63.9±8.6                  | 64.3±8.8                  |
+| Gender (% male)                     | 79.1                      | 84.3                      |
+| Race, n (%)                         |                           |                           |
+| - White                             | 109 (99.1)                | 107 (99.1)                |
+| - Asian                             | 1 (0.9)                   | 0                         |
+| - Other                             | 0                         | 1 (0.9)                   |
+| Current smokers                     | 21 (19.1)                 | 23 (21.3)                 |
+| BMI (kg/m²)                         | 28.6±3.5                  | 28.8±3.7                  |
+| Weight (kg)                         | 84.3±14.3                 | 84.9±14.8                 |
+| Waist:hip ratio                     | 0.96±0.12                 | 0.98±0.14                 |
+| Baseline HbAlc (%)                  | 7.8±1.3                  | 7.8±1.3                  |
+| Baseline FPG (mg/dl)                | 163.3±45.7                | 163.6±42.8                |
+| Number of years with diabetes*      | 4 (0-29)                  | 4.5 (0-30)                |
+| Baseline creatinine (μmol/l)        | 83.9±25.3                 | 90.4±34.2                 |
+| Baseline hemoglobin (g/dl)          | 14.0±1.2                  | 14.3±1.4                  |
+| Baseline hematocrit (%)             | 42.1±3.8                  | 42.7±4.2                  |
+| Number of years with CHF*           | 3 (0-19)                  | 3 (0-33)                  |
+| NYHA functional class, n (%)        |                           |                           |
+| - I                                 | 48 (43.6)                 | 38 (35.2)                 |
+| - II                                | 62 (56.4)                 | 70 (64.8)                 |
+*Data expressed as median (range). BMI=body mass index; FPG=fasting plasma glucose; Hb=hemoglobin; NYHA=New York Heart Association; other abbreviations as in Table 1.
+
+Table 4: Cardiovascular Conditions Reported by ≥25% of All Randomized Patients in Either Treatment Group at Baseline
+| Medical Condition by Preferred Term | PLB, n = 114 n (%) | RSG, n = 110 n (%) |
+|-------------------------------------|--------------------|--------------------|
+| Ischemic heart disease              | 40 (35.1)          | 40 (36.4)          |
+| Myocardial infarction               | -                  | 23 (20.9)          |
+| Hypertension                        | 42 (36.8)          | -                  |
+| Essential hypertension              | -                  | 12 (10.9)          |
+| Cholesterol/triglycerides elevated  | 24 (21.1)          | 27 (24.5)          |
+| Hyperlipidemia                      | 19 (16.7)          | 21 (19.1)          |
+| Conduction disorder                 | -                  | 13 (11.8)          |
+| Atrioventricular block              | 9 (7.9)            | 7 (6.4)            |
+| Primary cardiomyopathy              | 7 (6.1)            | 6 (5.5)            |
+PLB=placebo; RSG=rosiglitazone.
+
+Table 5: Summary of Previous Antidiabetes and CV Medications (All Randomized Patients)
+| Medication                          | PLB, n = 114 n (%) | RSG, n = 110 n (%) |
+|-------------------------------------|--------------------|--------------------|
+| Antidiabetes medications             |                    |                    |
+| - Glibenclamide                     | 39 (34.2)          | 42 (38.2)          |
+| - Metformin                         | 35 (30.7)          | 24 (21.8)          |
+| - Glimepiride                       | 16 (14.0)          | 22 (20.0)          |
+| - No previous antidiabetes (diet and exercise) | 21 (18.4) | 17 (15.5) |
+| CHF medications                     |                    |                    |
+| - ACEI*                             | -                  | -                  |
+| - ARB*                              | 17 (14.9)          | 16 (14.5)          |
+| - Beta-blockers                     | 47 (41.2)          | 70 (63.6)          |
+| - Nonselective beta-blockers        | 34 (29.8)          | 38 (34.5)          |
+| - Spironolactone                    | 19 (16.7)          | 24 (21.8)          |
+| - Potassium-sparing diuretics       | 20 (17.5)          | -                  |
+| - Digoxin                           | 28 (24.6)          | 29 (26.4)          |
+| - Aspirin                           | 73 (64.0)          | 69 (62.7)          |
+| - Nitrates                          | 37 (32.5)          | 31 (28.2)          |
+| - Calcium antagonists               | -                  | -                  |
+| - DHP calcium antagonists           | 8 (7.0)            | 14 (12.7)          |
+| - Antiarrhythmics                   | 7 (6.1)            | 3 (2.7)            |
+| - Other lipid-lowering agent        | 50 (43.9)          | -                  |
+| - Fibrate                           | 4 (3.5)            | 3 (2.7)            |
+| - Warfarin                          | 21 (18.4)          | 19 (17.3)          |
+| - Vasodilator                       | -                  | 3 (2.7)            |
+Some patients were prescribed more than 1 cardiovascular medication. *Three patients included in the PLB group did not take an ACEI or ARB on entry into the study. ACEI=angiotensin-converting enzyme inhibitor; ARB=angiotensin receptor blocker; DHP=dihydropyridine; other abbreviations as in Table 1.
+
+Table 6: Mean Values of Echocardiographic Parameters at Baseline and Week 52
+| Parameter                          | PLB (mean±SD)                          | PLB Week 52 (mean±SD)                  | PLB Change From Baseline (mean±SD) | RSG (mean±SD)                          | RSG Week 52 (mean±SD)                  | RSG Change From Baseline (mean±SD) | RSG vs. PLB Mean Difference (95% CI), p Value |
+|-------------------------------------|----------------------------------------|----------------------------------------|-------------------------------------|----------------------------------------|----------------------------------------|-------------------------------------|------------------------------------------------|
+| LVEF (%), EE population             | 35.7±7.8 (n=114)                       | 36.8±8.4                               | 1.1±5.6 (p=0.09)                    | 35.3±6.2 (n=110)                       | 37.8±6.5                               | 2.5±5.8 (p<0.001)                   | 1.49 (-0.32 to 3.30), p=0.1                   |
+| LVEF (%), ITT population            | 35.7±7.8 (n=114)                       | 37.1±8.4                               | 1.4±5.7 (p=0.2)                     | 35.3±6.2 (n=110)                       | 36.3±7.5                               | 2.2±5.6 (p<0.001)                   | 1.42 (-0.21 to 3.04), p=0.09                   |
+| LVEDVI (ml/m²)                      | 69.3±32.5 (n=94)                       | 76.4±29.1                               | 7.1±27.8 (p=0.8)                    | 75.5±30.4 (n=83)                       | 74.5±30.1                               | -1.0±18.6 (p=0.6)                   | 1.23 (-4.05 to 6.51), p=0.7                    |
+| LVESVI (ml/m²)                      | 45.5±25.8 (n=94)                       | 45.2±25.4                               | -0.3±13.6 (p=0.8)                    | 51.7±25.8 (n=83)                       | 49.7±25.3                               | -2.0±14.9 (p=0.2)                   | -0.57 (-4.75 to 3.62), p=0.8                    |
+| LVMI (g/m²)                         | 185.6±50.3 (n=27)                      | 195.5±70.1                               | 9.9±65.4 (p=0.4)                    | 190.1±38.7 (n=26)                      | 184.3±39.2                               | -5.8±41.2 (p=0.6)                   | -5.83 (-30.69 to 19.03), p=0.6                  |
+| Cardiac index (l/min/m²)            | 1.64±0.74 (n=88)                       | 1.66±0.68                               | 0.01±0.51 (p=0.9)                    | 1.69±0.45 (n=78)                       | 1.73±0.43                               | 0.03±0.49 (p=0.5)                   | -0.02 (-0.18 to 0.14), p=0.8                    |
+| E:A ratio                           | 1.32±0.81 (n=73)                       | 1.12±0.65                               | -0.20±0.57 (p=0.004)                 | 1.23±0.83 (n=73)                       | 1.37±0.95                               | 0.14±0.75 (p=0.1)                   | 0.34 (-0.05 to 0.73), p=0.09                    |
+| E-wave deceleration time (ms)       | 161.8±46.1 (n=86)                      | 160.3±48.2                               | -1.5±52.3 (p=0.9)                    | 159.5±53.3 (n=82)                      | 161.1±54.8                               | 1.5±54.8 (p=0.8)                    | 3.0 (-13.2 to 19.2), p=0.7                      |
+| Isovolumic relaxation time (ms)     | 94.9±20.0 (n=62)                       | 90.3±18.5                               | -4.6±18.9 (p=0.06)                   | 90.4±19.7 (n=58)                       | 88.7±19.1                               | -1.7±17.8 (p=0.5)                   | 2.9 (-4.1 to 9.9), p=0.4                        |
+EE=efficacy evaluable; ITT=intent-to-treat; LVEDVI=left ventricular end-diastolic volume index; LVEF=left ventricular ejection fraction; LVESVI=left ventricular end-systolic volume index; LVMI=left ventricular mass index; other abbreviations as in Table 1.
+
+### Image Descriptions (TXT Format)
+Figure 1: Mean BNP Concentrations at Baseline and at Week 52 in Both Treatment Groups (ITT Population)
+- Title: "Mean BNP Concentrations at Baseline and at Week 52 in Both Treatment Groups (ITT Population)".
+- Groups: Two study groups are compared: placebo (PLB, solid bars, n=71) and rosiglitazone (RSG, open bars, n=74).
+- Variables: The y-axis represents the mean BNP (brain natriuretic peptide) concentration (units not specified, but data were log-transformed before analysis, with mean and SE exponentiated to the original scale). The x-axis has two time points: Baseline and Week 52.
+- Results: At baseline, BNP concentrations are similar between PLB and RSG groups (PLB: ~46 pg/ml; RSG: ~50 pg/ml, p=0.45). At Week 52, BNP increased significantly from baseline in the RSG group (geometric mean percentage change 57.5%, 95% CI 25.9 to 97.0, p<0.0001), while the PLB group showed a slight increase (not statistically significant). However, the mean BNP concentration between the two groups at Week 52 was not significantly different (p=0.08).
+
+Figure 2: Occurrence of Adjudicated Events of Edema and Dyspnea With or Without Worsening CHF
+- Title: "Occurrence of Adjudicated Events of Edema and Dyspnea With or Without Worsening CHF".
+- Groups: Two study groups are compared: placebo (PLB) and rosiglitazone (RSG).
+- Variables: The y-axis represents the frequency (percentage) of patients with the event. The x-axis has two event categories: Edema and Dyspnea, each split into PLB and RSG subgroups.
+- Bar Definitions: Open bars represent patients with the adjudicated event (edema or dyspnea) occurring without a concomitant event of definite or possible worsening of chronic heart failure (CHF). Solid bars represent patients with the adjudicated event (edema or dyspnea) occurring with a concomitant event of definite or possible worsening of CHF.
+- Results: For Edema: The total frequency is significantly higher in RSG (25.5%) than in PLB (8.8%) (p=0.005). Most edema events in both groups are not associated with worsening CHF (open bars: PLB ~8%, RSG ~23%; solid bars: PLB ~1%, RSG ~2.5%). For Dyspnea: The total frequency is higher in RSG (26.4%) than in PLB (16.7%) but the difference is not statistically significant (p=0.197). Most dyspnea events in both groups are not associated with worsening CHF (open bars: PLB ~15%, RSG ~24%; solid bars: PLB ~1.7%, RSG ~2.4%).

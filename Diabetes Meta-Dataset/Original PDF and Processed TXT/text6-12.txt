@@ -1,0 +1,230 @@
+### Text Content Before References
+The new england journal of medicine original article
+Glucose Control and Vascular Complications in Veterans with Type 2 Diabetes
+William Duckworth, M.D., Carlos Abraira, M.D., Thomas Moritz, M.S., Domenic Reda, Ph.D., Nicholas Emanuele, M.D., Peter D. Reaven, M.D., Franklin J. Zieve, M.D., Ph.D., Jennifer Marks, M.D., Stephen N. Davis, M.D., Rodney Hayward, M.D., Stuart R. Warren, J.D., Pharm.D., Steven Goldman, M.D., Madeline McCarren, Ph.D., M.P.H., Mary Ellen Vitek, William G. Henderson, Ph.D., and Grant D. Huang, M.P.H., Ph.D., for the VADT Investigators*
+
+Abstract
+Background
+The effects of intensive glucose control on cardiovascular events in patients with longstanding type 2 diabetes mellitus remain uncertain.
+
+Methods
+We randomly assigned 1791 military veterans (mean age, 60.4 years) who had a suboptimal response to therapy for type 2 diabetes to receive either intensive or standard glucose control. Other cardiovascular risk factors were treated uniformly. The mean number of years since the diagnosis of diabetes was 11.5, and 40% of the patients had already had a cardiovascular event. The goal in the intensive-therapy group was an absolute reduction of 1.5 percentage points in the glycated hemoglobin level, as compared with the standard-therapy group. The primary outcome was the time from randomization to the first occurrence of a major cardiovascular event, a composite of myocardial infarction, stroke, death from cardiovascular causes, congestive heart failure, surgery for vascular disease, inoperable coronary disease, and amputation for ischemic gangrene.
+
+Results
+The median follow-up was 5.6 years. Median glycated hemoglobin levels were 8.4% in the standard-therapy group and 6.9% in the intensive-therapy group. The primary outcome occurred in 264 patients in the standard-therapy group and 235 patients in the intensive-therapy group (hazard ratio in the intensive-therapy group, 0.88; 95% confidence interval [CI], 0.74 to 1.05; \(P=0.14\) ). There was no significant difference between the two groups in any component of the primary outcome or in the rate of death from any cause (hazard ratio, 1.07, 95% CI, 0.81 to 1.42; \(P=0.62\) ). No differences between the two groups were observed for microvascular complications. The rates of adverse events, predominantly hypoglycemia, were 17.6% in the standard-therapy group and 24.1% in the intensive-therapy group.
+
+Conclusions
+Intensive glucose control in patients with poorly controlled type 2 diabetes had no significant effect on the rates of major cardiovascular events, death, or microvascular complications, with the exception of progression of albuminuria (P = 0.01). (ClinicalTrials.gov number, NCT00032487.)
+
+From the Phoenix Veterans Affairs (VA) Health Care Center, Phoenix, AZ (W.D., P.D.R.); Miami VA Medical Center, Miami (C.A., J.M.); Hines VA Cooperative Studies Program Coordinating Center (T.M., D.R., M.M., M.E.V., W.G.H.) and Hines VA Hospital (N.E.) - both in Hines, IL; Hunter Holmes McGuire VA Medical Center, Richmond, VA (F.J.Z.); Tennessee Valley Health Care System, Nashville (S.N.D.); VA Ann Arbor Healthcare System, Ann Arbor, MI (R.H.); VA Cooperative Studies Program Clinical Research Pharmacy Coordinating Center, Albuquerque, NM (S.R.W.); Southern Arizona VA Health Care System, Tucson (S.G.); and the Cooperative Studies Program Central Office, VA Office of Research and Development, Washington, DC (G.D.H.). Address reprint requests to Dr. Duckworth at the Phoenix VA Health Care System, 650 E. Indian School Rd., Phoenix, AZ 85012, or at william.duckworth@va.gov.
+
+*Investigators in the Veterans Affairs Diabetes Trial (VADT) are listed in the Appendix.
+
+This article (10.1056/NEJMoa0808431) was published on December 17, 2008, and was last updated on September 2, 2009, at NEJM.org.
+
+N Engl J Med 2009;360:129-39.
+
+Copyright © 2009 Massachusetts Medical Society.
+
+Several trials have shown that intensive glucose control in patients with type 2 diabetes mellitus reduces the progression of microvascular disease,1,2 but the effect on macrovascular complications remains uncertain. In epidemiologic studies, the association between glucose control and cardiovascular disease has not been consistent.3-6 Small short-term trials have suggested either benefit or adverse effects.7,8
+
+Two recent studies, the Action in Diabetes and Vascular Disease: Preterax and Diamicron Modified Release Controlled Evaluation (ADVANCE) trial (ClinicalTrials.gov number, NCT00145925)9 and the Action to Control Cardiovascular Risk in Diabetes (ACCORD) trial (NCT00000620),10 reported no significant decrease in cardiovascular events with intensive glucose control. The ACCORD trial ended its intensive therapy early, after 3.5 years, because of a significant increase in deaths in the intensive-therapy group. The primary goal of the Veterans Affairs Diabetes Trial (VADT) was to compare the effects of intensive and standard glucose control on cardiovascular events.
+
+Methods
+Study Design
+The design of our open-label study targeting patients with poorly controlled type 2 diabetes has been reported previously.11 Selection criteria included an inadequate response to maximal doses of an oral agent or insulin therapy. Exclusion criteria included a glycated hemoglobin level of less than 7.5%, the occurrence of a cardiovascular event during the previous 6 months, advanced congestive heart failure, severe angina, a life expectancy of less than 7 years, a body-mass index (BMI, the weight in kilograms divided by the square of the height in meters) of more than 40, a serum creatinine level of more than 1.6 mg per deciliter (141 μmol per liter), and an alanine aminotransferase level of more than three times the upper limit of the normal range.11
+
+The study was sponsored by the Veterans Affairs Cooperative Studies Program. Medications and financial support were provided by Sanofi-Aventis, GlaxoSmithKline, Novo Nordisk, Roche, Kos Pharmaceuticals, and Amylin. These companies had no role in the design of the study, in the accrual or analysis of the data, or in the preparation of the manuscript. All authors vouch for the accuracy and completeness of the data and the analysis.
+
+Protocol and consent forms were approved by the institutional review board at each of the 20 participating sites. All patients provided written informed consent. An independent data and safety monitoring committee whose members were aware of study-group assignments monitored safety and efficacy.
+
+Treatment Protocol
+Patients were randomly assigned with the use of a permuted-block design with a block size of six and stratified according to study site, the previous occurrence of a macrovascular event, and current insulin use. The randomization codes were generated by the study’s biostatistician at the Hines Cooperative Studies Program Coordinating Center. Study sites did not have access to the codes. In both study groups, patients with a BMI of 27 or more were started on two oral agents, metformin plus rosiglitazone; those with a BMI of less than 27 were started on glimepiride plus rosiglitazone. Patients in the intensive-therapy group were started on maximal doses, and those in the standard-therapy group were started on half the maximal doses. Before any change in oral medications, insulin was added for patients in the intensive-therapy group who did not achieve a glycated hemoglobin level of less than 6% and for those in the standard-therapy group with a level of less than 9%. Subsequent changes in medication were determined according to protocol guidelines and local assessment. The guidelines allowed for the use of any approved drug at the discretion of the investigator. The goal for glycated hemoglobin levels was an absolute reduction of 1.5 percentage points in the intensive-therapy group, as compared with the standard-therapy group.
+
+Other modifiable cardiovascular risk factors were treated identically in the two study groups. Treatment guidelines (based on recommendations of the American Diabetes Association, which were updated as necessary) for blood pressure and lipid control, as well as for dietary, exercise, and diabetes education, were provided to all patients.12 All patients were prescribed aspirin and a hydroxymethylglutaryl coenzyme A reductase inhibitor (statin) unless contraindicated.
+
+Primary and Secondary Outcomes
+Patients underwent a standard annual ophthalmologic examination. Stereo seven-field fundus photographs were obtained at baseline and at 5 years by certified photographers in 17 participating hospitals.13,14 The 23-point Early Treatment Diabetic Retinopathy Study grading scale was used to define progression to new proliferative diabetic retinopathy.15 The progression of retinopathy was defined as a 2-point increase on the scale. New, clinically important macular edema was defined according to standards reported previously.16 The glomerular filtration rate (GFR) was estimated on the basis of serum creatinine levels.17 Severe nephropathy was defined as a doubling of the serum creatinine level, a creatinine level of more than 3 mg per deciliter (265 μmol per liter), or a GFR of less than 15 ml per minute. The progression of albuminuria was defined as an increase of albuminuria for at least two successive yearly visits without reversion to an improved level. New neuropathy was assessed in a complete annual physical examination. Mononeuropathies were defined as mononeuropathy, mononeuropathy multiplex, or femoral neuropathy. Peripheral neuropathies were defined as radiculoneuropathy, polyneuropathy, diabetic amyotrophy, or neuropathic ulcer. Autonomic neuropathies were defined as symptomatic orthostatic hypotension, gastroparesis, neurogenic bladder, or diabetic diarrhea. The type of neuropathy was defined as the first outcome that was reached.
+
+The primary outcome was the time to the first occurrence of any one of a composite of cardiovascular events, adjudicated by an end-point committee that was unaware of assignments to study groups. The cardiovascular events were documented myocardial infarction; stroke; death from cardiovascular causes; new or worsening congestive heart failure; surgical intervention for cardiac, cerebrovascular, or peripheral vascular disease; inoperable coronary artery disease; and amputation for ischemic gangrene.
+
+Statistical Analysis
+The planned sample size of 1700 patients provided a power of 86% to detect a relative difference of 21% in the rate of the composite cardiovascular outcome (40.0% in the standard-therapy group vs. 31.6% in the intensive-therapy group), assuming no difference until the third year, 2 years of data accrual, 5 years of follow-up, a dropout rate of 5%, and a two-sided alpha of 0.05, adjusted for seven interim analyses with the use of O’Brien–Fleming boundaries.18,19 The expected number of events was 684. The 6-year event rate of 40% in the standard-therapy group was derived from the results of the Veterans Affairs Diabetes Feasibility Trial.8
+
+Secondary cardiovascular outcomes included new or worsening angina, new transient ischemic attacks, new intermittent claudication, new critical limb ischemia, and death from any cause. Secondary outcomes also included microvascular complications (retinopathy, nephropathy, and neuropathy). Adverse events, including hypoglycemia, were monitored.
+
+Prespecified subgroups included patients who had received insulin therapy at baseline and those who had already had a cardiovascular event. Subgroups that were not prespecified (e.g., according to age, ethnic background, and duration of disease) are not reported here. All analyses were based on the intention-to-treat principle. Survival analysis compared the time from randomization to the occurrence of the first primary outcome. Data from patients without an event were censored at the date of withdrawal from the study or the final follow-up visit. Deaths occurring after withdrawal from the study were included in the analysis.
+
+Microvascular and Neuropathy Outcomes
+Kaplan–Meier survival curves were generated by the product-limit method. Intergroup differences were evaluated with the use of the log-rank test. The Cox proportional-hazards model was used to calculate estimates of relative risk and 95% confidence intervals for the two study groups. The heterogeneity of treatment effects in prespecified subgroups was assessed by including interaction terms in Cox models. The chi-square test was used to analyze differences in proportions unless events were rare, such as progression of nephropathy and retinopathy, in which case Fisher’s exact test was used. Data are expressed as means and standard deviations or as medians with interquartile ranges when specified. All reported P values are two-sided and have not been adjusted for multiple comparisons. Because of the interim analyses, the critical value for statistical significance of the primary outcome was 0.0357.
+
+Results
+Patients
+From December 1, 2000, to May 30, 2003, a total of 1791 patients were enrolled in the study, with follow-up ending on May 30, 2008 (Fig. 1). The main reasons for exclusion were that patients had low glycated hemoglobin levels (34% of patients), were not receiving a maximal dose of an oral antidiabetic medication or insulin (16%), did not want to participate (12%), or had a high serum creatinine level (8%). Baseline and follow-up data are shown in Table 1. No significant differences in risk factors at baseline or at follow-up were seen between the two groups, except for weight changes at follow-up. The mean age of patients was 60.4 years, and diabetes had been diagnosed a mean of 11.5 years earlier. The mean BMI was 31.3. The mean glycated hemoglobin level at baseline was 9.4%. Hypertension (which was defined as current treatment for hypertension or a blood pressure of 140/90 mm Hg or more) was present in 72% of patients, and 40% had already had a cardiovascular event. A history of microvascular complications was reported in 62% of the patients. At baseline, 52% of the patients were receiving insulin.
+
+20,027 Patients were screened
+17,788 (88.8%) Were excluded through chart review
+2239 (11.2%) Provided consent for full screening
+448 (20.0%) Were excluded
+1791 (80.0%) Underwent randomization
+899 Received standard treatment
+892 Received intensive treatment
+139 (15.5%) Did not complete study (Standard therapy): 67 (7.5%) Withdrew consent, 3 (0.3%) Had adverse event, 57 (6.3%) Were lost to follow-up, 12 (1.3%) Had other reason
+120 (13.5%) Did not complete study (Intensive therapy): 43 (4.8%) Withdrew consent, 12 (1.3%) Had other reason, 7 (0.8%) Had adverse event, 58 (6.5%) Were lost to follow-up
+760 (84.5%) Completed study or reached end point (Standard therapy)
+772 (86.5%) Completed study or reached end point (Intensive therapy)
+
+The mean baseline blood pressure was 132/76 mm Hg in the two groups. After 6 years, for patients who were still in follow-up, the mean blood pressure was 125/69 mm Hg in the standard-therapy group and 127/68 mm Hg in the intensive-therapy group. In both groups, mean lipid levels improved during the study, and levels of low-density lipoprotein cholesterol decreased to 80 mg per deciliter (2.1 mmol per liter). Levels of high-density lipoprotein (HDL) cholesterol increased to 41 mg per deciliter (1.1 mmol per liter) in the standard-therapy group and to 40 mg per deciliter (1.0 mmol per liter) in the intensive-therapy group. Levels of triglycerides decreased to 159 mg per deciliter (1.79 mmol per liter) in the standard-therapy group and to 151 mg per deciliter (1.70 mmol per liter) in the intensive-therapy group. The use of antiplatelet drugs increased to 91% and 94% of patients in the two groups, respectively, and statin use increased to 83% and 86% of patients, respectively. Weight and BMI were significantly greater (by 9 lb [4 kg] and 1.5, respectively; \(P=0.01\)) in the intensive-therapy group after treatment.
+
+At 3 months, median glycated hemoglobin levels had decreased in both groups and had stabilized at 6 months, with a level of 8.4% in the standard-therapy group and 6.9% in the intensive-therapy group. This result achieved the prespecified goal of an absolute between-group difference of 1.5 percentage points (Fig. 2). No significant benefit in the time to the first occurrence of a cardiovascular event was observed in the intensive-therapy group (hazard ratio, 0.88; 95% confidence interval [CI], 0.74 to 1.05; \(P=0.14\))(Fig.3A). Both groups had fewer events than predicted. The predicted event rate was 40.0% in the standard-therapy group and 31.6% in the intensive-therapy group, a relative reduction of 21.0%. The observed event rate was 33.5% in the standard-therapy group and 29.5% in the intensive-therapy group, a relative reduction of 11.9%. There was no evidence that the effect of treatment varied according to either insulin status at baseline or the previous occurrence of a cardiovascular event ( \(P=0.37\) and \(P=0.92\), respectively).
+
+There were no significant differences in individual components of the primary and secondary outcomes (Appendix 1 and Appendix 2, respectively, in the Supplementary Appendix, available with the full text of this article at NEJM.org). There was no significant difference in the time to death from cardiovascular causes (\(P=0.26\)) (Fig. 3B). No significant differences in the rate of deaths from cardiovascular causes were seen in the two groups. (The causes of 33 deaths from cardiovascular causes in the standard-therapy group and 40 deaths in the intensive-therapy group are listed in Appendix 3 in the Supplementary Appendix.) In the intensive-therapy group, the number of sudden deaths (11 deaths) was nearly three times the number in the standard-therapy group (4 deaths, \(P=0.08\)).
+
+There were 95 deaths from any cause in the standard-therapy group and 102 in the intensive-therapy group (hazard ratio, 1.07; 95% CI, 0.81 to 1.42; \(P=0.62\)) (Fig. 3C). Major causes of death from noncardiovascular causes are listed in Appendix 4 in the Supplementary Appendix. No significant differences were seen in any category. The most common adverse event was hypoglycemia, with significantly more episodes in the intensive-therapy group than in the standard-therapy group in every category (\(P<0.001\)) (Table 2). Other events meeting the criteria of severe adverse events are listed in Appendix 4 in the Supplementary Appendix. More patients in the intensive-therapy group had at least one serious adverse event (24.1%) than in the standard-therapy group (17.6%, \(P=0.05\)). Dyspnea was the most common specified serious adverse event and was more frequent in the intensive-therapy group (\(P=0.006\)).
+
+Microvascular Results
+There were no significant differences between the two study groups in the number of new eye procedures (Table 3). The cumulative rates of events in all patients, including those who had undergone eye procedures at baseline, did not differ significantly. Fundus photographs showed no significant differences in progression to proliferative diabetic retinopathy (\(P=0.27\)) or in progression to clinically important macular edema (\(P=0.31\)). There was a nonsignificant trend toward a beneficial effect in the intensive-therapy group with respect to diabetic retinopathy, with an increased incidence of at least two steps in severity in the standard-therapy group (\(P=0.07\)). The between-group difference in new onset of retinopathy was not significant (\(P=0.27\)).
+
+The GFR declined to 76 ml per minute by year 6 (\(P<0.001\)) with no difference between the two study groups (\(P=0.36\)). Severe renal changes were unaffected by treatment (\(P=0.35\)). Any worsening of albumin excretion was greater in the standard-therapy group (\(P=0.01\)); progression to macroalbuminuria was also significant (\(P=0.04\)). There was a nonsignificant increase in autonomic neuropathy in the intensive-therapy group (\(P=0.07\)). No other significant changes in neuropathy were seen.
+
+Discussion
+The major cause of death and complications in patients with type 2 diabetes is cardiovascular disease. More than 60% of all patients with type 2 diabetes die of cardiovascular disease, and an even greater percentage have serious complications. The prevalence of vascular disease, hypertension, dyslipidemia, and other abnormalities is very high, and the consequences of these abnormalities are burdensome to patients, their families, and society.20
+
+Interventions such as lifestyle changes, control of blood pressure and lipids, and antiplatelet therapy can reduce the development, progression, and complications associated with type 2 diabetes.21 Glucose control may reduce microvascular complications, but not cardiovascular complications. Even with microvascular complications, blood-pressure control has a greater effect than glucose control.22 In patients with advanced type 2 diabetes, the unanswered question is whether glucose control independently reduces cardiovascular complications.
+
+Population surveys, cross-sectional studies, and short-term intervention trials have produced mixed results in attempts to answer this question.3-8 The United Kingdom Prospective Diabetes Study (UKPDS) showed a nonsignificant trend toward improvement in the rate of myocardial infarction (\(P=0.052\)) in patients with newly diagnosed disease, but the trial was complicated by less-than-strict blood-pressure and lipid control, according to current standards.1,22 Nevertheless, the trend was accepted by many observers as evidence of the importance of glucose control for macrovascular complications.
+
+The Diabetes Control and Complications Trial (DCCT) did not show a significant reduction in cardiovascular events with intensive control in young patients with type 1 diabetes,2 but a follow-up study, the Epidemiology of Diabetes Interventions and Complications (EDIC) trial, showed a delayed benefit.23 Ten years after both groups reached similar glycated hemoglobin levels, the patients in the previous intensive-therapy group had significantly fewer cardiovascular events than those in the standard-therapy group.
+
+Similar results were seen in the 10-year follow-up of the UKPDS.24 One year after the end of the trial, no significant difference in glycated hemoglobin levels was present. Despite this finding, in the original intensive-therapy group, there was a reduction in the risk of microvascular complications (15%, \(P=0.01\)), of any diabetes-related outcome (9%, \(P=0.04\)), of myocardial infarction (15%, \(P=0.01\)), and of death from any cause (13%, \(P=0.007\)). This delayed effect may have been associated with the cumulative effects of hyperglycemia.
+
+Our study, along with the ADVANCE and ACCORD studies, examined different populations with different approaches and came to similar conclusions. Intensive glucose control did not reduce cardiovascular events in patients with previously diagnosed type 2 diabetes. The ACCORD study was terminated at 3.5 years because of increased mortality in the intensive-therapy group. The ADVANCE study showed a reduction in the progression of albuminuria, but there were no changes in the rates of severe nephropathy, retinopathy, or cardiovascular events.
+
+The mean age of patients in the ACCORD study was 62 years, and the duration of diabetes was 10 years, with 35% of patients receiving insulin at baseline. The mean age in our study was 60 years, with 52% of patients receiving insulin and the remainder receiving a maximal dose of an oral agent; diabetes had been diagnosed a mean of 11.5 years earlier. The ADVANCE study had an older population (mean, 66 years) with a shorter disease duration of 8 years and 1.5% of patients receiving insulin at baseline.
+
+In the three studies, baseline glycated hemoglobin levels were 7.2% in the ADVANCE study, 8.1% in the ACCORD study, and 9.4% in our study. After intensive therapy, glycated hemoglobin levels were 6.4% in the ACCORD and ADVANCE studies and 6.9% in our study; after standard therapy, the values were 7.5%, 7.0%, and 8.4%, respectively. None of these studies showed a decrease in cardiovascular events. The rates of hypoglycemia and weight gain were greater in the intensive-therapy group in all three trials.
+
+In our study, we followed a population of veterans for up to 7.5 years (median, 5.6 years). Cardiovascular risk factors were controlled, and the between-group difference in glycated hemoglobin levels was maintained.25,26 Microvascular complications were minimally affected by intensive glucose control. No significant differences in retinopathy, major nephropathy, or neuropathy were seen. A significant reduction (P = 0.01) in any worsening of albumin excretion was observed in the intensive-therapy group; progression to macroalbuminuria was also significant (P = 0.04). Overall, the benefit of decreasing the glycated hemoglobin level from 8.4% to 6.9% appeared to be minimal, except in the progression of albuminuria.
+
+Our study had several limitations. Since we were studying veterans, the patients were predominantly men, and extrapolation of our findings to women must be done with caution. Changes in therapeutic agents have occurred since the design of our protocol. The protocol specified that any approved drug could be used, but the availability of new agents was limited. The study was designed to limit the effect of differences in agents used, but it remains possible that newer agents might have different effects. Since studies with intensive control of risk factors were not available at the time of the protocol development, the study may have been underpowered. This concern is lessened by the very similar results in the ACCORD and ADVANCE studies.9,10
+
+Such factors as levels of HDL cholesterol, weight gain, systolic blood pressure, and pharmacologic agents could play a role in the observed lack of benefit of intensive glucose control and need to be examined in detail. Another possibility is a delayed benefit of intensive control, as seen at the 10-year follow-up in the DCCT–EDIC and UKPDS studies.
+
+Nevertheless, the results of this and other studies do not indicate that intensive glucose control in this population decreased the rate of cardiovascular events. In addition, it appears that intensive glucose control had minimal effects on hard microvascular complications (severe renal changes, decreased GFR, laser treatment, cataract extraction, vitrectomy, and new neuropathy) during a period of 5 to 6 years. Intensive glycemic control earlier in the disease course may produce benefit, especially if severe hypoglycemia is avoided. For now, appropriate management of hypertension, dyslipidemia, and other cardiovascular risk factors appears to be the most effective approach to preventing cardiovascular morbidity and mortality.
+
+Supported by the Veterans Affairs Cooperative Studies Program, Department of Veterans Affairs Office of Research and Development; the American Diabetes Association; and the National Eye Institute. Pharmaceutical and other supplies and financial assistance were provided by GlaxoSmithKline, Novo Nordisk, Roche Diagnostics, Sanofi-Aventis, Amylin, and Kos Pharmaceuticals.
+
+Dr. Duckworth reports receiving consulting fees from Novo Nordisk, GlaxoSmithKline, and Caremark and lecture fees from Sanofi-Aventis; Dr. Abraira, receiving lecture fees from Sanofi-Aventis and Takeda; Dr. Reaven, receiving consulting and lecture fees from Takeda Pharmaceuticals and grant support from Takeda Pharmaceuticals and Amylin and having an equity interest in Merck, Pfizer, Eli Lilly, and Johnson & Johnson; Dr. Zieve, receiving lecture fees from GlaxoSmithKline and Kos Pharmaceuticals and grant support from Kos Pharmaceuticals, GlaxoSmithKline, Hoffmann–La Roche, Amylin Pharmaceuticals, and Novo Nordisk; Dr. Marks, receiving consulting fees from Eli Lilly and Novo Nordisk, lecture fees from Pfizer, Merck, and Takeda, and grant support from Eli Lilly, Mannkind, Merck, and Pfizer; and Dr. Davis, receiving consulting fees and grant support from Sanofi-Aventis and Amylin and lecture fees from Sanofi-Aventis. No other potential conflict of interest relevant to this article was reported.
+
+We thank coordinators Susan Collier and Christina Paul for their help in the preparation of the manuscript and Rebecca Miller for assistance in the preparation of the final draft and for her consistent support throughout the study.
+
+Appendix
+The following persons participated in the VADT study: Study Cochairs: C. Abraira, Miami Veterans Affairs (VA) Medical Center, Miami; W.C. Duckworth, Carl T. Hayden VA Medical Center, Phoenix, AZ. Miami Office: C. Paul, D. Arca, L. Cason, R. Martinez Zolotor, L. Williams. Phoenix Office: S.L. Collier, N. Ahmed, A. Boyd. Hines VA Cooperative Studies Program (CSP) Coordinating Center: D. Reda, director; T. Moritz, study biostatistician; R. Anderson, subprotocol biostatistician; M.E. Vitek, quality assurance specialist; T. Paine, national study coordinator; L. Thottapurathu, statistical programmer; P. Luo, subprotocol statistical programmer; K. Bukowski, database programmer; D. Motyka, database programmer; V. Barillas, statistical assistant; R. Brown, statistical assistant; B. Christine, statistical assistant; L. Anfinsen, statistical programmer; M. Biondic, database programmer; R. Havlicek, statistical assistant; J. Kubal, national study coordinator, statistical assistant; M. McAuliffe, statistical assistant; M. McCarren, study biostatistician; M. Rachelle, statistical assistant; L. Rose, national study coordinator; J. Sacks, subprotocol biostatistician; T. Sindowski, statistical assistant; J. Thomas, national study coordinator; C. Zahora, national study coordinator. CSP Coordinating Center, Albuquerque, NM: M.R. Sather, director; S. Warren, study pharmacist; J. Day, pharmaceutical project manager; J. Haroldson, study pharmacist. Executive Committee: C. Abraira, W. Duckworth, S.N. Davis, N. Emanuele, S. Goldman, R. Hayward, J. Marks, T. Moritz, P. Reaven, D. Reda, S. Warren, F. Zieve, W. Wendell, J. Haroldson, P. Harper, W.G. Henderson, R.R. Henry, M.S. Kirkman, M. McCarren, J. Sacks. Data and Safety Monitoring Committee: J. Gavin, E. Chew, B. Howard, T. Karrison, I.V. Pacold, D. Seigel, F. Vinicor, B. Massie, consultant. End-Points Committee: S. Goldman, S. Rapcsak, G. Sethi, M. Sharon, H. Thai, K. Zadina, J. Christensen, D. Morrison, P. Spooner, A. Westerband. Consultants: B. Materson, E. Brinton, R. Klein, J.A. Colwell, E.J. Schaefer, C.S. Gass. Central Laboratories: C-peptide: D.A. Ehrmann, P. Rue; Biochemistry: E.J. Schaefer, J.R. McNamara; MAVERIC Core Laboratory: M. Brophy, D. Humphries, D. Govan, L. McDonnell, L. Carlton, Y. Weng; Cost-Effectiveness: R.A. Hayward, S. Krein; Electrocardiography: S. Goldman, K. Zadina; Fundus Photograph Reading Center: M. Davis, director; K. Glander, project coordinator.
+
+The following investigators and sites participated in the study: Charleston, SC: J. Soule, S. Caulder, C. Pittman, O. Alston, R.K. Mayfield, G. Moffitt, J. Sagel, F. Sanacor, E. Ganaway; Miami: J. Marks, L. Okur, L. Jones, H. Florez, D. Pfeifer, L. Samos, A.L. Taylor; Lyons/East Orange, NJ: M.B. Zimering, A. Sama, F. Rosenberg, H. Garcia, N. Ertel, L. Pogach, J.J. Shin, F. Caldarella, C. Carseli, M. Shah; Fresno, CA: P. Ginier, G. Arakel, Y. Fu, D. Tayloe, J.E. Allen, E. Fox, P.G. Hensley; Hines, IL: N. Emanuele, K. Kahsen, P. Linnerud, L. Agrawal, N. Azad; Houston: M. Marcelli, G.R. Cunningham, N.M. Nichols, E. Cordero, R. Hijazi, F. Roman, P. Datta, M. Garcia Touza; Indianapolis: A. Lteif, K.L. Moore, C. Lazar-Robinson, S. Gupta, M.S. Kirkman, M. Mendez, Z. Haider, L. Risley; Lexington, KY: D. Karounos, L. Barber, J. Hibbard, J.W. Anderson, L.R. Reynolds, J. Carlsen, R.W. Collins, A. Ehtisham; Long Beach, CA: M.L. Kashyap, B. Matheus, T. Rahbarnia, A.N. Vo, N. Downey, L. Fox, R.M. Gonzales, C.D. Meyers, S. Tavintharan; Minneapolis: F.Q. Nuttall, L. Cupersmith, K. Dardick, L. Kollman, A. Georgopoulos, C. Niewoehner; Nashville: S.N. Davis, P. Harper, D. Davis, J. Devin, A. Marney, J. Passyn-Dunn, J. Perkins, J. Stafford, A. Powers, L. Balch, P. Harris; Omaha, NE: R.J. Anderson, D. Dunning, S. Ludwig, M. Vogel, C. DeSouza, R. Ecklund, S. Doran, C. Korolchuk, M. McElmeel, S. Wagstaff; Phoenix, AZ: P. Reaven, B. Solie, J. Matchette, C. Meyer, S. Vela, N. Aslam, E. Brinton, J. Clark, A. Domb, L. McDonald, L. Shurtz; Pittsburgh: R.H. Rao, J.N. Beattie, C. Franko, F.R. DeRubertis, D. Kelly, M. Maser, J. Paul; Richmond, VA: F. Zieve, S.J. Clark, A. Grimsdale, S. Fredrickson, J. Levy, D. Schroeder; Salem, VA: A. Iranmanesh, B. Dunn, D. Arsura, C. Kovesdy, S. Hanna, A. Iranmanesh, C. Florow, F. Remandaban, E. Smith; San Diego, CA: R.R. Henry, M. Keller, V. Aroda, C. Choe, S. Edelman, A. Gasper, D. MaFong, S. Mudaliar, D. Oh, R. Bandukwala, A. Chang, S. Chaudhary, S. Chinnapongse, L. Christiansen, N. Chu, D. Kim, M. Lupo, C. Manju, R. Plodkowski, R. Sathyaprakash, J. Wilson, J. Yu, G. Macaraeg, S. Tornes; San Antonio, TX: R. DeFronzo, L. Johnson, K. Cusi, D. Tripathy, M. Bajaj, J. Blodgett, S. Kayshup, M.H. Vasquez, B. Walz, T. Weaver; San Juan, Puerto Rico: J. Benabe, Z. Mercado, B. Padilla, J. Serrano-Rodriguez, C. Rosado, E. Mejias, T. Tejera, C. Geldrez, E. Gonzalez-Melendez, M. Natal, M. Rios Jimenez; Tucson, AZ: J.H. Shah, W.S. Wendel, L. Scott, L.A. Gurnsey, F.A. Kwiecinski, T. Boyden, M.G. Goldschmid, V. Easton.
+
+### Tables
+#### Table 1. Characteristics of the Patients at Baseline and Follow-up.*
+| Variable | Baseline - Standard Therapy (N = 899) | Baseline - Intensive Therapy (N = 892) | P Value (Baseline) | Follow-up - Standard Therapy (N = 329) | Follow-up - Intensive Therapy (N = 344) | P Value (Follow-up) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Age (yr) | 60.3±9.0 | 60.5±9.0 | 0.64 | | | |
+| Sex (no.) | | | 0.98 | | | |
+| Male | 873 | 866 | | | | |
+| Female | 26 | 26 | | | | |
+| Time since diagnosis of diabetes (yr) | 11.5±7.0 | 11.5±8.0 | 0.96 | | | |
+| Patients with previous cardiovascular event (no.) | 368 | 355 | 0.62 | | | |
+| Patients with hypertension (no.)† | 650 | 642 | 0.83 | | | |
+| Race or ethnic group (no.)‡ | | | 0.51 | | | |
+| Non-Hispanic white | 572 | 539 | | | | |
+| Hispanic white | 136 | 155 | | | | |
+| Black | 147 | 152 | | | | |
+| Other | 44 | 46 | | | | |
+| Glycated hemoglobin level (%)§ | 9.4±2.0 | 9.4±2.0 | 0.91 | | | |
+| Weight (lb) | 214±36 | 214±36 | 0.97 | 223±42 | 232±44 | 0.01 |
+| Body-mass index | 31.2±4.0 | 31.3±3.0 | 0.61 | 32.3±5.0 | 33.8±6.0 | 0.01 |
+| Blood pressure (mm Hg) | | | | | | |
+| Systolic | 132±17 | 131±17 | 0.66 | 125±15 | 127±16 | 0.27 |
+| Diastolic | 76±10 | 76±10 | 0.91 | 69±10 | 68±10 | 0.20 |
+| Cholesterol (mg/dl) | | | | | | |
+| Total | 185±53 | 182±40 | 0.17 | 153±40 | 150±40 | 0.25 |
+| Low-density lipoprotein | 108±34 | 107±30 | 0.33 | 80±31 | 80±33 | 0.98 |
+| High-density lipoprotein | 36±10 | 36±10 | 0.43 | 41±12 | 40±11 | 0.63 |
+| Triglycerides (mg/dl) | 223±352 | 201±162 | 0.09 | 159±104 | 151±173 | 0.47 |
+| Creatinine (mg/dl) | 1.0±0.2 | 1.0±0.2 | 0.60 | 1.2±0.5 | 1.2±0.6 | 0.54 |
+| Tobacco smoking status (no.) | | | 0.82 | | | |
+| Total patients | 897 | 892 | | | | |
+| Current | 145 | 154 | | 32 | 21 | |
+| Past | 505 | 494 | | NA | NA | |
+| Never | 247 | 244 | | NA | NA | |
+
+* Plus–minus values are means ±SD. The body-mass index is the weight in kilograms divided by the square of the height in meters. To convert the values for weight to kilograms, multiply by 0.45. To convert the values for cholesterol to millimoles per liter, multiply by 0.02586. To convert the values for triglycerides to millimoles per liter, multiply by 0.01129. To convert the values for creatinine to micromoles per liter, multiply by 88.4. NA denotes not available. † Hypertension was defined as current treatment for hypertension or a blood pressure of 140/90 mm Hg or more. ‡ Race or ethnic group was self-reported by the patients. § Glycated hemoglobin levels from baseline through 78 months are detailed in Figure 2.
+
+#### Table 2. Hypoglycemic Episodes.*
+| Variable | Standard Therapy (N = 899) | Intensive Therapy (N = 892) |
+| --- | --- | --- |
+| no./100 patient-yr | | |
+| Episodes with impaired consciousness | 3 | 9 |
+| Episodes with complete loss of consciousness | 1 | 3 |
+| Nocturnal episodes | 44 | 152 |
+| Total episodes | | |
+| With symptoms | 383 | 1333 |
+| Without symptoms | 49 | 233 |
+| Relieved by food or sugar intake | 421 | 1516 |
+| Measurement of blood glucose during episode | 348 | 1392 |
+| With documented blood glucose <50 mg/dl (2.8 mmol/liter) | 52 | 203 |
+
+* P<0.001 for all differences between the two groups.
+
+#### Table 3. Microvascular Outcomes.*
+| Outcome | Standard Therapy (N = 899) | Intensive Therapy (N = 892) | P Value† |
+| --- | --- | --- | --- |
+| Ophthalmologic disorder | no./total no. (%) | no./total no. (%) | |
+| Cataract surgery | | | |
+| Any | 139/772 (18.0) | 144/769 (18.7) | 0.71 |
+| New | 73/719 (10.2) | 83/718 (11.6) | 0.39 |
+| Photocoagulation | | | |
+| Any | 121/772 (15.7) | 119/769 (15.5) | 0.91 |
+| New | 66/746 (8.8) | 50/719 (7.0) | 0.18 |
+| Vitrectomy | | | |
+| Any | 34/772 (4.4) | 36/769 (4.7) | 0.79 |
+| New | 24/804 (3.0) | 26/785 (3.3) | 0.71 |
+| Retinopathy‡ | | | |
+| Progression to proliferative disease | 16/399 (4.0) | 23/406 (5.7) | 0.27 |
+| Progression to clinically significant macular edema | 17/361 (4.7) | 12/371 (3.2) | 0.31 |
+| Increase of 2 steps in severity of disease | 88/399 (22.1) | 69/406 (17.0) | 0.07 |
+| New onset | 66/135 (48.9) | 54/128 (42.2) | 0.27 |
+| Nephropathy | | | |
+| Serum creatinine | | | |
+| Doubling of level | 78/884 (8.8) | 78/882 (8.8) | 0.99 |
+| >3 mg/dl (265 μmol/liter) | 16/884 (1.8) | 18/882 (2.0) | 0.72 |
+| Glomerular filtration rate <15 ml/min | 11/884 (1.2) | 7/882 (0.8) | 0.35 |
+| Change in albumin level | | | |
+| From normal to microalbuminuria | 61/463 (13.2) | 43/442 (9.7) | 0.12 |
+| From normal to macroalbuminuria | 7/463 (1.5) | 1/442 (0.2) | 0.07 |
+| From microalbuminuria to macroalbuminuria | 29/240 (12.1) | 19/251 (7.6) | 0.10 |
+| From normal to microalbuminuria or macroalbuminuria | 68/463 (14.7) | 44/442 (10.0) | 0.03 |
+| From normal to microalbuminuria to macroalbuminuria | 36/703 (5.1) | 20/693 (2.9) | 0.04 |
+| Any increase in albuminuria | 97/703 (13.8) | 63/693 (9.1) | 0.01 |
+| New neuropathy | | | |
+| Any | 218/498 (43.8) | 202/464 (43.5) | 0.94 |
+| Mononeuropathy | 20/498 (4.0) | 22/464 (4.7) | 0.58 |
+| Peripheral | 199/498 (40.0) | 178/464 (38.4) | 0.61 |
+| Autonomic | 26/498 (5.2) | 38/464 (8.2) | 0.07 |
+
+* All microvascular outcomes were new events except for eye procedures. The denominators are the numbers of patients in each category who underwent evaluation at baseline. † P values have not been adjusted for multiple comparisons. ‡ The 23-point Early Treatment Diabetic Retinopathy Study grading scale was used to define progression.
+
+### Image Descriptions
+#### Figure 1. Enrollment and Outcomes
+This is a flow diagram illustrating the patient enrollment and study outcome process. A total of 20,027 patients were screened. Among them, 17,788 (88.8%) were excluded through chart review, and 2239 (11.2%) provided consent for full screening. Of these 2239 patients, 448 (20.0%) were further excluded, and 1791 (80.0%) underwent randomization. The randomized patients were divided into two groups: 899 received standard treatment, and 892 received intensive treatment. In the standard therapy group, 139 (15.5%) did not complete the study (67 [7.5%] withdrew consent, 3 [0.3%] had adverse events, 57 [6.3%] were lost to follow-up, and 12 [1.3%] had other reasons), while 760 (84.5%) completed the study or reached the end point. In the intensive therapy group, 120 (13.5%) did not complete the study (43 [4.8%] withdrew consent, 12 [1.3%] had other reasons, 7 [0.8%] had adverse events, and 58 [6.5%] were lost to follow-up), and 772 (86.5%) completed the study or reached the end point.
+
+#### Figure 2. Changes in Median Glycated Hemoglobin Levels from Baseline through 78 Months
+This is a line graph showing the changes in median glycated hemoglobin (HbA1c) levels over time (from baseline to 78 months) in the standard therapy and intensive therapy groups. The x-axis represents time in months (0, 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78), and the y-axis represents glycated hemoglobin level (%). Vertical bars on the graph indicate interquartile ranges. At baseline, both groups had a median HbA1c level of 9.4%. By 3 months, levels decreased in both groups and stabilized at 6 months: the standard therapy group maintained a median of 8.4%, while the intensive therapy group stabilized at 6.9%, achieving the prespecified absolute between-group difference of 1.5 percentage points. The graph also includes a "No. at Risk" section below the x-axis, showing the number of patients remaining in each group at each time point (e.g., 899 for standard therapy and 892 for intensive therapy at 0 months; 329 for standard therapy and 340 for intensive therapy at 78 months).
+
+#### Figure 3. Kaplan–Meier Curves for the Time until the First Occurrence of a Primary or Secondary Outcome
+This figure consists of three Kaplan–Meier survival curves (Panels A, B, C) comparing the standard therapy and intensive therapy groups. The x-axis of each panel represents time in years, and the y-axis represents the probability of survival (without the respective outcome). Each panel includes a "No. at Risk" section below the x-axis, indicating the number of patients remaining in each group at different time points.
+
+- Panel A: Shows the time until the first occurrence of a major cardiovascular event (the primary outcome), which is a composite of myocardial infarction, stroke, death from cardiovascular causes, congestive heart failure, surgery for vascular disease, inoperable coronary disease, and amputation for ischemic gangrene. The hazard ratio in the intensive therapy group is 0.88 (95% confidence interval [CI], 0.74 to 1.05), with a P value of 0.14. The survival curves of the two groups are relatively close, indicating no significant difference in the time to the primary outcome.
+
+- Panel B: Displays the time until death from a cardiovascular cause (a component of the primary outcome). The hazard ratio is 1.32 (95% CI, 0.81 to 2.14), and the P value is 0.26. The curves do not show a significant difference between the two groups in terms of time to cardiovascular death.
+
+- Panel C: Illustrates the time until death from any cause (a secondary outcome). The hazard ratio is 1.07 (95% CI, 0.81 to 1.42), with a P value of 0.62. There is no significant difference between the two groups in the time to death from any cause, as reflected by the overlapping survival curves.
