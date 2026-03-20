@@ -1,0 +1,118 @@
+### Text Content (Before References)
+Int J Clin Exp Med 2018;11(6):6119-6124www.ijcem.com /ISSN:1940-5901/IJCEM0067965Original ArticleVirtual reality intervention in postoperative rehabilitation after total knee arthroplasty: a prospective and randomized controlled clinical trialChi Jin, Yongjian Feng, Yongjian Ni, Zhonglin ShanThe Third Department of Orthopedics, Central Hospital of Cangzhou City, Cangzhou, ChinaReceived October 26, 2017; Accepted March 15, 2018; Epub June 15, 2018; Published June 30, 2018
+
+Abstract: Objective: Our aim was to evaluate clinical benefits of virtual reality (VR) intervention for postoperative rehabilitation in osteoarthritis (OA) patients undergoing total knee arthroplasty (TKA). Methods: A total of 66 OA patients undergoing unilateral TKA were recruited and randomly assigned to experimental (VR rehabilitation) and control (conventional rehabilitation) groups. Comparison of WOMAC osteoarthritis index, HSS knee score, and VAS scale for pain and knee range of motion (ROM) before and after TKA was performed. Results: No significant differences were found in preoperative WOMAC index, HSS score, and knee ROM between control and experimental groups (P>0.05). WOMAC indexes were significantly lower and HSS scores were significantly higher in the experimental group than in the control group at 1, 3, and 6 months after TKA, respectively (P<0.05). No significant difference was found in VAS scale for pain at 1 day after TKA, between the two groups (P>0.05). VAS scales were significantly lower in experimental group than the control group at 3, 5, and 7 days after TKA (P<0.05). Knee ROMs were significantly higher in the experimental group than control group at 3, 7, and 14 days after TKA (P<0.05). It took 2.45±0.71 and 13.48±2.48 days for knee ROM to reach 60° and 90° in the experimental group, significantly lower than the 3.09±0.77 and 15.24±2.82 days in the control group (P<0.05). Conclusion: Clinical application of VR intervention can aid rehabilitation, reduce postoperative pain, and improve functional recovery in OA patients undergoing TKA.
+
+Keywords: Virtual reality, osteoarthritis, total knee arthroplasty, postoperative rehabilitation
+
+Introduction
+With an increase in the senior population, the incidence of osteoarthritis (OA) is increasing in China. Currently, total knee arthroplasty (TKA) is the only procedure to treat moderate to severe OA [1]. More than 600,000 TKAs are performed each year in China [2]. The success of TKA procedures depends not only on the operation but also on postoperative rehabilitation and exercise. Knee stiffness, limited joint flexibility, difficulty in walking, or impaired routine activity performance will most likely occur if postoperative exercise is not initiated early enough or not carried out properly. Maximum knee function recovery relies both on successful surgery and rehabilitation [3, 4].
+
+Early conventional postoperative rehabilitation after TKA includes mainly active and passive exercises conducted by patients. Although rehabilitation is guided by the doctor and assisted by tutorial videos, postoperative pain and immobility often results in phobia of patients, keeping them from initiating rehabilitation and impeding the recovery process [5, 6]. Therefore, a novel rehabilitation method is required to help relieve stress and reduce pain, increasing motivation for exercise and improving recovery outcomes. Virtual reality (VR) technology has been widely applied in many different fields. In medicine, it has been used for surgical training, anatomy learning, rehabilitation, and telemedicine. To date, no study has reported on VR intervention in postoperative rehabilitation after TKA [7, 8]. The present study aims to evaluate clinical practicality and benefits of VR intervention for postoperative rehabilitation in OA patients undergoing TKA.
+
+VR application in TKA
+
+Patients and methods
+Patients
+In our present study, a total of 66 OA patients undergoing unilateral TKA at Cangzhou Central Hospital from March 2015 to October 2016 were recruited. Patients were randomly assigned to experimental (VR rehabilitation) and control (conventional rehabilitation) groups, with 33 patients in each group. No significant differences were observed in clinical information including gender, age, and body mass index (BMI) between the two groups (P>0.05 Table 1).
+
+Inclusion criteria included: 1) Patients diagnosed as OA according to The Guidelines for Diagnosis and Treatment of Osteoarthritis issued by the Chinese Rheumatology Association in 2010; 2) Patients undergoing unilateral TKA for the first time; 3) Patients were informed about the study and informed consent was obtained; 4) The study was approved by the Ethics Committee of Cangzhou Central Hospital, Cangzhou, China.
+
+Exclusion criteria included: 1) Overweight (BMI ≥30 kg/m²); 2) Severe osteoporosis; 3) Ligament injury or periprosthetic fracture occurring during TKA; 4) Unstable vital signs, complications of incision healing, or clot formation in leg veins; 5) Vision loss, hearing loss, or functional illiteracy.
+
+Rehabilitation
+All 66 recruited patients exercised by performing foot dorsiflexion and plantar flexion beginning the first day after TKA. Exercises targeting quadriceps muscle strength occurred from the second day after TKA. Passive exercises on knee flexion began after the drainage tube was removed. Exercises were assisted with psychological intervention and pain management education. The above conventional rehabilitation protocol was adopted from a study by Szöts et al. [9]. In addition, VR (Mide Technology Inc., Cangzhou, China) intervention was applied in the experimental group beginning the second day after TKA. Patients were asked to row a boat using knee flexion (interaction of VR) in an immersive virtual environment for 30 minute periods, three times a day (Figure 1). Patients in the control group were asked to flex their knees passively using their arms until pain tolerance was reached. They held that position for 20 seconds followed by relaxing for 40 seconds. Patients were required to perform three sets of 30 repetitions daily. All postoperative rehabilitation was conducted under guidance of the study group.
+
+Evaluation standards
+Outcome of rehabilitation was evaluated by the same set of researchers. Standards used for assessment included: 1) Western Ontario and McMaster University osteoarthritis index (WOMAC) measured before TKA and 1, 3, 6 months after TKA; 2) Hospital for Special Surgery knee score (HSS) measured before TKA and 1, 3, and 6 months after TKA; 3) Visual analog scale (VAS) for pain measured at 1, 3, 5, and 7 days after TKA; 4) Range of motion (ROM) measured before TKA and at 3, 7, and 14 days after TKA. Days needed for knee ROM to reach 60° and 90° were also recorded.
+
+Statistical analysis
+Statistical analyses were performed using SPSS 20.0 software. Quantitative data are reported as mean ± standard deviation and Student’s t-test was used to compare differences between the two groups. Categorical data were expressed in percentages and X² test was used to compare differences between the two groups. Statistical significance was determined as (P<0.05).
+
+Results
+Clinical data
+Among the 33 OA patients in experimental group, 15 were male and 18 were female. Among them, 16 patients underwent left TKA and 17 underwent right TKA. Average age and BMI was calculated as 66.45 ± 3.49 and 24.52 ± 2.27 kg/m², respectively. Among the 33 OA patients in control group, 13 were male and 20 were female. Among them, 15 underwent left TKA and 18 underwent right TKA. Average age and BMI was calculated as 66.30 ± 4.41 and 24.97 ± 2.52 kg/m², respectively. No significant differences were observed in gender, age, location of joint, and BMI between the two groups (P>0.05, Table 1).
+
+WOMAC index
+No significant difference was observed in preoperative WOMAC index between the two groups (P>0.05). WOMAC indexes were significantly lower in both groups after TKA as rehabilitation continued (P<0.05). Also, WOMAC indexes were significantly lower in the experimental group than the control group at 1, 3, and 6 months after TKA (P<0.05 Table 2).
+
+HSS score
+No significant difference was observed in preoperative HSS score between the two groups (P>0.05). HSS scores were significantly higher in both groups after TKA as rehabilitation continued (P<0.05). Also, HSS scores were significantly higher in the experimental group than control group at 1, 3, and 6 months after TKA (P<0.05, Table 3).
+
+VAS Scale
+VAS scales were significantly lower in both groups after TKA, as rehabilitation continued (P<0.05). No significant difference was observed in VAS scales between the two groups 1 day after TKA (P>0.05). VAS scales were significantly lower in the experimental group than control group at 3, 5, and 7 days after TKA (P<0.05, Table 4).
+
+Knee ROM
+No significant difference was observed in preoperative knee ROM between the two groups (P>0.05). Knee ROM were significantly higher in both groups after TKA, as rehabilitation continued (P<0.05). Also, knee ROM were significantly higher in the experimental group than control group at 3, 7, and 14 days after TKA (P<0.05, Table 5). Time needed for knee ROM to reach 60° and 90° was significantly lower in the experimental group than in control group (P<0.05, Table 5).
+
+Discussion
+Virtual Reality can be defined as a manmade environment based on 3I-immersion, interaction, and imagination. The most significant value of VR application is provided by interaction, which is also key to distinguishing VR from 3D animation and multimedia technology [10]. VR technology is now widely used in the field of rehabilitation. VR can create a game-like virtual environment where patients feel part of a reality and are able to interact with the environment in a natural manner. As a result, motivation in rehabilitation can be increased. In addition, VR has both physiological and psychological benefits. Using language, words, pictures, and music, it can provide psychological suggestions to the patient, distract and release nervousness, and reduce the perception of pain [7, 8, 11].
+
+WOMAC osteoarthritis index and HSS knee score are common standards to assess knee function in OA patients. WOMAC index evaluates pain, stiffness, and physical functioning of the joints, covering almost all basic signs and symptoms of OA. A lower WOMAC index indicates better knee function. HSS knee score was developed by the Hospital for Special Surgery. A higher HSS score indicates better knee function [13]. In the present study, no significant differences were found in WOMAC index and HSS score between experimental and control groups before TKA (P>0.05). After rehabilitation with VR intervention for 1, 3, and 6 months, WOMAC indexes were significantly lower and HSS scores were significantly higher in the experimental group compared to control group (P<0.05).
+
+The major purposes of rehabilitation for OA patients who underwent TKA are to improve knee function, increase knee ROM, and relieve pain [12]. In the present study, VR intervention in rehabilitation after TKA improves functional recovery in OA patients.
+
+VR intervention in rehabilitation has three important factors: repeatability, feedback, and motivation. Effective rehabilitation requires the patient to practice an exercise repeatedly and to receive feedback during practice [14]. In conventional rehabilitation, patients exercise under the guidance of a physician and receive feedback from physician comments. The feedback acquired is passive. As patients cannot receive active visual feedback, conventional rehabilitation tends to cause psychological repellence towards rehabilitation which can impede recovery outcomes [15, 16]. VR can provide an artificial rehabilitation environment. Patients are clearer about the recovery process, more easily accepting treatment and more willing to collaborate. They collect feedback actively during exercise and adjust the exercise according to their own physiological and psychological condition [17, 18]. Therefore, VR can help patients receive active feedback from exercise, increase motivation for rehabilitation, and accelerate the recovery process. In the present study, recovery of knee function was better in the experimental group than control group, within the same recovery period.
+
+Postoperative pain is an important factor that can delay rehabilitation after TKA [19]. In the present study, VAS scales were above 7 in all 66 OA patients 1 day after TKA. This indicated severe pain and presented a major reason that kept some patients from initiating exercise. Pain is a mental and physical discomfort caused by intensive injury. It is not only physiological but also a psychological response. Psychological and medical intervention can help to relieve pain and accelerate the recovery progress [20, 21]. VR intervention provides a game-based rehabilitation model for patients, which can increase patient interest during the rehabilitation process. In addition, virtual environment can help to relieve pain by providing psychological suggestions and by changing the perception of pain in patients [22, 23]. The above notion was proven in the present study because VAS scales were significantly lower in the experimental group than control group at 5 and 7 days after TKA (P<0.05).
+
+VR intervention in rehabilitation after TKA can relieve postoperative pain, helping to improve quality of exercise and accelerate the recovery progress in OA patients. In our present study, VR intervention was a major reason why knee ROM recovered faster in the experimental group than the control group.
+
+In conclusion, VR intervention in rehabilitation after TKA is a promising approach. In the present study, VR intervention increased patient motivation for rehabilitation, reduced postoperative pain, and improved functional recovery in OA patients that underwent TKA.
+
+Disclosure of conflict of interest
+None.
+
+Address correspondence to: Dr. Chi Jin, The Third Department of Orthopedics, Central Hospital of Cangzhou City, 16 Xinhua Road, Cangzhou 061001, China. Tel: +86-317-2075706; E-mail: jinch558@163.com
+
+### Tables (TXT Format)
+Table 1. Comparison of preoperative clinical data
+| Category          | Subcategory       | Experimental Group (n=33) | Control Group (n=33) | t/X²  | P      |
+|-------------------|-------------------|----------------------------|-----------------------|-------|--------|
+| Gender            | Male (%)          | 15/45.45                   | 13/39.39              | 0.248 | 0.618  |
+| Gender            | Female (%)        | 18/54.55                   | 20/60.61              |       |        |
+| Joint-location    | Left (%)          | 16/48.48                   | 15/45.45              | 0.061 | 0.805  |
+| Joint-location    | Right (%)         | 17/51.52                   | 18/54.55              |       |        |
+| Age (years)       |                   | 66.45 ± 3.49               | 66.30 ± 4.41          | 0.155 | 0.878  |
+| BMI (kg/m²)       |                   | 24.52 ± 2.27               | 24.97 ± 2.52          | 0.771 | 0.444  |
+
+Table 2. Comparison of WOMAC index
+| Time                | Experimental Group (n=33) | Control Group (n=33) | t      | P      |
+|---------------------|----------------------------|-----------------------|--------|--------|
+| Before TKA          | 45.03 ± 5.13               | 44.18 ± 5.73          | 0.634  | 0.528  |
+| 1 month after TKA   | 32.00 ± 5.24 a             | 35.06 ± 5.19 a        | 2.382  | 0.020  |
+| 3 months after TKA  | 25.79 ± 4.20 a,b           | 29.67 ± 5.55 a,b      | 3.199  | 0.002  |
+| 6 months after TKA  | 21.58 ± 4.19 a,b,c         | 26.33 ± 3.85 a,b,c    | 4.814  | 0.000  |
+Note: a; The difference was significant when compared to WOMAC before TKA, P<0.05; b; The difference was significant when compared to WOMAC at 1 month after TKA, P<0.05; c; The difference was significant when compared to WOMAC at 3 months after TKA, P<0.05.
+
+Table 3. Comparison of HSS scores
+| Time                | Experimental Group (n=33) | Control Group (n=33) | t      | P      |
+|---------------------|----------------------------|-----------------------|--------|--------|
+| Before TKA          | 47.88 ± 4.71               | 48.76 ± 4.61          | 0.766  | 0.446  |
+| 1 month after TKA   | 68.39 ± 4.32 a             | 60.45 ± 4.56 a        | 7.257  | 0.000  |
+| 3 months after TKA  | 77.73 ± 5.48 a,b           | 67.94 ± 4.51 a,b      | 7.921  | 0.000  |
+| 6 months after TKA  | 87.55 ± 4.29 a,b,c         | 80.39 ± 4.39 a,b,c    | 6.692  | 0.000  |
+Note: a; The difference was significant when compared to HSS before TKA, P<0.05; b; The difference was significant when compared to HSS at 1 month after TKA, P<0.05; c; The difference was significant when compared to HSS at 3 months after TKA, P<0.05.
+
+Table 4. Comparisons of VAS scores
+| Time                | Experimental Group (n=33) | Control Group (n=33) | t      | P      |
+|---------------------|----------------------------|-----------------------|--------|--------|
+| 1 d after TKA       | 7.39 ± 1.14                | 7.42 ± 1.25           | 0.103  | 0.919  |
+| 3 d after TKA       | 6.48 ± 0.87 a              | 6.84 ± 1.09 a         | 1.495  | 0.043  |
+| 5 d after TKA       | 5.42 ± 0.79 a,b            | 5.97 ± 0.88 a,b       | 2.641  | 0.010  |
+| 7 d after TKA       | 3.87 ± 0.55 a,b,c          | 4.42 ± 0.79 a,b,c     | 3.259  | 0.002  |
+Note: a; The difference was significant when compared to VAS at 1 day after TKA, P<0.05; b; The difference was significant when compared to VAS at 3 days after TKA, P<0.05; c; The difference was significant when compared to VAS at 5 days after TKA, P<0.05.
+
+Table 5. Comparison of Knee ROM
+| Category                  | Experimental Group (n=33) | Control Group (n=33) | t      | P      |
+|---------------------------|----------------------------|-----------------------|--------|--------|
+| ROM (°) Before TKA        | 43.55 ± 3.38               | 42.85 ± 3.63          | 0.807  | 0.423  |
+| 3 d after TKA             | 65.03 ± 3.96 a             | 62.00 ± 4.65 a        | 2.849  | 0.006  |
+| 7 d after TKA             | 79.64 ± 6.45 a,b           | 71.76 ± 4.69 a,b      | 5.675  | 0.000  |
+| 14 d after TKA            | 93.73 ± 6.57 a,b,c         | 86.36 ± 4.97 a,b,c    | 5.134  | 0.000  |
+| Time (d) to reach 60°     | 2.45 ± 0.71                | 3.09 ± 0.77           | 3.500  | 0.001  |
+| Time (d) to reach 90°     | 13.48 ± 2.48               | 15.24 ± 2.82          | 2.691  | 0.009  |
+Note: a; The difference was significant when compared to knee ROM before TKA, P<0.05; b; The difference was significant when compared to knee ROM 3 days after TKA, P<0.05; c; The difference was significant when compared to knee ROM 7 days after TKA, P<0.05.
+
+### Image Description (TXT Format)
+Figure 1: The image depicts the virtual reality (VR) intervention applied to osteoarthritis (OA) patients after total knee arthroplasty (TKA). The intervention involves patients performing a rowing boat activity in an immersive virtual environment, where knee flexion is used as the interactive action with the VR system.

@@ -1,0 +1,294 @@
+# Text Content (Before References)
+COPYRIGHT2019 THE AUTHORS. PUBLISHED BY THE JOURNAL OF BONE AND JOINT SURGERY, INCORPORATED. ALL RIGHTS RESERVED.
+Effects of Virtual Exercise Rehabilitation In-Home Therapy Compared with Traditional Care After Total Knee Arthroplasty
+VERITAS, a Randomized Controlled Trial
+Janet Prvu Bettger, ScD, Cynthia L. Green, PhD, DaJuanicia N. Holmes, MS, Anang Chokshi, DPT, Richard C. Mather III, MD, MBA, Bryan T. Hoch, DPT, Arthur J. de Leon, MPT, Frank Aluisio, MD, Thorsten M. Seyler, MD, PhD, Daniel J. Del Gaizo, MD, John Chiavetta, MD, Laura Webb, BS, Vincent Miller, MMCi, Joseph M. Smith, MD, PhD, and Eric D. Peterson, MD, MPH
+Investigation performed at Duke University, Durham; Greensboro Orthopaedics, Greensboro; University of North Carolina at Chapel Hill Orthopaedics, Chapel Hill; and Raleigh Orthopaedics, Raleigh, North Carolina
+
+Background: Financial burden for patients, providers, and payers can reduce access to physical therapy (PT) after total knee arthroplasty (TKA). The purpose of the present study was to examine the effect of a virtual PT program on health-care costs and clinical outcomes as compared with traditional care after TKA.
+
+Methods: At least 10 days before unilateral TKA, patients from 4 clinical sites were enrolled and randomized 1:1 to the virtual PT program (involving an avatar [digitally simulated] coach, in-home 3-dimensional biometrics, and telerehabilitation with remote clinician oversight by a physical therapist) or to traditional PT care in the home or outpatient clinic. The primary outcome was total health-care costs for the 12-week post-hospital period. Secondary (noninferiority) outcomes included 6 and 12-week Knee injury and Osteoarthritis Outcome Score (KOOS); 6-week knee extension, knee flexion, and gait speed; and 12-week safety measures (patient-reported falls, pain, and hospital readmissions). All outcomes were analyzed on a modified intent-to-treat basis.
+
+Results: Of 306 patients (mean age, 65 years; 62.5% women) who were randomized from November 2016 to November 2017, 290 had TKA and 287 (including 143 in the virtual PT group and 144 in the usual care group) completed the trial. Virtual PT had lower costs at 12 weeks after discharge than usual care (median, $1,050 compared with $2,805; p<0.001). Mean costs were $2,745 lower for virtual PT patients. Virtual PT patients had fewer rehospitalizations than the usual care group (12 compared with 30; p=0.007). Virtual PT was noninferior to usual PT in terms of the KOOS at 6 weeks (difference, 0.77; 90% confidence interval [CI], -1.68 to 3.23) and 12 weeks (difference, -2.33; 90% CI, -4.98 to 0.31). Virtual PT was also noninferior to usual care at 6 weeks in terms of knee extension, knee flexion, and gait speed and at 12 weeks in terms of pain and hospital readmissions. Falls were reported by 19.4% of virtual PT patients and 14.6% of usual care patients (difference, 4.83%; 90% CI, -2.60 to 12.25).
+
+Conclusions: Relative to traditional home or clinic PT, virtual PT with telerehabilitation for skilled clinical oversight significantly lowered 3-month health-care costs after TKA while providing similar effectiveness. These findings have important implications for patients, health systems, and payers. Virtual PT with clinical oversight should be considered for patients managed with TKA.
+
+Level of Evidence: Therapeutic Level I. See Instructions for Authors for a complete description of levels of evidence.
+
+Rates of total knee arthroplasty (TKA) have doubled in recent years1. The projected increased use in the United States has substantial implications for health-care financing and postoperative clinical management1. Although physical therapy (PT) is effective for promoting functional recovery after TKA2, the provision of post-hospital rehabilitative care is highly variable and has been cited as the single largest driver in the variation of Medicare spending3. Even in this era of alternative payment and service-delivery models, addressing post-hospital care is less often considered a key strategy for improving quality and outcomes with lower costs4.
+
+Meeting the demands for PT is challenging5. A nationwide shortage of therapists is projected. Few therapists are available in traditionally underserved areas. Health insurance, including Medicare, limits the number of PT visits. Paying for PT out of pocket is costly. Digital health technology for PT could be an effective, low-cost, accessible option to help patients regain physical function after TKA. We designed the present study (VERITAS [Virtual Exercise Rehabilitation Inhome Therapy: A Randomized Study]) to examine costs and clinical noninferiority of a virtual PT program compared with traditional PT care after TKA. Our hypotheses were that (1) patients who received virtual PT would have lower total billable costs in the 12 weeks following hospital discharge compared with patients who received usual care with traditional PT and (2) the clinical effectiveness and safety of virtual PT would be noninferior to those of usual care. To our knowledge, this is the first randomized controlled trial to examine cost and clinical outcomes of this type of virtual PT program, which could serve to increase home-based access to PT after TKA.
+
+Materials and Methods
+
+The primary aim of this randomized controlled trial was to evaluate the effect of a virtual PT program on total costs in the 12 weeks after inpatient TKA. The secondary aims were to examine whether the clinical effectiveness and safety of virtual PT were noninferior to those of usual care with traditional PT. The coordinating center and each participating site’s institutional review board approved the trial protocol. Each patient provided written informed consent. The patient-enrollment period was from November 1, 2016, to November 23, 2017, with follow-up through March 12, 2018 (clinicaltrials.gov identifier: NCT02914210).
+
+Two academic medical centers and 2 independent private practices in North Carolina screened patients who had an in-person clinic visit at least 10 days prior to TKA. Patients who were ≥18 years of age, who were scheduled for TKA for the treatment of nontraumatic conditions, and who had a Risk Assessment and Prediction Tool (RAPT) score of ≥6 (indicating expected discharge to home after surgical hospitalization)6 were eligible. VERITAS excluded patients who were scheduled to undergo bilateral or staged bilateral TKA, who were in a nursing home prior to surgery, or who were unable or unwilling to provide informed consent.
+
+During a preoperative visit, eligible patients were given information about the trial and virtual PT and were invited to participate. After informed consent had been obtained, the participating sites were electronically provided with a study identification number for each patient from the coordinating center’s web-based registry system. Patients were randomized in a 1:1 ratio to either virtual PT or usual care.
+
+The patient encounter for enrollment, consent, and randomization was considered the baseline. Patients provided personal and family contact information, completed a medical record release, performed a physical function performance test (10-m walk7), and self-reported falls and health-care utilization during the 3 months prior to baseline, medical history, employment, and health status. Health status was assessed with standardized instruments: the Knee injury and Osteoarthritis Outcome Score (KOOS) for self-reported physical function8, the Patient-Reported Outcomes Measurement Information System (PROMIS) 10-item global health assessment of physical and mental health9, Satisfaction with Physical Function10, and physical activity (number of minutes and number of days engaged in moderate to strenuous exercise). Each patient set personal recovery goals (with use of the adapted Patient-Specific Functional Scale11) and was given a diary to record progress toward their goals and all health-care encounters after surgery.
+
+Prior to surgery, patients in the intervention group had the virtual PT system installed in their home, virtually met with their telehealth physical therapist, demonstrated the ability to use the system, and received recommended exercises to begin after returning home following surgery. The Virtual Exercise Rehabilitation Assistant (VERA; Reflexion Health) system used in the trial received U.S. Food and Drug Administration (FDA) 510(k) clearance in October 2015. VERA is a cloud-based virtual telehealth system that functions with use of 3-dimensional (3D) tracking technology to quantify pose and motion, an avatar (digitally simulated coach) to demonstrate and guide activity, visual and audible instructions and immediate feedback on exercise quality, and a virtual video connection for synchronous telehealth visits with an assigned intervention telehealth physical therapist. Individualized prescribed therapy regimens were electronically programmed for patients through the clinician interface prior to surgery.
+
+Patients in the intervention group could use the system immediately after hospital discharge to view their own progress. The frequency and duration of use were unrestricted. The VERA system tracked activity, performance, exercise quality, and adherence; the telehealth therapist monitored the patient’s progress asynchronously. Patients had a video visit with their telehealth therapist in the week after hospital discharge and weekly thereafter to review progress and to revise the therapy regimen accordingly. The telehealth therapist provided remote clinician oversight to the patients for the duration of the intervention and communicated progress to each clinical site ahead of the patients’ 2 and 6-week postoperative visits. Patients and the telehealth therapist mutually agreed when therapy goals were met for discharge from virtual PT. All patients who were randomized to virtual PT were able to receive in-person PT as clinically deemed necessary.
+
+Patients in the usual care group followed their care team’s recommendations for all preoperative and postoperative medical and rehabilitative care.
+
+At the time of hospital discharge after surgery, the site coordinator recorded hospital admission, surgery and discharge dates, discharge destination, pain score, 10-m gait speed, and inpatient falls. All patients in the trial were discharged to home. At the 6-week clinic visit, site staff reexamined gait speed and measured knee flexion and extension. Sites collected all data prospectively and entered the data into a web-based data-entry system. Trained staff using standardized scripts completed the 6 and 12-week outcome assessments (lasting approximately 20 minutes) from the centralized call center.
+
+The study’s primary end point was total health service use costs in the 12 weeks following hospital discharge. Physician, urgent care, emergency room, home health, and outpatient PT visits, and inpatient hospital, rehabilitation, and skilled nursing facility stays, reported by patients and participating sites, were assigned costs based on Medicare fee-for-service rates. Telehealth for rehabilitation services was not a reimbursable service; a total intervention cost was assigned to include telehealth therapists’ direct and indirect time.
+
+Expected post-procedure cost estimates were not available in the literature to guide the present study’s sample size calculations; however, we estimated that an effect size of approximately 0.33 could be detected with 150 subjects per group with at least 80% power. This small to medium effect size was the ratio of the hypothesized mean difference divided by the standard deviation (SD) assumed for usual care and assuming an equal variance in the virtual PT group. Lower variability would enable the detection of a smaller cost difference or the detection of a larger difference with fewer patients. Enrollment concluded with 306 patients, which included 6 additional patients for initial process refinement.
+
+Descriptive statistics were reported for all patients and by treatment group. No imputations were made for missing values. All outcomes were analyzed on a modified intent-to-treat basis. “Modified” indicates that only patients who had TKA were analyzed according to the treatment to which they were randomized, regardless of whether or not they completed all protocol requirements. Patients who withdrew consent to participate and requested in writing that all previously collected data be removed were entirely removed from the study.
+
+The primary cost comparison was performed with use of the 2-sided nonparametric Wilcoxon rank sum test. Total post-hospital cost algorithms and full details on the noninferiority margin for each measure are shown in the Methods section of the Appendix7,12-18. Secondary outcomes that were evaluated for noninferiority included the KOOS at 6 and 12 weeks; knee extension, knee flexion, and gait speed at 6 weeks; the incidence of any reported falls from discharge to 12 weeks; pain; and total rehospitalizations at 12 weeks. Each noninferiority end point was analyzed by constructing a 2-sided 90% confidence interval (CI), which is equivalent to a 1-sided 95% CI for the mean difference between the intervention and usual care groups. Noninferiority was determined if the upper bound of the difference indicative of treatment benefit in the usual care group compared with the virtual PT group was less than the specified margin for each end point. No adjustment for multiple noninferiority comparisons was necessary because all tests had to be significant to determine noninferiority (in accordance with the rule for union intersection multiple testing) for effectiveness and safety.
+
+We used logistic regression for a sensitivity analysis of fall incidence at 6 weeks, 12 weeks, and 6 to 12 weeks after adjusting for reported baseline falls. Unadjusted and adjusted incidence rates are reported with 95% CIs.
+
+We explored the superiority of virtual PT compared with traditional PT for postoperative end points at 6 and 12 weeks as well as for change over time (from baseline to 6 and 12 weeks, from discharge to 6 and 12 weeks, and from 6 to 12 weeks). Change was defined as the later time point minus the earlier time point. The Sidak method was used to adjust the overall alpha level for multiple comparisons.
+
+No interim efficacy or safety analysis was performed for this study. All analyses were completed with use of SAS (version ≥9.4 SAS Institute), and the level of significance was set at p<0.05.
+
+Results
+
+Figure 1 shows information on patient recruitment, enrollment, and follow-up. Of 1,458 adults screened, 746 were ineligible, 406 declined to participate, and 306 (mean age, 65 years; 62.5% women) were randomized (153 per group). Table I presents the patients’ baseline characteristics, which were not significantly different between the groups. All patients selected a recovery goal; 60.3% of patients in the intervention group and 51.6% of those in the usual care group selected return to recreation, leisure, or other physical activities.
+
+Patients who received virtual PT had lower total post-hospital costs at 12 weeks compared with patients who were randomized to usual care. The median total costs (and interquartile range [IQR]) in U.S. dollars were $1,050 ($900 to $1,200) for the intervention group and $2,805 ($1,645 to $4,505) for the usual care group (p<0.001) (Table II). The mean difference was $2,745, which represented the 2017 to 2018 cost savings that a hospital could expect per patient randomized to virtual PT.
+
+After a mean hospital stay of 1.7 ± 1.0 days in both groups, patients in the virtual PT group reported that they participated in PT a mean of 5.9 ± 1.7 days per week, compared with 3.3 ± 2.0 days per week for patients in the usual care group (p<0.001) (Table II). The numbers of billable home health and outpatient PT visits were significantly lower for the virtual PT group than for the usual care group (p<0.001). Differences between the groups in terms of inpatient rehabilitation, skilled nursing facility use, and the number of physician, urgent care, and emergency room visits were not significant. The virtual PT group had 12 rehospitalizations in 12 weeks, compared with 30 rehospitalizations in 12 weeks for the usual care group (p=0.007).
+
+There was no estimated difference between virtual and traditional PT in terms of effectiveness at 6 and 12 weeks (Table III). Virtual PT was noninferior to traditional PT in terms of gait speed, knee extension, and knee flexion at 6 weeks and in terms of functional status (KOOS) at 6 and 12 weeks.
+
+The differences in pain and rehospitalizations between groups were determined to be noninferior at 12 weeks compared with the prespecified margins for these end points. A fall between the time of hospital discharge and the 12-week follow-up was reported by 19.4% of patients in the intervention group and 14.6% of those in the usual care group, with a 4.8% difference between groups (90% CI, -2.60 to 12.25). Falls at 12 weeks failed to meet the noninferiority margin (p=0.126) (Table III).
+
+There were no significant differences between groups in terms of any of the predefined 6-week secondary performance and patient-reported outcome measures (Table IV). Outcomes at 12 weeks did not differ between groups except that patients in the virtual PT group found activities related to sports and recreation (squatting, running, jumping, twisting/pivoting, kneeling) less difficult on average than those in the usual care group (75.6 ± 19.2 compared with 61.5 ± 28.3; p=0.006).
+
+Adherence to completing all prescribed exercises was reported by 88.3% of patients in the intervention group and 65.4% of patients in the traditional PT care group (p<0.001). Patients who were randomized to virtual PT and who used the system at least once were asked the likelihood of referring the virtual PT program to a friend; 83.3% of those patients were considered “promoters” (scored 9 or 10 of 10, with 10 corresponding with “extremely likely”) and 9.5% were “detractors” (scored 0 to 6, corresponding with “not likely” to “neutral”). The net promoter score was 73.8, indicating that patients were satisfied overall.
+
+No differences were found between the groups in terms of the exploratory outcomes examined at the time of hospital discharge (see Appendix eTable1). Changes in functioning and health for outcomes measured at >1 time point are shown in Appendix eTable2. All outcomes for all time-periods assessed were similar between groups, except that patients in the usual care group had a larger decrease in pain from baseline to 6 weeks (-2.5 ± 2.5) than those in the virtual PT group (-1.5 ± 2.5) (p=0.010).
+
+The unadjusted and adjusted incidences of falls for the 2 groups were similar (see Appendix eTable3). The adjusted 6-week rates were 16.5% (95% CI, 10.2 to 25.7) and 15.9% (95% CI, 9.7 to 25.0) for the virtual and usual care groups, respectively, and the 12-week rates were 25.8% (95% CI, 17.7 to 35.9) and 19.1% (95% CI, 12.2 to 28.7), respectively.
+
+Discussion
+
+In this randomized controlled trial of patients managed with TKA, a virtual PT program with an avatar coach, 3D biometrics, and skilled telerehabilitation resulted in lower 12-week postoperative costs than traditional PT. Virtual PT was determined to be as effective as traditional PT for addressing function and disability and as safe as traditional PT in terms of pain and rehospitalization. Although patients in the virtual PT group reported participating in PT more days per week with greater adherence to their prescribed program than patients in the usual care group, overall outcomes were similar between groups, with 3 exceptions. Specifically, patients in the virtual PT group reported less difficulty with knee function during sports and recreation activities, had more falls, and had fewer rehospitalizations than patients in the usual care group at 12 weeks. These findings have important implications for patients, health systems, and payers and suggest that virtual PT with a telehealth therapist for remote clinical monitoring and guidance should be considered for patients after TKA.
+
+Outcomes for different payment and TKA service-delivery models have varied. Substantial hospital savings were reported from joint replacement bundled-payment program implementation but decreases in post-hospital costs only occurred when post-acute services were purposely addressed in the bundle19,20. The present VERITAS trial directly addressed post-acute costs and demonstrated that virtual PT significantly lowered billable costs.
+
+Telerehabilitation clinical trials for patients undergoing TKA in Canada have demonstrated similar clinical outcomes, costs, and patient satisfaction as compared with traditional PT, without additional patient risks21-25. Audio-video conferencing between trained therapists and patients removes geographic and transportation barriers but does not address the limited number of therapists available to manage the number of patients in need of care. The expected increase of TKA, particularly outpatient TKA, will outpace the availability of therapists1. The present VERITAS trial showed that a centralized care-coordinating physical therapist can manage patients asynchronously and with weekly telehealth visits at lower costs, with fewer rehospitalizations and otherwise similar outcomes.
+
+Patients in the virtual PT group were satisfied with the system, and the percentage of patients who were lost to follow-up was low. However, it must be appreciated that variability in virtual PT programs is likely wide. Patients in the present study received feedback from an avatar coach informed with 3D biometrics. The telehealth therapist monitored a dashboard of metrics derived from 3D biometric data and recorded video of patients’ home-based therapy. Therapists had a weekly video visit with each patient and sent reports to the clinic-based team prior to in-person visits. It is unclear if the findings for this virtual rehabilitation platform generalize to other virtual PT programs; however, the present study demonstrates opportunities to innovate to make PT accessible and integrated in the episode of care.
+
+The present trial had several limitations. First, we chose to specify costs as they would be billed and reimbursed, and we used clinical site documentation and patient-reported use. We did not include the costs of technology used by the patients and therapists, equipment home installation and removal, or patient co-pays, deductibles, travel, and clinic wait time. Telerehabilitation reimbursement varies by state, and estimated total cost savings need local interpretation. Second, a third of eligible patients declined to participate in the study. Further research is needed on the social and behavioral aspects related to accepting virtual PT as an option for therapy. Third, the prescribed exercises varied by therapist and patient in both groups. Finally, although we only studied results among 4 practices in North Carolina, enrolled patients and sites were broadly representative. Research with patients from regions with greater socioeconomic diversity would further inform utility and applicability.
+
+In conclusion, patients receiving TKA and assigned to receive virtual PT with VERA had significantly lower 3-month health-care costs relative to usual care. Virtual PT was as effective and safe as traditional PT (except in terms of the rate of falls) and was found to be beneficial for knee function during sports and recreation as well as for reducing rehospitalizations in the 12 weeks after surgery. Implementation research is needed to study uptake at the payer, health system, and patient levels.
+
+Appendix
+
+Supporting material provided by the authors is posted with the online version of this article as a data supplement at jbjs.org (http://links.lww.com/XXXXXXX).
+
+NOTE: We acknowledge the important contributions of the research and health-care professionals for each participating site for operationalizing and implementing this study as part of practice. We are also grateful to the DCRI call center, information technology, registry, and data-support teams for continuous refinement and improvements for study optimization.
+
+Janet Prvu Bettger, ScD1
+Cynthia L. Green, PhD2
+DaJuanicia N. Holmes, MS2
+Anang Chokshi, DPT3
+Richard C. Mather III, MD, MBA1,2
+Bryan T. Hoch, DPT1
+Arthur J. de Leon, MPT1
+Frank Aluisio, MD4
+Thorsten M. Seyler, MD, PhD1
+Daniel J. Del Gaizo, MD5
+John Chiavetta, MD6
+Laura Webb, BS2
+Vincent Miller, MMCi2
+Joseph M. Smith, MD, PhD3,7
+Eric D. Peterson, MD, MPH2
+
+1Departments of Orthopaedic Surgery (J.P.B., R.C.M., and T.M.S.) and Physical and Occupational Therapy (B.T.H. and A.J.d.L.), Duke University, Durham, North Carolina
+2Duke Clinical Research Institute, Durham, North Carolina
+3Reflexion Health, San Diego, California
+4Greensboro Orthopaedics, Greensboro, North Carolina
+5University of North Carolina at Chapel Hill Orthopaedics, Chapel Hill, North Carolina
+6Raleigh Orthopaedics, Raleigh, North Carolina
+7Department of Biomedical Engineering, Johns Hopkins School of Medicine, Baltimore, Maryland
+
+Email address for J. Prvu Bettger: janet.bettger@duke.edu
+
+ORCID iD for J.Prvu Bettger: 0000-0001-9708-8413
+ORCID iD for C.L. Green: 0000-0002-0186-5191
+ORCID iD for D.N. Holmes: 0000-0002-0942-1413
+ORCID iD for A. Chokshi: 0000-0003-4754-0568
+ORCID iD for R.C. Mather III: 0000-0002-1525-7568
+ORCID iD for B.T. Hoch: 0000-0002-7208-2629
+ORCID iD for A.J. de Leon: 0000-0003-0593-4737
+ORCID iD for F. Aluisio: 0000-0002-3267-9447
+ORCID iD for T.M. Seyler: 0000-0003-1157-132X
+ORCID iD for D.J. Del Gaizo: 0000-0002-6662-1104
+ORCID iD for J. Chiavetta: 0000-0002-7679-1625
+ORCID iD for L. Webb: 0000-0003-1060-2833
+ORCID iD for V. Miller: 0000-0002-5511-1328
+ORCID iD for J.M. Smith: 0000-0002-2423-8043
+ORCID iD for E.D. Peterson: 0000-0002-5415-4721
+
+# Tables (TXT Format)
+
+## Table I Baseline Patient Characteristics*
+Variables	Intervention Group (N = 151 †)	Usual Care Group (N = 153)
+Sociodemographic characteristics		
+Age ‡ (yr)	65.4 ± 7.7	65.1 ± 9.2
+Education ‡ (no. of years completed)	15.4 ± 4.0	15.2 ± 3.5
+Female sex	59.6%	65.4%
+Race		
+White	85.3%	77.8%
+Black/African-American	10.7%	18.3%
+Other	1.3%	2.0%
+Multiple	2.7%	2.0%
+Marital status		
+Married	77.5%	65.4%
+Separated/divorced	13.2%	13.1%
+Widowed	4.6%	14.4%
+Single/never married	4.6%	7.2%
+Primary health insurance		
+Private	38.4%	41.8%
+Medicare	51.0%	49.0%
+Medicaid	4.0%	2.0%
+Non-Medicaid state plan	4.0%	2.6%
+Military	2.6%	3.9%
+No health insurance	0%	0.7%
+Secondary health insurance	51.0%	40.5%
+Work status		
+Employed full or part-time outside of the home	36.4%	43.8%
+Employed full or part-time as a telecommuter or from home	4.0%	2.6%
+Not working, unemployed, unable to work, or retired	59.6%	53.6%
+Comfort with use of technology (tablet, Apple iPad, smartphone, or computer)		
+Very comfortable	58.0%	62.1%
+Somewhat comfortable	33.0%	27.5%
+Neutral	2.7%	4.6%
+Somewhat uncomfortable	4.0%	2.6%
+Very uncomfortable	2.0%	3.3%
+Health status		
+Prior knee replacement	20.5%	20.3%
+Back pain	31.8%	32.0%
+Osteoarthritis	84.1%	84.3%
+Hypertension	50.3%	50.3%
+Depression	21.2%	24.2%
+Use of a gait aid (single-point, crutch, or frame)	21.3%	23.2%
+Body mass index ‡ (kg/m²)	31.6 ± 5.7	31.9 ± 5.9
+KOOS ‡ (points)	37.0 ± 12.0	36.0 ± 13.0
+Symptoms	42.4 ± 11.9	42.9 ± 13.2
+Pain	46.6 ± 13.0	45.0 ± 16.3
+Function/daily living	51.7 ± 16.7	50.0 ± 17.2
+Sports and recreation	20.7 ± 19.8	19.3 ± 20.4
+Quality of life ‡	23.5 ± 16.3	22.7 ± 16.7
+PROMIS (points)		
+Physical health ‡	12.5 ± 2.4	12.3 ± 2.5
+Mental health ‡	15.0 ± 2.8	14.9 ± 3.2
+Satisfaction with physical function ‡ (points)	1.3 ± 1.3	1.4 ± 1.3
+10-m gait speed ‡ § (m/s)	1.0 ± 0.3	1.0 ± 0.3
+Physical activity# (min/wk)	30.0 (0.0, 120.0)	20.0 (0.0, 90.0)
+Pain ‡ (points)	5.2 ± 2.1	5.7 ± 2.0
+Fall in previous 3 months	15.9%	13.9%
+Hospitalization in previous 3 months	4.7%	4.6%
+Recovery goal		
+Self-scored level of difficulty for goal selected (0-10) ‡	3.6 ± 2.4	3.6 ± 2.3
+Selected recovery goal**		
+Perform basic movements	27.2%	30.7%
+Perform self-care	0.7%	0.0%
+Perform home activities	9.3%	9.2%
+Attend social or community activities outside the home with minimal discomfort	1.3%	3.9%
+Return to work or school	1.3%	4.6%
+Return to recreation, leisure, or other physical activities	60.3%	51.6%
+
+*Categorical data are displayed for non-missing data. †Two patients were deemed ineligible after baseline history and were administratively removed after randomization and before surgery. ‡The values are given as the mean and the standard deviation. §Gait speed was measured for 132 patients in the intervention group and 134 in the usual care group. #The values are given as the median and the interquartile range. **The values are given as the percentage of the group who selected each recovery goal.
+
+## Table II Primary Outcome of Post-Hospital 12-Week Costs and Health-Care Utilization by Study Group
+	Intervention Group (N = 143)	Usual Care Group (N = 144)	P Value*
+Primary outcome: 12-week health service use costs		<0.001
+Mean and standard deviation	$1,781.96 ± $2,531.77	$4,526.77 ± $4,498.35	
+Median	$1,050.00	$2,805.00	
+Interquartile range	$900.00, $1,200.00	$1,644.50, $4,505.00	
+Secondary outcome: 12-week health-care utilization †		
+Home health physical therapy (no. of visits)	36 (0.3 ± 1.6)	686 (4.8 ± 6.3)	<0.001
+Outpatient physical therapy (no. of visits)	199 (1.4 ± 4.4)	1,450 (10.1 ± 8.1)	<0.001
+Physician clinic (no. of visits)	379 (2.7 ± 1.7)	398 (2.8 ± 2.0)	NS
+Communication with physical therapy ‡ (no. of calls/emails)	817 (5.7 ± 5.2)	19 (0.1 ± 0.4)	<0.001
+Communication with physician ‡ (no. of calls/emails)	149 (1.0 ± 2.0)	126 (0.9 ± 1.8)	NS
+Urgent care (no. of visits)	11 (0.1 ± 0.3)	16 (0.1 ± 0.4)	NS
+Emergency room (no. of visits)	10 (0.1 ± 0.3)	14 (0.1 ± 0.3)	NS
+Inpatient rehabilitation (no. of inpatient stays)	0 (0 ± 0)	2 (0 ± 0.1)	-
+Skilled nursing facility (no. of inpatient stays)	2 (0 ± 0.1)	5 (0 ± 0.2)	NS
+Rehospitalization (no. of inpatient stays)	12 (0.1 ± 0.3)	30 (0.2 ± 0.5)	0.007
+
+*NS = nonsignificant. No p value is given for inpatient rehabilitation stay because no such services were reported in the intervention group. †Health-care utilization is reported as the total number of health services used for all patients in each group, with the mean and standard deviation in parentheses. Differences between groups are at the patient level. ‡Calls and emails were not calculated as part of total costs.
+
+## Table III Secondary Effectiveness and Safety Outcomes Assessed at 6 and 12 Weeks After Hospital Discharge for Noninferiority of Virtual Physical Therapy Versus Traditional Physical Therapy*
+Outcome	Noninferiority Margin	No. of Observations	Intervention Group	Usual Care Group	Between-Group Difference (90% CI)
+Effectiveness		
+6-wk KOOS	10 points	284	61.0 ± 11.5	61.8 ± 13.5	0.77 (-1.68, 3.23)
+6-wk knee extension	6.3°	285	2.5 ± 3.6	2.9 ± 3.4	1.35 (0.74, 2.46)↑
+6-wk knee flexion	9.6°	285	114.5 ± 15.3	111.4 ± 16.0	-3.05 (-6.11, 0.02)
+6-wk 10-m gait speed	0.10 m/s	247	1.0 ± 0.3	1.0 ± 0.3	-0.04 (-0.10, 0.01)
+12-wk KOOS	10 points	272	69.6 ± 12.1	67.2 ± 14.3	-2.33 (-4.98, 0.31)
+Safety		
+Falls in 12 wk	10% incidence	276	19.4%	14.6%	4.83 (-2.60, 12.25)
+Pain at 12 wk	1.7 points	271	2.7 ± 2.0	3.0 ± 2.6	0.96 (0.82, 1.14)†
+Rehospitalizations in 12 wk	1 rehospitalization	287	0.1 ± 0.3	0.2 ± 0.5	-0.12 (-0.20, -0.05)
+
+*All effectiveness and safety outcomes are reported as the mean and the standard deviation except falls which is the reported rate over 12 weeks expressed as a percentage. The between-group difference includes a 90% CI in parentheses. †Values presented for knee extension and pain were not normally distributed and were transformed by taking the natural log of the original values (presented above) before calculating the estimated difference between groups (resulting in an estimated difference not equal to the difference between the means presented).
+
+## Table IV Treatment Comparison for Superiority of Secondary and Exploratory End Points at 6 and 12 Weeks After Hospital Discharge
+	No. of Observations	Intervention Group*	Usual Care Group*	P Value
+6-week outcomes		
+Knee extension (deg)	285	2.5 ± 3.6	2.9 ± 3.4	0.415
+Knee flexion (deg)	285	114.5 ± 15.3	111.4 ± 16.0	0.102
+10-m gait speed (m/s)	247	1.0 ± 0.3	1.0 ± 0.3	0.199
+Pain (points)	285	3.6 ± 2.0	3.2 ± 2.0	0.120
+KOOS (points)	284	61.0 ± 11.5	61.8 ± 13.5	0.604
+Pain	284	66.6 ± 15.6	68.7 ± 17.1	0.286
+Symptoms	283	54.7 ± 11.5	53.9 ± 11.8	0.530
+Function/daily living	282	76.4 ± 13.9	75.7 ± 16.6	0.959
+Sports/recreation	54	61.2 ± 29.4	50.2 ± 31.0	0.187
+Quality of life	283	46.5 ± 18.7	50.5 ± 19.6	0.082
+KOOS JR (points)	166	67.9 ± 11.6	67.5 ± 12.8	0.862
+Physical activity † (min of moderate-strenuous exercise/wk)	283	40.0 (0.0, 150.0)	4.0 (0.0, 90.0)	0.089
+Return to work	132		0.915
+Same schedule	22.1% (15 of 68)	21.9% (14 of 64)	
+Modified schedule	25.0% (17 of 68)	28.1% (18 of 64)	
+Did not return	52.9% (36 of 68)	50.0% (32 of 64)	
+12-week patient-reported outcomes		
+Exercise prescription adherence ‡ (% of patients who completed all exercises)	270	88.3% (121 of 137)	65.4% (87 of 133)	<0.001
+Progress toward recovery goal (score of 10) (points)	287	8.3 ± 2.0	8.2 ± 2.0	0.786
+Percentage of patients who achieved goal	34.3% (49 of 143)	36.8% (53 of 144)	0.653
+Achieved goal (days from surgery to achieve goal)	66.9 ± 19.1	65.9 ± 21.8	0.741
+KOOS (points)	272	69.6 ± 12.1	67.2 ± 14.3	0.146
+Pain	270	78.4 ± 14.0	76.7 ± 17.5	0.604
+Symptoms	271	54.9 ± 12.2	53.9 ± 11.1	0.487
+Function/daily living	269	82.7 ± 13.6	80.9 ± 17.7	0.895
+Sports/recreation	95	75.6 ± 19.2	61.5 ± 28.3	0.006
+Quality of life	269	61.8 ± 18.8	58.3 ± 20.0	0.140
+KOOS JR (points)	201	74.3 ± 12.2	72.9 ± 13.0	0.418
+PROMIS (points)		
+Physical health	271	15.3 ± 2.4	14.8 ± 2.8	0.114
+Mental health	269	16.6 ± 2.5	16.1 ± 3.2	0.352
+Satisfaction with physical function (points)	272	4.9 ± 1.3	4.9 ± 1.2	0.355
+Physical activity † (min of moderate-strenuous exercise/wk)	272	60.0 (0.0, 150.0)	60.0 (0.0, 120.0)	0.602
+Return to work	128		0.750
+Same schedule	65.1% (41 of 63)	64.6% (42 of 65)	
+Modified schedule	14.3% (9 of 63)	18.5% (12 of 65)	
+Did not return	20.6% (13 of 63)	16.9% (11 of 65)	
+Falls in 12 wk	276	19.4% (27 of 139)	14.6% (20 of 137)	0.286
+Pain at 12 wk (points)	271	2.7 ± 2.0	3.0 ± 2.6	0.710
+
+*All continuous variables are given as the mean and the standard deviation unless noted otherwise. †The values are given as the median, with the 25th and 75th percentiles in parentheses. ‡The reasons for not completing all prescribed exercises did not vary between the groups.
+
+# Image Description (TXT Format)
+Figure 1 is a participant flow diagram of the VERITAS trial. The diagram outlines the process of patient recruitment, enrollment, randomization, intervention, follow-up, and analysis. A total of 1,458 adults were screened for eligibility at four clinical sites. Among them, 746 were excluded (due to surgical reasons, surgery timing, clinic/staffing issues, provider discretion, RAPT score <6, or other patient reasons), 406 declined to participate, and 306 patients were randomized in a 1:1 ratio to either the virtual PT program (intervention group, n=153) or traditional clinic/home health PT (usual care group, n=153). 
+
+After randomization, 145 patients in the intervention group and 145 patients in the usual care group underwent total knee arthroplasty (TKA). Following hospital discharge, the intervention group received PT using the VERA (Virtual Exercise Rehabilitation Assistant) system, while the usual care group received referred usual care PT. Prior to the 6-week follow-up, 2 patients in the intervention group and 1 patient in the usual care group withdrew from the study. 
+
+Subsequently, 143 patients in the intervention group and 144 patients in the usual care group completed the 6-week and 12-week postoperative follow-ups. During the 12-week follow-up period, 3 patients in the intervention group and 4 patients in the usual care group were lost to follow-up (LTFU). Ultimately, 143 patients in the intervention group and 144 patients in the usual care group were included in the final analysis. 
+
+Abbreviations used in the diagram: TKA = total knee arthroplasty, RAPT = Risk Assessment and Prediction Tool, PT = physical therapy, VERA = Virtual Exercise Rehabilitation Assistant, w/d = withdrawn, LTFU = lost to follow-up, wk = week.

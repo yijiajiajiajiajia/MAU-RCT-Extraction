@@ -1,0 +1,149 @@
+J Rehabil Med 2013; 45: 392–396
+ORIGINAL REPORTEffectiveness of an Interactive Virtual Telerehabilitation System in Patients after Total Knee Arthroplasty: A Randomized Controlled TrialMercè Piqueras, PT1,2, Ester Marco, MD1,2, Maria Coll, PT1,2, Ferran Escalada, MD1,2, Alex Ballester, PT1,2, Carme Cinca, PT1,2, Roser Belmonte, MD1,2 and Josep M. Muniesa, MD1,2From the 1Physical Medicine and Rehabilitation, Parc de Salut Mar and 2Universitat Autònoma de Barcelona, Barcelona, Spain
+Objective: To compare the effectiveness of a new interactive virtual telerehabilitation system and a conventional programme following total knee arthroplasty.
+Design: Randomized, controlled, single-blind clinical trial.
+Participants: A total of 142 total knee arthroplasty patients.
+Methods: Participants were randomly assigned to receive either: (i) conventional out-patient physical therapy; or (ii) interactive virtual telerehabilitation system. The main outcome was function assessed with active range of knee movement. Other variables, such as muscle strength, walk speed, pain and the Western Ontario and McMaster Universities Osteoarthritis Index, were also collected. Comparisons were made on the basis of data collected routinely before surgery, at the end of the rehabilitation programme, and at 3 months follow-up. Quantitative variables were compared by MannWhitney U test. The agreed alpha risk for all hypothesis testing was 0.05.
+Results: Baseline characteristics between groups were comparable. All participants improved after the 2-week intervention on all outcome variables (p<0.05). Patients in the interactive virtual telerehabilitation group achieved improvements in the functional variables similar to those achieved in the conventional therapy group.
+Conclusion: A 2-week interactive virtual telerehabilitation programme is at least as effective as conventional therapy. Telerehabilitation is a promising alternative to traditional face-to-face therapies after discharge from total knee arthroplasty, especially for those patients who have difficulty with transportation to rehabilitation centres.
+Key words: telemedicine; rehabilitation; telerehabilitation; arthroplasty; knee.
+J Rehabil Med 2013; 45: 392–396Correspondence address: Mercè Piqueras, Physical Medicine and Rehabilitation, Parc de Salut Mar, 08024 Barcelona, Spain. E-mail: 87615@hospitaldelmar.catAccepted Nov 6, 2012; Epub ahead of print Mar 8, 2013
+
+
+INTRODUCTION
+Total knee arthroplasty (TKA) is an effective surgical procedure that improves the quality of life of patients with severe knee osteoarthritis by increasing functional capacity and reducing pain (1). As evidence of its importance, TKA and hip arthroplasty are the most frequent surgical procedures related to hospital admissions in Catalonia, with 22,994 TKA completed in 2010 (2).
+Rehabilitation helps to optimize functional results, enhancing the clinical and social benefits of the surgery (3). The volume of healthcare activity these procedures represent, the resources they consume and the growing demand for improved efficacy and efficiency in healthcare delivery are all justification for measures to decrease their economic impact (4). As a result, health systems are engaged in a general process of technological transformation and momentum for the development of “eHealth” initiatives (5). This constitutes a strategic factor for all health services and therefore society as a whole.
+Telerehabilitation is a generic term that refers to the delivery of rehabilitation services via information and communication technologies. Clinically, this term encompasses a range of rehabilitation services that include assessment, monitoring, intervention, supervision, education, consultation, and counselling. Telerehabilitation has demonstrated good postoperative results in patients who undergo TKA (6–8). Nonetheless, the studies are few and we found none in the literature that assessed a system similar to interactive virtual telerehabilitation (IVT), which uses biomeasurement equipment with an interactive application that shows the patient the exercises to be done and then, when biometric data have been processed, sends the results to a central server. The IVT system allows the therapist to monitor the process and intervene in the rehabilitation process without the costs and inconvenience to the patient of attending a healthcare centre. The literature does contain evidence that IVT is effective in the fields of neurological, cardiac and communication disorders rehabilitation (9, 10).
+Based on these considerations, our group worked with the research and development department in Granada of the national telephone company, Telefónica, to develop an IVT system with the characteristics described that could be used by rehabilitation patients after a TKA. Working from the hypothesis that the results obtained with IVT in a specific period of the rehabilitation process would not be inferior to standard practice, we designed a study with the objective of comparing the effectiveness of IVT and conventional rehabilitation treatment process for TKA.
+
+PATIENTS AND METHODS
+Design
+In this single-blind, randomized, controlled non-inferiority trial, the new IVT intervention was compared with usual care following TKA.
+
+Participants
+From November 2008 to December 2010, 181 participants underwent primary TKA in a tertiary hospital in the city of Barcelona, Spain. Patients were eligible for inclusion if they met the following criteria:
+• successful primary TKA surgery;
+• post-TKA active range of motion: flexion 80º and extension –10º, without signs of stiffness;
+• ability to walk with the use of a walking aid;
+• ability to read and understand Spanish;
+• ability to understand and accept the trial procedures and to sign an informed consent form in accordance with national legislation.
+Patients were excluded in case of:
+• sensory, cognitive and/or praxic impairment;
+• concomitant medical conditions that may influence the rehabilitation process;
+• discharge to destination other than home;
+• patients with any local or systemic complication (e.g. surgical wound infection, suspicion of deep vein thrombosis) in the 3-month follow-up period were also excluded.
+The setting was a rehabilitation unit in an acute-care university general hospital in Barcelona, Spain. The clinical trial was approved by the local ethics committee for Clinical Research, registered in the Clinical Trials.gov Identifier: Registry NCT01604174 and conducted according to the Consolidated Standards of Reporting Trials (CONSORT) 2010 Statement.
+
+Sample size
+The sample size, a minimum of 70 subjects in each group, was calculated so that accepting a difference between treatments of 3º in the active range of motion, with a 2.5 standard deviation (SD), achieved an alpha risk of 0.05 and a beta risk of 20% on a 2-tailed test. The sample size was overestimated to allow for up to 15% potential drop-outs.
+
+Intervention
+Patients were distributed between two treatment groups:
+• Group I (control) received the standard clinical protocol of TKA rehabilitation consisting of 1-h sessions for 10 days
+• Group II (IVT) received 1-h IVT sessions for 10 days (5 sessions performed under a therapist’s supervision to verify the absence of medical complications that would require exclusion from the study and 5 sessions performed at home).
+The IVT is an interactive virtual software-hardware platform that facilitates the development of remote rehabilitation therapy for multiple diseases. As described above, the patient receives the information needed to perform the exercises and the therapist can remotely monitor the patient’s performance. For the purpose of this trial, the IVT system was designed for lower limb motor recovery in patients undergoing TKA.
+From a technological standpoint, the system has 3 innovative features:
+1. Wireless sensors (WAGYRO): biomedical devices with Zigbee technology, including a 3-axis accelerometer and two self-powered gyroscopes (Wireless 9DoF Kinematic Sensor, Shimmer Research, Dublin, Ireland). These sensors are connected to the patient and allow calculation of their movement trajectories.
+2. Interactive patient application: interactive software with a 3D avatar that demonstrates the exercises to be undertaken, while patients reproduce the movements. The application also quantifies the flexion-extension angle of the knee, the exercise sets and number of repetitions. The IVT programme included the same exercises performed in the conventional protocol. Once the data were processed, they were sent to the therapist’s portal.
+3. Web portal for the therapist: receives data and records them for evaluation, with the option to modify the therapy as the rehabilitation evolves.
+The therapist supervised patients remotely on a daily basis from the hospital to check that they were performing the therapy, adjusted the prescribed therapy as appropriate, and contacted the patient via telephone as necessary.
+The IVT kit (Fig. 1) contains the following components:
+1: touch-screen all-in-one computer; 2: wireless sensors (WAGYRO) + a mobile internet low-bandwidth; 3: weights; 4: straps for attaching sensors.
+
+Outcome measures
+The outcome measures were:
+1. active knee extension and active knee flexion, measured in degrees with a goniometer (11);
+2. quadriceps muscle strength, measured in kg with the Nicholas Manual Muscle Tester (NMMT) dynamometer (Lafayette Instrument Co., Lafayette, USA);
+3. hamstring muscle strength, measured in kg with the NMMT dynamometer;
+4. functional assessment of balance and gait, using the Timed Get-Up-and-Go test (12);
+5. visual analogue scale (VAS) of pain (13);
+6. assessment of pain, stiffness and functional capacity with the Western Ontario and McMaster Universities (WOMAC) Osteoarthritis Index (14);
+7. the reliability and accuracy of knee joint range of motion after TKA using conventional goniometer have been evaluated previously (15, 16). The intraclass correlation coefficients (ICC) were >0.8 within and between-observers (except for passive knee extension) (15).
+
+Procedure
+In all cases, functional rehabilitation started the day after TKA. All participants were instructed by a physical therapist in weight bearing to tolerance with an assistive device and underwent inpatient care (mean length of stay 6.2 days) and outpatient intervention (outpatient physical therapy or IVT) for the first 3 weeks after surgery. Inpatient care consisted of assisted walking within 24 h, knee range of motion exercises and preparing for the return home.
+After hospital discharge, conventional physical therapy consisted of a 2-week face-to-face rehabilitation programme (progressive exercise and instruction including knee range of motion, gait training, and instructions in negotiating stairs and community-related obstacles). Any signs of adverse knee joint responses (e.g. increased swelling or pain) resulted in a lowering of the intensity, frequency and duration of the exercises or elimination of a rehabilitation component.
+Under the study protocol, all participants performed the first 5 sessions under therapist supervision in the Knee Function Unit of the Physical Medicine and Rehabilitation Department to ensure proper monitoring and avoid unnecessary risks related to surgical incisions and stitches. Before starting home-based intervention, patients were examined by a doctor to ensure the absence of complications that might result in exclusion from the study.
+Daily 1-h sessions were scheduled (Monday to Friday). The IVT group followed the pattern of exercises using the virtual platform under the therapist’s supervision (Fig. 2). At the end of each session, data were sent to the therapist’s portal. Both groups were also given instructions to continue the exercise routine over the weekend. Beginning on the sixth day, the IVT group continued the exercise programme at home. There were no complaints about setting up the system at home or major problems arising from use of the portal, which patients found to be very intuitive and easy to understand.
+
+Randomization and blinding
+Treatment blinding and randomization were carried out by a member of the research team using a random number generator. Clinical assessment was conducted exclusively by a trained physiotherapist who had no knowledge of the patient’s group assignment.
+
+Statistical analysis
+Categorical variables are given in absolute and percentage values. Quantitative variables are given together with the mean and standard deviation (SD). Univariate analysis used either the χ² or the Fisher exact test for categorical variables and Mann-Whitney U test for quantitative variables. The level of statistical significance was 0.05 for all hypothesis testing.
+
+Source of funding
+This study was partially financed by Telefónica Research and Development.
+
+RESULTS
+The trial procedure (Fig. 3) followed the CONSORT recommendations (17, 18). From November 2008 to December 2010, 505 patients underwent TKA, of whom 191 refused to participate in the study and 133 met at least one of the exclusion criteria (cognitive impairment, transfer to a geriatric centre). The remaining 181 participants were randomized at the time rehabilitation therapy was started.
+
+Participants assessed for eligibility (n=505)
+Not randomized (n=324)
+Reasons: 191 subjects refused; 133 subjects excluded
+Randomized (n=181)
+Intervention (IVT) group (n=90)
+Withdrawals (n=18): Local complication (n=2); Active range of motion (n=16)
+Control group (n=91)
+Withdrawals (n=21): Local complication (n=3); Active range of motion (n=18)
+Completed the trial at baseline (n=70) [IVT group]; Completed the trial at baseline (n=72) [Control group]
+Completed the trial at 10 days (n=70) [IVT group]; Completed the trial at 10 days (n=72) [Control group]
+Lost to follow-up (n=5) [IVT group]; Lost to follow-up (n=4) [Control group]
+Completed the trial at 3 months (n=68) [IVT group]; Completed the trial at 3 months (n=65) [Control group]
+
+During the first 5 sessions, there were 39 drop-outs because of joint stiffness (active knee flexion <80°) and/or surgical wound complications (extensive skin necrosis, wound infection): 21 patients in the control group and 18 patients in the IVT. Of the 142 patients who completed the intervention, 9 were lost to follow-up for no justifiable medical cause: 4 belonged to the control group and 5 to the IVT.
+The participants, 50 (27.6%) men and 131 (72.4%) women, had a mean age of 73.3 (SD 6.5) years. The percentage of men was 17% in the control group and 37.5% in the IVT (p=0.007).
+All participants had undergone primary TKA because of knee osteoarthritis.
+The baseline clinical characteristics of each group are described in Table I. The groups are comparable, with no significant differences in any variable except the Get Up and Go test: patients in the IVT group completed this test in 22.8 s, compared with 18.9 s in the control group (p=0.023).
+
+Table II shows the changes in the main outcome measures during the follow-up:
+
+• Active knee flexion range: the increase during the study period was similar in both groups, with no significant differences observed.
+• Active extension range: the greatest increase was observed in the IVT group at 5 days post-surgery (p=0.045); at 3 months this increase was equal in both groups.
+• Muscle quadriceps strength at 5 days: the IVT group achieved a greater increase in muscle strength (p=0.011), a difference that was maintained at the 3-month follow-up (p=0.018).
+• Timed Get-Up-and-Go test: at 3 months the results were similar in both groups, but the control group had a lower baseline and therefore had a greater increase (p=0.008). There were no significant differences in muscle strength in the hamstring, VAS, or WOMAC assessments.
+
+DISCUSSION
+This trial provides evidence on the effectiveness of telerehabilitation after hospital discharge in patients who have undergone TKR. The results support the hypothesis that patients in telerehabilitation can obtain the same outcomes as patients following the conventional therapy.
+Before attempting any further discussion of these findings, some limitations of the present study should be noted. First, it was impossible to conduct a double-blind trial; all participants were instructed not to reveal their intervention group to the evaluator who took functional measurements. At the time the trial was performed there was no evidence about telerehabilitation results; therefore, only patients without clinical complications and with good functionality were randomized. This decision was taken for ethical reasons and to minimize the risk of harm.
+A recent review of the effectiveness and benefits of telerehabilitation applications considered studies that had clinical outcomes from telerehabilitation use in different health fields. All of the studies available on orthopaedic applications were concerned with management of joint disorders (19). Russell et al. (7, 20) found that physical and functional improvements in patients who had knee arthroplasty were similar to those in patients with conventional physical therapy. The telerehabilitation system in use at that time (with dial-up internet connections) enabled low-bandwidth (18-kbit/s) real-time videoconferencing between sites as well as a battery of measurement tools used to quantify physical performance. The authors conclude that further studies are required to demonstrate viable telerehabilitation delivery services in real-world environments using well-controlled research methodologies and large patient cohorts (20).
+Other similar studies after arthroplasty in patients with post-traumatic contracture of the elbow (21) and after shoulder joint replacement (22) showed unclear results about the comparability of outcomes.
+There are still very few telerehabilitation studies that provide useful data on clinical outcomes. Although the objectives of our study are similar to those pursued by Russell et al. (8), our main contribution is that the intervention was performed in a real-world environment (patients continued therapy from their homes) and that the interactive software was user-friendly for both the patient and therapist. The IVT environment offers specific, real-time feedback as the patient performs the exercises. The user profile of those who received the IVT kit (generally older patients with limited computer experience) led us to pay special attention to the development of an interface that presented intuitive icons, included audible messages of instruction and encouragement, and limited patient interventions with the computer software to an absolute minimum.
+Some clinical differences were observed in quadriceps muscle strength, with a mean score 3 kg higher in the IVT group. This could be attributable to the IVT group having the equipment in their homes and therefore being able to continue their therapy more effectively over the weekend (activity that was visible from the therapist portal) and constitutes a difference from the control group. Although we also observed differences in the Timed Get-Up-and-Go test, these were not considered clinically relevant.
+The application of new technologies and of telerehabilitation in particular could offer new possibilities for service delivery methods in the field of rehabilitation. However, the various reviews of literature illustrate the need to continue clinical trials that not only consider the viability of the technologies but also the patient outcomes (19).
+We conclude, from our results, that the use of IVT following TKA surgery is equally as effective as conventional treatment during a specific rehabilitation period. This technology also offers the advantage of decreasing the number of in-person sessions at the rehabilitation centre (5 fewer than the control group in our study) and the associated use of costly medical transport. Finally, we believe that patients benefit from more intensive and autonomous rehabilitation when they have the system at their disposal in their own homes. Easy access to the equipment, software, and therapist allows them to safely and systematically repeat the rehabilitation session more than once a day if they choose, and may increase the motivation to engage in therapeutic exercises. This may also present a new paradigm for conventional TKA rehabilitation in other clinical contexts.
+
+# Tables
+## Table I. Baseline comparison of physical and functional measures in control and interactive virtual telerehabilitation (IVT) groups
+| Measure | Control group (n = 70) Mean (SD) | IVT group (n = 72) Mean (SD) | p-value |
+| --- | --- | --- | --- |
+| Active knee flexion, º | 94.4 (6.99) | 96.0 (8.90) | 0.241 |
+| Active knee extension, º | –3.17 (3.5) | –2.8 (3.94) | 0.583 |
+| Quadriceps strength, kg | 9.7 (4.16) | 9.9 (3.51) | 0.067* |
+| Hamstring strength, kg | 10.4 (3.32) | 11.0 (3.95) | 0.353 |
+| VAS of pain | 4.3 (1.93) | 3.8 (2.01) | 0.141 |
+| WOMAC | 53.1 (10.93) | 53.5 (12.44) | 0.834 |
+| Timed Get-up-and-go test, s | 22.8 (11.33) | 18.9 (7.34) | 0.023 |
+*Denotes significance at the p<0.05 level. VAS: visual analogue scale for pain; WOMAC: Western Ontario and McMaster Universities Osteoarthritis Index.
+
+## Table II. Change in outcome measures in the follow-up period
+| Measure | Difference from baseline after completing rehabilitation (n = 142) | Difference from baseline after completing rehabilitation (n = 142) | Difference from baseline after completing rehabilitation (n = 142) | Difference from baseline at 3 months follow-up (n = 133) | Difference from baseline at 3 months follow-up (n = 133) | Difference from baseline at 3 months follow-up (n = 133) |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Control (n = 70) Mean (SD) | IVT (n = 72) Mean (SD) | p-value | Control (n = 65) Mean (SD) | IVT (n = 68) Mean (SD) | p-value |
+| Active knee flexion | 7.71 (6.89) | 8.53 (6.56) | 0.298 | 15.63 (8.82) | 18.16 (9.71) | 0.193 |
+| Active knee extension | 0.9 (3.7) | 0.2 (2.8) | 0.045* | 0.8 (3.3) | 1.3 (3.1) | 0.478 |
+| Quadriceps strength | 1.64 (2.60) | 2.98 (3.15) | 0.011* | 5.89 (5.17) | 8.48 (4.96) | 0.018* |
+| Hamstring strength | 0.69 (2.22) | 1.17 (2.60) | 0.278 | 2.26 (3.30) | 2.93 (3.33) | 0.349 |
+| VAS of pain | –0.61 (1.87) | –0.69 (1.44) | 0.804 | –2.30 (2.03) | –1.79 (2.45) | 0.284 |
+| Timed Get-up-and-Go-test | 5.22 (6.25) | –3.36 (5.38) | 0.079 | –10.86 (8.72) | –7.00 (6.31) | 0.020* |
+*Significance at the p<0.05 level. IVT: interactive virtual telerehabilitation; VAS: visual analogue scale for pain.
+
+# Image Descriptions
+## Figure 1: Interactive virtual telerehabilitation kit
+The kit consists of four main components: 1. A touch-screen all-in-one computer (ASUS EeeTop 1602) that runs on the client application TKA with a Microsoft-licensed Windows XP Home operating system; 2. Wireless sensors (WAGYRO) equipped with Zigbee technology (including a 3-axis accelerometer and two self-powered gyroscopes) plus a mobile internet low-bandwidth device (with a flat-rate subscription limited to 200 Mbytes monthly); 3. Weights; 4. Straps for attaching the sensors (one placed above the knee and another on the ankle).
+
+## Figure 2: Patient using the interactive virtual telerehabilitation knee rehabilitation software
+A patient is using the interactive virtual telerehabilitation software for knee rehabilitation. The patient follows the exercises demonstrated by a 3D avatar in the interactive patient application, reproduces the movements, and the system quantifies the knee's flexion-extension angle, exercise sets, and number of repetitions. The patient is connected to the wireless sensors (WAGYRO) that capture movement trajectories, and the data is sent to the therapist’s web portal for evaluation and potential therapy modification.
+
+## Figure 3: Trial profile (Consolidated Standards of Reporting Trials (CONSORT) flow diagram)
+The flow diagram outlines the trial process: A total of 505 patients were assessed for eligibility. Among them, 324 were not randomized (191 refused participation, 133 were excluded due to meeting exclusion criteria). The remaining 181 patients were randomized into two groups: the IVT group (n=90) and the control group (n=91). In the IVT group, 18 patients withdrew (2 due to local complications, 16 due to active range of motion issues), leaving 72 patients who completed the trial at baseline and 10 days; 5 were lost to follow-up, resulting in 68 patients completing the 3-month follow-up. In the control group, 21 patients withdrew (3 due to local complications, 18 due to active range of motion issues), leaving 70 patients who completed the trial at baseline and 10 days; 4 were lost to follow-up, resulting in 65 patients completing the 3-month follow-up.
