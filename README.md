@@ -62,5 +62,7 @@ The datasets are organized by clinical domain and contain both raw source materi
 * **Gold Standard**: Curated dataset verified by dual experts to ensure high-quality, reliable extraction.
 * **Original PDF and Processed TXT**: Raw source documents and their preprocessed text versions, ready for automated extraction pipelines.
 * **Excel & JSON Results**: Structured outputs from the automated extraction system, with or without reference to the original sources.
+* **API**: The `api_key` in the code belongs to the author and has been removed due to cost considerations. Readers who wish to reproduce the results need to provide their own API key.
+
 
 
