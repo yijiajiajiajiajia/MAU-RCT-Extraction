@@ -1,0 +1,258 @@
+# Part 1: Article Content (Before References) - TXT Format
+Effect of Positive Airway Pressure on Cardiovascular Outcomes in Coronary Artery Disease Patients with Non-Sleepy Obstructive Sleep Apnea: The RICCADSA Randomized Controlled Trial
+Yüksel Peker1,2, Helena Glantz1,3, Christine Eulenburg4, Karl Wegscheider4, Johan Herlitz5,6, Erik Thunström1,7
+1Dept. of Molecular and Clinical Medicine/Cardiology, Sahlgrenska Academy, University of Gothenburg, Sweden; 2Dept. of Pulmonary Medicine, Faculty of Medicine, Marmara University, Istanbul, Turkey; 3Dept. of Internal Medicine, Skaraborg Hospital, Skövde, Sweden; 4Dept. of Medical Biometry and Epidemiology, University Medical Center, Hamburg-Eppendorf, Germany; 5Center of Prehospital Care of Western Sweden, University College of Borås, Sweden; 6Sahlgrenska University Hospital/Sahlgrenska, Gothenburg, Sweden; 7Dept. of Cardiology, Sahlgrenska University Hospital/Östra, Gothenburg, Sweden
+
+Corresponding author: Yüksel Peker, Dept. of Molecular and Clinical Medicine/Cardiology, Sahlgrenska Academy, University of Gothenburg, SE 416 85 Gothenburg, Sweden; Phone: +46 31 3434000; Fax: +46 31 191416; E-mail: yuksel.peker@lungall.gu.se
+
+Authors’ contributions: YP, HG, and JH designed the study in 2005. CE and KW amended the statistical analysis plan after interim analysis in 2010. YP, HG, and ET performed the patient recruitment and clinical follow-ups. YP, CE, and KW performed the statistical analysis. All authors interpreted the data, prepared the manuscript, and drafted the article. YP obtained study funding, and takes full responsibility for the work as a whole, including the study design, access to data, and the decision to submit and publish the manuscript. All authors approved this manuscript in its final form.
+
+Funding support: This study was supported by grants from the Swedish Research Council (521-2011-537 and 521-2013-3439); the Swedish Heart-Lung Foundation (20080592, 20090708 and 20100664); the “Agreement concerning research and education of doctors” of Västra Götalandsregionen (ALFGBG-11538 and ALFGBG-150801), Research fund at Skaraborg Hospital (VGSKAS-4731, VGSKAS-5908, VGSKAS-9134, VGSKAS-14781, VGSKAS-40271 and VGSKAS-116431); Skaraborg Research and Development Council (VGFOUSKB-46371); the Heart Foundation of Kärnsjukhuset; ResMed Foundation; and ResMed Ltd. ResMed Sweden provided some of the sleep recording devices and technical support. None of the funders had any direct influence on the design of the study, the analysis of the data, the data collection, drafting of the manuscript, or the decision to publish.
+
+Running Head : CPAP for Nonsleepy OSA in CAD
+Descriptor: 15.09 Sleep Disordered Breathing: Outcomes
+Word count without Abstract, References or Tables: 3511
+
+At a Glance Commentary:
+Scientific Knowledge on the Subject: Obstructive sleep apnea is common in patients with coronary artery disease, many of whom do not report daytime sleepiness. Continuous positive airway pressure is first-line treatment for symptomatic obstructive sleep apnea, but its value in patients without daytime sleepiness is uncertain.
+What This Study Adds to the Field: This is the first randomized controlled study to address impact of continuous positive airway pressure on adverse cardiovascular outcomes in revascularized coronary artery disease patients with obstructive sleep apnea but no daytime sleepiness. Routine prescription of the device did not reduce the adverse outcomes in this high-risk population in intention-to-treat analysis. There was a significant reduction after adjustment for baseline comorbidities and compliance with treatment.
+
+This article has an online data supplement, which is accessible from this issue's table of content online at www.atsjournals.org
+
+ Copyright © 2016 by the American Thoracic Society 
+ AJRCCM Articles in Press. Published on 25-February-2016 as 10.1164/rccm.201601-0088OC 
+
+ABSTRACT
+Rationale: Obstructive sleep apnea is common in patients with coronary artery disease, many of whom do not report daytime sleepiness. First-line treatment for symptomatic obstructive sleep apnea is continuous positive airway pressure, but its value in patients without daytime sleepiness is uncertain.
+Objective: To determine the effects of continuous positive airway pressure on long-term adverse cardiovascular outcome risk in coronary artery disease patients with nonsleepy obstructive sleep apnea.
+Methods: This single-center, prospective, randomized, controlled, open-label, blinded evaluation trial was conducted between December 2005 and November 2010. Consecutive patients with newly revascularized coronary artery disease and obstructive sleep apnea (apnea-hypopnea index ≥15 / h) without daytime sleepiness (Epworth Sleepiness Scale score <10) were randomized to auto-titrating continuous positive airway pressure (n=122) or no positive airway pressure (n=122)
+Measurements: The primary endpoint was the first event of repeat revascularization, myocardial infarction, stroke or cardiovascular mortality.
+Main Results: Median follow-up was 57 months. The incidence of the primary endpoint did not differ significantly in patients who did versus did not receive continuous positive airway pressure (18.1% vs. 22.1%; hazard ratio 0.80; 95% confidence interval 0.46–1.41; P=0.449). Adjusted on-treatment analysis showed a significant cardiovascular risk reduction in those who used continuous positive airway pressure for ≥4 vs <4 h/night or did not receive treatment (hazard ratio 0.29; 95% confidence interval 0.10–0.86; P=0.026)
+Conclusions: Routine prescription of continuous positive airway pressure to coronary artery disease patients with nonsleepy obstructive sleep apnea did not significantly reduce long-term adverse cardiovascular outcomes in the intention-to-treat population. There was a significant reduction after adjustment for baseline comorbidities and compliance with the treatment.
+
+Keywords: obstructive sleep apnea; coronary artery disease; cardiovascular outcomes
+Word count: 261
+
+Introduction
+Coronary artery disease (CAD) is one of the most common health problems in Western countries, having a poor prognosis and a high risk of mortality (1). Moreover, an increasing number of patients with CAD undergo percutaneous coronary intervention (PCI) or coronary artery bypass grafting (CABG) with a considerable risk of relapse of CAD in the years following the intervention, despite advances in medical treatment and revascularization techniques (2, 3).
+Many of the traditional risk factors contributing to adverse outcomes in these patients are managed. However, obstructive sleep apnea (OSA), a common condition in CAD patients (4), has largely been neglected. The paucity of data on the contribution of OSA to adverse outcomes in cardiac patients has been highlighted by the American Heart Association / American College of Cardiology (5), and probably contributes to a lack of recognition of OSA in the CAD setting.
+Elimination of obstructive apneas and hypopneas with nasal continuous positive airway pressure (CPAP) is first-line treatment for OSA, reducing daytime sleepiness and improving quality of life (6). However, the majority of CAD patients with OSA do not experience daytime sleepiness (i.e. asymptomatic), and there is currently no clearly established rationale for treatment of such patients, notwithstanding clinical practice guidelines from the American Academy of Sleep Medicine that generally recommend CPAP treatment for OSA (7). Observational studies have demonstrated that CPAP is beneficial in patients with CAD and OSA who are adherent to treatment (8-10). There are many published short-term randomized controlled trials (RCTs) with CPAP, especially in OSA patients with systemic hypertension, and CPAP has been shown to effectively lower blood pressure (BP) in these patients (11, 12). However, other trials suggest no benefit of CPAP in those without daytime sleepiness (13, 14), except one, suggesting a significant BP reduction in patients with newly diagnosed hypertension (15). Overall, there is good evidence to suggest that symptomatic OSA patients should be treated with CPAP to reduce daytime sleepiness (6) and the risk of traffic accidents (16), and also perhaps to lower BP in hypertensive OSA patients (11, 12, 15). Nevertheless, evidence from long-term prospective RCTs to determine whether cardiac patients with nonsleepy OSA should be offered CPAP treatment to reduce cardiovascular morbidity and mortality is lacking.
+The Randomized Intervention with Continuous Positive Airway Pressure in CAD and OSA (RICCADSA) trial investigated the effects of CPAP on the risk of cardiovascular events in patients with CAD and concomitant OSA without daytime sleepiness. Some of the results have been previously reported in the form of an abstract (17).
+
+Methods
+Study Design and Patients
+Methodological details have been published previously (18, 19), and are fully detailed in the online supplement. The target population comprised adult patients with angiography-verified CAD who had undergone PCI or CABG in Skaraborg County, West Sweden, in the previous 6 months, and had an apnea-hypopnea index (AHI) of <5 / h or ≥15 / h during a sleep study (see online supplement). Patients with existing OSA, an AHI of 5.0–14.9/h, and predominantly central apneas with Cheyne-Stokes respiration were excluded (Figure 1). Patients were recruited between December 2005 and November 2010, and follow-up was completed in May 2013. The study was a single-center (two sites), prospective, open, randomized, parallel, interventional, superiority trial of CPAP in CAD patients with nonsleepy OSA (AHI ≥15/h, Epworth Sleepiness Scale [ESS] score <10) (Figure 1). Patients with CAD and sleepy OSA phenotype (AHI ≥15 / h, ESS score ≥10) receiving CPAP and CAD patients without OSA were followed as additional controls in observational arm for further post-hoc comparisons (to be reported separately).
+
+Study Oversight
+The study protocol was approved by the Ethics Committee of the Medical Faculty of the University of Gothenburg (approval nr 207-05; 09.13.2005; amendment T744-10; 11.26.2010; amendment T512-11; 06.16.2011), and all patients provided written informed consent. A blinded interim analysis was conducted in February 2010, and the protocol was amended with a new power calculation for the primary endpoints (see below). An Independent Clinical Event Committee (ICEC) reviewed all data obtained from hospital records and death certificates by the end of May 2013, unaware of patient identities and group allocation. A Data Monitoring Board reviewed the protocol and monitored a random 10% selection of the database for baseline clinical data and follow-up procedures, including CPAP adherence and primary endpoints. All authors prepared the manuscript for publication, and made the decision to submit the manuscript without input from or review by ResMed Foundation and ResMed Ltd, who partly funded the trial by institutional grants. All authors guarantee the accuracy and completeness of the data. The trial was registered with the national researchweb.org (FoU i Sverige – Research and development in Sweden; nr VGSKAS-4731; 04.29.2005) and with ClinicalTrials.gov (NCT 00519597).
+
+Sleep Studies, Group Assignment and Randomization
+Details of home sleep recordings (cardiorespiratory polygraphy [PG]) and in-hospital polysomnography (PSG) and randomization procedures are provided in the online supplement. The 1:1 random assignment of patients with CAD and nonsleepy OSA was scheduled with a block size of eight patients (four CPAP, four controls) stratified by gender and revascularization type (PCI/CABG).
+
+Interventions and Follow-up
+Nonsleepy OSA patients who were randomized to treatment were fitted with an automatic CPAP device (S8® or S9®; ResMed) by trained staff. Additional follow-up details, including adherence to CPAP treatment, are provided in the online supplement.
+
+Outcomes
+The primary endpoint was a composite of repeat revascularization, MI, stroke and cardiovascular mortality. Information was obtained from patients’ medical records and, when necessary, from the Swedish Hospital Discharge Register as well as the Swedish National Cause of Death Registry. Each event was evaluated separately and as part of the combined endpoint. For patients who experienced more than one event during the follow-up period, only the first event was included in the combined endpoint. All-cause mortality and acute hospital admission for cardiovascular reasons were among the secondary endpoints. Criteria for the cardiovascular diagnosis defined by the ICEC are available in the online supplement.
+
+Statistical Analysis
+Descriptive statistics are given as mean ± standard deviation (SD) and as numbers (percentages). For baseline differences between the groups, the chi-squared test, and Fisher’s exact test were applied. Total sleep time, time spent on supine position and AHI values on the repeated sleep recordings (PG vs PSG) at the individual level were compared with paired t test. Pearson correlation analysis was performed to test the linear relationship between the AHI values on PG vs PSG. All statistical tests were two-sided, and a P -value <.05 was considered significant. Statistical analysis was performed using SPSS® 22.0 for Windows® (SPSS Inc., Chicago, Illinois, USA) and Stata version 14 (StataCorp LP, College Station, Texas, USA).
+Kaplan-Meier analyses and Cox Proportional hazards models were performed in the intention-to-treat (ITT) population to estimate the impact of CPAP on the primary endpoint. For the on-treatment (OT) analysis, a time-dependent Cox model (20, 21) was used to estimate the impact of CPAP usage on the primary endpoint. This approach accounts for the time-varying character of the intervention because subject follow-up is split into multiple intervals according to the visit dates of the CPAP usage evaluation. Originally, visits were planned after 1, 3, 6 and 12 months and then annually until the end of the study. Incomplete usage data due to missed visits were replaced as follows: one missing episode was replaced by the last observation, if the missing episode was followed by a visit. Two or more subsequent missing visits were replaced by 0. If the data from the first visit after one month were missing, they were replaced by the usage data of the 3-month visit. Multivariate adjustment was made for CPAP nights/period and baseline left ventricular ejection fraction (LVEF), age, gender, AHI, body mass index (BMI), current smoking, revascularization type, former revascularization, acute MI, hypertension, diabetes mellitus and lung disease.
+
+Sample Size Estimation
+At the time of the study start in 2005, available literature suggested that the incidence rate for a combination of cardiovascular mortality, acute myocardial infarction and the need for a new revascularization within a year of PCI was 27% (22). Moreover, in a systemic review of the comparative effectiveness of PCI and CABG, the 5-year repeat revascularization rate was reported to be 40.1% in PCI with stents and 9.8% in CABG patients (23). There were no studies in revascularized patients with CAD and concomitant OSA prior to 2005 to accurately inform estimates of study power for the primary outcome assessments; therefore, a composite endpoint rate of 25% in nonsleepy patients with untreated OSA over a 3-year follow-up period was hypothesized. The RCT arm was designed to initially comprise a consecutive sample of 200 patients with (100 nonsleepy OSA randomized to CPAP, 100 to no-CPAP). It was assumed that approximately 25% of the OSA subjects would be noncompliant with CPAP during the follow-up period. The trial was expected to have an 80% power to detect a risk reduction in the rate of the composite endpoint from 25% to 10% on an ITT basis (p<0.05 level, two-sided test). An interim analysis blinded to randomization group performed in February 2010 revealed an incident rate of 21%, and a CPAP adherence rate of 60% at 1 year, resulting in a protocol amendment. As a result, using an enlarged sample size of 242 patients (121 in each of the randomization arm) and an extended follow-up period of ≥2 years and ≤7 years, a significant risk reduction for the primary endpoint from 25% to 12% was hypothesized.
+
+Results
+Study Participants
+A total of 1259 patients met the inclusion criteria for screening, of whom 662 (52.7%) agreed to participate in the sleep study (Figure 1). Diagnostic PG was performed at home after an average of 63 days following mechanical revascularization (median 59 days; interquartile range [IQR] 42-78), and patients fulfilling the inclusion criteria for the RCT or the observational arm underwent baseline investigations on average 35 days (median 30; IQR 20-45) after home sleep recordings.
+
+Baseline Characteristics
+A total of 244 patients with CAD and OSA fulfilled the inclusion criteria for the randomized controlled (RCT) arm. Nonsleepy OSA patients allocated to CPAP did not differ significantly from nonsleepy OSA patients allocated to no-CPAP with regard to demographic and clinical characteristics (Table 1).
+
+Numbers Analyzed
+Median follow-up time until mortality, loss to follow-up, or the end of the study was 56.9 months (range 6.5–90.2). All patients were included in the ITT analysis for primary outcomes; 16 patients died, and 1 was lost to follow-up (Figure 1). Of 244 patients with AHI ≥15 / h on PG, 4 had AHI<5 / h on in-hospital PSG the day before the RCT started, 19-54 days after initial at-home PG. Follow-up data for these 4 patients are provided in eTable 1 in the online data supplement), and correlations between AHI values on PG vs PSG for the OSA group are shown in eFigure 1 in the online data supplement. Of OSA patients allocated to CPAP at baseline, 49 returned the device within 2 years. Of the nonsleepy OSA patients randomized to no-CPAP, 3 wanted to start CPAP at baseline, and 22 during the amended follow-up period due to reaching the nonfatal endpoints and/or completing the initial 3-year follow-up, or developing daytime sleepiness. CPAP compliance data from CPAP devices are shown in eTable 2 in the online data supplement.
+
+Outcomes
+Intention-to-treat
+Overall, 49 patients reached the combined endpoint during follow-up, and 22 (18.1%) in the CPAP group, and 27 (22.1%) in the no-CPAP group (not significant). The incidence of the composite endpoint was 4.65 (95% confidence interval [CI] 4.56–4.73) per 100 person-years; 4.18 (95% CI 2.75-6.35) per 100 person-years in CPAP group vs 5.21 (95% CI 3.57-7.60) per 100 person-years in no-CPAP group, respectively (P=0.449). Cumulative incidences of the primary endpoint are illustrated in Figure 2. There were no significant differences in the individual incidences of the endpoints in the PCI and CABG subgroups (see eTable 3 in the online data supplement). Univariate predictors of adverse outcomes were diabetes mellitus and former revascularization, while CABG at baseline was protective (Table 2). On multivariate analysis, diabetes mellitus (hazard ratio [HR] 2.05; 95% CI 1.06–3.98; P=0.034) and former revascularization (HR 3.29; 95% CI 1.77–6.10; P<0.001) were significantly associated with increased risk for the composite endpoint whereas CABG at baseline (HR 0.30; 95% CI 0.12–0.75; P<0.001) was associated with reduced risk (Table 2).
+
+On-treatment
+There was no significant difference in incidence rates between the groups when applying a cut-off level of 3 hours of CPAP usage per night, but there was a significant between-group difference based on CPAP usage for ≥4 hours/night (6 events) vs <4 hours/night or no-CPAP (43 events) with an HR 0.29 and 95% CI 0.10–0.86 with covariable adjustments (Table 3). The incidence of the composite endpoint was 2.31 (95% CI 0.96-5.54) per 100 person-years for CPAP usage for ≥4 hours/night, and 5.32 (95% CI 3.96-7.15) per 100 person-years for CPAP usage <4 hours/night or no CPAP.
+
+Adverse Events
+One patient (age 81 years) with CAD and mechanical aortic valve prosthesis, who was on combination therapy with warfarin and clopidogrel after PCI, could not use the CPAP device due to frequent nasal bleeding on treatment. This patient restarted CPAP therapy without any nasal bleeding when clopidogrel was discontinued 3 years after PCI. Other patient-reported side effects during CPAP fitted with the known tolerability profile of CPAP, and included dry mouth, nasal symptoms, claustrophobia, insomnia, noise problems, and mask fit.
+
+Discussion
+This study showed that routine prescription of CPAP to patients with CAD and nonsleepy OSA did not significantly reduce the long-term cardiovascular event rate. A significant beneficial effect of CPAP was seen first after adjusting for baseline comorbidities and CPAP adherence.
+To our knowledge, this is the first RCT investigating the effect of CPAP on long-term cardiovascular outcomes in patients with CAD and concomitant OSA without daytime sleepiness. Two RCTs are currently underway investigating the impact of CPAP on long-term outcomes in larger cohorts with established cardiovascular disease (24, 25). Many previous studies that showed beneficial effects of CPAP in patients with CAD and OSA had an observational design. A review of 371 patients with OSA and CAD who underwent PCI reported a significantly lower 5-year cardiac death rate (3%) among 175 patients treated with CPAP compared with 196 untreated patients (10%). Data from a sleep clinic cohort, demonstrated that CPAP treatment significantly reduced cardiovascular risk in men with severe OSA (26). Similarly, adequate CPAP treatment has been shown to reduce the risk of a composite endpoint of incident CAD or stroke in women with OSA (27). Moreover, after adjustment for confounding factors, post-MI patients with OSA who were compliant with CPAP had a lower risk of recurrent MI and repeat revascularization than untreated patients, and similar to patients without OSA (28).
+In this RCT, CPAP treatment of CAD and nonsleepy OSA patients did not significantly reduce the rate of adverse cardiovascular outcomes. These results may reflect the fact that getting nonsleepy patients to comply with CPAP is challenging. Between-group differences at baseline may also have influenced the findings. Randomization was not stratified by comorbidities, and there was a higher proportion of patients with acute MI, diabetes mellitus and hypertension in the CPAP arm. OT analysis showed that CPAP was effective in nonsleepy patients who used the device for ≥4 hours per night, with an adjusted HR that was of similar magnitude to that reported in a previous observational study.27
+Many CAD patients with OSA do not experience daytime sleepiness, and it has been suggested that nonsleepy OSA patients might have poor CPAP adherence because they don’t experience subjective benefits from therapy (29). This may be the case, although overall adherence in the current CAD population did not differ markedly from long-term adherence rates in sleep clinic cohorts (30). Indeed, an observational study of a sleep clinic cohort with CAD suggested comparable adherence to CPAP in sleepy and nonsleepy patients (31), and a larger RCT addressing the impact of CPAP treatment on incident hypertension or cardiovascular events in nonsleepy OSA patients from sleep clinics reported that 64% of patients were using CPAP for ≥4 hours/night after a median 4-year follow-up (32).
+The results of the current study suggest that CPAP treatment is feasible in CAD populations with nonsleepy OSA, given the additional assumption that such high-risk patients might expect greater cardiovascular benefits, and may be more motivated to comply with treatment despite the lack of daytime sleepiness. However, initial data from the SAVE trial suggest a lower CPAP compliance rate than in this study, despite an initial 1-week run-in phase with sham-CPAP to exclude noncompliant patients before randomization (15% of all eligible patients were excluded) (33). Thus, adherence remains a challenging issue when evaluating the cardiovascular benefits of CPAP treatment in patients with CAD and concomitant OSA without daytime sleepiness. Also, the finding that CPAP use for ≥4 hours/night is required to achieve cardiovascular benefits in nonsleepy OSA patients is similar to the results of a previous post-hoc analysis (32).
+CPAP is not the only treatment option for OSA. In a recent RCT, adherence to a weight loss regimen and CPAP resulted in incremental BP reductions compared with either intervention alone (34). There is also accumulating evidence for a beneficial impact of mandibular advancement devices on BP in OSA patients (35, 36). Moreover, given the emergence of new mechanical and pharmacological interventions in sleep medicine (37), improved “personalization” of OSA therapy may be possible through better characterization of individual patient pathophysiology.
+Despite the lack of conclusive evidence for a beneficial effect of CPAP in the current trial, the high prevalence of OSA in the entire study population (19) indicates that OSA should be considered when assessing the impact of different treatments (e.g. lipid-lowering agents, baremetal versus drug-eluting stents) in revascularized CAD cohorts. Effective treatment of OSA with CPAP, or other approaches, is challenging in CAD patients with nonsleepy OSA, but needs to be evaluated in secondary prevention models.
+The strengths of this study include its randomized controlled design for patients with CAD and nonsleepy OSA with only 1 lost to follow-up. Although the inclusion rate for eligible patients for sleep screening was only 53%, the inclusion design was consecutive, and there were no significant differences in baseline characteristics of patients undergoing versus not undergoing sleep study (19).
+This study also had a number of limitations. Firstly, it was a single-center trial with two sites, which limits generalizability of results across geographic regions. Secondly, “nonsleepy” OSA relied on an ESS threshold, which may not reflect an objective sleepiness. However, this is a generally accepted tool for subjective daytime sleepiness, and other methods such as Multiple Sleep Latency Test (38), which is used as an objective tool, is time consuming and not feasible to run for the large-scale cardiac populations. Thirdly, the study was underpowered for the ITT arm for several reasons: CPAP adherence in patients with CAD and nonsleepy OSA was lower than initially expected, which possibly resulted in an inadequately powered sample size estimation. While CPAP adherence rates were slightly higher than those reported in the SAVE trial (33), those data had not been published when the current study started or when the interim analysis was performed. Further, revascularized CAD patients were a heterogeneous group, including both PCI and CABG, and both acute/subacute and elective PCI, and the apparent treatment effect was far smaller than anticipated due to an optimistic first assumption. Fourthly the trial was open-label, and had no placebo control arm. As previously discussed (39), there is no true sham CPAP or other appropriate placebo for CPAP in a long-term trial in cardiovascular disease patients. It is also possible that sham CPAP consisting of a mask attached to tubing, but without pressure application, would worsen sleep disturbance and act as a “negative placebo” (40). Finally, results of the OT analysis must be interpreted with care because device usage is patient-driven and selfselection bias cannot be excluded.
+
+In conclusion, routine CPAP prescription of CPAP to CAD patients with nonsleepy OSA did not significantly reduce long-term adverse outcomes. However, the study may have had limited power to detect a significant difference in the ITT population. The risk reduction was observed first after adjustment for baseline comorbidities and CPAP adherence. These findings need to be further explored in larger clinical cohorts with more homogenous CAD populations.
+
+Acknowledgments
+The authors would like to gratefully acknowledge the independent clinical event committee, Lennart Welin (MD, PhD, Associate Professor of Medicine), the data monitoring board, Marina Modin (RN, MSc), and thank sleep technologist Paul Murphy (RPSGT, EST) for scoring of the in-hospital PSG recordings, and Andras Trezl (MD, Dept. of Medical Biometry and Epidemiology, University Medical Center, Hamburg-Eppendorf, Germany) for his contribution to the statistical analysis plan, and research secretary Eija Magnusson for her professional assistance in data entry and coordinating quality control of patient records and data follow-up during the whole trial period. Editing assistance was provided by Nicola Ryan, independent medical writer, funded by ResMed.
+
+Disclosures
+Helena Glantz, Christine Eulenburg, Johan Herlitz and Erik Thunström report no conflicts of interest, Yüksel Peker declares institutional grants from ResMed Foundation and ResMed Inc as well as consulting and lecture fees, from ResMed Sweden. Karl Wegscheider declares institutional grants from ResMed, outside the current work.
+
+Figure legends
+Figure 1. Flow of patients through the study.
+Definition of abbreviations: AHI, apnea-hypopnea index; CAD; coronary artery disease; CPAP, continuous positive airway pressure; CSA-CSR, central sleep apnea-Cheyne Stokes respiration; ESS, Epworth Sleepiness Scale; OSA, obstructive sleep apnea; RICCADSA, Randomized Intervention with CPAP in Coronary Artery Disease and Sleep Apnea.
+
+Figure 2. Cumulative incidences of the composite endpoint in the intention-to-treat population.
+Definition of abbreviations: CI, confidence interval; CPAP, continuous positive airway pressure; HR, hazard ratio; OSA, obstructive sleep apnea.
+
+# Part 2: All Tables (Table 1, Table 2, Table 3, eTable 1, eTable 2, eTable 3) - TXT Format
+## Table 1. Demographic and clinical characteristics of study patients at baseline.
+| | CPAP (n=122) | no-CPAP (n=122) | P Value |
+| --- | --- | --- | --- |
+| Age, y | 65.5 (8.5) | 66.5 (8.2) | 0.382 |
+| AHI, events/h | 28.3 (12.7) | 29.3 (14.0) | 0.545 |
+| ODI, events/h | 16.7 (11.4) | 16.3 (11.8) | 0.804 |
+| ESS score | 5.5 (2.4) | 5.5 (2.2) | 0.991 |
+| BMI, kg/m2 | 28.4 (3.8) | 28.5 (3.5) | 0.840 |
+| LVEF, % | 56.9 (9.0) | 56.1 (9.9) | 0.479 |
+| Obesity, % | 27.9 | 27.9 | 1 |
+| Female, % | 18.0 | 13.9 | 0.382 |
+| Current smoker, % | 18.0 | 13.9 | 0.382 |
+| Pulmonary disease, % | 3.3 | 9.8 | 0.067 |
+| Hypertension, % | 68.9 | 59.0 | 0.110 |
+| Acute MI at baseline, % | 53.3 | 45.9 | 0.249 |
+| CABG at baseline, % | 27.0 | 27.0 | 1 |
+| Previous PCI or CABG, % | 22.1 | 18.9 | 0.526 |
+| Diabetes mellitus, % | 27.9 | 20.5 | 0.178 |
+| β-blocker use, % | 91.5 | 86.7 | 0.230 |
+| Diuretic use, % | 20.3 | 22.7 | 0.660 |
+| CCB use, % | 22.9 | 16.7 | 0.229 |
+| ACE inhibitor use, % | 47.5 | 47.5 | 0.995 |
+| ARB use, % | 12.7 | 16.7 | 0.389 |
+| Anticoagulant† use, % | 100 | 97.5 | 0.083 |
+| Lipid-lowering agent use, % | 96.6 | 93.3 | 0.248 |
+Values are mean (standard deviation) or percent patients.
+Definition of abbreviations: ACE, angiotensin converting enzyme; AHI, apnea hypopnea index; ARB, angiotensin II receptor blocker; BMI, body mass index; CABG, coronary artery bypass grafting; CCB, calcium channel blocker; CPAP, continuous positive airway pressure; ESS, Epworth Sleepiness Scale; LVEF, left ventricular ejection fraction; MI, myocardial infarction; ODI, oxygen desaturation index; OSA, obstructive sleep apnea; PCI, percutaneous coronary intervention; SD, standard deviation.
+†Anticoagulant use refers to aspirin and/or clopidogrel and/or warfarin use.
+
+## Table 2. Cox regression analysis of baseline covariables associated with risk for adverse cardiovascular outcomes in revascularized patients with coronary artery disease and obstructive sleep apnea without daytime sleepiness in the intention-to-treat analysis (n=244; 49 patients reached the composite endpoint).
+| | Univariate | | | Multivariate | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Hazard Ratio | 95% CI | P Value | Hazard Ratio | 95% CI | P Value |
+| CPAP assignment vs. no-CPAP | 0.80 | 0.46–1.41 | 0.449 | 0.62 | 0.34–1.13 | 0.120 |
+| Age | 1.02 | 0.98–1.05 | 0.372 | 1.01 | 0.98–1.05 | 0.474 |
+| Females vs. males | 0.48 | 0.17–1.33 | 0.155 | 0.43 | 0.15–1.23 | 0.114 |
+| Apnea-hypopnea index | 1.00 | 0.98–1.02 | 0.783 | 0.99 | 0.97–1.01 | 0.363 |
+| Body mass index | 1.01 | 0.94–1.09 | 0.753 | 0.99 | 0.91–1.08 | 0.802 |
+| CABG vs. PCI | 0.38 | 0.17–0.84 | 0.017 | 0.30 | 0.12–0.75 | 0.010 |
+| Current smoking | 1.29 | 0.63–2.67 | 0.485 | 1.78 | 0.80–3.96 | 0.156 |
+| Hypertension | 1.09 | 0.60–1.96 | 0.776 | 1.59 | 0.81–3.12 | 0.176 |
+| Diabetes mellitus | 1.92 | 1.06–3.47 | 0.030 | 2.05 | 1.06–3.98 | 0.034 |
+| Acute myocardial infarction | 1.02 | 0.58–1.79 | 0.947 | 1.03 | 0.54–1.94 | 0.937 |
+| Previous PCI or CABG | 3.36 | 1.91–5.93 | <0.001 | 3.29 | 1.77–6.10 | <0.001 |
+| Pulmonary disease | 1.39 | 0.50–3.85 | 0.532 | 0.95 | 0.33–2.74 | 0.925 |
+| Left ventricular ejection fraction | 0.99 | 0.96–1.02 | 0.594 | 0.99 | 0.96–1.02 | 0.513 |
+Definition of abbreviations: CABG, coronary artery bypass grafting; CI, confidence interval; CPAP, continuous positive airway pressure; PCI, percutaneous coronary intervention.
+
+## Table 3. Cox regression analysis of the association between time-dependent CPAP usage (hours/night) and adverse cardiovascular outcomes in 244 revascularized patients with coronary artery disease and obstructive sleep apnea without daytime sleepiness (49 patients reached the composite endpoint).
+| | Univariate | | | Multivariate | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | Hazard Ratio | 95% CI | P Value | Hazard Ratio | 95% CI | P Value |
+| CPAP usage >3 hours/night | 0.64 | 0.31-1.33 | 0.234 | 0.91 | 0.16-5.13 | 0.911 |
+| CPAP usage ≥4 hours/night | 0.43 | 0.18-1.02 | 0.057 | 0.29 | 0.10-0.86 | 0.026 |
+| CPAP usage >5 hours/night | 0.43 | 0.17-1.09 | 0.075 | 0.34 | 0.10-1.12 | 0.075 |
+Definition of abbreviations: CPAP, continuous positive airway pressure, CI, confidence interval.
+*Adjusted for age, gender, body mass index, apnea hypopnea index, current smoking, pulmonary disease, hypertension, diabetes mellitus, acute myocardial infarction, revascularization type at baseline, former revascularization, and left ventricular ejection fraction at baseline.
+
+## eTable 1. Results of repeated sleep recordings and follow-up data of 4 OSA patients who demonstrated AHI<5 / h on in-hospital PSG
+| Patients | TST* (min) | Time spent in supine position (%) | Overall AHI (events/h) | Overall ODI (events/h) | 95 percentile CPAP level (cmH2O) | Adjusted CPAP usage (nights/period)† (h/night) x |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nr 301, Nonsleepy OSA - At baseline (PG) | 422 | 61.8 | 17.9 | 7.7 | - | - |
+| Nr 301, Nonsleepy OSA - At baseline (PSG) | 405 | 17.5 | 0.7‡ | 1.3 | - | - |
+| Nr 301, Nonsleepy OSA - At 3 mo (PG with CPAP) | 518 | 29.9 | 3.4 | 3.5 | 8.8 | 6.2 |
+| Nr 301, Nonsleepy OSA - At 1 yr (PG with CPAP) | 500 | 20.7 | 0.2 | 0.4 | 7.5 | 6.3 |
+| Nr 128, Nonsleepy OSA - At baseline (PG) | 430 | 66.1 | 30.7 | 7.5 | - | - |
+| Nr 128, Nonsleepy OSA - At baseline (PSG) | 323 | missing | 2.0 | 0.0 | - | - |
+| Nr 128, Nonsleepy OSA - At 3 mo (PG no-CPAP) | 529 | 47.1 | 21.4 | 6.5 | No-CPAP | No-CPAP |
+| Nr 128, Nonsleepy OSA - At 1 yr (PG no-CPAP) | 496 | 50.7 | 19.1 | 6.4 | No-CPAP | No-CPAP |
+| Nr 242, Nonsleepy OSA - At baseline (PG) | 391 | 16.6 | 16.6 | 5.1 | - | - |
+| Nr 242, Nonsleepy OSA - At baseline (PSG) | 495 | 25.1 | 2.3 | 2.8 | - | - |
+| Nr 242, Nonsleepy OSA - At 3 mo (on CPAP) | - | - | 1.3† | - | 8.2† | 5.3 |
+| Nr 242, Nonsleepy OSA - At 1 yr (on CPAP) | - | - | 1.5† | - | 8.2† | 5.4 |
+| Nr 322, Nonsleepy OSA - At baseline (PG) | 365 | 22.3 | 15.0 | 7.4 | - | - |
+| Nr 322, Nonsleepy OSA - At baseline (PSG) | 353 | 3.8 | 3.1 | 2.4 | - | - |
+| Nr 322, Nonsleepy OSA - At 3 mo (PG with CPAP) | 504 | 48.4 | 4.5 | 4.3 | 12.7 | 0.5 |
+| Nr 322, Nonsleepy OSA - At 1 yr (on CPAP) | - | - | 3.6† | - | 11.0† | 1.8 |
+Definition of abbreviations: AHI, apnea hypopnea index; CPAP, continuous positive airway pressure; mo, month; ODI, oxygen desaturation index; OSA, obstructive sleep apnea; PG, polygraphy; PSG, polysomnography; TST, total sleep time; yr, year.
+*Estimated sleep time for PG recordings; - Not applicable; †Obtained from the CPAP device; ‡The scorer noted difficulties in the differentiation between periodic limb movements events and respiratory events on the PSG recording.
+
+## eTable 2. CPAP compliance data over time in 122 revascularized patients with coronary artery disease and obstructive sleep apnea (patients who returned the devices are excluded)
+| | Number of patients on CPAP | Number of CPAP devices checked | CPAP use (hours/night) | CPAP use (% nights/period) | 95th percentile CPAP level (cmH2O) | Residual AHI (events/hour) |
+| --- | --- | --- | --- | --- | --- | --- |
+| At 1 month | 105 | 98 | 4.4 (2.3) | 70.4 (29.8) | 9.3 (2.2) | 9.5 (2.4) |
+| At 3 months | 92 | 88 | 5.1 (2.1) | 73.4 (25.9) | 9.7 (1.6) | 6.2 (5.1) |
+| At 6 months | 83 | 79 | 5.5 (1.9) | 71.6 (27.4) | 9.9 (2.8) | 6.2 (4.9) |
+| At 1 year | 76 | 73 | 5.8 (1.7) | 76.6 (24.1) | 9.5 (1.6) | 5.9 (4.3) |
+| At 2 years | 70 | 67 | 6.0 (1.7) | 74.0 (24.9) | 9.6 (2.9) | 5.4 (3.6) |
+| At 3 years | 55 | 53 | 6.1 (1.8) | 74.5 (22.6) | 9.2 (1.7) | 6.0 (3.4) |
+| At 4 years | 35 | 33 | 6.2 (1.7) | 73.4 (22.6) | 8.7 (1.7) | 5.4 (2.8) |
+| At 5 years | 21 | 12 | 6.9 (1.2) | 78.0 (16.4) | 10.4 (5.1) | 4.5 (3.4) |
+| At 6 years | 11 | 9 | 6.6 (1.3) | 69.1 (19.1) | 9.5 (2.4) | 5.0 (2.4) |
+Values are mean (standard deviation).
+Definition of abbreviations: AHI, apnea hypopnea index; CPAP, continuous positive airway pressure; OSA, obstructive sleep apnea.
+
+## eTable 3. Number of individual primary and secondary endpoint events in subgroups of the intention-to-treat population (between-group differences were not statistically significant).
+| | Nonsleepy OSA on CPAP | Nonsleepy OSA no-CPAP |
+| --- | --- | --- |
+| Overall | n=122 | n=122 |
+| Repeat revascularization | 17 | 14 |
+| Acute myocardial infarction | 11 | 8 |
+| Stroke | 3 | 6 |
+| Cardiovascular death | 3 | 7 |
+| Noncardiovascular death | 4 | 2 |
+| Acute hospital admissions for CVD | 30 | 32 |
+| PCI subgroups | n=89 | n=89 |
+| Repeat revascularization | 16 | 12 |
+| Acute myocardial infarction | 10 | 6 |
+| Stroke | 2 | 4 |
+| Cardiovascular death | 2 | 6 |
+| Noncardiovascular death | 2 | 1 |
+| Acute hospital admissions for CVD | 25 | 28 |
+| CABG subgroups | n=33 | n=33 |
+| Repeat revascularization | 1 | 2 |
+| Acute myocardial infarction | 1 | 2 |
+| Stroke | 1 | 2 |
+| Cardiovascular death | 1 | 1 |
+| Noncardiovascular death | 2 | - |
+| Acute hospital admissions for CVD | 5 | - |
+Definition of abbreviations: CABG, coronary artery bypass grafting; CVD, cardiovascular disease; CPAP, continuous positive airway pressure; OSA, obstructive sleep apnea; PCI, percutaneous coronary intervention; RCT, randomized controlled trial.
+
+# Part 3: Image Descriptions (Figure 1, Figure 2, eFigure 1) - TXT Format
+## Figure 1: Flow of patients through the study
+This figure is a CONSORT-style patient flow diagram outlining the enrollment, randomization, follow-up and analysis steps of the RICCADSA trial.
+1. Initial screening: 1291 patients with CAD were assessed for eligibility; 629 were excluded (32 with known OSA, 597 not interested in the study), leaving 662 patients who underwent home cardio-respiratory polygraphy and completed the ESS questionnaire.
+2. Further exclusion: 151 patients were excluded (101 with borderline OSA [AHI 5.0-14.9 h-1], 21 with predominant CSA/CSR, 29 declined further investigations), resulting in 511 patients meeting inclusion criteria.
+3. Group allocation: 267 patients were included in the observational arm (155 with sleepy OSA [AHI ≥15h-1; ESS ≥10], 112 with no-OSA [AHI<5 h-1]); 244 patients with nonsleepy OSA (AHI ≥15h-1 ; ESS <10) were included in the randomized controlled arm, and 1:1 randomized to CPAP (n=122) or no-CPAP (n=122).
+4. Post-randomization changes:
+   - No-CPAP group: 3 started CPAP at baseline on their own request; 22 started CPAP during follow-up.
+   - CPAP group: 2 returned CPAP within 1 month, 3 within 1-3 months, 2 within 3-6 months, 1 within 6-12 months; 9 died during follow-up.
+5. Follow-up outcomes: 7 patients died in the no-CPAP group, 1 patient was lost to follow-up overall.
+6. Final analysis: All 244 randomized patients were included in the intention-to-treat analysis.
+
+## Figure 2: Cumulative incidences of the composite endpoint in the intention-to-treat population
+This figure is a Kaplan-Meier survival curve plot showing the cumulative incidence of the primary composite cardiovascular endpoint (repeat revascularization, MI, stroke, cardiovascular mortality) over time for the CPAP and no-CPAP groups in the intention-to-treat population.
+1. X-axis: Months since randomization, ranging from 0 to 96 months (0,12,24,36,48,60,72,84,96).
+2. Y-axis: Cumulative incidence of the endpoint, with values ranging from 0 to 0.75 (0, 0.25, 0.50, 0.75).
+3. Two curves are plotted: one for the CPAP group (n=122) and one for the control (no-CPAP) group (n=122); the curves overlap closely throughout the follow-up period, indicating no significant difference in cumulative endpoint incidence between the two groups.
+4. Number at risk: Below the plot, the number of patients remaining in the CPAP and control groups at each time point is listed (CPAP:122,111,108,90,74,45,29,55,0; Control:122,117,109,87,71,43,0).
+5. Abbreviations for the figure are CI (confidence interval), CPAP (continuous positive airway pressure), HR (hazard ratio), OSA (obstructive sleep apnea).
+
+## eFigure 1: Apnea-hypopnea index (AHI) in OSA patients based on polygraphy versus polysomnography
+This figure is a scatter plot illustrating the linear correlation between AHI values measured by home cardiorespiratory polygraphy (PG) and in-hospital polysomnography (PSG) in OSA patients.
+1. X-axis: Cardiorespiratory Polygraphy - AHI, ranging from 0 to 90 events/hour (0,5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90).
+2. Y-axis: Polysomnography - AHI, ranging from 0 to 100 events/hour (0,5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100).
+3. Data points: Individual OSA patients are represented as circular data points scattered across the plot, showing variability in AHI values between the two testing methods, but a positive linear trend.
+4. Correlation statistics: The plot displays the Pearson correlation coefficient (r = 0.528) and the statistical significance (P <0.001) of the correlation between PG-AHI and PSG-AHI, confirming a moderate positive linear relationship.
