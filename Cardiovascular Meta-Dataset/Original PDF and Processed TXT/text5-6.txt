@@ -1,0 +1,299 @@
+### Text Content (Before References)
+CLINICAL RESEARCH
+www.jasn.org
+Effect of Paricalcitol on Left Ventricular Mass and Function in CKD-The OPERA Trial
+Angela Yee-Moon Wang,* Fang Fang,† John Chan,‡ Yue-Yi Wen,† Shang Qing,† Iris Hiu-Shuen Chan,§ Gladys Lo,‡ Kar-Neng Lai,* Wai-Kei Lo,| Christopher Wai-Kei Lam,¶ and Cheuk-Man Yu†
+*Department of Medicine, Queen Mary Hospital, University of Hong Kong, Hong Kong; †Division of Cardiology, Department of Medicine and Therapeutics, Prince of Wales Hospital, Chinese University of Hong Kong, Hong Kong; ‡Department of Diagnostic Radiology, Hong Kong Sanatorium Hospital, Hong Kong; §Department of Pathology, United Christian Hospital, Hong Kong; |Department of Medicine, Tung Wah Hospital, Hong Kong; and ¶Macau Institute for Applied Research in Medicine and Health, Macau University of Science and Technology, Macau
+
+ABSTRACT
+Vitamin D seems to protect against cardiovascular disease, but the reported effects of vitamin D on patient outcomes in CKD are controversial. We conducted a prospective, double blind, randomized, placebo-controlled trial to determine whether oral activated vitamin D reduces left ventricular (LV) mass in patients with stages 3–5 CKD with LV hypertrophy. Subjects with echocardiographic criteria of LV hypertrophy were randomly assigned to receive either oral paricalcitol (1 mg) one time daily (n=30) or matching placebo (n=30) for 52 weeks. The primary end point was change in LV mass index over 52 weeks, which was measured by cardiac magnetic resonance imaging. Secondary end points included changes in LV volume, echocardiographic measures of systolic and diastolic function, biochemical parameters of mineral bone disease, and measures of renal function. Change in LV mass index did not differ significantly between groups (median [interquartile range], -2.59[-6.13 to 0.32] g/m² with paricalcitol versus -4.85 [-9.89 to -1.10] g/m² with placebo). Changes in LV volume, ejection fraction, tissue Doppler-derived measures of early diastolic and systolic mitral annular velocities, and ratio of early mitral inflow velocity to early diastolic mitral annular velocity did not differ between the groups. However, paricalcitol treatment significantly reduced intact parathyroid hormone (P<0.001) and alkaline phosphatase (P=0.001) levels as well as the number of cardiovascular-related hospitalizations compared with placebo. In conclusion, 52 weeks of treatment with oral paricalcitol (1 mg one time daily) significantly improved secondary hyperparathyroidism but did not alter measures of LV structure and function in patients with severe CKD.
+
+J Am Soc Nephrol 25: 175–186, 2014. doi: 10.1681/ASN.2013010103
+
+Cardiovascular disease is a major cause of mortality in patients with CKD and has been attributed to a very high prevalence of left ventricular (LV) hypertrophy1 as well as traditional Framingham and kidney disease-related risk factors.2 Apart from playing a recognized role in suppressing secondary hyperparathyroidism, vitamin D has been suggested to play a protective role against cardiovascular disease and exert its effects on the heart and vascular walls through interaction with the vitamin D receptor.3,4 Experimental studies showed associations between vitamin D deficiency and impairment of cardiac contractile function,5 increased myocardial collagen content, and increased cardiac mass.6,7 Similarly, targeted deletion of the vitamin D receptor gene resulted in increased cardiomyocyte size and LV weight.8 Treatment with activated vitamin D attenuated myocardial hypertrophy in experimental models of cardiac hypertrophy9 and prevented the development of heart failure,10,11 clearly supporting a biologic role of activated vitamin D and vitamin D receptor on the myocardium.
+
+Vitamin D deficiency is now becoming a global epidemic in both the general population12 and patients with CKD.13 Numerous observational studies showed an important link between vitamin D deficiency and increased mortality and adverse cardiovascular outcomes in the general population14 as well as patients with CKD.15 Supplementation with vitamin D reduced mortality rates in the general population.16 Retrospective analysis suggested that activated vitamin D treatment may improve survival and lower cardiovascular mortality in patients with stage 5D CKD.17,18 Short-term uncontrolled trials showed a reduction in LV hypertrophy and an improvement in LV function with 1,25-dihydroxyvitamin D₃ treatment in stage 5D CKD patients,19 although more recent meta-analysis failed to confirm significant beneficial effects of vitamin D compounds on patients’ level outcomes in CKD.20
+
+Given the controversy, we conducted a prospective, randomized, placebo-controlled trial, aiming to test the primary hypothesis that treatment with oral activated vitamin D, namely paricalcitol, reduces LV mass in stages 3–5 CKD patients with LV hypertrophy. As secondary end points, we aimed to test whether treatment with activated vitamin D treatment improves systolic and diastolic dysfunction in CKD. This study was an investigator-initiated and industry-sponsored study.
+
+RESULTS
+Study Enrollment and Study Participants
+In total, 229 eligible subjects were screened between May of 2008 and April of 2010 from the Renal Clinic of the Queen Mary Hospital in Hong Kong; 60 subjects were finally enrolled into the study, with 30 subjects randomly assigned to receive paricalcitol treatment and 30 subjects randomly assigned to receive placebo treatment. Figure 1 shows the recruitment process. Table 1 shows the baseline demographics and clinical characteristics of the two groups. Demographics were comparable between groups, except that there was a trend to more diabetes and higher usage of renin-angiotensin system (RAS) blockers in the group randomized to placebo (P=0.10) and a trend to more patients having background coronary artery disease and heart failure and more aspirin users in the group randomized to paricalcitol. However, these differences were not statistically significant. BP was well controlled in both groups. The majority of patients in both groups received medications that block the RAS. Baseline estimated GFR and 24-hour urine protein excretion were both lower in the group randomized to paricalcitol than the group randomized to placebo, but the difference was not statistically significant. Biochemical parameters of CKD–mineral bone disease, including calcium, phosphorus, intact parathyroid hormone (iPTH), and alkaline phosphatase, were well balanced between groups. Median iPTH levels were approximately two times the upper limit of normal at study baseline.
+
+Baseline cardiac magnetic resonance imaging (MRI-) and echocardiography-derived functional parameters were well balanced between groups (Table 2). LV ejection fraction was well preserved in both groups, but average peak early diastolic mitral annular velocity (E') was below seven, indicating diastolic dysfunction in both groups.
+
+Primary End Point
+The primary end point was change in LV mass indexed by body surface area or height²·⁷ after 52 weeks, which did not differ between groups (Table 3). The primary analysis did not change and remained insignificant (P=0.90), even after adjustment was made for RAS blockers use and baseline heart failure.
+
+Secondary End Points
+Change in other prespecified cardiac MRI parameters, such as LV volume index, did not differ between the two groups. Changes in LV ejection fraction and other echocardiographic parameters, including ratio of early to late transmitral inflow velocity (E/A), tissue Doppler-derived measure of E', late diastolic mitral annular velocity (A'), systolic mitral annular velocity (S'), and ratio of E to E' after 52 weeks, were not significantly different between the two groups.
+
+Figure 2 and Table 4 detail the changes in key laboratory parameters and BP after 52 weeks. Of 60 patients, only 1 patient in the placebo group had study capsule stepped up to 2 mcg daily. Paricalcitol treatment reduced iPTH by a median of -86 pg/ml (interquartile range, -131 to -43), whereas placebo treatment increased iPTH by a median of +21 pg/ml (interquartile range, -25 to +134; P<0.001). Paricalcitol treatment reduced alkaline phosphatase by a median of -12 U/L (interquartile range, -21 to -1) in contrast to placebo treatment, which increased alkaline phosphatase by a median of +2 U/L (interquartile range, -6 to +10; P=0.001). Overall, 19 patients (63.3%) treated with paricalcitol versus 1 patient (3.3%) treated with placebo had at least two subsequent iPTH levels reduced ≥50% to baseline levels during study period (P<0.001). Paricalcitol treatment resulted in a greater increase in serum calcium after 52 weeks than placebo (+0.08 [+0.02 to +0.16] versus +0.01 [-0.06 to +0.05] mmol/L; P=0.03). Change in 24-hour urine protein after 52 weeks did not differ significantly between paricalcitol and placebo groups.
+
+Using mixed effects repeated measures modeling, similar results were observed, with significant overall between-group differences for changes in iPTH (P<0.001) and alkaline phosphatase (P<0.001) from baseline to 52 weeks. iPTH and alkaline phosphatase reduced in the paricalcitol group but increased in the placebo group from baseline to 52 weeks. The paricalcitol group showed greater increase in serum calcium from baseline to 52 weeks than the placebo group (P<0.001). The paricalcitol group showed significantly more decline in estimated GFR (P=0.002) but not serum urea (P=0.80) from baseline to 52 weeks compared with the placebo group. The paricalcitol group showed significantly greater reduction in systolic BP (P=0.03) compared with the placebo group from baseline to 52 weeks. By 52 weeks, systolic BP reduced by -4.49 mmHg (-6.51 to -2.48) in the paricalcitol group versus -3.03 mmHg (-5.04 to -1.01) in the placebo group. Reduction in diastolic BP from baseline to 52 weeks did not differ between paricalcitol and placebo groups (P=0.90) (Supplemental Table 1).
+
+Adverse Events
+All patients completed the final visit at 52 weeks without any dropouts or deaths. One patient was not analyzed in the primary end point because of loss of cardiac MR images. Adverse events and hospitalizations of the two groups are summarized in Table 5. One patient in the paricalcitol group progressed to ESRD and required dialysis treatment at 48 weeks. Two patients in the paricalcitol group had hospitalizations versus 10 patients in the placebo group (P=0.02). None of the patients in the paricalcitol group had cardiovascular-related hospitalizations, whereas five patients in the placebo group had six cardiovascular-related hospitalizations. A significant difference in total hospitalization days within the study period was observed between paricalcitol and placebo groups (P=0.02). Using Cox regression analysis, the presence of baseline cardiovascular disease and heart failure showed no significant relationship with subsequent hospitalizations (hazard ratio, 0.88; 95% confidence interval [95% CI], 0.47 to 1.63; P=0.70). Except hypercalcemia, all other adverse events were judged to be unrelated to the study drug. Hypercalcemia (defined as serum calcium >2.55 mmol/L), which was judged to be possibly drug-related, occurred in 13 patients (43.3%) in the paricalcitol group and 1 patient (3.3%) in the placebo group (P<0.001); 9 of 13 patients (69.2%) in the paricalcitol group versus 1 patient in the placebo group who developed hypercalcemia received concomitant calcium-based phosphate binder.
+
+DISCUSSION
+Experimental studies in vitamin D receptor knockout mice22 and 1α-hydroxylase knockout mice23 consistently provide important evidence that vitamin D plays an important role in maintaining BP homeostasis and protecting the cardiovascular system by serving as a negative endocrine regulator of the RAS. In line with these experimental evidences, considerable epidemiologic data showed an important link between vitamin D deficiency and adverse cardiovascular outcomes in both the general population14,24,25 and patients with CKD.15,26,27 Some retrospective and observational analyses as well as short-term uncontrolled data suggested potential survival or cardiovascular benefit of 1,25(OH)₂D₃ treatment in patients with CKD.17–19,28,29 However, controlled data remain scarce. Thus, this background provides important rationale for our study to examine whether paricalcitol, an activated form of vitamin D, may be a useful therapeutic strategy in retarding LV hypertrophy in patients with stages 3–5 CKD. Our results showed that 52 weeks of treatment with paricalcitol, given at a dose that is sufficient to suppress secondary hyperparathyroidism, did not reduce LV mass and volume in CKD stages 3–5 patients with LV hypertrophy. Additionally, paricalcitol treatment did not modify LV systolic function (reflected by cardiac MRI-derived ejection fraction and S' on tissue Doppler imaging) and diastolic function (reflected by E/A ratio, E', and E/E' ratio) over a 52-week period. These results are in contrast to earlier studies in animals showing that activated vitamin D was useful in reducing LV hypertrophy and attenuating LV diastolic dysfunction in pressure-overloaded cardiac hypertrophy.9–11 However, our findings are similar and confirmatory to the Paricalcitol Capsule Benefits in Renal Failure–Induced Cardiac Morbidity (PRIMO) study, which showed that 48 weeks of therapy with paricalcitol did not alter LV mass index or diastolic dysfunction in patients with CKD.30
+
+Our study differed from the PRIMO study in several ways. First, our sample size was smaller, including only 60 subjects. Nevertheless, because the primary end point was studied using cardiac MRI, which is a highly sensitive, accurate, and reproducible technique, it thus allowed a much smaller sample size to be used without compromising the study power.31 In fact, our sample size of 60 subjects has over 90% power to detect a significant 10-g difference in absolute LV mass. Second, instead of using septal wall thickness as the inclusion criteria like in the PRIMO study, our study inclusion was based on standard echocardiographic criteria of LV hypertrophy. The LV mass index of our subjects was at least 70% higher than the LV mass index in the PRIMO study. Thus, unlike the PRIMO study, our study recruited subjects with frank cardiac hypertrophy.32 Indeed, a major reason suggested for the negative findings in the PRIMO study was the low LV mass and absence of LV hypertrophy. Thus, our study provides important evidence that, even in a cohort of subjects with more severe CKD, more severe secondary hyperparathyroidism, and frank LV hypertrophy, activated vitamin D treatment had no demonstrable effect on reducing LV mass over 52 weeks. Furthermore, a large proportion of our study subjects exhibited diastolic dysfunction with an average E'<7 33,34 This finding allowed us to determine the true effect of activated vitamin D in CKD patients with cardiac hypertrophy and diastolic dysfunction. Third, our study subjects had more severe CKD and secondary hyperparathyroidism compared with the subjects in the PRIMO study. Although the dose of paricalcitol used in our study was one half of the dose in the PRIMO study, this dose was already sufficient in suppressing iPTH and alkaline phosphatase by ≥70% in the majority of Chinese CKD subjects. This result may suggest racial differences in the responsiveness to activated vitamin D therapy. Despite these major differences in study design and patients’ characteristics, our study failed to show any discernible effect of paricalcitol on myocardial hypertrophy and systolic and diastolic dysfunction in patients with stages 3–5 CKD. These results seemed to refute the cardioprotective benefit that was previously shown in animal studies as well as human studies. The underlying explanation is currently not clear. One possibility may be that the treatment duration was too short to modify LV hypertrophy and dysfunction. Another possibility may be that, because activated vitamin D repressed the RAS and over 80% of our patients already received treatment with RAS blockers, the effect of activated D treatment on the myocardium may possibly be attenuated because of concomitant treatment with RAS blockers, and it warrants additional investigation. However, the finding of significantly lower incidence of cardiovascular-related hospitalizations and fewer hospitalization days among paricalcitol-treated patients compared with placebo-treated patients is noteworthy and well in keeping with the findings from the PRIMO study. However, it is important to caution that the sample size of our study is underpowered to study hard outcomes. Thus, this observation can only be considered a hypothesis-generating observation. Recent post hoc analysis of the PRIMO study suggested that activated vitamin D treatment may reduce left atrial volume and N-terminal probrain natriuretic peptide.35 We speculate that it may serve as a potential mechanism by which activated vitamin D treatment may lower cardiovascular-related hospitalizations. Because vitamin D receptor is also present in the vasculature, the other potential mechanism may relate to effects of activated vitamin D treatment on the vasculature36,37 and will require additional investigation.
+
+Overall, paricalcitol treatment was well tolerated in Chinese CKD subjects. The most frequent adverse event was hypercalcemia which is a known adverse effect of activated vitamin D treatment. Although the paricalcitol dose used in our subjects was one half of the dose in the PRIMO study, incidence of hypercalcemia was higher than in the PRIMO study subjects.30 One explanation may be that nearly 70% of the paricalcitol-treated subjects who developed hypercalcemia received calcium-based phosphate binder at the same time, and this calcium-based phosphate binder may have additionally contributed to the hypercalcemia. Generally, hypercalcemia was of mild degree and resolved simply by stopping calcium-based phosphate binder without the need for reduction of paricalcitol dose. The other notable finding was that paricalcitol seemed to be associated with significantly more deterioration in creatinine-based estimation of GFR compared with placebo treatment over a 52-week period using repeated measures modeling. This observation is similar to the finding reported in the PRIMO study.30 The exact mechanism of this increase is uncertain, although the recent study by Agarwal et al.38 suggested that increased creatinine generation rather than reduced clearance may explain the rise in serum creatinine with activated vitamin D treatment. In the PRIMO study, GFR estimated using the cystatin-based equation was shown to be more similar between groups.30 In our study, changes in serum urea of the two groups were similar over a 52-week period.
+
+Our study has several limitations. First, because the study duration was only 52 weeks and the sample size was small, we were unable to determine the effect of oral activated vitamin D treatment on hard outcomes in stages 3–5 CKD patients. Second, because the degree of proteinuria was very low in our patients, we did not observe significant antiproteinuric effect of activated vitamin D treatment as shown in other studies.39,40 Nevertheless, our study represents the first randomized controlled trial that examines the effect of activated vitamin D treatment in CKD patients with frank LV hypertrophy.
+
+In conclusion, this study showed that 52 weeks of treatment with paricalcitol at a dose that effectively controls secondary hyperparathyroidism did not regress LV hypertrophy or improve LV systolic and diastolic dysfunction in stages 3–5 CKD patients with LV hypertrophy. The potential effect in lowering cardiovascular-related hospitalizations warrants additional confirmation.
+
+CONCISE METHODS
+Study Protocol
+This prospective, double blind, randomized, placebo-controlled trial was conducted in a university teaching hospital and a major regional tertiary care hospital in Hong Kong. The study protocol was approved by the Institutional Review Board and Ethics Committee. All patients provided written informed consent before study entry.
+
+Study Population
+In total, 60 subjects with stages 3–5 nondialysis CKD were recruited. Eligibility criteria included subjects with age between 18 and 75 years, GFR estimated using the four-variable Modification of Diet in Renal Disease41 equation <60 ml/min per 1.73 m² diagnosed for more than 3 months who are not expected to start dialysis within the next 12 months, screening iPTH ≥55 pg/ml, serum calcium <10.2 mg/dl (2.55 mmol/L), serum phosphorus ≤5.2 mg/dl (1.68 mmol/L), calcium × phosphorus product <54 mg²/dl² (4.36 mmol²/L²), and no form of vitamin D therapy in the previous 4 weeks. For women, the subject was either not of childbearing potential, which was defined as postmenopausal for at least 1 year or surgically sterile (bilateral tubal ligation, bilateral oophorectomy, or hysterectomy), or if of childbearing potential, had practiced birth control measures. Subjects taking medications that block the RAS must have drug dosage unaltered for at least 3 months before study entry and throughout the study period.
+
+Exclusion criteria include history of an allergic reaction to vitamin D or related compounds, history of renal stones, current malignancy, clinically significant gastrointestinal disease or liver disease, acute renal failure in the recent 3 months, a history of drug or alcohol abuse within 6 months before the screening phase, known human immunodeficiency virus-positive status, evidence of poor compliance with diet and medication, active granulomatous disease, currently receiving medications that may affect calcium or phosphorus metabolism (such as calcitonin, cinacalcet, bisphophonates, or vitamin D compounds), currently receiving or had received glucocorticoid or other immunosuppressive treatment for more than 14 days within the recent 6 months before screening, use of stable estrogen and/or progestogen therapy, pregnancy, and contraindications for MRI examination.
+
+Study Design
+Patients who fulfilled all of the above eligibility criteria provided informed consent and underwent a screening phase, during which time screening echocardiography was performed to estimate LV mass index. Estimated GFR, serum calcium, and phosphorus were repeated to confirm final eligibility for study inclusion. In essence, screening echocardiography showing evidence of LV hypertrophy as defined by an LV mass index >115 g/m² in men and >95 g/m² in women in accordance with the updated guideline from the American Society of Echocardiography42 would be considered eligible for study inclusion.
+
+Eligible subjects were randomized in a double blind fashion in a 1:1 ratio to receive either oral paricalcitol capsules (active treatment group) or placebo (control group). The randomization schedule was computer-generated by the sponsor using the WebRando System (Abbvie), and study capsules were supplied by the sponsor. The stratification factor was iPTH level ≥500 or <500 pg/ml. The block sizes were either two or four.
+
+Subjects assigned to the active arm received a 1-mg oral paricalcitol capsule one time daily if iPTH was <500 pg/ml or a 2-ug oral paricalcitol capsule one time daily if iPTH was ≥500 pg/ml. Thereafter, dose titration was done based on safety reasons for high calcium level. The treatment duration was 52 weeks. Placebo and active treatments were identical in appearance. Study investigators and study subjects were masked to treatment for the duration of the trial. Study subjects returned for follow-up at baseline and weeks 6, 12, 24, 36, 48, and 52, during which time vital signs, including BP and body weight, adverse events, concomitant medications, and compliance to study capsules were recorded. Systolic and diastolic BP was measured two times at least 3 minutes apart on either arm on every follow-up visit after the study subject had rested for at least 15 minutes, and the results were then averaged to give the final systolic and diastolic BP.
+
+Study End Points
+The primary end point was change in LV mass index by plain cardiac MRI over 52 weeks. Prespecified secondary end points included changes in LV end systolic and end diastolic volume index and ejection fraction, E/A ratio and deceleration time by flow Doppler, and S', E', A', and E/E' by tissue Doppler imaging over 52 weeks. Other prespecified secondary biochemical end points included change in iPTH, serum calcium, phosphorus, alkaline phosphatase, estimated GFR, and 24-hour urine protein over 52 weeks.
+
+Plain Cardiac MRI
+Consented subjects underwent plain cardiac MRI at baseline and 52 weeks after treatment to estimate LV mass index, LV volumes, and ejection fraction. Subjects were examined in the supine position with a 1.5 T system (CVi; GE Medical Systems), and an eight-element phased-array radiofrequency coil was used for signal reception. All images were obtained during repeated breath holds and gated to the electrocardiogram. Double oblique long-axis scouts were taken to obtain true short- and long-axis references with two-dimensional fast imaging employing steady state acquisition (2D-FIESTA) sequence. Cine images were acquired in short- and long-axis views. Short-axis views (8-mm thickness and 0-mm gap) were obtained throughout the whole heart from left atrium to LV. MRI analysis was performed in a semiautomated fashion with a commercially independent workstation (Advantage Windows; GE Medical Systems). LV volumes, mass, and ejection fraction were analyzed from MRI cine short-axis views using commercially available software (MASS program; Medis) by a single experienced radiologist. The intraobserver tests performed based on repeat analysis 1 month later of the same MR images of 10 study subjects by the same radiologist showed excellent reproducibility, with intraclass correlation coefficients being 0.95 (95% CI, 0.81 to 0.99), 1.00 (95% CI, 0.99 to 1.00), 0.99 (95% CI, 0.96 to 1.00), and 0.95 (95% CI, 0.82 to 0.99) for LV mass, LV end diastolic volume, LV end systolic volume, and ejection fraction, respectively.
+
+Echocardiography
+Echocardiography was performed at baseline and 52 weeks after treatment using a Vivid-7 Ultrasonographic System (GE Healthcare) with a multifrequency transducer by a single experienced cardiologist blinded to all clinical details of patients. Data were analyzed offline to assess systolic and diastolic function of the heart. All reported echocardiographic measurements were averaged from three consecutive cycles and analyzed by a single experienced cardiologist. Mitral inflow velocities were recorded using pulsed-wave Doppler with the sample volume placed at the tip of the mitral valve tips from the apical four-chamber view as previously described for peak E-wave velocity, peak A-wave velocity, and deceleration time.43 Myocardial velocities were recorded using tissue Doppler technique as described previously.44,45 In brief, pulsed-wave tissue Doppler images were acquired over a predetermined two consecutive cardiac cycles for each of the four mitral segments and transferred to a workstation composed of a personal computer with a software package that provides customized image visualization, processing, and analysis (EchoPac; GE-VingMed). The sample volume was placed in the mitral annulus of septal and lateral myocardial segments from the four-chamber view. Mean velocities during S', E', and A' were measured. The final value represented the average of four sites. E/E' ratio was used as a noninvasive marker of LV filling pressure and diastolic function.46
+
+Biochemical Parameters and Analysis
+Fasting venous blood samples were collected at baseline and weeks 12, 24, 36, and 52 for assessment of complete blood picture, renal function, liver function, serum calcium and phosphorus, alkaline phosphatase, glucose, iPTH, and lipid profile. Additionally, blood samples were collected at weeks 6, 18, 30, 42, and 48 for renal function test and serum calcium and phosphorus; 24-hour urine was collected at baseline and weeks 24 and 52 for measurement of protein excretion. Plasma iPTH was analyzed by chemiluminescence immunoassay using the IMMULITE 1000 Analyzer (Siemens Healthcare Diagnostics, Deerfield, IL). The other laboratory tests were performed on the Beckman Coulter GEN-S Blood Cell Counter (Beckman Coulter Inc., Miami, FL) or the Roche DP Modular Analyzer (Roche Diagnostics Corp., Indianapolis, IN).
+
+Sample Size Calculation
+At the time of study planning, there was only scarce data on changes of LV mass in CKD. Based on previous studies,31,47 the common SD of LV mass was estimated to be ~10 g. To give the study a 90% power to detect a significant 10-g difference (α=0.05, two-tailed test) in absolute LV mass or a 2.7 g/m²·⁷ difference in LV mass indexed by height²·⁷ between the two groups, a minimum of 21 patients was required in each arm. A 10-g difference in absolute LV mass is a clinically important and statistically detectable difference given the use of cardiac MRI.31 Taking into account a 20% dropout rate, we recruited a total sample size of 60 subjects, with 30 subjects in each treatment arm.
+
+Safety Analysis and Adverse Events
+Safety was assessed through adverse events monitoring, changes from baseline laboratory parameters, especially serum calcium and phosphorus and iPTH, and changes from baseline in vital signs and physical examinations. If albumin-adjusted serum calcium increased above the upper limit of laboratory reference range =10.2 mg/dl (2.55 mmol/L) any time during study period, calcium-based binder, if taking any, was first stopped. Study drug was discontinued temporarily if albumin-adjusted serum calcium increased ≥11 mg/dl (2.74 mmol/L), and it was resumed at a lower dose when serum calcium normalized within the laboratory reference range. Subjects with onset of hypercalcemia, defined as albumin-adjusted serum calcium >10.2 mg/dl (2.55 mmol/L) any time during the study period, were recorded. All hospitalizations and days hospitalized during the study period were captured from the Hong Kong Hospital Authority Centralized Medical Record System. The nature of hospitalizations was reviewed and adjudicated by an independent committee blinded to the treatment arm allocation. Cardiovascular-related hospitalizations included hospitalizations because of acute coronary syndrome, acute myocardial infarction, or unstable angina with electrocardiographically documented changes of myocardial ischemia, electrocardiographically documented bradyarrhythmia or tachyarrhythmia, transient ischemic attack, thromboembolic or hemorrhagic stroke, heart failure/fluid overload, peripheral vascular disease, or sudden cardiac death, all of which were defined previously.48 There was 100% agreement in adjudicating the hospitalizations to be of cardiovascular nature by an independent committee.
+
+Statistical Analyses
+All statistical analyses were performed using SAS software, version 9.2 (SAS Institute Inc.). Mean (SD) was used to summarize data distributions. Within-group differences were summarized using median (interquartile range). For the primary end point of changes in LV mass index and other secondary end points, the intention to treat approach was used. The analysis of the primary end point was based on the difference between the two groups in the change of LV mass index during the study period. This analysis was performed by the two-sample Wilcoxon rank sum test for data not normally distributed. A similar approach was used for all secondary end points. For those secondary end points that were measured more than two times, including serum calcium and phosphorus, alkaline phosphatase, iPTH, estimated GFR, and BP, we also used the maximum likelihood, mixed effects, repeated measures model and included all longitudinal observations in the intention-to-treat population. The mixed effects model included terms of treatment, visit, and treatment × visit interaction with baseline values considered as covariates. The analyses for the mixed effects repeated measures model were performed using PROC MIXED, with denominator degrees of freedom estimated by the Satterthwaite approximation. The final statistical significance levels for the outcomes were not adjusted for multiple comparisons. Within-participant errors were estimated using exchangeable covariance unless otherwise specified. Overall P values represent the significance level for the overall treatment group effect with all the follow-up times combined.
+
+Safety analysis was conducted by comparing the incidence of adverse events, including hypercalcemia, as well as hospitalizations between the two groups using the Fisher exact test. A P value <0.05 was considered statistically significant.
+
+ACKNOWLEDGMENTS
+Statistical analyses were conducted by the Clinical Trial Center of the University of Hong Kong, Hong Kong. The trial is registered at ClinicalTrials.gov (NCT00796679).
+
+The study was supported by Abbvie Corporation.
+
+DISCLOSURES
+A.Y.-M.W. received speaker honoraria from Sanofi, Fresinius Kabi, and Roche Diagnostics and served as an advisory board member for Sanofi.
+
+
+### Tables (TXT Format)
+Table 1: Baseline characteristics of study population
+| Characteristics | Paricalcitol (n=30) | Placebo (n=30) |
+|-----------------|---------------------|----------------|
+| Clinical parameters |                     |                |
+| Age, yr | 60.8 (10.2) | 62.2 (10.7) |
+| Sex (men/women) | 18/12 | 14/16 |
+| Body weight, kg | 68.3 (12.4) | 67.6 (11.6) |
+| Body height, m | 1.60 (0.09) | 1.60 (0.09) |
+| Body mass index, kg/m² | 26.6 (4.4) | 26.2 (4.5) |
+| Smoking history, n (%) |                     |                |
+| Nonsmoker | 17 (56.7) | 20 (66.7) |
+| Current smoker | 3 (10.0) | 3 (10.0) |
+| Ex-smoker | 10 (33.3) | 7 (23.3) |
+| Charlson Comorbid Score | 4.73 (1.89) | 4.93 (1.51) |
+| Hypertension, n (%) | 30 (100) | 30 (100) |
+| Diabetes, n (%) | 8 (26.7) | 13 (43.3) |
+| Gout, n (%) | 13 (43.3) | 14 (46.7) |
+| Background coronary artery disease, n (%) | 7 (23.3) | 3 (10.0) |
+| Background cerebrovascular event, n (%) | 4 (13.3) | 5 (16.7) |
+| Ischemic | 3 (10.0) | 3 (10.0) |
+| Hemorrhagic | 1 (3.3) | 2 (6.7) |
+| Peripheral vascular disease, n (%) | 1 (3.3) | 0 (0) |
+| Heart failure, n (%) | 5 (16.7) | 1 (3.3) |
+| NYHA class, n (%) |                     |                |
+| I | 22 (73.3) | 19 (63.3) |
+| II | 7 (23.3) | 11 (36.7) |
+| III | 1 (3.3) | 0 (0) |
+| Antihypertensive medications, n (%) |                     |                |
+| Calcium channel blockers | 28 (93.3) | 24 (80.0) |
+| β-Blockers | 21 (70.0) | 19 (63.3) |
+| RAS blockers | 22 (73.3) | 27 (90.0) |
+| Total number of antihypertensive medications | 3.13 (1.28) | 3.17 (1.15) |
+| Lipid-lowering drugs, n (%) | 18 (60.0) | 20 (66.7) |
+| Aspirin, n (%) | 8 (26.7) | 5 (16.7) |
+| Daily calcium carbonate dose, a mg | 0 (0, 1250) | 0 (0, 0) |
+| Systolic BP, mmHg | 131 (19) | 135 (15) |
+| Diastolic BP, mmHg | 76 (10) | 74 (10) |
+| Biochemical parameters |                     |                |
+| Hemoglobin, g/dl | 11.8 (1.9) | 11.7 (1.8) |
+| Hematocrit, % | 35 (6) | 34 (5) |
+| Calcium, mmol/L | 2.32 (0.10) | 2.34 (0.09) |
+| Phosphorus, mmol/L | 1.35 (0.27) | 1.26 (0.14) |
+| Sodium, mmol/L | 141 (3) | 142 (2) |
+| Potassium, mmol/L | 4.5 (0.4) | 4.6 (0.5) |
+| Urea, mmol/L | 17.9 (6.5) | 15.1 (5.2) |
+| Creatinine, μmol/L | 253 (95) | 220 (71) |
+| Urate, mmol/L | 494 (114) | 513 (104) |
+| Albumin, g/L | 43.1 (4.0) | 42.6 (3.2) |
+| Alkaline phosphatase, U/L | 74 (24) | 85 (23) |
+| iPTH, a pg/ml | 156 (108, 235) | 129 (121, 176) |
+| Fasting glucose, mmol/L | 5.7 (1.0) | 5.8 (1.0) |
+| HDL cholesterol, mmol/L | 1.21 (0.35) | 1.17 (0.35) |
+| LDL cholesterol, mmol/L | 2.43 (0.75) | 2.79 (0.93) |
+| Total cholesterol, mmol/L | 4.34 (1.01) | 4.80 (1.07) |
+| Triglyceride, mmol/L | 1.76 (0.88) | 1.80 (0.84) |
+| 24-h urine protein, a g/d | 0.59 (0.2, 1.2) | 1.06 (0.24, 1.95) |
+| Estimated GFR, a ml/min per 1.73 m² | 19.7 (16.0, 30.6) | 23.9 (20.5, 31.3) |
+aMedian (interquartile range). For unit conversion of iPTH from picograms per milliliter to picomoles per liter, multiply by 0.1060. Normal reference range of iPTH is 10.4–71.7 pg/ml. NYHA, New York Heart Association.
+
+Table 2: Baseline cardiac MRI and echocardiographic parameters
+| Cardiac Parameters | Paricalcitol (n=30) | Placebo (n=30) |
+|--------------------|---------------------|----------------|
+| Cardiac MRI-derived parameters |                     |                |
+| LV mass index by body surface area, g/m² | 81.2 (14.8) | 79.5 (14.7) |
+| LV mass index by height²·⁷, g/m²·⁷ | 39.2 (7.2) | 38.0 (8.5) |
+| LV EDV index by body surface area, ml/m² | 78.2 (15.7) | 80.6 (22.6) |
+| LV ESV index by body surface area, ml/m² | 25.8 (10.2) | 26.3 (15.2) |
+| LV ejection fraction, % | 67.5 (8.4) | 68.7 (10.5) |
+| Echocardiography-derived functional parameters |                     |                |
+| E/A ratio | 0.88 (0.22) | 0.91 (0.24) |
+| Deceleration time, ms | 225 (59) | 225 (43) |
+| E', cm/s | 6.80 (1.45) | 6.73 (1.80) |
+| S', cm/s | 7.57 (1.94) | 7.53 (2.06) |
+| A', cm/s | 9.67 (2.23) | 9.50 (2.22) |
+| Ratio of E/E' | 11.67 (4.06) | 13.02 (6.65) |
+MRI, magnetic resonance imaging; LV, left ventricle; EDV, end diastolic volume; ESV, end systolic volume; E/A, ratio of early filling velocity to atrial filling velocity; E', early diastolic mitral annular velocity; S', systolic mitral annular velocity; A', late diastolic mitral annular velocity; E/E', ratio of transmitral Doppler early filling velocity to tissue Doppler early diastolic mitral annular velocity. Continuous data expressed as mean (SD).
+
+Table 3: Changes in cardiac MRI and echocardiographic parameters from baseline to 52 weeks
+| Cardiac Parameters | Paricalcitol (n=30) | Placebo (n=30) | P |
+|--------------------|---------------------|----------------|-----|
+| LV mass index by body surface area, g/m² |                     |                |     |
+| Baseline | 81.2 (14.8) | 79.5 (14.7) |     |
+| Week 52 | 79.0 (15.1) | 75.2 (17.7) |     |
+| Change from baseline to 52 wk | -2.59 (-6.13 to +0.32) | -4.85 (-9.89 to -1.10) | 0.40 |
+| LV mass index by height²·⁷, g/m²·⁷ |                     |                |     |
+| Baseline | 39.2 (7.2) | 38.0 (8.5) |     |
+| Week 52 | 36.5 (10.0) | 35.6 (9.4) |     |
+| Change from baseline to 52 wk | -1.75 (-3.35 to +0.19) | -2.28 (-5.51 to -0.34) | 0.60 |
+| LV EDV index by body surface area, ml/m² |                     |                |     |
+| Baseline | 78.2 (15.7) | 80.6 (22.6) |     |
+| Week 52 | 85.32 (21.09) | 83.87 (24.93) |     |
+| Change from baseline to 52 wk | +5.43 (+0.13 to +13.73) | +2.79 (-4.30 to +7.29) | 0.30 |
+| LV ESV index by body surface area, ml/m² |                     |                |     |
+| Baseline | 25.76 (10.16) | 26.28 (15.17) |     |
+| Week 52 | 27.84 (13.30) | 27.45 (15.16) |     |
+| Change from baseline to 52 wk | +1.45 (-3.46 to +6.02) | +1.00 (-1.74 to +2.67) | 0.80 |
+| LV ejection fraction, % |                     |                |     |
+| Baseline | 67.5 (8.4) | 68.7 (10.5) |     |
+| Week 52 | 67.2 (8.3) | 68.4 (10.7) |     |
+| Change from baseline to 52 wk | +0.45 (-3.80 to +4.30) | -0.80 (-2.90 to +4.90) | 0.80 |
+| Ratio of E/A |                     |                |     |
+| Baseline | 0.88 (0.22) | 0.91 (0.24) |     |
+| Week 52 | 0.86 (0.36) | 0.97 (0.29) |     |
+| Change from baseline to 52 wk | +0.03 (-0.03 to +0.06) | +0.04 (-0.00 to +0.09) | 0.40 |
+| Deceleration time, ms |                     |                |     |
+| Baseline | 224.9 (58.6) | 224.6 (42.9) |     |
+| Week 52 | 250.5 (71.9) | 229.3 (86.0) |     |
+| Change from baseline to 52 wk | +23.00 (+6.00 to +52.00) | -3.50 (-34.00 to +22.00) | 0.05 |
+| E', cm/s |                     |                |     |
+| Baseline | 6.80 (1.45) | 6.73 (1.80) |     |
+| Week 52 | 6.97 (1.78) | 7.40 (2.55) |     |
+| Change from baseline to 52 wk | +0.00 (+0.00 to +0.00) | +0.00 (+0.00 to +1.00) | 0.20 |
+| S', cm/s |                     |                |     |
+| Baseline | 7.57 (1.94) | 7.53 (2.06) |     |
+| Week 52 | 8.55 (1.96) | 8.57 (2.73) |     |
+| Change from baseline to 52 wk | +0.00 (+0.00 to +1.00) | +1.00 (+0.00 to +1.00) | 0.90 |
+| A', cm/s |                     |                |     |
+| Baseline | 9.67 (2.23) | 9.50 (2.22) |     |
+| Week 52 | 10.07 (2.64) | 9.70 (3.39) |     |
+| Change from baseline to 52 wk | +0.00 (+0.00 to +1.00) | +0.00 (+0.00 to +0.00) | 0.30 |
+| Ratio of E/E' |                     |                |     |
+| Baseline | 11.67 (4.06) | 13.02 (6.65) |     |
+| Week 52 | 12.40 (4.63) | 13.18 (6.84) |     |
+| Change from baseline to 52 wk | +0.67 (-0.52 to +2.13) | +0.56 (-0.90 to +2.00) | 0.90 |
+Changes from baseline to 52 weeks were expressed as median (interquartile range). Comparisons of changes between the two groups were performed by two-sample Wilcoxon rank sum test. LV, left ventricle; EDV, end diastolic volume; ESV, end systolic volume; E/A, ratio of early to late transmitral flow velocity; E', early diastolic mitral annular velocity; S', systolic mitral annular velocity; A', late diastolic mitral annular velocity; E/E', ratio of early diastolic transmitral flow velocity to early diastolic mitral annular velocity.
+
+Table 4: Change in key laboratory parameters and BP from baseline to 52 weeks
+| Laboratory Parameters | Paricalcitol (n=30) | Placebo (n=30) | P |
+|-----------------------|---------------------|----------------|-----|
+| Calcium, mmol/L |                     |                |     |
+| Baseline | 2.32 (0.10) | 2.34 (0.09) |     |
+| Week 52 | 2.39 (0.11) | 2.34 (0.08) |     |
+| Change from baseline to 52 wk | +0.08 (+0.02 to +0.16) | +0.01 (-0.06 to +0.05) | 0.03 |
+| Phosphorus, mmol/L |                     |                |     |
+| Baseline | 1.35 (0.27) | 1.26 (0.14) |     |
+| Week 52 | 1.37 (0.23) | 1.32 (0.16) |     |
+| Change from baseline to 52 wk | +0.08 (-0.07 to +0.18) | +0.07 (-0.08 to +0.21) | 0.80 |
+| Alkaline phosphatase, U/L |                     |                |     |
+| Baseline | 74 (24) | 85 (23) |     |
+| Week 52 | 60 (20) | 87 (26) |     |
+| Change from baseline to 52 wk | -12 (-21 to -1) | +2 (-6 to +10) | 0.001 |
+| iPTH, pg/ml |                     |                |     |
+| Baseline | 156 (109 to 235) | 158 (121 to 176) |     |
+| Week 52 | 51 (37 to 78) | 167 (107 to 330) |     |
+| Change from baseline to 52 wk | -86 (-131 to -43) | +21 (-25 to +134) | <0.001 |
+| Albumin, g/L |                     |                |     |
+| Baseline | 43.1 (4.0) | 42.6 (3.2) |     |
+| Week 52 | 41.8 (3.3) | 41.3 (3.8) |     |
+| Change from baseline to 52 wk | -1.00 (-3.00 to +1.00) | -1.00 (-3.00 to +0.00) | 1.00 |
+| Urea, mmol/L |                     |                |     |
+| Baseline | 17.9 (6.5) | 15.1 (5.2) |     |
+| Week 52 | 21.7 (10.5) | 18.2 (7.4) |     |
+| Change from baseline to 52 wk | +2.3 (+0.1 to +7.6) | +1.7 (-0.5 to +6.7) | 0.60 |
+| Hemoglobin, g/dl |                     |                |     |
+| Baseline | 11.8 (1.9) | 11.7 (1.8) |     |
+| Week 52 | 11.0 (2.3) | 11.0 (1.8) |     |
+| Change from baseline to 52 wk | -0.60 (-1.70 to -0.10) | -0.65 (-1.00 to -0.50) | 0.90 |
+| 24-h urine protein, g/d |                     |                |     |
+| Baseline | 0.59 (0.50 to 1.20) | 1.06 (0.24 to 1.95) |     |
+| Week 52 | 0.41 (0.23 to 1.05) | 0.49 (0.21 to 1.50) |     |
+| Change from baseline to 52 wk | -0.05 (-0.34 to +0.10) | -0.14 (-0.83 to +0.02) | 0.40 |
+| Systolic BP, mmHg |                     |                |     |
+| Baseline | 131 (18) | 135 (15) |     |
+| Week 52 | 125 (14) | 125 (18) |     |
+| Change from baseline to 52 wk | -8 (-15 to 6.7) | -4 (-25 to 5) | 0.03 |
+| Diastolic BP, mmHg |                     |                |     |
+| Baseline | 76 (11) | 74 (10) |     |
+| Week 52 | 69 (11) | 68 (15) |     |
+| Change from baseline to 52 wk | -7 (-14 to -1) | -6 (-11 to 3) | 0.80 |
+Continuous data expressed as mean (SD) or median (interquartile range) depending on data distribution. All changes from baseline to 52 weeks expressed as median (interquartile range) because of non-normal distribution. Between-groups comparisons were performed by two-sample Wilcoxon rank sum test.
+
+Table 5: A summary of adverse events in study subjects
+| Adverse Events | Paricalcitol (n=30) | Placebo (n=30) | P |
+|----------------|---------------------|----------------|-----|
+| Patients with hospitalizations, n (%) | 2 (6.7) | 10 (33.3) | 0.02 |
+| Total hospitalization episodes | 5 | 14 |     |
+| Patients with cardiovascular-related hospitalizations, n (%) | 0 (0) | 5 (16.7) |     |
+| Hospitalization days, median (range) | 0 (0 to 14) | 0 (0 to 55) | 0.02 |
+| Patients with hypercalcemia, n (%) | 13 (43.3) | 1 (3.3) | <0.001 |
+| Cardiovascular events, number of episodes | 0 | 6 (5 patients) |     |
+| Ischemic stroke | 0 | 1 |     |
+| Hemorrhagic stroke | 0 | 1 |     |
+| Acute myocardial infarction | 0 | 2 (1 patient) |     |
+| Syncope and bradycardia | 0 | 1 |     |
+| Fluid overload | 0 | 1 |     |
+| Noncardiovascular events, number of episodes | 6 (2 patients) | 8 (5 patients) |     |
+| Acute chronic renal failure | 2 (1 patient) | 2 |     |
+| End stage renal failure | 1 | 0 |     |
+| Pneumonia | 2 (1 patient) | 0 |     |
+| Hyperkalemia | 0 | 3 (2 patients) |     |
+| Asthma exacerbation | 0 | 2 (1 patient) |     |
+| Anemia with hemorrhoid bleed | 0 | 1 |     |
+| Pigmented purpuric dermatosis | 1 | 0 |     |
+
+
+### Image Descriptions (TXT Format)
+Figure 1: Study recruitment and follow-up flowchart. A total of 441 patients were screened. Among them, 212 patients were excluded (183 did not meet laboratory inclusion criteria, 5 had kidney stones, 14 received prohibited medications, 6 had recent alterations in RAS blockers, 4 did not give consent). 229 eligible patients consented for screening, and 169 were further excluded (163 did not fulfill echocardiographic criteria of LV hypertrophy, 3 had cardiac valvular lesions or unrelated cardiomyopathies, 3 other reasons). Finally, 60 patients were randomized: 30 to the paricalcitol group and 30 to the placebo group. All 60 patients completed the 52-week follow-up. In the paricalcitol group: 1 patient withheld RAS blocker for 7 weeks due to acute on chronic renal failure attack; 1 patient initiated long-term dialysis (study completion) and had paricalcitol dose reduced at week 51 due to hypercalcemia; 1 patient had paricalcitol dose reduced at week 30 due to hypercalcemia. In the placebo group: 1 patient used a short course of steroid for asthma; 1 patient stopped RAS blocker from week 20 till study completion due to acute on chronic renal failure; 1 patient had hypercalcemia; 1 patient had placebo dose stepped up to 2 mcg because iPTH >500 pg/mL; 1 patient’s endpoint cardiac MRI image was lost. For primary analysis: 30 patients in the paricalcitol group and 29 in the placebo group were included. For secondary analysis: 30 patients in both groups were included.
+
+Figure 2: Line graphs showing changes in laboratory parameters and blood pressure over 52 weeks of treatment, with visit weeks (0, 6, 12, 18, 24, 30, 36, 42, 48, 52) on the x-axis and parameter values on the y-axis. There are three subgraphs (A, B, C):
+- Subgraph A: Shows changes in intact parathyroid hormone (iPTH, pg/ml) and alkaline phosphatase (ALP, U/L). The iPTH level in the paricalcitol group decreases steadily over time, while it increases in the placebo group. The ALP level in the paricalcitol group decreases over time, whereas it remains relatively stable or slightly increases in the placebo group.
+- Subgraph B: Shows changes in serum calcium (SCa, mmol/L) and serum phosphorus (SPO4, mmol/L). The serum calcium level in the paricalcitol group increases slightly over time, while it remains stable in the placebo group. The serum phosphorus level shows no significant difference between the two groups over time.
+- Subgraph C: Shows changes in systolic blood pressure (SBP, mmHg) and diastolic blood pressure (DBP, mmHg). Both SBP and DBP decrease in both groups over time, with the paricalcitol group showing a slightly greater reduction in SBP compared to the placebo group.

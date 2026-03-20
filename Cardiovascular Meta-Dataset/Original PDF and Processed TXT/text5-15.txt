@@ -1,0 +1,142 @@
+### Text Content (before References)
+See corresponding editorial on page 731. See corresponding CME exam on page 925.
+Vitamin D supplementation improves cytokine profiles in patients with congestive heart failure: a double-blind, randomized, placebo-controlled trial1–3
+Stefanie S Schleithoff, Armin Zittermann, Gero Tenderich, Heiner K Berthold, Peter Stehle, and Reiner Koerfer
+
+ABSTRACT
+Background: Elevated circulating concentrations of proinflammatory cytokines may contribute to the pathogenesis of congestive heart failure (CHF). In vitro studies suggest that vitamin D suppresses proinflammatory cytokines and increases antiinflammatory cytokines.
+Objective: We evaluated the effect of vitamin D supplementation on the survival rate and different biochemical variables in patients with CHF.
+Design: One hundred twenty-three patients randomly received either 50μg vitamin D₃/d plus 500 mg Ca/d [D(+) group] or placebo plus 500 mg Ca/d [D(-) group] for 9 mo. Biochemical variables were assessed at baseline and after 9 mo. The survival rate was calculated for a follow-up period of 15 mo.
+Results: Ninety-three patients completed the study. Significant treatment effects were observed on logarithmic-transformed serum concentrations of 25-hydroxyvitamin D (P=0.001), parathyroid hormone (P=0.007), tumor necrosis factor α (P=0.006), and interleukin 10 (P=0.042). 25-Hydroxyvitamin D increased by 26.8 ng/mL in the D(+) group but increased only by 3.6 ng/mL in the D(-) group. Compared with baseline, parathyroid hormone was significantly lower and the antiinflammatory cytokine interleukin 10 was significantly higher in the D(+) group after 9 mo. The proinflammatory cytokine tumor necrosis factor α increased in the D(-) group but remained constant in the D(+) group. The survival rate did not differ significantly between the study groups during the follow-up period.
+Conclusions: Vitamin D₃ reduces the inflammatory milieu in CHF patients and might serve as a new antiinflammatory agent for the future treatment of the disease. Our data provide evidence for the involvement of an impaired vitamin D–parathyroid hormone axis in the progression of CHF.
+
+Am J Clin Nutr 2006;83:754–9.
+KEY WORDS Congestive heart failure, vitamin D, cytokine, parathyroid hormone
+
+INTRODUCTION
+Congestive heart failure (CHF) is a chronic disease that is characterized by dyspnea and fatigue due to a reduced cardiac ejection fraction in association with cardiac hypertrophy. Abnormal cardiac function is responsible for the inability of the heart to supply adequate blood flow, and therefore oxygen delivery, to peripheral tissues and organs or to do so only with elevated filling pressures. Approximately 5 million Americans and 10 million Europeans have CHF (1, 2). Despite evidence-based advances in the treatment of CHF over the past 15 y (2), large observational studies have shown no substantial changes in the prognosis of patients with heart failure. Survival rates 5 y after a first diagnosis of CHF are still only 35–50% (3, 4). Heart transplantation is the ultimate therapeutic measure in patients with end-stage CHF.
+The cause of heart failure is not fully understood. In recent years, the pathophysiologic concept of chronic heart failure has changed from an isolated hemodynamic view to a more complex concept involving neurohormonal overactivation and increased concentrations of proinflammatory cytokines, such as tumor necrosis factor α (TNF-α) and interleukin 6 (5, 6). In particular, TNF-α may contribute to the pathogenesis and the progression of CHF (5, 7). Measures to attenuate the deleterious effects of TNF-α on the progression of CHF may thus represent promising therapeutic approaches for its treatment (8, 9). Interestingly, experimental studies have shown that the vitamin D hormone calcitriol can suppress the release of TNF-α (10). Moreover, calcitriol effectively up-regulates the synthesis of the antiinflammatory cytokine interleukin 10 (IL-10) and induces IL-10 receptor expression in vitro (11).
+We hypothesized that low vitamin D status may contribute to the pathogenesis and symptoms of CHF (12). Patients with CHF have considerably lower concentrations of the vitamin D metabolites 25-hydroxyvitamin D [25(OH)D] and calcitriol than do age-matched healthy controls (12), and a significant percentage of CHF patients have biochemical signs of hyperparathyroidism (12, 13). Additional strong evidence for the involvement of vitamin D deficiency in the pathogenesis of CHF comes from vitamin D receptor knockout mice. Genetic disruption of the vitamin D receptor resulted in overstimulation of the renin-angiotensin system, which leads to high blood pressure, increased concentrations of atrial natriuretic peptide, and cardiac hypertrophy (14). These earlier data encouraged us to perform a controlled clinical trial to clarify whether vitamin D supplementation is able to improve the survival and biochemical variables of patients with CHF.
+
+SUBJECTS AND METHODS
+Participants
+One hundred twenty-three CHF patients (102 men and 21 women) were recruited at the Heart and Diabetes Center Nordrhein-Westfalen, Germany, between March 2002 and April 2003. The patients were ambulatory and were routinely seen at least twice a year. Only patients with New York Heart Association functional class II were included. Exclusion criteria were hypercalcemia, serum creatinine concentration >2 mg/dL, nephrolithiasis, sarcoidosis, use of a biventricular pacemaker, acute heart insufficiency, and an actual intake of supplements containing vitamin D and calcium. All patients gave written informed consent to the study procedures, which were approved by the Ethics Committee of the Medical Association Westfalen-Lippe, Germany.
+
+Study design
+At study entry, all patients were randomly assigned in a double-blind manner from computer-generated random number lists; 61 patients were assigned to the intervention group [designated as the D(+) group] and 62 patients to the control group [designated as the D(-) group]. The D(+) group received a daily supplement of 50μg (2000 IU) cholecalciferol (Vigantol Oel; Merck, Darmstadt, Germany), whereas the D(-) group received a placebo (Migliol-Oel; Merck, Darmstadt, Germany). In addition, both groups received a daily supplement of 500 mg Ca to guarantee a calcium intake above the recommended intake for adults of 1000–1200 mg Ca/d (15). The treatment was conducted for a period of 9 mo. The primary study endpoints were survival rates and biochemical variables such as natriuretic peptides and cytokines. Secondary endpoints were those hemodynamic variables, which were assessed routinely during the ambulatory visits, such as left ventricular ejection fraction (LVEF), left ventricular end-diastolic diameter (LVEDD), the cardiothoracic ratio, maximal oxygen intake (spiroergometry; VO₂ max), and blood pressure.
+We documented patient compliance by controlling the study medication at each visit (bottle counts) and by the analysis of serum 25(OH)D concentrations. The study patients’ medical history and medical treatment were assessed with the use of hospital documents. Moreover, the patients had to complete a validated food record (16) on the day before each visit to estimate dietary vitamin D and calcium intakes.
+Blood specimens were collected from the antecubital vein of the study subjects after a 12-h overnight fast at baseline and after 9 mo. After centrifugation at room temperature for 20 min (1500 × g), aliquots of the serum samples were frozen consecutively and stored at -80 °C until analyzed.
+
+Biochemical analysis
+25(OH)D was measured by radioimmunoassay (DiaSorin, Stillwater, MN). As indicated by other data analyses, the reference range for adequate 25(OH)D concentrations should be 33–90 ng/mL (17–20). Serum calcitriol concentrations were measured with the use of a competitive enzyme-linked immunosorbent assay (ELISA; Immundiagnostik, Bensheim, Germany) after solid-phase extraction (reference range: 17–53 pg/mL). The intra- and interassay CVs for the 2 vitamin D metabolites were <7.0% and <9.0%, respectively. Intact parathyroid hormone (PTH; reference range: 16–46 pg/mL), TNF-α, and C-reactive protein were measured by ELISA test kits (DRG Diagnostics, Marburg, Germany) with interassay CVs <10%. IL-10 was measured with a highly sensitive ELISA kit (R&D, Minneapolis, MN). Calcium was assessed with the use of atomic absorption spectrometry (AAS 3030; Perkin Elmer, Ueberlingen, Germany); the CVs were <2.5%. N-Terminal propeptide of atrial natriuretic peptide was measured by using a radioimmunoassay kit (Biotop Oy, Oulu, Finland), and N-terminal propeptide of brain natriuretic peptide was measured by an electrochemiluminescent-immunoassay (Roche Diagnostics, Mannheim, Germany) with interassay CVs <4%. The concentrations of phosphorus and creatinine were measured enzymatically with the use of routine methods (Wako Chemicals, Neuss, Germany). Albumin was measured with a colorimetric test kit (BioMérieux, Nürtingen, Germany).
+
+Statistics
+Statistical evaluations were performed with SPSS version 11 (SPSS Inc, Chicago, IL). Categorical variables were reported by using the number or percent of observations. For comparative evaluations of categorical variables, the Fisher’s exact test was used. Continuous variables were expressed as medians with interquartile ranges. Because most biochemical variables were non-normally distributed, as tested by the Kolmogorov-Smirnov test, data were normalized by logarithmic transformation. We then used the unpaired t test to compare the values of the study groups at baseline. Results after 9 mo are presented as the change from baseline. We compared changes from baseline between study groups using analysis of covariance with the baseline values as covariate. Moreover, we evaluated time effects within each study group using the paired t test. Survival rates were calculated according to the Kaplan-Meier method. The log-rank test was used to test for potential differences in survival rates between the study groups. Because it takes ≥3–6 mo of vitamin D supplementation before a plateau of circulating 25(OH)D concentrations is achieved (17), we calculated survival rate in both groups for a follow-up of 15 mo. P values <0.05 (two-tailed test) were considered statistically significant, and P values between 0.05 and 0.10 were considered borderline significant.
+
+RESULTS
+The characteristics of the study patients are shown in Table 1. Clinical characteristics and medical treatment (except oral anticoagulant treatment) did not differ significantly between the groups. The results of the food records showed a median daily dietary vitamin D intake of 1.35μg (interquartile range: 0.80–2.50μg) in the D(+) group and 1.20μg (0.60, 2.20μg) in the D(-) group (P>0.05). Median daily dietary calcium intakes of the D(+) and D(-) group were 983 mg (741, 1275 mg) and 839 mg (656, 1158 mg), respectively (P>0.05). Thus, the dietary calcium intake and the additional calcium supplement led to a total daily calcium intake above the recommended intake value of 1000–1200 mg Ca (15).
+Nineteen patients from the D(+) group and 11 patients from the D(-) group did not complete the study (P>0.05). Five patients [4 in the D(+) group and 1 in the D(-) group] had to be excluded due to lack of compliance. Twenty-five patients dropped out of the study prematurely because their health status worsened markedly: 1 patient [from the D(-) group] developed nephrolithiasis, cardiac transplantation was performed in 5 patients, 3 patients had a biventricular pacemaker implanted, and 7 patients could not complete the study because of excessive impairment in health status such as stroke, resuscitation, and high hospitalization rate. Moreover, 9 patients died within the 9 mo, and 13 patients died within the 15 mo follow-up [7 in the D(+) group and 6 in the D(-) group]. Three patients of the D(+) group died within the first 8 wk before a plateau of circulating 25(OH)D was reached (17, 18). Kaplan-Meier estimates showed no significant differences in survival rates in the D(+) and D(-) groups during the 15 mo follow-up (85.7% and 88.2%, respectively; P=0.836).
+The 25 patients who dropped out because their health status worsened markedly already had higher serum concentrations of N-terminal propeptide of brain natriuretic peptide, N-terminal propeptide of atrial natriuretic peptide, and C-reactive protein at baseline than did the patients who completed the study (Table 2). Moreover, these dropout patients had relatively high baseline serum concentrations of PTH and calcium, whereas their serum 25(OH)D concentrations were relatively low. In addition, the patients who dropped out had a lower LVEF, a higher LVEDD, and a higher cardiothoracic ratio than did the patients who completed the study.
+The biochemical and clinical variables of the 93 study patients who completed the study are summarized in Table 3. The values did not differ significantly between the treatment groups at baseline, with the exception of lower IL-10 serum concentrations in the D(+) group than in the D(-) group. In both study groups, baseline 25(OH)D concentrations were below the lower end of the reference range, whereas TNF-α concentrations were markedly higher than the generally accepted mean normal concentration of 6 pg/mL for healthy middle-aged subjects.
+Significant treatment effects on logarithmic transformed serum concentrations of 25(OH)D (P=0.001), PTH (P=0.007), TNF-α (P=0.006), and IL-10 (P=0.042) were observed. Other biochemical variables, including calcitriol concentrations and natriuretic peptides, were not significantly affected by vitamin D supplementation.
+In detail, vitamin D supplementation increased median 25(OH)D concentrations by 26.8 ng/mL (P=0.001; paired t test), whereas placebo treatment was associated with an increase of only 3.6 ng/mL (P=0.045; paired t test). Moreover, median PTH concentrations fell significantly by 14% in the D(+) group (P=0.034; paired t test), but only tended to decrease by 11% in the D(-) group (P=0.092; paired t test). Compared with baseline values, median IL-10 concentrations increased by 43% in the D(+) group (P=0.035; paired t test) during treatment but did not significantly change in the D(-) group during that time interval (-22%, P=0.579; paired t test). Median concentrations of TNF-α did not differ significantly in the D(+) group after 9 mo of vitamin D supplementation compared with baseline values (P=0.812; paired t test), but increased by 12% in the D(-) group during that time interval (P=0.017; paired t test).
+After 9 mo of intervention, the D(+) group as well as the D(-) group showed improvements in LVEF values and also in LVEDD values. However, the extent of change from baseline did not differ significantly between the study groups (Table 3). Dietary calcium and vitamin D intake, as well as type and dosage of medications, did not change significantly during intervention in either the D(+) or the D(-) groups (data not shown).
+
+DISCUSSION
+In the present clinical study, we showed for the first time that a daily supplement of 50μg vitamin D for 9 mo is able to increase serum concentrations of the antiinflammatory cytokine IL-10 and to prevent an increase in serum concentrations of the proinflammatory cytokine TNF-α in CHF patients. Moreover, the suppression in serum PTH concentrations was more pronounced in the D(+) group (calcium and vitamin D supplemented) than in the D(-) group (only calcium supplemented). Hemodynamic variables improved in both study groups, whereas natriuretic peptides did not significantly change. The survival rate during 15 mo of follow-up was similar in both groups.
+Our results agree with experimental data showing that vitamin D is able to suppress the release of TNF-α and to enhance IL-10 synthesis (10, 11). Moreover, earlier epidemiologic data indicated that high blood concentrations of 25(OH)D were associated with high IL-10 concentrations (21). Because IL-10 is able to suppress the production of proinflammatory cytokines, this antiinflammatory cytokine seems to have important cardioprotective actions (22). In addition, experimental studies have shown that IL-10 deficiency leads to severe atherosclerosis (23). In contrast to the protective effects of high IL-10 concentrations, evidence that high TNF-α concentrations contribute to the pathogenesis and progression of CHF is increasing (24). In vitro studies showed that the release of TNF-α can be suppressed by calcitriol in a dose-dependent fashion (25). It should be mentioned that several tissues, such as cytokine-producing immune cells, express 1α-hydroxylase (26) and are thus able to make calcitriol for themselves from circulating 25(OH)D. Although serum calcitriol concentrations are usually homeostatically regulated, local calcitriol production depends on the concentration of circulating 25(OH)D (27).
+The potential utility of an anti-TNF therapy in the management of heart failure is currently an area of great interest (8, 9). Consequently, our data on serum TNF-α as well as on serum IL-10 concentrations suggest that a vitamin D supplement can improve the cytokine profile of CHF patients. Our results may therefore offer interesting therapeutic options for diseases such as CHF, which are associated with up-regulated proinflammatory cytokines.
+Men with left ventricular hypertrophy have higher PTH concentrations than do men without left ventricular hypertrophy (44.1±26.2 pg/mL compared with 29.4±13.9 pg/mL) (28). Moreover, excess PTH concentrations have adverse effects on cardiac function and lead to cardiomyocyte hypertrophy and interstitial fibrosis (29). In our study, the vitamin D- and calcium-supplemented D(+) group showed a significantly more pronounced decrease of serum PTH concentrations than did the only calcium-supplemented D(-) group (Table 3). Calcium supplementation may also increase the amount of extracellular activator calcium that is necessary for the first step in myocardial contractions (12). Although we cannot rule out that the significant increase of LVEF and decrease of LVEDD in both study groups was due to study bias, it may be that the calcium supplementation of both groups led to an improvement of left ventricular function, either directly or indirectly, through the decrease in serum PTH concentrations.
+Another important finding of our study was that, compared with the patients who completed the study, the patients who dropped out prematurely because their health status worsened markedly had higher serum PTH concentrations and lower 25(OH)D concentrations at baseline, whereas their hemodynamic variables were more impaired at baseline. Data support the assumption that a disturbed vitamin D-PTH-calcium axis may be involved in the pathogenesis of CHF. The elevated PTH concentrations of the patients who dropped out may have caused calcium release from bone and may thus be responsible for the slightly enhanced fasting serum calcium concentrations of these patients at baseline (Table 2).
+Our study has some limitations. First, the increase of 26.8 ng 25(OH)D/mL in the D(+) group [median 25(OH)D concentration after 9 mo: 42 ng/mL] was probably too low to optimize all vitamin D–dependent functions. It has only become clear in the past few years that serum 25(OH)D concentrations of >33 ng/mL and ≤90 ng/mL (80-225 nmol/L) are considered adequate (17-20). Vitamin D dosages >50 μg/d and circulating 25(OH)D concentrations higher than the median concentration of 42 ng/mL (105 nmol/L), which was reached after 9 mo of vitamin D supplementation, may probably result in an additional improvement of the cytokine profile in CHF patients. Second, the number of dropouts was relatively high in our study. However, note that the patients in our study were severely ill. The high number of dropouts supports the general observation that CHF patients with New York Heart Association class II have high complication and mortality rates. Third, calcium supplementation may have influenced cardiac function in both study groups (see above). However, dietary calcium intake in Western countries is often below the calcium recommendation of 1000–1200 mg/d (30). This was also the case in our study groups (see Results, above). Therefore, we believe that it would have been unethical to not supplement both study groups with calcium.
+In conclusion, the results of our study indicate that vitamin D can serve as an antiinflammatory agent and may therefore be useful for the management of CHF. Moreover, vitamin D was able to suppress serum concentrations of PTH, a hormone that may contribute to impaired cardiac function. Calcium supplementation may result in a slight improvement of hemodynamic variables. Our data provide additional evidence for the involvement of an impaired vitamin D-PTH-calcium axis in the progression of CHF.
+
+We thank Dr. E. Murray for his assistance in writing the manuscript.
+SSS was responsible for the study design, recruitment of patients, data collection, data analysis, and writing of the manuscript. AZ was responsible for the study design, data analysis, and writing of the manuscript. GT participated in the review of the original data and their compilation. HKB participated in the design of the study. PS and RK were responsible for revising the manuscript critically for important intellectual content and for final approval of the manuscript. The authors had no conflicts of interest.
+
+### Tables (in TXT format)
+Table 1 Characteristics of the study groups1
+| Characteristics | D(+) group (n = 61) | D(-) group (n = 62) | P2 |
+| --- | --- | --- | --- |
+| Men (n) | 52 | 50 | 0.500 |
+| Age (y) | 57 (53, 63)3 | 54 (50, 62) | 0.217 |
+| Height (m) | 1.76 (1.69, 1.82) | 1.76 (1.68, 1.82) | 0.693 |
+| Weight (kg) | 83 (72, 91) | 79 (71, 89) | 0.404 |
+| BMI (kg/m²) | 26.0 (23.9, 29.0) | 25.4 (24.3, 28.4) | 0.756 |
+| Smoker (n) | 9 | 7 | 0.570 |
+| Diseases (%) | | | |
+| Coronary artery disease | 47 | 40 | 0.422 |
+| Dilative cardiomyopathy | 53 | 60 | 0.422 |
+| Hypertension | 38 | 32 | 0.528 |
+| Diabetes | 20 | 23 | 0.694 |
+| Drug therapy (%) | | | |
+| Diuretics | 97 | 100 | 0.152 |
+| Loop diuretics | 84 | 84 | 0.968 |
+| Thiazide diuretics | 26 | 31 | 0.589 |
+| Aldosterone antagonists | 61 | 68 | 0.414 |
+| Antihypertensive drugs | 93 | 95 | 0.682 |
+| ACE inhibitors | 72 | 86 | 0.071 |
+| Digitalis | 71 | 81 | 0.192 |
+| β-Blockers | 92 | 87 | 0.398 |
+| Anticoagulants | 79 | 61 | 0.036 |
+| Nitrates | 51 | 37 | 0.127 |
+| Potassium supplements | 25 | 23 | 0.794 |
+| Magnesium supplements | 23 | 21 | 0.791 |
+| Uricostatics | 39 | 36 | 0.660 |
+| Lipid-lowering drugs | 53 | 42 | 0.244 |
+| Clinical variables | | | |
+| LV ejection fraction (%) | 31 (27, 37) | 33 (28, 40) | 0.317 |
+| LV end-diastolic diameter (mm) | 70 (64, 75) | 70 (61, 74) | 0.398 |
+| Cardiothoracic ratio | 0.53 (0.50, 0.56) | 0.53 (0.48, 0.58) | 0.853 |
+| VO₂ max (mL·kg body wt⁻¹·min⁻¹) | 15.4 (13.7, 17.1) | 14.6 (12.7, 18.0) | 0.656 |
+| Systolic blood pressure (mm Hg) | 120 (110, 130) | 125 (111, 140) | 0.219 |
+| Diastolic blood pressure (mm Hg) | 74 (65, 82) | 76 (65, 85) | 0.489 |
+1 D(+) group, calcium- and vitamin D–supplemented group; D(-) group, calcium-supplemented group; ACE, angiotensin converting enzyme; LV, left ventricular; VO₂ max, maximum oxygen uptake. 2 Unpaired t test or Fisher’s exact test, as appropriate. 3 Median; interquartile range in parentheses (all such values).
+
+Table 2 Biochemical and clinical variables of the study groups and dropout patients at baseline1
+| Variable | Both treatment groups (n = 93) | Dropout patients (n = 25) | P2 |
+| --- | --- | --- | --- |
+| NT-proBNP (pg/mL) | 835 (231, 524) | 1719 (928, 2564) | 0.003 |
+| NT-proANP (nmol/L) | 1.00 (0.43, 1.83) | 1.93 (1.25, 2.77) | 0.002 |
+| 25-Hydroxyvitamin D (ng/mL) | 15.2 (12.0, 22.1) | 11.2 (8.8, 19.4) | 0.05 |
+| Calcitriol (pg/mL) | 23.2 (15.3, 37.9) | 26.4 (18.0, 31.2) | 0.340 |
+| Calcium (mg/dL) | 9.60 (9.28, 10.0) | 10.0 (9.84, 10.5) | 0.001 |
+| Parathyroid hormone (pg/mL) | 37.0 (27.2, 53.0) | 45.7 (33.2, 74.7) | 0.029 |
+| Tumor necrosis factor α (pg/mL) | 22.4 (15.8, 31.1) | 21.3 (16.1, 24.7) | 0.443 |
+| C-reactive protein (mg/L) | 2.88 (1.16, 7.27) | 7.58 (2.53, 21.2) | 0.014 |
+| Interleukin 10 (pg/mL) | 0.74 (0.38, 1.28) | 0.56 (0.30, 1.70) | 0.694 |
+| Phosphate (mg/dL) | 3.84 (3.50, 4.00) | 3.47 (2.98, 4.12) | 0.077 |
+| Creatinine (mg/dL) | 0.87 (0.64, 1.18) | 0.94 (0.68, 1.22) | 0.573 |
+| Albumin (g/dL) | 4.69 (4.46, 5.02) | 4.81 (4.55, 5.04) | 0.498 |
+| LV ejection fraction (%) | 33.0 (29.0, 40.0) | 29.0 (26.0, 32.5) | 0.015 |
+| LV end-diastolic diameter (mm) | 69.0 (62.0, 74.3) | 73.0 (69.5, 81.0) | 0.020 |
+| Cardiothoracic ratio | 0.53 (0.48, 0.56) | 0.55 (0.51, 0.61) | 0.026 |
+| VO₂ max (mL·kg body wt⁻¹·min⁻¹) | 15.7 (13.1, 17.6) | 14.3 (12.3, 16.4) | 0.824 |
+1 All values are medians; interquartile range in parentheses. NT-proBNP, N-terminal propeptide of brain natriuretic peptide; NT-proANP, N-terminal propeptide of atrial natriuretic peptide; LV, left ventricular; VO₂ max, maximum oxygen uptake. 2 Unpaired t test.
+
+Table 3 Biochemical and clinical variables of the patients who finished the study1
+| Variable | Baseline | | Change from baseline | | P for change between groups2 |
+| --- | --- | --- | --- | --- | --- |
+| | D(+) group (n=42) | D(-) group (n=51) | D(+) group (n=42) | D(-) group (n=51) | |
+| 25-Hydroxyvitamin D (ng/mL) | 14.4 (11.5, 22.1) | 15.3 (12.7, 22.8) | 26.8 (9.2, 35.1)3 | 3.6 (-2.8, 8.5)3 | 0.001 |
+| Calcitriol (pg/mL) | 23.1 (14.0, 35.3) | 23.6 (16.2, 39.0) | 7.5 (-9.2, 14.8) | 0.9 (-7.8, 8.0) | 0.112 |
+| Calcium (mg/dL) | 9.52 (9.24, 10.0) | 9.72 (9.28, 10.1) | 0.08 (-0.1, 0.17) | -0.12 (-0.09, 0.12) | 0.869 |
+| Parathyroid hormone (pg/mL) | 34.6 (26.7, 48.0) | 39.2 (28.9, 63.9) | -4.9 (-14.3, 3.3)3 | -4.4 (-10.3, 13.1) | 0.007 |
+| Tumor necrosis factor α (pg/mL) | 20.9 (14.1, 25.1) | 23.0 (16.5, 32.7) | -2.0 (-4.3, 5.5) | 2.7 (-32.8, 19.6)3 | 0.006 |
+| C-reactive protein (mg/L) | 2.50 (0.98, 6.60) | 3.43 (1.57, 12.1) | 0.0 (-1.37, 1.71) | -0.05 (-2.8, 2.2) | 0.246 |
+| Interleukin 10 (pg/mL) | 0.56 (0.31, 1.27) | 0.91 (0.53, 1.35) | 0.24 (-0.11, 0.41)3 | -0.20 (-0.39, 0.41) | 0.042 |
+| NT-proBNP (pg/mL) | 721 (444, 1140) | 859 (180, 1869) | 9 (-99, 277) | 50 (-111, 436) | 0.457 |
+| NT-proANP (nmol/L) | 0.99 (0.52, 1.84) | 1.00 (0.43, 1.81) | 0.05 (-0.24, 0.73) | 0.03 (-0.94, 0.88) | 0.384 |
+| Phosphate (mg/dL) | 3.81 (3.69, 4.00) | 3.84 (3.44, 4.00) | 0.09 (-0.05, 0.05) | -0.03 (-0.06, 0.06) | 0.354 |
+| Creatinine (mg/dL) | 0.83 (0.65, 1.27) | 0.90 (0.60, 1.15) | 0.00 (-0.12, 0.14) | -0.02 (-0.16, 0.16) | 0.844 |
+| Albumin (g/dL) | 4.62 (4.40, 5.01) | 4.76 (4.48, 5.05) | -0.02 (-0.44, 0.49) | -0.12 (-0.44, 0.50) | 0.607 |
+| Systolic blood pressure (mm Hg) | 123 (114, 133) | 128 (111, 142) | -3 (-14, 8) | -4 (-13, 8) | 0.865 |
+| Diastolic blood pressure (mm Hg) | 75.0 (68.0, 84.0) | 77.0 (65.0, 85.0) | -3 (-9, 3) | -2 (-7, 8) | 0.376 |
+| LV ejection fraction (%)4 | 32.5 (26.8, 38.5) | 33.0 (29.8, 40.0) | 2 (-2, 7) | 3 (0, 9) | 0.643 |
+| LV end-diastolic diameter (mm)4 | 69.0 (63.0, 75.0) | 69.0 (61.0, 73.5) | -3 (-5.8, 1.0) | -2.5 (-5.8, 0) | 0.768 |
+| Cardiothoracic ratio | 0.53 (0.50, 0.56) | 0.52 (0.48, 0.57) | 0.0 (-0.02, 0.02) | 0.0 (-0.02, 0.03) | 0.788 |
+| VO₂ max (mL·kg body wt⁻¹·min⁻¹) | 16.1 (13.8, 17.4) | 14.6 (12.8, 18.1) | -0.2 (-1.8, 2.0) | 0.9 (-1.4, 2.6) | 0.429 |
+1 All values are medians; interquartile range in parentheses. D(+) group, calcium- and vitamin D–supplemented group; D(-) group, calcium-supplemented group; NT-proBNP, N-terminal propeptide of brain natriuretic peptide; NT-proANP, N-terminal propeptide of atrial natriuretic peptide; LV, left ventricular; VO₂ max, maximum oxygen uptake. Significant differences between the 2 groups at baseline were only observed for serum interleukin 10 concentrations (P=0.044). 2 Analysis of covariance with baseline value as covariate. 3 Change is significantly different from baseline within a subgroup (paired t test). 4 Significant change over time with both groups combined (main effect of time).
+
+### Image Description (in TXT format)
+No images are present in the article.

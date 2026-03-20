@@ -1,0 +1,303 @@
+# Text Content Before References
+Annals of Internal Medicine Original Research
+High Doses of Vitamin D to Reduce Exacerbations in Chronic Obstructive Pulmonary Disease
+A Randomized Trial
+An Lehouck, PhD; Chantal Mathieu, MD, PhD; Claudia Carremans, MS; Femke Baeke, PhD; Jan Verhaegen, MD, PhD; Johan Van Eldere, MD, PhD; Brigitte Decallonne, MD, PhD; Roger Bouillon, MD, PhD; Marc Decramer, MD, PhD; and Wim Janssens, MD, PhD
+
+Background: Low serum 25-hydroxyvitamin D (25-[OH]D) levels have been associated with lower FEV, impaired immunologic control, and increased airway inflammation. Because many patients with chronic obstructive pulmonary disease (COPD) have vitamin D deficiency, effects of vitamin D supplementation may extend beyond preventing osteoporosis.
+
+Results: Mean serum 25-(OH)D levels increased significantly in the vitamin D group compared with the placebo group (mean between-group difference, 30 ng/mL [95% CI, 27 to 33 ng/mL]; P<0.001). The median time to first exacerbation did not significantly differ between the groups (hazard ratio, 1.1 [CI, 0.82 to 1.56]; P=0.41), nor did exacerbation rates, FEV, hospitalization, quality of life, and death. However, a post hoc analysis in 30 participants with severe vitamin D deficiency (serum 25-[OH]D levels <10 ng/mL) at baseline showed a significant reduction in exacerbations in the vitamin D group (rate ratio, 0.57 [CI, 0.33 to 0.98]; P=0.042).
+
+Objective: To explore whether supplementation with high doses of vitamin D could reduce the incidence of COPD exacerbations.
+
+Design: Randomized, single-center, double-blind, placebo-controlled trial. (ClinicalTrials.gov registration number: NCT00666367)
+
+Setting: University Hospitals Leuven, Leuven, Belgium.
+
+Limitation: This was a single-center study with a small sample size.
+
+Conclusion: High-dose vitamin D supplementation in a sample of patients with COPD did not reduce the incidence of exacerbations. In participants with severe vitamin D deficiency at baseline, supplementation may reduce exacerbations.
+
+Patients: 182 patients with moderate to very severe COPD and a history of recent exacerbations.
+
+Intervention: 100 000 IU of vitamin D supplementation or placebo every 4 weeks for 1 year.
+
+Primary Funding Source: Applied Biomedical Research Program, Agency for Innovation by Science and Technology (IWT-TBM).
+
+Measurements: The primary outcome was time to first exacerbation. Secondary outcomes were exacerbation rate, time to first hospitalization, time to second exacerbation, FEV, quality of life, and death.
+
+Ann Intern Med. 2012;156:105-114. www.annals.org For author affiliations, see end of text.
+
+Chronic obstructive pulmonary disease (COPD) is characterized by an abnormal inflammatory response of the airways to the inhalation of noxious particles or gases, such as cigarette smoke. With disease progression, marked by a decline in FEV₁, patients develop systemic consequences and become prone to infectious exacerbations (1). Of note, low serum 25-hydroxyvitamin D (25[OH]D) levels, reflecting vitamin D status, are associated with impaired FEV₁ (2), and we demonstrated that vitamin D deficiency (defined as serum 25-[OH]D levels <20 ng/mL by the Institute of Medicine [3]), is present in 60% to 75% of patients with severe COPD (4). Whether such deficiency is only the consequence of COPD or may causally contribute to the pathogenesis of COPD is unclear.
+
+Traditionally, vitamin D is associated with bone health (5), but large epidemiologic studies have associated low serum 25-(OH)D levels with autoimmune diseases; cancer; cardiovascular diseases; and infections, including respiratory tract infections and tuberculosis (6–10). However, few randomized, controlled trials have examined the effects of vitamin D supplementation on these important health outcomes. Moreover, recent studies of vitamin D supplementation in patients with multiple sclerosis (11), diabetes (12), influenza (13), and tuberculosis (14) have reported disappointing results. A reason for these negative results may be found in insufficient vitamin D supplementation, because no clear evidence nor consensus exists on what minimum serum levels are needed to achieve these “extraskeletal” effects. On the basis of observational data, experts have suggested that in contrast to obtaining beneficial effects on the bone, higher serum levels (30 to 50 ng/mL) are needed, requiring more aggressive supplementation regimens (15–17). One recent intervention study in tuberculosis corroborates with this idea (18). Overall, an extensive expert analysis of the potential effects of vitamin D supplementation on the health outcomes of North American participants concluded that evidence for extraskeletal benefits of vitamin D therapy is insufficient and that only new randomized, controlled trials can define such effects (19).
+
+Particularly for COPD, the vitamin D pathway is an attractive target for intervention studies because vitamin D deficiency may enhance chronic airway and systemic inflammation, reduce bacterial clearance, and increase the risk for infectious exacerbations at the same time (20). Therefore, we aimed to explore the effect of adequate vitamin D supplementation on exacerbations in patients with moderate to very severe COPD. We report the efficacy and safety of long-term, high-dose vitamin D supplementation in patients with COPD prone to exacerbations.
+
+METHODS
+Study Design and Participants
+Our study was a single-center, double-blind, randomized, placebo-controlled intervention trial. Patients were screened for eligibility at the University Hospitals Leuven, Leuven, Belgium, over a 1.5-year recruitment period in 2008 and 2009. Eligible patients were current or former smokers, were older than 50 years, had a diagnosis of COPD according to the Global Initiative for Chronic Obstructive Lung Disease (GOLD) definition (postbronchodilator FEV₁-FVC ratio <0.7), and had an FEV₁ less than 80% predicted. Patients were excluded if they had a history of hypercalcemia, sarcoidosis, or active cancer. Treatment with vitamin D supplements for newly discovered symptomatic osteoporosis and long-term azithromycin treatment, with antibacterial and anti-inflammatory functions, were additional exclusion criteria, because they could interfere with 25-(OH)D dosages and exacerbation analyses (21). All participants provided written informed consent. The study was approved by the local ethics review committee of the University Hospitals Leuven and was registered with ClinicalTrials.gov (NCT00666367).
+
+Randomization and Masking
+Randomization was performed in 2 strata: one group of vitamin D–naive participants and one group of participants receiving low-dose vitamin D supplements (400 to 880 IU/d) for osteoporosis at baseline. We randomly assigned participants in blocks of 20 to overcome seasonal influences on baseline characteristics. In each consecutive block, participants were allocated in a 1:1 ratio to receive a monthly oral dose of 100 000 IU of vitamin D (4 mL of D-Cure [manufactured and provided by Laboratoires SMB, Brussels, Belgium]) or placebo (4 mL of arachidis oleum) in addition to their regular treatment. Pharmacists of the University Hospitals Leuven, who were independent from the clinical study team, randomly assigned participants by using a computer-generated randomization list and prepared the study medication. Vitamin D and placebo were prepared in oral syringe dispensers, were identical in appearance and taste, and were numbered according to the randomization schedule. After the last participant completed the trial, masking continued until all data were entered in a database, which was verified and locked before unblinding in July 2010.
+
+Procedures
+Patients were screened during hospitalization for an exacerbation or before referral for respiratory rehabilitation. Randomization occurred 5 to 6 weeks after screening if the participant had convalesced. If not, randomization was postponed until steroid, antibiotic, or combination treatment was completed and spirometric values were similar to preexacerbation values. Baseline characteristics included the Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity (BODE) Index, a multidimensional, COPD-specific, 10-point scale in which higher scores indicate a higher risk for death (22), and the Charlson comorbidity index, a non–COPD-specific but validated comorbidity index (23). After randomization, follow-up visits occurred every 4 months (at 4, 8, and 12 months). The primary end point was the time to first exacerbation. Secondary end points were exacerbation rate; time to first hospitalization; time to second exacerbation; FEV₁ (24); quality of life, as measured with the Chronic Respiratory Questionnaire (CRQ) (scores for dyspnea, emotion, fatigue, and mastery) (25); and death. In addition to these clinical end points, bacterial presence in morning sputa, plasma cathelicidin levels, serum 25-(OH)D levels, and blood monocyte capacities for phagocytosis were determined in a blinded manner (Appendix, available at www.annals.org).
+
+The clinical study team remained blinded to these results until the database was locked. We defined COPD exacerbations as sustained worsening of respiratory symptoms during 48 hours and requiring oral corticosteroid, antibiotic, or combination treatment that was initiated by a physician. Respiratory symptoms included at least 1 of the Anthonisen criteria (26) (increased dyspnea, sputum volume, or sputum purulence) with or without minor symptoms, such as cough, fever, common cold, wheezing, or sore throat. Time to first exacerbation was assessed by quantifying the days between randomization and the first exacerbation. To obtain data on exacerbations, we asked participants to complete diaries every 2 weeks that detailed respiratory tract symptoms, visits to health care providers, hospitalizations, and changes in medication. At each visit, diaries were reviewed in the participant’s presence and the general practitioner was contacted in case of doubt, missing data, or suspicion of self-medication.
+
+Spirometry was repeated at each visit by using standard equipment (CareFusion, Vilvoorde, Belgium) and was performed according to American Thoracic Society/European Respiratory Society guidelines (27). To monitor safety, we collected blood samples every 4 months to measure serum calcium and phosphate levels. After a protocol amendment halfway through the trial, we collected urine samples to better document the safety profile of the study drug. From that point on, all participants (n=79) collected 24-hour urine the day before the last study visit to measure urinary calcium level, the calcium–creatinine ratio, and the glomerular filtration rate.
+
+Statistical Analysis
+The study was designed to demonstrate a minimum delay of 25% in the time to first exacerbation when comparing the vitamin D group with the placebo group. As we enrolled patients who were recently treated for an exacerbation, we based our assumptions on the MOSAIC (Moxifloxacin Compared to Standard Antibiotics for Acute Exacerbations in Chronic Bronchitis) trial (28), which best resembled our study sample and showed a mean time to next exacerbation of 130 days (SD, 70) after a first exacerbation. Based on t test statistics, a sample size of 57 participants in each group was needed to demonstrate a 25% delay in time to first exacerbation, with 80% power at 5% significance. Because approximately 20% of our participants were receiving low-dose vitamin D supplements for osteoporosis prevention (which was not an exclusion criterion), and given an estimated maximum rate of 15% of participant withdrawals without follow-up, 180 participants had to be randomly assigned to end up with at least 120 vitamin D–naive participants at inclusion. All analyses for exacerbations, deaths, and serum 25-(OH)D levels used the intention-to-treat (ITT) population, defined as all randomly assigned participants who received at least 1 dose of study medication. All available data were used for the ITT analysis. On-treatment analyses for these variables are reported in the Appendix.
+
+Time to first or second exacerbation and time to first hospitalization in both groups in the ITT population were compared by using Kaplan–Meier curves and log-rank tests. We calculated the mean number of exacerbations per patient-year by dividing the total number of exacerbations by the total years of follow-up in the ITT population. Exacerbation rate in the ITT population was analyzed with a generalized linear model for a Poisson distribution, correcting for duration of treatment exposure and overdispersion. Because age, FEV₁, GOLD stage, and smoking status did not have a statistically significant influence on our model, we did not include these covariates in the final analysis (29). In a post hoc analysis for exacerbation rate, a similar generalized linear model for a Poisson distribution was applied in the ITT population but with correction for baseline serum 25-(OH)D levels and for the interaction of these levels with treatment. All further subgroup analyses (time to first exacerbation, exacerbation rate, and serum 25-[OH]D levels) in participants receiving low-dose supplements, vitamin D–naive participants at baseline, or participants with severe vitamin D deficiency (defined as having serum 25-[OH]D levels <10 ng/mL) were post hoc.
+
+Serial FEV₁, CRQ scores, plasma cathelicidin levels, serum 25-(OH)D levels, and bacterial presence in morning sputa over 1 year were predefined secondary end points. They were compared in a linear mixed-model analysis, with visit number as the repeated measure and the respective marker as the dependent variable, in the ITT population. Two-way analysis-of-variance P values of treatment-by-visit interaction are reported. Posttests to compare differences per visit were performed by using t test statistics with unadjusted P values. Chi-square statistics were used to compare proportions of participants with hypercalcemia (during the study) and hypercalciuria (at the end of the study) between the groups at every visit. To compare the monocyte capacity for phagocytosis between the groups at the end of the study, we used t test statistics. Subgroup analysis of monocyte capacity for phagocytosis and plasma cathelicidin levels in participants with severe vitamin D deficiency at baseline were post hoc analyses. Effect sizes between groups of primary or secondary outcomes are given with P values and 95% CIs. P values less than 0.05 are considered statistically significant. Analyses were performed with SAS software, version 9.1 (SAS Institute, Cary, North Carolina), and GraphPad Prism 4.01 for Windows (GraphPad Software, La Jolla, California).
+
+Role of the Funding Source
+The Applied Biomedical Research Program, Agency for Innovation by Science and Technology (IWT-TBM), provided funding for the study, and Laboratoires SMB provided the study medication. These sources were not involved in the study design; collection, analysis, or interpretation of data; or in preparation or submission of the manuscript for publication.
+
+RESULTS
+Study Recruitment and Follow-up
+Figure 1 shows the study flow diagram. Of 419 screenings, 340 patients were eligible for inclusion; 182 (54%) were randomly assigned. One hundred fifty (82%) participants completed the study, 15 (8%) died, and 17 (9%) were classified as withdrawals with no differential dropout between the 2 groups. Sixteen participants completed follow-up but were removed from a prespecified on-treatment analysis for serum 25-(OH)D levels because they had started vitamin D supplementation or long-term azithromycin treatment during the study (Appendix Figure 1, available at www.annals.org). Among the 17 withdrawals, medication was stopped, but the study team continued collecting data on exacerbations and deaths. From 10 of the 17 participants, we were able to contact the general practitioner and collected information on deaths and exacerbations (time to first exacerbation and exacerbation rate). We did not have follow-up data on exacerbations for the remaining 7 participants, but we still had access to their files to complete data on deaths. Overall, we collected information on exacerbations and survival in 175 (96%) and 182 (100%) participants, respectively.
+
+Baseline Characteristics
+The Table shows the baseline characteristics of the participants. Study inclusion required that the participant not be receiving antibiotic and oral steroid treatment for an acute exacerbation. However, 14% of the participants were considered to be steroid-dependent, and the stable pretrial maintenance dose (4 mg of methylprednisolone) was continued during the study. Eighty-two percent of the participants were receiving maximum inhalation therapy (inhaled corticosteroid plus long-acting β-agonist plus long-acting anticholinergic drug therapy) before inclusion; this proportion did not change during or at the end of the study (84%). Forty (22%) participants were receiving vitamin D supplements (800 IU/d) for bone protection before randomization, but they were equally distributed between the groups (20 persons each).
+
+Exacerbations
+A total of 468 exacerbations occurred: 229 in the vitamin D group and 239 in the placebo group. Kaplan–Meier survival analysis showed no significant difference in the median time to first exacerbation between the vitamin D and placebo groups (84 days [interquartile range {IQR}, 29 to 200 days] vs. 56 days [IQR, 21 to 200 days]) (hazard ratio [HR], 1.1 [95% CI, 0.82 to 1.56]; P=0.41) (Figure 2, A). Median time to second exacerbation also did not differ between the groups (204 days [IQR, 123 to 329 days] vs. 201 days [IQR, 113 to 333 days]) (HR, 1.02 [CI, 0.72 to 1.47]; P=0.88) (Figure 2, B). The annual rate of exacerbations was 2.8 per patient-year in the vitamin D group and 2.9 in the placebo group, resulting in a nonsignificant rate ratio of 0.94 (CI, 0.76 to 1.16; P=0.57). We did not find a significant difference in the median time to first hospitalization for an exacerbation (HR, 0.84 [CI, 0.50 to 1.40]; P=0.50) (Figure 2, C). A total of 152 exacerbations resulted in hospitalization: 79 in the vitamin D group and 73 in the placebo group (rate ratio, 1.13 [CI, 0.70 to 1.82]; P=0.62).
+
+Death, FEV, and Quality of Life
+Fifteen deaths occurred within 1 year after randomization: 11 of respiratory disease, 1 of lung cancer, 2 of cardiac disease, and 1 of unknown cause. The proportions of deaths from any cause were 10% in the vitamin D group and 7% in the placebo group (rate ratio, 1.5 [CI, 0.56 to 4.04]; P=0.42). Kaplan–Meier survival analysis showed no significant difference in survival between the groups (HR, 0.69 [CI, 0.25 to 1.90]; P=0.47) (Figure 2,D). Linear mixed-model analysis showed no significant differences in CRQ dyspnea, emotional, mastery, and fatigue scores and in FEV₁ between the group at any time during follow-up (Appendix Figure 2 and Appendix Table 1, available at www.annals.org).
+
+Efficacy of Supplementation
+Serum 25-(OH)D levels in the ITT population were measured during 90% of the visits. At baseline, mean serum 25-(OH)D levels did not differ between the vitamin D group (20 ng/mL [SD, 12]) and the placebo group (20 ng/mL [SD, 11]) (Figure 3, A; and Appendix Table 2, available at www.annals.org). Vitamin D supplementation resulted in a steep and significant increase in serum 25(OH)D levels that remained stable during the study (52 ng/mL [SD, 16]) (mean between-group difference, 30 ng/mL [CI, 27 to 33 ng/mL]; P<0.001) (Figure 3, A, and Appendix Table 2). A post hoc analysis in the subgroup of vitamin D–naive participants (n=142) demonstrated that mean serum 25-(OH)D levels at baseline were lower than those of the ITT population, but that the subgroup received equal, effective supplementation. However, the time to first exacerbation and annual rate of exacerbations or other outcomes did not differ in this subgroup (Figure 3, B, and Appendix Table 2). Data from the subgroup of participants receiving low-dose supplements at baseline are not reported.
+
+Interaction Between Vitamin D Supplementation and Baseline Serum 25-(OH)D Levels
+Because a post hoc analysis on the rate of exacerbations in the ITT population demonstrated a significant interaction in treatment by baseline serum 25-(OH)D level (P=0.027), we performed a further subgroup analysis for participants with severe vitamin D deficiency at baseline (serum 25-[OH]D levels <10 ng/mL). Among these 30 participants, 15 were randomly allocated to receive vitamin D supplementation, which resulted in a significant increase in serum 25-(OH)D levels (from 8 ng/mL [SD, 2] to 50 ng/mL [SD, 15]; mean between-group difference, 38 ng/mL [CI, 33 to 44 ng/mL]; P<0.001). Although the time to first exacerbation did not differ in this subgroup, the rate of exacerbations per patient-year decreased by 43% (rate ratio, 0.57 [CI, 0.33 to 0.98]; P=0.042) (Figure 3,C).
+
+Safety
+Blood samples were available in 90% of the study visits for the ITT population. Mean serum calcium and phosphate levels did not differ between the groups at any time during follow-up (mean between-group difference in calcium levels, 0.02 mmol/L [0.08 mg/dL] [CI, -0.03 to 0.04 mmol/L {0.01 to 0.16 mg/dL}; P=0.061]; mean between-group difference in phosphate levels, -0.006 mmol/L [0.02 mg/dL] [CI, -0.04 to 0.03 mmol/L {-0.13 to 0.09 mg/dL}; P=0.69]) (Appendix Table 3, available at www.annals.org). At 4 months, 4 cases of mild and asymptomatic hypercalcemia (defined as serum calcium levels between 2.63 and 2.75 mmol/L [10.5 and 11.0 mg/dL]) were detected in the vitamin D group compared with 0 cases in the placebo group (P=0.043). Despite continuation of the study medication, hypercalcemia spontaneously resolved with normal serum calcium levels at 8 and 12 months. No cases of hypercalciuria (defined as urinary calcium levels >7.5 mmol/d [>300 mg/d]) were detected at the end of the study (Appendix Table 3).
+
+Bacteriology, Plasma Cathelicidin Levels, and Monocyte Phagocytosis
+Plasma cathelicidin levels were not affected by serum 25-(OH)D levels or supplementation (Appendix Figure 3, available at www.annals.org). Monocyte capacity for phagocytosis in the vitamin D group was significantly better than that in the placebo group (P=0.002); this difference was more pronounced in the subgroup of participants with severe vitamin D deficiency at baseline (Appendix Figure 4, available at www.annals.org). No effect of vitamin D on the rate of detecting pathogenic strains or on the total number of colony-forming units was observed (Appendix Table 4, available at www.annals.org).
+
+DISCUSSION
+This study is, to our knowledge, the first randomized, placebo-controlled trial to examine the efficacy and safety of long-term and high-dose vitamin D supplementation in COPD. The main finding is that a monthly dose of 100 000 IU of vitamin D in addition to regular therapy does not reduce the time to first exacerbation or the rate of exacerbations in patients with moderate to very severe COPD. Secondary outcomes, such as FEV₁, quality of life, and death, were also not affected.
+
+The absence of a vitamin D–mediated effect in our study sample contrasts with indirect evidence from most association studies in COPD (2, 4, 6), but is consistent with recent data from the Lung Health Study (30), which showed that vitamin levels did not determine the rate of decline in FEV₁ in a limited subgroup. In addition, most intervention trials of vitamin D supplementation targeting extracalcemic effects in other chronic diseases have shown disappointing results (12, 14, 31). Because the absence of clinically significant effects in such trials may relate to a lack of power, insufficient supplementation, or insensitive end points, we specifically designed our study to overcome some of these concerns. We carefully assessed the effect of a monthly dose of 100 000 IU of vitamin D on serum 25-(OH)D levels at several time points during the trial. Active treatment resulted in mean serum 25-(OH)D levels of 52 ng/mL (SD, 16), which is within the therapeutic range to obtain the hypothesized extracalcemic effects (15). In addition, we selected a study sample prone to severe exacerbations (32) by recruiting most (81%) participants during a hospitalization for an acute exacerbation. Consequently, the average number of exacerbations observed (2.9 per patient-year) was higher than that usually found in large intervention trials of inhalation therapy in participants from an outpatient clinic, thereby enhancing the power to detect significant differences (33, 34). However, the original power calculations, based on a t test to evaluate the difference in the mean time to first exacerbation, did not consider the skewed distribution of the data on exacerbations. Although the limited sample size provided insufficient power to demonstrate a clinically significant delay in time to first exacerbation, the survival curves for the time to first exacerbation almost completely overlapped (HR, 1.1 [CI, 0.82 to 1.56]) and the exacerbation rate did not differ (rate ratio, 0.94 [CI, 0.76 to 1.16]). Thus, we think that the probability of making a type II error in our study was rather small.
+
+The absence of therapeutic effect of vitamin D in our study sample may relate to the fact that most of our participants presented with severe COPD and were receiving maximum inhalation therapy. As all of these treatments are known to reduce exacerbations, any additional effect of vitamin D in addition to regular treatment is probably more difficult to obtain (33, 34). Intervention in the earlier stages of COPD when patients receive fewer medications might therefore be more effective, which is consistent with the idea that such milder stages are also more sensitive to disease modification (35). Second, a post hoc analysis showed a significant interaction of baseline serum 25(OH)D levels with intervention for exacerbation rates in the ITT population. Subsequently, our intervention in participants with severe vitamin D deficiency (<10 ng/mL) showed a statistically significant reduction in exacerbations of 43% over 1 year. In this subgroup, vitamin D treatment was associated with a significant increase in the monocyte capacity for phagocytosis. Considering the post hoc nature of the analysis and the small size of the subgroup, therapy should not be altered owing to these hypothesis-generating data. However, because 1 out of 6 participants in the trial presented with such asymptomatic, low serum 25-(OH)D levels at baseline that persisted during the study, further focus and future studies on this important subgroup may be warranted, eventually resulting in better patient-tailored interventions. Recently, a frequent exacerbator phenotype was identified suggesting that individualized therapy, including appropriate vitamin D supplementation, may become important (32). Finally, we should note that the lack of an overall effect may be explained by local insensitivity to vitamin D because of smoking or chronic inflammation. Epigenetic silencing of vitamin D signaling has been described in several types of cancer, and similar mechanisms may apply to chronic inflammatory diseases, such as COPD (36–38). Of note, we could not detect any differential effect of the treatment in former smokers or current smokers, with the limitation that the latter group was very small.
+
+Our study also assessed the potential toxicity of prolonged and high-dose supplementation in patients with COPD, although we acknowledge that it was underpowered to determine long-term safety. Our data demonstrate that an average daily dose of more than 3200 IU of vitamin D during 1 year given as once-monthly 100 000 IU, which is more than 4 times the recommended dose for bone protection (39), introduced a small and transient risk for asymptomatic hypercalcemia. Because our blood samples were collected independently at drug intake, we recognize that other transient peaks of hypercalcemia in the days after ingestion may have been missed in some participants. This indicates that the upper limit of tolerability of 4000 IU/d, which is newly recommended and defined by the Institute of Medicine, may still be too high in elderly, sick patients (19).
+
+Given the wide interest for vitamin D intervention trials in other chronic diseases, these findings may help to guide the design of and dosage in future trials. Although our results demonstrate that supplementation beyond what is recommended for bone health does not reduce exacerbations in patients with moderate to very severe COPD, they corroborate the suggestion that vitamin D deficiency is a potential risk in some patients. The dose used in our study was beyond the currently recommended daily requirements but yielded reliable levels of serum 25-(OH)D in all participants without any observed symptomatic calcium-related toxicity. More studies in other chronic diseases are needed to further explore the need and safety for recommending these higher doses of vitamin D to obtain potential beneficial effects beyond bone health, particularly in vitamin D–deficient patients with immune-related diseases.
+
+From University Hospitals Leuven, Leuven, Belgium.
+
+Acknowledgment: The authors thank Laboratoires SMB (Brussels, Belgium) for providing the vitamin D and placebo solution.
+
+Grant Support: By the Applied Biomedical Research Program, Agency for Innovation by Science and Technology (IWT-TBM) (G.335102) and Laboratoires SMB (Brussels, Belgium). Drs. Mathieu, Decallonne, and Janssens are supported by Research Foundation–Flanders (FWO Vlaanderen).
+
+Potential Conflicts of Interest: Disclosures can be viewed at www.acponline.org/authors/icmje/ConflictOfInterestForms.do?msNumM11-1083.
+
+Reproducible Research Statement: Study protocol: Synopsis available at ClinicalTrials.gov. Statistical code: Available from Dr. Janssens (e-mail, wim.janssens@uz.kuleuven.be). Data set: Not available.
+
+Requests for Single Reprints: Wim Janssens, MD, PhD, Respiratory Medicine, University Hospitals Leuven, Herestraat 49, Bus 7003, 3000 Leuven, Belgium; e-mail, wim.janssens@uz.kuleuven.be.
+
+Current author addresses and author contributions are available at www.annals.org.
+
+APPENDIX
+Methods
+Serum 25-(OH)D Levels
+Total serum 25-(OH)D levels were measured in multiple batches by radioimmunoassay (DiaSorin, Brussels, Belgium) in all study participants according to the standard protocol. They are mean values of duplicate measures. Levels are expressed in nanograms per liter (conversion factor for nanomoles per liter, 2.5).
+
+Plasma Cathelicidin Levels
+Plasma cathelicidin levels were assayed by using an enzyme-linked immunosorbent assay (Hycult Biotechnology, Uden, the Netherlands), according to the standard protocol.
+
+Quantitative Bacterial Cultures
+Participants were asked to collect a spontaneous morning sputum on the day of a study visit. A cooling box to transport the sample was provided, and participants were instructed to blow their nose and rinse their mouth with water before collecting sputum. Sputum was homogenized by adding 0.1% dithiothreitol, and serial dilutions were prepared in phosphate-buffered saline at 1:100, 1:1000, 1:10 000, and 1:100 000. These dilutions were cultured on chocolate agar, blood agar, MacConkey agar, and mannitol salt agar plates. Undiluted but homogenized sputum samples were also cultured on chocolate agar and blood agar plates. Colonies of bacteria were examined and identified after 24-hour incubation at 37 °C. Colony-forming units were counted at their respective dilution in plates on which 1 to approximately 200 colonies could be differentiated.
+
+Monocyte Phagocytosis Assay
+The phagocytosis assay was performed by using the Phagotest Kit (ORPEGEN Pharma, Germany) containing fluorescein isothiocyanate (FITC)–labeled, opsonized Escherichia coli. Samples of 100 μL of peripheral blood with heparin were cooled on ice for 15 minutes, mixed with 2×10⁷ FITC-labeled E. coli, and subsequently placed at 37 °C for 10 minutes. Control samples were kept on ice to inhibit phagocytosis. Next, 100 μL of brilliant blue (quenching solution) was added to delete fluorescence of nonphagocytosed bacteria sticking to the cellular membrane. After 2 washing steps, erythrocytes were lysed with lysis buffer for 20 minutes at room temperature. Three washing steps later, 50 μL of propidium iodide was added to stain leukocytes and intracellular bacterial DNA. The percentage of phagocytosis-positive cells in the monocyte gate was assessed by flow cytometry.
+
+Results
+Exacerbations and Serum 25-(OH)D Levels in the On-Treatment Population
+Kaplan–Meier survival analysis showed no significant difference in the median time to first exacerbation between the vitamin D group and the placebo group (HR, 1.15 [CI, 0.83 to 1.60]; P=0.39) (Appendix Figure 1, top). Supplementation with vitamin D resulted in a steep and significant increase in serum 25(OH)D levels that remained stable during the study (mean, 52 ng/mL [SD, 16]), whereas baseline levels in the placebo group remained stable during the study (mean between-group difference, 30 ng/mL [CI, 27 to 33 ng/mL]; P<0.001) (Appendix Figure 1, middle). No difference in the annual rate of exacerbations was observed (P=0.99) (Appendix Figure 1, bottom).
+
+Lung Function
+Spirometric data from the study visits at baseline and at 4, 8, and 12 months were analyzed for trends over time in FEV₁. In 89% of the visits in the ITT population, appropriate FEV₁ measurements were obtained. Linear mixed-model analysis showed no significant differences in FEV₁ between the vitamin D and placebo groups, nor among study visits (P=0.87) (Appendix Figure 2 and Appendix Table 1).
+
+Quantitative Bacterial Cultures
+The nature of spontaneous morning sputa cultures did not significantly differ for pathogenic strains or for the total number of colony-forming units when comparing both groups (Appendix Table 4).
+
+Monocyte Capacity for Phagocytosis
+Monocyte function evaluated at the end of the study showed a significantly better capacity for phagocytosis in the vitamin D group than in the placebo group (P=0.002) (Appendix Figure 4, top). The observed difference was more pronounced in the subgroup of participants with severe vitamin D deficiency at baseline (P=0.002) (Appendix Figure 4, bottom).
+
+# Tables
+## Table 1: Baseline Characteristics*
+| Characteristic | Vitamin D Group (n=91) | Placebo Group (n=91) |
+| --- | --- | --- |
+| Men, n (%) | 72 (79) | 73 (80) |
+| Mean age (SD), y | 68 (9) | 68 (8) |
+| Mean BMI (SD), kg/m² | 25 (5) | 24 (5) |
+| Smoking status | | |
+| Current smokers, n (%) | 13 (14) | 19 (21) |
+| Mean pack-years smoked (SD) | 51 (23) | 53 (32) |
+| Mean FEV (SD), L | 1.22 (0.45) | 1.17 (0.43) |
+| Mean FEV₁ (SD), % predicted | 44 (16) | 42 (14) |
+| Mean FVC (SD), L | 2.78 (0.78) | 2.88 (0.83) |
+| Mean FEV₁-FVC ratio (SD), % | 44 (12) | 41 (11) |
+| Mean DLCO (SD), % predicted | 46 (16) | 49 (16) |
+| GOLD stage, n (%) | | |
+| II | 25 (28) | 24 (26) |
+| III | 43 (47) | 48 (53) |
+| IV | 23 (25) | 19 (21) |
+| Mean 25-(OH)D level (SD), ng/mL | 20 (12) | 20 (11) |
+| Mean Charlson index score (SD) | 3.48 (2.54) | 3.52 (2.44) |
+| Mean BODE Index score (SD) | 3.82 (2.28) | 3.55 (2.03) |
+| Medication, n (%) | | |
+| LABA | 2 (2) | 4 (4) |
+| LABA plus ICS | 81 (89) | 79 (87) |
+| Long-acting anticholinergic drugs | 81 (89) | 84 (92) |
+| Short-acting bronchodilators | 64 (70) | 72 (79) |
+| Steroids† | 11 (12) | 15 (16) |
+| Long-term oxygen therapy | 11 (12) | 10 (11) |
+| Started with rehabilitation at first visit | 25 (27) | 25 (27) |
+
+* 25-(OH)D=25-hydroxyvitamin D; BMI=body mass index; BODE=Body-Mass Index, Airflow Obstruction, Dyspnea, and Exercise Capacity; DLCO=diffusing capacity of lung for carbon monoxide; GOLD=Global Initiative for Chronic Obstructive Lung Disease; ICS=inhaled corticosteroid; LABA=long-acting β-agonist. Baseline characteristics of vitamin D and placebo groups at randomization. Both groups were matched for all given variables. †4 mg of methylprednisolone.
+
+## Table 2: Serial Measurements of Lung Function and Quality of Life by Chronic Respiratory Questionnaire Scores Over 1 Year in the Intention-to-Treat Population*
+| Variable | Vitamin D Group (n=91) | Placebo Group (n=91) | Difference (95% CI) | Unadjusted P Value |
+| --- | --- | --- | --- | --- |
+| FEV₁, L | | | | |
+| Baseline | 1.2 (0.4) | 1.2 (0.4) | 0.05 (-0.08 to 0.17) | 0.49 |
+| During study | 1.2 (0.5) | 1.2 (0.5) | -0.01 (-0.09 to 0.08) | 0.95 |
+| P value† | | | | 0.88 |
+| Dyspnea score | | | | |
+| Baseline | 4.7 (1.4) | 4.7 (1.5) | -0.03 (-0.46 to 0.40) | 0.90 |
+| During study | 4.8 (1.5) | 5.0 (1.5) | -0.24 (-0.49 to 0.14) | 0.14 |
+| P value† | | | | 0.30 |
+| Emotional score | | | | |
+| Baseline | 4.9 (1.3) | 4.8 (1.3) | 0.10 (-0.27 to 0.47) | 0.60 |
+| During study | 5.0 (1.3) | 5.1 (1.3) | -0.07 (-0.31 to 0.16) | 0.55 |
+| P value† | | | | 0.53 |
+| Fatigue score | | | | |
+| Baseline | 4.1 (1.4) | 3.9 (1.4) | 0.19 (-0.22 to 0.59) | 0.36 |
+| During study | 4.3 (1.5) | 4.1 (1.4) | 0.15 (-0.12 to 0.42) | 0.27 |
+| P value† | | | | 0.27 |
+| Mastery score | | | | |
+| Baseline | 5.3 (1.3) | 5.2 (1.3) | 0.09 (-0.28 to 0.48) | 0.63 |
+| During study | 5.4 (1.3) | 5.5 (1.3) | -0.02 (-0.26 to 0.22) | 0.85 |
+| P value† | | | | 0.57 |
+
+* Values are means (SDs). † Two-way analysis-of-variance P value for interaction.
+
+## Table 3: Serum 25-(OH)D Levels Over 1 Year in the ITT Population, Subgroup of Vitamin D–Naive Participants, and Subgroup of Vitamin D–Deficient Participants*
+| Population/Subgroup | Vitamin D Group | Placebo Group | Difference (95% CI) | P Value |
+| --- | --- | --- | --- | --- |
+| ITT Population (n=91/91) | | | | |
+| Mean 25-(OH)D level (SD), ng/mL | | | | |
+| At baseline | 20 (12) | 20 (11) | 0.2 (-3 to 4) | 0.90 |
+| During study | 52 (16) | 22 (13) | 30 (27 to 33) | <0.001 |
+| Vitamin D–Naive Subgroup (n=71/71) | | | | |
+| Mean 25-(OH)D level (SD), ng/mL | | | | |
+| At baseline | 17 (8) | 16 (8) | 0.75 (-2 to 3) | 0.58 |
+| During study | 51 (16) | 19 (11) | 32 (29 to 34) | <0.001 |
+| Subgroup with Severe Vitamin D Deficiency (n=15/15) | | | | |
+| Mean 25-(OH)D level (SD), ng/mL | | | | |
+| At baseline | 8 (2) | 7 (2) | 0.57 (-1 to 2) | 0.36 |
+| During study | 50 (15) | 12 (8) | 38 (33 to 44) | <0.001 |
+
+* 25-(OH)D=25-hydroxyvitamin D; ITT=intention-to-treat. Values are means (SDs), reported in ng/mL. To convert values to nmol/L, multiply by 2.5. The numerator and denominator in parentheses represent the numbers of participants in the vitamin D/placebo groups. P values are from two-way analysis-of-variance for between-group differences.
+
+## Table 4: Safety: Serial Serum Calcium and Phosphate Levels and Incidence of Hypercalcemia and Hypercalciuria Over 1 Year in Vitamin D and Placebo Groups in the Intention-to-Treat Population*
+| Variable† | Vitamin D Group | Placebo Group | Difference (95% CI) | P Value |
+| --- | --- | --- | --- | --- |
+| Calcium level, mg/dL‡ | | | | |
+| Baseline (n=91/91) | 9.4 (0.50) | 9.4 (0.37) | 0.04 (-0.09 to 0.16) | 0.59 |
+| 4 mo (n=83/86) | 9.4 (0.50) | 9.3 (0.42) | 0.07 (-0.07 to 0.21) | 0.32 |
+| 8 mo (n=79/81) | 9.3 (0.38) | 9.3 (0.42) | 0.05 (-0.07 to 0.18) | 0.39 |
+| 12 mo (n=70/74) | 9.3 (0.41) | 9.2 (0.44) | 0.11 (-0.04 to 0.26) | 0.146 |
+| During study | 9.4 (0.43) | 9.3 (0.43) | 0.08 (-0.01 to 0.16) | 0.061 |
+| P value§ | | | | 0.86 |
+| Phosphate level, mg/dL¶ | | | | |
+| Baseline (n=91/91) | 2.8 (0.59) | 2.8 (0.53) | -0.03 (-0.20 to 0.13) | 0.70 |
+| 4 mo (n=83/86) | 2.8 (0.61) | 2.8 (0.60) | 0.01 (-0.18 to 0.20) | 0.93 |
+| 8 mo (n=79/81) | 2.8 (0.57) | 2.9 (0.59) | -0.06 (-0.25 to 0.12) | 0.50 |
+| 12 mo (n=70/74) | 2.9 (0.51) | 2.9 (0.56) | -0.01 (-0.20 to 0.17) | 0.90 |
+| During study | 2.8 (0.57) | 2.9 (0.58) | -0.02 (-0.13 to 0.09) | 0.69 |
+| P value§ | | | | 0.95 |
+| Hypercalcemia, % (n) | | | | |
+| Baseline (n=91/91) | 1 (2) | 0 | | 0.155 |
+| 4 mo (n=83/86) | 2 (4) | 0 | | 0.043 |
+| 8 mo (n=79/81) | 0 | 0 | | |
+| 12 mo (n=70/74) | 0 | 0 | | |
+| Hypercalciuria, % (n)# | | | | |
+| 12 mo (n=39/40) | 0 | 0 | | |
+
+* Values are reported as means (SDs). † The numerator and denominator represent the numbers of participants in the vitamin D/placebo groups. ‡ To convert calcium values to mmol/L, multiply by 0.25. § Two-way analysis-of-variance P value for interaction. ¶ To convert phosphate values to mmol/L, multiply by 0.323. # The presence of hypercalciuria was examined only at the end of the study.
+
+## Table 5: Sputum Samples and Bacterial Cultures
+| Variable | Baseline | 4 mo | 8 mo | 12 mo |
+| --- | --- | --- | --- | --- |
+| Participants providing spontaneous sputum samples, % (n) | | | | |
+| Vitamin D group (n=91) | 54 (49) | 44 (40) | 33 (30) | 20 (18) |
+| Placebo group (n=91) | 49 (45) | 47 (43) | 44 (40) | 30 (28) |
+| P value* | 0.55 | 0.66 | 0.128 | 0.088 |
+| Sputum samples with a positive culture, % (n/n)† | | | | |
+| Vitamin D group (n=91) | 26 (11/49) | 28 (11/40) | 40 (12/30) | 28 (5/18) |
+| Placebo group (n=91) | 52 (23/45) | 47 (20/43) | 45 (18/40) | 32 (9/28) |
+| P value* | 0.011 | 0.074 | 0.68 | 0.75 |
+| Positive samples, % (n) | | | | |
+| Vitamin D group | | | | |
+| 0 CFUs/mL (no potential pathogen) | 74 (38) | - | - | 72 (13) |
+| 10⁵-10⁶ CFUs/mL | 7 (3) | - | - | 0 |
+| 10⁶-10⁷ CFUs/mL | 3 (1) | - | - | 0 |
+| 10⁷-10⁸ CFUs/mL | 7 (3) | - | - | 11 (2) |
+| >10⁸ CFUs/mL‡ | 9 (4) | - | - | 17 (3) |
+| Placebo group | | | | |
+| 0 CFUs/mL (no potential pathogen) | 48 (22) | - | - | 67 (19) |
+| 10⁵-10⁶ CFUs/mL | 7 (3) | - | - | 4 (1) |
+| 10⁶-10⁷ CFUs/mL | 18 (8) | - | - | 4 (1) |
+| 10⁷-10⁸ CFUs/mL | 9 (4) | - | - | 11 (3) |
+| >10⁸ CFUs/mL§ | 18 (8) | - | - | 14 (4) |
+
+* CFU=colony-forming unit. P values express differences between rows according to chi-square statistics. † Bacterial growth of upper airway commensal flora was not taken into account. ‡ P=0.056 between groups. § P=0.85 between groups.
+
+# Image Descriptions
+## Figure 1: Study Flow Diagram
+The diagram illustrates the recruitment and allocation process of the study. A total of 419 patients were assessed for eligibility; 237 were excluded (either did not meet entry criteria or withdrew during screening). The remaining 182 patients were randomly assigned to two groups: 91 to the vitamin D group and 91 to the placebo group. In the vitamin D group, 9 patients died, 7 were excluded (3 withdrew consent, 1 did not adhere to the protocol, 3 for other reasons), and 72 completed the study. In the placebo group, 6 patients died, 10 were excluded (3 withdrew consent, 1 did not adhere to the protocol, 6 for other reasons), and 78 completed the study. All 91 patients in each group were included in the intention-to-treat (ITT) analysis.
+
+## Figure 2: Kaplan–Meier Plots of Key Outcomes in the ITT Population
+This figure contains four Kaplan–Meier plots (A-D):
+- Plot A (Time to First Exacerbation): The y-axis shows the probability of not having a first exacerbation (%), and the x-axis shows time in months (0-12). The vitamin D group (n=91) and placebo group (n=91) have overlapping curves. The median time to first exacerbation is 84 days (IQR, 29-200) for the vitamin D group and 56 days (IQR, 21-200) for the placebo group (HR=1.1, 95% CI=0.82-1.56, P=0.41). The number of participants at risk at each time point is listed below the plot.
+- Plot B (Time to Second Exacerbation): The y-axis is the probability of not having a second exacerbation (%), and the x-axis is time in months (0-12). The curves for the two groups overlap. The median time to second exacerbation is 204 days (IQR, 123-329) for the vitamin D group and 201 days (IQR, 113-333) for the placebo group (HR=1.02, 95% CI=0.72-1.47, P=0.88). Participant numbers at risk are provided.
+- Plot C (Time to First Hospitalization): The y-axis is the probability of not being hospitalized (%), and the x-axis is time in months (0-12). The curves are similar between groups. The hazard ratio is 0.84 (95% CI=0.50-1.40, P=0.50). Participant numbers at risk are listed.
+- Plot D (Death from Any Cause): The y-axis is the probability of survival (%), and the x-axis is time in months (0-12). The curves do not show a significant difference (HR=0.69, 95% CI=0.25-1.90, P=0.47). Participant numbers at risk are included.
+
+## Figure 3: Mean Serum 25-(OH)D Levels and COPD Exacerbation Rates
+This figure has three panels (A-C), each including a table of data and a line graph of mean serum 25-(OH)D levels over time (0-12 months):
+- Panel A (ITT Population): The table shows mean 25-(OH)D levels (ng/mL) at baseline (vitamin D: 20 [12], placebo: 20 [11], P=0.90) and during the study (vitamin D: 52 [16], placebo: 22 [13], difference=30 ng/mL, 95% CI=27-33, P<0.001). COPD exacerbations per patient-year are 2.8 (vitamin D) and 2.9 (placebo), rate ratio=0.94 (95% CI=0.76-1.16, P=0.57). The line graph shows a steep increase in 25-(OH)D levels in the vitamin D group, remaining stable, while the placebo group’s levels stay low. The number of participants at each visit is listed below the graph.
+- Panel B (Vitamin D–Naive Subgroup): The table shows baseline 25-(OH)D levels (vitamin D:17 [8], placebo:16 [8], P=0.58) and during study (vitamin D:51 [16], placebo:19 [11], difference=32 ng/mL, 95% CI=29-34, P<0.001). Exacerbations per patient-year: 2.69 (vitamin D) vs. 2.99 (placebo), rate ratio=0.88 (95% CI=0.69-1.12, P=0.30). The line graph shows similar trends to Panel A. Participant numbers at each visit are included.
+- Panel C (Subgroup with Severe Vitamin D Deficiency): The table shows baseline 25-(OH)D levels (vitamin D:8 [2], placebo:7 [2], P=0.36) and during study (vitamin D:50 [15], placebo:12 [8], difference=38 ng/mL, 95% CI=33-44, P<0.001). Exacerbations per patient-year:1.84 (vitamin D) vs.3.45 (placebo), rate ratio=0.57 (95% CI=0.33-0.98, P=0.042). The line graph shows a sharp rise in the vitamin D group’s 25-(OH)D levels. Participant numbers at each visit are listed.
+
+## Appendix Figure 1: Mean Serum 25-(OH)D Levels and COPD Exacerbation Rates Among the On-Treatment Population
+This figure has three parts (top, middle, bottom):
+- Top (Kaplan–Meier Plot of Time to First Exacerbation): The y-axis is the probability of not having a first exacerbation (%), x-axis is time in months (0-12). No significant difference between vitamin D (n=91) and placebo (n=91) groups (HR=1.15, 95% CI=0.83-1.60, P=0.39). Participant numbers at risk are listed.
+- Middle (Mean Serum 25-(OH)D Levels): Line graph with y-axis as mean 25-(OH)D level (ng/mL, 95% CI) and x-axis as time in months (0-12). Vitamin D group shows a steep increase to ~52 ng/mL, placebo group remains ~22 ng/mL (mean difference=30 ng/mL, 95% CI=27-33, P<0.001). Participant numbers at each visit are included.
+- Bottom (COPD Exacerbations per Patient-Year): Table shows mean 25-(OH)D levels at baseline (both 20 ng/mL, P=0.90) and during study (vitamin D:52 [16], placebo:22 [13], P<0.001). Exacerbations per patient-year:2.8 (vitamin D) vs.2.8 (placebo), rate ratio=0.99 (95% CI=0.80-1.25, P=0.99). Two-way ANOVA P<0.001 for between-group differences in 25-(OH)D levels.
+
+## Appendix Figure 2: FEV₁ From Baseline to End of Study in the ITT Population
+Line graph with y-axis as mean FEV₁ (L, 95% CI) and x-axis as time in months (0-12). The vitamin D group (n=91 at baseline, decreasing to 69 at 12 months) and placebo group (n=91 at baseline, decreasing to 77 at 12 months) show overlapping lines. Linear mixed-model analysis shows no significant differences between groups or across visits (P=0.87).
+
+## Appendix Figure 3: Plasma Cathelicidin Levels
+Two parts (top, bottom):
+- Top (Relationship Between Baseline Plasma Cathelicidin and 25-(OH)D Levels): Scatter plot with x-axis as mean baseline 25-(OH)D level (ng/mL) and y-axis as plasma cathelicidin level (ng/mL). There is a weak correlation (Spearman r=0.027, P=0.04).
+- Bottom (Plasma Cathelicidin Levels During Study): Line graph with y-axis as mean cathelicidin level (ng/mL) and x-axis as time in months (0-12). Vitamin D (n=74 at baseline, 60 at 12 months) and placebo (n=76 at baseline, 63 at 12 months) groups show overlapping lines. Linear mixed-model analysis shows no significant differences (P=0.85).
+
+## Appendix Figure 4: Monocyte Phagocytosis Assay Results
+Two bar graphs (top, bottom):
+- Top (ITT Population): X-axis has two groups (placebo, n=61; vitamin D, n=57). Y-axis is the percentage of phagocytosis-positive monocytes. Vitamin D group has a significantly higher percentage than placebo group (P=0.002).
+- Bottom (Subgroup with Severe Vitamin D Deficiency): X-axis has two groups (vitamin D, n=10; placebo, n=10). Y-axis is the percentage of phagocytosis-positive monocytes. Vitamin D group shows a significantly higher percentage than placebo group (P=0.002), with a more pronounced difference than the ITT population.
