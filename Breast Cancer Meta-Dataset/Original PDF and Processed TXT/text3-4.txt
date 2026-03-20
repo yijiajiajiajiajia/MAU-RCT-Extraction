@@ -1,0 +1,249 @@
+# Text Before References
+Ann Surg Oncol (2022) 29:6646–6657 https://doi.org/10.1245/s10434-022-11865-x
+Annals of SURGICAL ONCOLOGY OFFICIAL JOURNAL OF THE SOCIETY OF SURGICAL ONCOLOGY
+ORIGINAL ARTICLE – BREAST ONCOLOGY
+Surgical and Oncologic Outcomes of Robotic and Conventional Nipple-Sparing Mastectomy with Immediate Reconstruction: International Multicenter Pooled Data Analysis
+Hyung Seok Park, MD, PhD1, Jeea Lee, MD2, Hung-Wen Lai, MD, PhD3,4,5, Jung Mi Park, BSc6, Jai Min Ryu, MD, PhD7, Jeong Eon Lee, MD, PhD7, Jee Ye Kim, MD1, Emilia Marrazzo, MD8, Alessandra Margherita De Scalzi, MD9, Giovanni Corso, MD, PhD9,10, Filippo Montemurro, MD11, Guglielmo Gazzetta, MD11, Giada Pozzi, MD11, and Antonio Toesca, MD11
+1Department of Surgery, Yonsei University College of Medicine, Seoul, Korea; 2Department of Surgery, Uijeongbu Eulji Medical Center, Eulji University, Uijeongbu, Gyeonggi-do, Korea; 3Endoscopic and Oncoplastic Breast Surgery Center, Changhua Christian Hospital, Changhua, Taiwan; 4Minimal Invasive Surgery Research Center, Changhua Christian Hospital, Changhua, Taiwan; 5Kaohsiung Medical University, Kaohsiung, Taiwan; 6Department of Biostatistics and Computing, Graduate School, Yonsei University, Seoul, Korea; 7Breast Division, Department of Surgery, Samsung Medical Center, Sungkyunkwan University School of Medicine, Seoul, Korea; 8Breast Unit, Department of Surgery, Ospedale Maggiore di Lodi, ASST di Lodi, Lodi, Italy; 9Division of Breast Surgery, School of Medicine, European Institute of Oncology IRCCS, University of Milan, Milan, Italy; 10Department of Oncology and Hemato-Oncology, University of Milan, Milan, Italy; 11Breast Surgery Strategic Program, Candiolo Cancer Institute, FPO - IRCCS, Candiolo, Torino, Italy
+
+ABSTRACT
+Background. Robotic nipple-sparing mastectomy (RNSM) has been developed to reduce conspicuous scar and increase the quality of life in women. This study aimed to evaluate the surgical and oncologic outcomes of RNSM with immediate breast reconstruction (IBR) compared with conventional nipple-sparing mastectomy (CNSM).
+Patients and Methods. This international multicenter, pooled analysis of individual patient-level data enrolled a total of 755 procedures in 659 women (609 had breast cancer and 50 underwent risk-reducing mastectomy) who underwent nipple-sparing mastectomy with IBR. Surgical and oncologic outcomes, including 30-days postoperative (POD 30d) complication rate, nipple necrosis rate, grade of Clavien–Dindo classification, disease-free survival, and overall survival, were evaluated. Propensity score-matched analyses were performed to adjust for confounding factors.
+Results. The median age of both the RNSM and CNSM groups was 45 years. The RNSM group had lower body mass index (BMI) and a higher proportion of benign disease compared with the CNSM group. POD 30d complications and postoperative complication grade III rates were lower in the RNSM group than in the CNSM group (p<0.05). The nipple necrosis rate was 2.2% and 7.8% for RNSM and CNSM, respectively (p=0.002). After propensity score matching, significantly lower rates of POD 30d complications, nipple necrosis, and postoperative complication grade III occurred in the RNSM group than in the CNSM group (all p<0.05). Oncologic outcomes were not significantly different between the two groups.
+Conclusion. RNSM can provide better cosmetic results with favorable surgical and oncologic outcomes for women with early breast cancer or BRCA mutation.
+
+Hyung Seok Park and Jeea Lee have contributed equally to this work.
+Prior presentation: The abstract of this study was presented at a poster session of the 17th St. Gallen International Breast Cancer Conference, 17–21 March 2021.
+Society of Surgical Oncology 2022
+First Received: 29 December 2021
+Accepted: 20 April 2022
+Published Online: 18 May 2022
+A. Toesca, MD
+e-mail: antonio.toesca@libero.it
+
+Clinical Outcomes of RNSM and CNSM
+6647
+Robotic nipple-sparing mastectomy (RNSM) with immediate breast reconstruction (IBR) provides better cosmetic outcomes due to inconspicuous scars in the axillary area compared with conventional nipple-sparing mastectomy (CNSM).1,2 The three-dimensional high-resolution camera and highly flexible rotating arms of surgical robotic systems enable surgeons to perform meticulous procedures in a narrow space (Fig. 1A–D).3,4
+
+However, recently, according to the US Food and Drug Administration (FDA), caution is required when using robotic surgical systems for mastectomy and other cancer-related surgeries.5 This FDA safety communication resulted from a lack of evidence regarding the use of robotic surgical devices for mastectomy or for prevention or treatment of cancers.
+
+Several studies have reported the clinical (surgical and oncologic) outcomes of RNSM.2,3,6,7 However, most studies were conducted in single centers with small sample sizes. Furthermore, studies comparing surgical and oncologic outcomes between RNSM and CNSM are lacking.
+
+This study evaluated the surgical and oncologic outcomes of RNSM with IBR compared with CNSM, using an international multicenter, pooled analysis of individual patient-level data.
+
+PATIENTS AND METHODS
+Patients
+This international multicenter study involved a pooled analysis of individual patient-level data of retrospective and prospective studies. This study reviewed 772 procedures in 671 women who underwent nipple-sparing mastectomy (NSM) with IBR between June 2014 and March 2020 at four medical centers (Severance Hospital, Seoul, Korea; Samsung Medical Center, Seoul, Korea; European Institute of Oncology IRCCS, Milan, Italy; and Changhua Christian Hospital, Changhua, Taiwan). Four breast surgeons for RNSM from three centers and ten breast surgeons for CNSM from two centers participated in this study. RNSM data from a prospective study (NCT03440398) and retrospective data were analyzed.3,6,8 Exclusion criteria were stage IV disease at initial presentation, cases without IBR, or previous breast surgery. Among a final 755 cases in 659 women enrolled in this study, 609 women had breast cancer and 50 underwent risk-reducing mastectomy. Risk-reducing mastectomy was performed in women with germline BRCA1/2 or PALB2 mutations, interstitial mastopathy due to paraffin injection, or high-risk lesions such as lobular carcinoma in situ, or women who wanted risk-reducing mastectomy after risk counseling. All analyses were performed according to the surgical modality type (RNSM or CNSM). Figure 2 shows the schematic flow of the study. Subgroup analyses were performed in women with breast cancer.
+
+Clinicopathologic Variables and Endpoints
+Clinicopathologic variables, including age, body mass index (BMI), specimen weight, breast ptosis, germline mutation status, risk-reducing mastectomy, affected breast, bilaterality, type of reconstruction, TNM stage, histologic grade, histological type, estrogen receptor (ER), progesterone receptor (PR), human epidermal growth factor (HER) 2, Ki-67, and neoadjuvant treatment, were analyzed. Bilaterality referred to the surgical types of either bilateral or unilateral mastectomy. Postoperative complications within 30 days (POD 30d) were recorded and classified by the Clavien–Dindo classification.9 Disease-free (DFS) and overall survival (OS) rates were examined in women with breast cancer. TNM stage was assessed according to the anatomic stage of the American Joint Committee on Cancer, 8th edition.10 BMI was categorized as normal weight (<25 kg/m²) and overweight (≥25 kg/m²) according to the definition of the World Health Organization.
+
+Primary endpoints were surgical outcomes, including the POD 30d complication rate, nipple necrosis rate, and the grade of Clavien–Dindo classification. POD 30d complications included partial/total nipple necrosis, partial/total skin necrosis, thermal injury of the skin, infection, bleeding/hematoma, seroma, wound dehiscence, and implant dislocation. Secondary endpoints were oncologic outcomes, including DFS and OS rates.
+
+Statistics
+Categorical variables were examined using the chi-squared or Fisher’s exact test as indicated. Continuous variables were examined using the Mann–Whitney U test for non-normally distributed data. Predictors of nipple necrosis and postoperative complication grade III in the total study population were identified by univariable logistic regression analyses. Women with unavailable data on postoperative complication were excluded from the analyses of risk factors for the surgical outcomes. Univariable factors with p<0.05 or major relevant clinical factors, such as surgical modality type, age, BMI, bilaterality, reconstruction type, and TNM stage, were included in multivariable analyses for nipple necrosis. Modality type, age, and reconstruction type were included in multivariable analyses of postoperative complication grade III. Time from date of surgery to date of first event or last follow-up were calculated for the survival analyses. DFS event rate included locoregional and distant recurrences, contra-lateral breast cancer, and death from any cause. OS event rate included death from any cause. Cox proportional hazards models were used to compare oncologic outcomes (DFS and OS rates). Kaplan–Meier curves were plotted for the survival analyses.
+
+Missing data were handled by the 10% missing data threshold rates, according to previous studies.11,12 That is, the current study analyzed variables with <10% missing data rates on propensity score matching (PSM). For breast ptosis (35.1%), germline mutation status (15.6%), and specimen weight (37.4%), the missing data rates were >10%, with statistical differences between the two groups; thus, they were excluded from the analyses of surgical outcomes and propensity matching. Since the missing data were not at random, multiple imputations were not applied in the analyses. Accordingly, propensity scores were estimated for patients for whom all the variables were observed, to achieve covariate balance between the two groups.13
+
+PSM analysis was performed to minimize the effects of potential confounders and selection biases. For the overall study population and women with breast cancer, propensity scores were calculated using two multivariable logistic regression models. The propensity score model for the overall study population included age, BMI, risk-reducing mastectomy, affected breast, bilaterality, reconstruction type, TNM stage, and neoadjuvant chemotherapy. The propensity score model for women with breast cancer included age, BMI, affected breast, bilaterality, reconstruction type, TNM stage, histologic grade, ER, PR, HER2, Ki-67, and neoadjuvant chemotherapy. Following the estimation of propensity scores, in each model, the two procedures were matched in a 1:2 ratio, using a caliper distance set at 0.05 and 0.07 for the overall study population and women with breast cancer, respectively, for the logit of the propensity score standard deviations. We evaluated the balance of covariate distribution between the two groups using the standardized mean difference (SMD). After PSM, categorical variables were analyzed using McNemar’s test, while non-normally distributed continuous variables were compared using Wilcoxon signed-rank test. Conditional logistic regression models adjusted for surgical modality type and age were built in the multivariate analyses, taking into account the propensity-matched pairs.
+
+All tests were two-sided. A threshold of p<0.05 was considered statistically significant. Statistical analyses were performed using IBM SPSS Statistics for Windows, version 25 (IBM Corp., Armonk, NY, USA) and R (version 4.0.0; R Foundation for Statistical Computing, Vienna, Austria).
+
+Ethics
+This study was approved by Severance Hospital Institutional Review Board (IRB No. 4-2019-0834). The requirement of informed consent from participants was waived owing to the retrospective design of the study. The Clinicaltrials.gov identifier and title are NCT04108117 and ‘‘Surgical and Oncologic Outcomes after Robotic Nipple-Sparing Mastectomy and Immediate Reconstruction (SORI),’’ respectively. Data sharing agreement forms between institutions were obtained under the local regulations. All personal identifying data, such as social security numbers, national identification numbers, patients’ names, and telephone numbers, were excluded from the study.
+
+Data Sharing Statement
+The datasets generated and/or analyzed in the current study are not publicly available owing to its proprietary nature, but are available from the first author, H.S.P., upon reasonable request with permission by data owners.
+
+RESULTS
+Overall Study Population
+Clinicopathologic characteristics of the study population are presented in Table 1. The median age of RNSM and CNSM groups was 45 years, respectively. Differences occurred between RNSM and CNSM in BMI, specimen weight, breast ptosis, germline mutation status, risk-reducing mastectomy, bilaterality, reconstruction types, TNM stage, and neoadjuvant chemotherapy (Table 1). More patients in the RNSM group had lower BMI, underwent implant-based IBR, risk-reducing mastectomy, and had higher proportion of benign disease compared with those in the CNSM group.
+
+Table 2 presents the surgical outcomes of women who underwent RNSM and CNSM. Rates of POD 30d complications (40.8% versus 31.1%, p=0.009) and nipple necrosis (7.8% versus 2.2%, p=0.002) were lower in the RNSM group than in the CNSM group. Higher proportion of postoperative complication grade III occurred in the CNSM group than in the RNSM group (19.4%, versus 10.9%, p=0.003). No complications were grade IV or higher in the study population. In addition, there was no open conversion in the RNSM group.
+
+Subgroup Analyses: Surgical and Oncologic Outcomes in Women with Breast Cancer
+Clinicopathologic characteristics of women with breast cancer are shown in Supplementary Table 1. Women with breast cancer and the overall study population showed similar clinicopathologic characteristic patterns except for bilaterality and TNM stages (Supplementary Table 1). There were no differences in bilaterality and TNM stages between the two groups of women with breast cancer.
+
+As shown in Table 2, the RNSM group had lower rates of POD 30d complications (p=0.04), nipple necrosis (p=0.003), and postoperative complication grade III (p=0.009) compared with the CNSM group.
+
+In the survival analyses, with median follow-up of 18 months, there was no significant difference in DFS [p=0.15, hazard ratio (HR) 0.19, 95% confidence interval (CI) 0.001–1.58] and OS rates (p=0.60, HR 0.47, 95% CI 0.003–5.83) between the two groups (Fig. 3A, B).
+
+Propensity Score-Matched Analyses
+Table 3 shows no difference in the characteristics of the overall study population on PSM analyses between the two groups. Matched clinicopathologic variables were well balanced. Surgical outcomes of the overall study population between the two groups after PSM are presented in Table 2. The rates of POD 30d complications (p=0.003), nipple necrosis (p<0.001), and postoperative complication grade III (p<0.001) were significantly lower in the RNSM group than in the CNSM group, after PSM.
+
+After PSM in women with breast cancer, the clinicopathologic characteristics were well balanced between the two groups, and SMD showed negligible differences (Supplementary Table 2). The POD 30d complication rates were not significantly different between the two groups. Surgical outcomes including nipple necrosis (p=0.003) and postoperative complication grade III rates (p=0.010) differed significantly between the two groups (Table 2).
+
+Figure 3 shows no difference in DFS and OS rates between the two groups, with median follow-up of 18 months after PSM in women with breast cancer (p=0.43 HR 0.35, 95% CI 0.003–3.57 for DFS rate; p>0.99 for OS rate).
+
+Multivariable Analyses of Surgical Outcomes
+RNSM was associated with 62% reduction in nipple necrosis rate (p=0.044, HR 0.38, 95% CI 0.15–0.98) and 38% reduction in postoperative complication grade III rate (p=0.045, HR 0.62, 95% CI 0.39–0.99) compared with CNSM (Supplementary Table 3). BMI and reconstruction type were also significant risk factors for nipple necrosis and postoperative complication grade III in multivariable analyses.
+
+In multivariate analyses after PSM, RNSM was significantly associated with less nipple necrosis (p=0.015, HR 0.16, 95% CI 0.04–0.71) and postoperative complication grade III (p=0.005, HR 0.39, 95% CI 0.20–0.75) (Fig. 4).
+
+DISCUSSION
+This study demonstrated that RNSM with IBR showed favorable surgical outcomes, including lower nipple necrosis, postoperative complication grade III, and complication rates, at POD 30d compared with CNSM with IBR, using international multicenter pooled individual patient-level data. We also demonstrated favorable surgical outcomes of RNSM with IBR using PSM analyses. Previous studies indicated that RNSM definitively showed better cosmetic outcomes compared with CNSM owing to inconspicuous scars in the axillary area.2,7,14 In addition to this benefit, the current study suggested certain surgical advantages of RNSM: lower nipple necrosis and postoperative complication grade III rates. These advantages may be due to the location and size of RNSM incision. The small-sized incision (2.5–6.0 cm) in the axillary area can efficiently preserve vascular supply toward the nipple areolar complex and skin envelope.15 The three-dimensional high-resolution camera and highly flexible rotating arms of the robotic surgical systems may facilitate efficient dissection of the breast parenchyma with favorable surgical outcomes.
+
+We found similar clinicopathologic characteristic differences between the RNSM and CNSM groups in the current study and previous studies.1,15–17 In the early RNSM stages, implant-based IBR was the only IBR option after RNSM. Lower BMI and higher rate of implant-based IBR in the RNSM group may be explained by the fact that the application of autologous breast reconstruction after RNSM was not actively performed for women with higher BMI and ptotic breast during the early phase of RNSM. However, despite the technical difficulties with autologous breast reconstruction, several pioneers recently developed autologous breast reconstruction after RNSM.7,17–19 Higher proportion of benign disease and lower proportion of neoadjuvant chemotherapy in the RNSM group may be due to the careful patient selection for the therapeutic application of RNSM in women with breast cancer. The higher rate of bilaterality in the RNSM group was related to the higher rate of risk-reducing mastectomy. We found significant interaction between bilaterality and risk-reducing mastectomy (odds ratio 12.5, 95% CI 3.45–45.3, p for interaction <0.001) (Supplementary Table 4). This could be due to the need for better cosmetic outcome in women who are candidates for risk-reducing mastectomy.
+
+In this study, we analyzed the subgroup of women with breast cancer by surgical and oncologic outcomes. On the subgroup analyses, oncologic outcomes showed no difference in DFS and OS rates. There was no recurrence or mortality in the RNSM group. Only one case of metachronous contralateral breast cancer was found in the RNSM group. However, since the CNSM group also showed low rate of DFS events [1.4% (6/440)], longer follow-up and larger sample size are necessary to establish strong evidence of oncologic outcomes of RNSM compared with CNSM. Nevertheless, our finding of favorable oncologic outcome is supportive evidence against the FDA caution regarding the use of RNSM in the clinical setting for treatment or prevention of breast cancer, which requires specific clinical outcomes (such as local recurrence, DFS, or OS rates) at time period longer than 30 days. However, in the study on radical hysterectomy cited in the FDA caution, robotic procedures accounted for only 15% (n=47) of the minimally invasive group.20 Therefore, the inferior oncologic result of minimally invasive radical hysterectomy compared with open abdominal radical hysterectomy from this trial could be considered as the overall result of minimally invasive hysterectomy, especially laparoscopic surgery, rather than the result of robotic surgery.20 In addition, a systematic review demonstrated that clinical outcomes of robotic surgery were not significantly different from those of conventional surgery for various procedures other than radical hysterectomy.21
+
+Some have argued that randomized controlled surgical trials (RCTs) are necessary for RNSM.22,23 However, there are several hurdles in conducting prospective RCTs for verifying the surgical or oncologic outcomes of newly developed surgical procedures compared with conventional procedures.24 The development and application of surgical treatments, including endoscopic surgery and CNSM, are half as likely to be based on RCT as treatments in internal medicine.24 Although there have been limited surgical RCTs, several new surgical procedures have been introduced and applied in clinical practice, resulting in improved quality of life for patients.25 Despite the concern about CNSM’s association with nipple and skin locoregional recurrence, higher physical demand on the surgeons, and postoperative complications, including nipple necrosis, no RCT has evaluated the oncologic safety of CNSM application in women with breast cancer.26–28 Nonetheless, the use of CNSM for the treatment or prevention of breast cancer is widespread, owing to the definitive clinical advantage of cosmetic outcomes and quality of life, similar to that of the application of RNSM. Considering the definitive clinical advantage, surgeons have not always waited for the highest level of evidence to be established through well-designed RCTs before applying innovative surgical devices, such as endoscopic or robotic systems, in clinical practice.29–33 Furthermore, given the availability of sufficient explanations of the advantages and disadvantages, patients have the right to choose their desired surgical procedure. As recommended by the FDA, healthcare providers should provide patients with detailed information about the surgeons’ experience, robotic surgeries, and available treatment options to help them make an appropriate decision.5 Despite this recommendation, a recent article argued that RNSM should not be performed until RCT proves its utility.22 However, as we mentioned above, CNSM has not been validated by RCT findings.34,35 Therefore, should CNSM be prohibited until RCT provides the highest level of evidence for its surgical and oncologic safety? In this realistic clinical situation, conducting RCTs for all surgical procedures may not be the clinical solution to address the need for progress in the use of the new innovative surgical systems. Clinical debates should not be dogmatic but realistic. Balancing between the two ideologies and embracing the patients’ preference should be considered in clinical practice. Nevertheless, we agree that RCT provides the highest level of the clinical evidence. Smith et al. reported no differences in OS, DFS, or cancer recurrence over a median follow-up period of 3 years between open and robotic cystectomy.36 A systematic review analyzed the clinical outcomes of robotic surgery compared with open or laparoscopic surgeries for various procedures.21 In that review, some RCTs demonstrated that robotic-assisted radical prostatectomy offered improved biochemical recurrence rate and quality of postoperative recovery compared with open prostatectomy.21 Another RCT showed that robot-assisted right colectomy demonstrated similar 5 years disease-free and overall survival rates compared with laparoscopic right colectomy.37 Since an RCT can demonstrate the oncologic results of a new surgical procedure with a high level of evidence, The Korea Robot-endoscopy Minimal Access Breast Surgery Study Group (KoREa-BSG) has been planning to conduct an RCT on the 5 years oncologic outcomes of RNSM compared with those of CNSM. The enrollment for the study will begin in the near future.
+
+There are several ongoing prospective studies to clarify the clinical implications and provide evidence on RNSM, despite the difficulty in conducting prospective RCTs. A prospective RCT comparing RNSM and CNSM evaluated the patients’ satisfaction as the primary endpoint (NCT03440398).38 This study evaluated the local, regional, and distant recurrence rates, and the 5-years OS as the secondary endpoints. Another prospective cohort study, which has initiated the enrollment of women who underwent RNSM or CNSM with IBR, will be evaluating the postoperative complications as its primary endpoint and oncologic safety as its secondary endpoint (NCT04585074). Furthermore, the protocol for a prospective multicenter study on the use of a robotic surgical system (RNSM) for nipple-sparing mastectomy was approved by the US FDA (NCT03892980). These efforts will expand on the understanding of the clinical implications and provide a higher level of evidence for RNSM with IBR in women with breast cancer or high-risk factors.
+
+The current study has several limitations. One is the presence of selection bias, given the nature of the retrospective study design, short-term follow-up, and the lack of measurement of the physical demand on the surgeons, patients’ satisfaction, the incision type of CNSM, and cost-effectiveness. In terms of cost-effectiveness, we considered that different countries have various policies for surgical cost setting and national or private health insurance systems. For this reason, we did not conduct an analysis of procedure costs. However, PSM analyses compensated for the selection bias. Potential advantages and disadvantages, including oncologic outcomes with longer follow-up period, patients’ satisfaction, and cost-effectiveness, will be clarified by future studies. One of the potential advantages of RNSM is the reduced physical demand on the surgeons performing the procedure. CNSM is a highly labor-intensive procedure for breast surgeons,39 making the application of a new robotic surgical system desirable, to reduce the physical demands on breast surgeons. New measurement methods for estimating the surgeons’ physical demand, such as the NASA Task Load Index scoring system or inertial measurement unit sensors, can be helpful in further studies.39
+
+In conclusion, RNSM with IBR showed favorable surgical and oncologic outcomes compared with CNSM. Compared with CNSM, RNSM with IBR can provide better cosmetic results without inferior postoperative and survival outcomes in women with early breast cancer or BRCA mutation.
+
+Supplementary Information The online version contains supplementary material available at https://doi.org/10.1245/s10434-022-11865-x.
+
+ACKNOWLEDGEMENTS The authors would like to thank Medical Illustration and Design, part of the Medical Research Support Services of Yonsei University College of Medicine, for all artistic support related to this work.
+
+AUTHOR CONTRIBUTIONS Conception and design: HSP and AT. Collection and assembly of data: all authors. Data analysis and interpretation: HSP, JL, JMP, and AT. Manuscript writing: HSP and JL. Final approval of manuscript: all authors. Accountable for all aspects of the work: all authors.
+
+FUNDING This study was supported by the Clinical Robotic Research Grant (Grant ID 5558241) from Intuitive Surgical Operations, Inc. This funding source had no role in the design of this study and did not have any role during its execution, analyses, interpretation of the data, or decision to submit the results.
+
+DISCLOSURE Hyung Seok Park received honoraria from AstraZeneca, Takeda, Ethicon, Medtronic, Intuitive Surgical Korea, and Intuitive Surgical Operations, Inc. There are no other relationships or activities that could appear to have influenced the submitted work.
+
+# Tables
+## Table 1: Clinicopathologic characteristics of the total study population before propensity score matching
+| | Total study population (n = 755) | | |
+| --- | --- | --- | --- |
+| | RNSM (n = 292) | CNSM (n = 463) | p |
+| Age (years) | 45 (20–72) | 45 (23–71) | 0.56 |
+| BMI (kg/m²) | | | 0.001 |
+| <25 | 260 (89.0) | 371 (80.1) | |
+| ≥25 | 32 (11.0) | 92 (19.9) | |
+| Specimen weight (g) | 315 (76–960) | 384 (85–1595) | <0.001 |
+| Breast ptosis | | | <0.001 |
+| Normal | 101 (34.6) | 133 (28.7) | |
+| Ptosis | 121 (41.4) | 135 (29.2) | |
+| Germline mutation status | | | 0.003 |
+| Negative | 45 (15.4) | 121 (26.1) | |
+| Positive | 47 (16.1) | 60 (13.0) | |
+| VOUS | 7 (2.4) | 17 (3.7) | |
+| No test/unknown | 193 (66.1) | 265 (57.2) | |
+| Risk-reducing mastectomy | | | <0.001 |
+| No | 237 (81.2) | 440 (95.0) | |
+| Yes | 55 (18.8) | 23 (5.0) | |
+| Affected breast | | | 0.53 |
+| Left | 137 (46.9) | 228 (49.2) | |
+| Right | 155 (53.1) | 235 (50.8) | |
+| Bilaterality | | | <0.001 |
+| Unilateral | 186 (63.7) | 377 (81.4) | |
+| Bilateral | 106 (36.3) | 86 (18.6) | |
+| Type of reconstruction | | | <0.001 |
+| Implant-based | 276 (94.5) | 375 (81.0) | |
+| Autologous | 16 (5.5) | 88 (19.0) | |
+| T stage | | | <0.001 |
+| ≤T1 | 179 (61.3) | 349 (75.4) | |
+| >T1 | 58 (19.9) | 91 (19.7) | |
+| Benign | 55 (18.8) | 23 (5.0) | |
+| N stage | | | <0.001 |
+| N0 | 189 (64.7) | 356 (76.9) | |
+| N1–N3 | 48 (16.4) | 84 (18.1) | |
+| Benign | 55 (18.8) | 23 (5.0) | |
+| TNM stage | | | <0.001 |
+| ≤Stage I | 163 (55.8) | 311 (67.1) | |
+| >Stage I | 74 (25.3) | 129 (27.9) | |
+| Benign | 55 (18.8) | 23 (5.0) | |
+| Neoadjuvant chemotherapy | | | <0.001 |
+| None | 214 (73.3) | 364 (78.6) | |
+| Completed | 23 (7.9) | 76 (16.4) | |
+| Benign | 55 (18.8) | 23 (5.0) | |
+Values are represented as median (minimum–maximum) or number (percentage). ALND axillary lymph node dissection, BMI body mass index, CNSM conventional nipple-sparing mastectomy, ER estrogen receptor, HER human epidermal growth factor, IBR immediate breast reconstruction, NSM nipple-sparing mastectomy, PR progesterone receptor, RNSM robotic nipple-sparing mastectomy, SLNB sentinel lymph node biopsy, VOUS variant of uncertain clinical significance.
+
+## Table 2: Surgical and oncologic outcomes of the total study population and women with breast cancer before and after propensity score matching
+### Surgical outcomes in the total study population
+| | Before PSM | | | After PSM | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | RNSM (n = 267*) | CNSM (n = 463) | p | RNSM (n = 167) | CNSM (n = 334) | p |
+| Complication in POD 30 days | | | 0.009 | | | 0.003 |
+| None | 184 (68.9) | 274 (59.2) | | 120 (71.9) | 202 (60.5) | |
+| Yes | 83 (31.1) | 189 (40.8) | | 47 (28.1) | 132 (39.5) | |
+| Nipple necrosis | | | 0.002 | | | <0.001 |
+| None | 261 (97.8) | 427 (92.2) | | 165 (98.8) | 300 (93.1) | |
+| Yes | 6 (2.2) | 36 (7.8) | | 2 (1.2) | 23 (6.9) | |
+| Clavien–Dindo classification | | | 0.003 | | | <0.001 |
+| ≤Grade II | 238 (89.1) | 373 (80.6) | | 155 (92.8) | 278 (83.2) | |
+| Grade III | 29 (10.9) | 90 (19.4) | | 12 (7.2) | 56 (16.8) | |
+
+### Surgical and oncologic outcomes in women with breast cancer
+| | Before PSM | | | After PSM | | |
+| --- | --- | --- | --- | --- | --- | --- |
+| | RNSM (n = 215*) | CNSM (n = 440) | p | RNSM (n = 158) | CNSM (n = 316) | p |
+| Complication in POD 30 days | | | 0.040 | | | 0.21 |
+| None | 144 (67.0) | 258 (58.6) | | 105 (66.5) | 194 (61.4) | |
+| Yes | 71 (33.0) | 182 (41.4) | | 53 (33.5) | 122 (38.6) | |
+| Nipple necrosis | | | 0.003 | | | 0.003 |
+| None | 211 (98.1) | 406 (92.3) | | 156 (98.7) | 297 (94.0) | |
+| Yes | 4 (1.9) | 34 (7.7) | | 2 (1.3) | 19 (6.0) | |
+| Clavien–Dindo classification | | | 0.009 | | | 0.010 |
+| ≤Grade II | 190 (88.4) | 353 (80.2) | | 142 (89.9) | 261 (82.6) | |
+| Grade III | 25 (11.6) | 87 (19.8) | | 16 (10.1) | 55 (17.4) | |
+| First events of survivals | | | 0.28 | | | 0.29 |
+| None | 214 (99.5) | 434 (98.6) | | 157 (99.4) | 313 (99.1) | |
+| Local recurrence | 0 (0.0) | 3 (0.7) | | 0 (0.0) | 2 (0.6) | |
+| Regional LN recurrence | 0 (0.0) | 0 (0.0) | | 0 (0.0) | 0 (0.0) | |
+| Contralateral cancer | 1 (0.5) | 0 (0.0) | | 1 (0.6) | 0 (0.0) | |
+| Distant recurrence | 0 (0.0) | 2 (0.5) | | 0 (0.0) | 1 (0.3) | |
+| Second primary cancer | 0 (0.0) | 1 (0.2) | | 0 (0.0) | 0 (0.0) | |
+| Death as first event | 0 (0.0) | 0 (0.0) | | 0 (0.0) | 0 (0.0) | |
+*Women with unavailable data of postoperative complication (22 with breast cancer, 3 with benign disease) were excluded in the analyses of surgical outcomes. CNSM conventional nipple-sparing mastectomy, PSM propensity score matching, POD postoperative days, RNSM robotic nipple-sparing mastectomy.
+
+## Table 3: Matched clinicopathologic characteristics of the total study population after propensity score matching
+| | After PSM | | | |
+| --- | --- | --- | --- | --- |
+| | RNSM (n = 167) | CNSM (n = 334) | p | SMD |
+| Age (years) | 45 (28–71) | 44 (23–71) | 0.94 | 0.028 |
+| BMI (kg/m²) | | | 0.30 | 0.098 |
+| <25 | 152 (91.0) | 294 (88.0) | | |
+| ≥25 | 15 (9.0) | 40 (12.0) | | |
+| Risk-reducing mastectomy | | | >0.99 | <0.001 |
+| No | 156 (93.4) | 312 (93.4) | | |
+| Yes | 11 (6.6) | 22 (6.6) | | |
+| Affected breast | | | 0.29 | 0.042 |
+| Left | 77 (46.1) | 147 (44.0) | | |
+| Right | 90 (53.9) | 187 (56.0) | | |
+| Bilaterality | | | 0.51 | 0.024 |
+| Unilateral | 139 (83.2) | 275 (82.3) | | |
+| Bilateral | 28 (16.8) | 59 (17.7) | | |
+| Type of reconstruction | | | 0.29 | 0.048 |
+| Implant-based | 153 (91.6) | 302 (90.4) | | |
+| Autologous | 14 (8.4) | 32 (9.6) | | |
+| TNM stage | | | 0.25 | 0.034 |
+| ≤Stage I | 111 (66.5) | 227 (68.0) | | |
+| >Stage I | 45 (26.9) | 85 (25.4) | | |
+| Benign | 11 (6.6) | 22 (6.6) | | |
+| Neoadjuvant chemotherapy | | | 0.23 | 0.033 |
+| None | 142 (85.0) | 287 (86.6) | | |
+| Completed | 14 (8.4) | 25 (7.5) | | |
+| Benign | 11 (6.6) | 22 (5.9) | | |
+Values are represented as median (minimum–maximum) or number (percentage). BMI body mass index, CNSM conventional nipple-sparing mastectomy, PSM propensity score matching, RNSM robotic nipple-sparing mastectomy, SMD standardized mean difference.
+
+# Image Descriptions
+## Figure 1: Illustration of robotic nipple-sparing mastectomy
+- Subfigure A: Depicts the surgeon manipulating the robotic console to control the surgical instruments during the procedure.
+- Subfigure B: Shows the patient cart equipped with a single-port robotic surgical system specifically designed for robotic mastectomy.
+- Subfigure C: Presents a transverse view of the flexible movement of the robotic instruments during RNSM, demonstrating the dexterity of the instruments in the surgical field.
+- Subfigure D: Displays an anterior view of the flexible movement of the robotic instruments during RNSM, further illustrating the range of motion and precision of the robotic system.
+- Subfigure E: Illustrates the different incision types (labeled 1-6) used in conventional nipple-sparing mastectomy (CNSM).
+- Subfigure F: Shows the incision type (labeled 7) used in robotic nipple-sparing mastectomy (RNSM).
+
+## Figure 2: Schematic flow of the study
+The flowchart outlines the study's patient selection and analysis process:
+- The total study cohort initially included 772 procedures from four medical centers: Changhua Christian Hospital (CCH, n=69), European Institute of Oncology (EIO, n=91), Samsung Medical Center (SMC, n=199), and Severance Hospital (SEV, n=413).
+- 17 procedures were excluded due to nipple areolar complex resection (n=1), no reconstruction (n=8), previous operation history (n=5), stage IV disease (n=2), and data duplication (n=1).
+- The final cohort consisted of 755 nipple-sparing mastectomy procedures with immediate breast reconstruction, including 292 RNSM and 463 CNSM cases.
+- For subgroup analysis of women with breast cancer, 677 cases were identified (237 RNSM and 440 CNSM), with 25 excluded due to unavailable primary endpoint data.
+- Propensity score matching (1:2) was performed for both the overall study population and the breast cancer subgroup to adjust for confounding factors, resulting in matched cohorts for surgical and oncologic outcome analyses.
+
+## Figure 3: Oncologic outcomes of robotic and conventional nipple-sparing mastectomy in women with breast cancer before and after propensity score matching
+- Subfigure A: Kaplan–Meier curve for disease-free survival (DFS) before PSM. The curve shows no significant difference between RNSM and CNSM groups (p=0.15, HR=0.19, 95% CI 0.001–1.58). The number at risk is provided for each group at different time points (0, 12, 24, 36, 48, 60 months).
+- Subfigure B: Kaplan–Meier curve for overall survival (OS) before PSM. No significant difference was observed between the two groups (p=0.60, HR=0.47, 95% CI 0.003–5.83). The number at risk is listed for each group at the same time points as in Subfigure A.
+- Subfigure C: Kaplan–Meier curve for DFS after PSM. There was no significant difference in DFS between RNSM and CNSM (p=0.43, HR=0.35, 95% CI 0.003–3.57). The number at risk is provided for the matched cohorts at the specified time points.
+- Subfigure D: Kaplan–Meier curve for OS after PSM. No significant difference in OS was found between the two groups (p>0.99). The number at risk is listed for the matched cohorts at the same time points as above.
+
+## Figure 4: Forest plots of prognostic factors for the surgical outcomes of robotic and conventional nipple-sparing mastectomy in the total study population
+- Subfigure A: Forest plot showing the prognostic factors for nipple necrosis before propensity score matching. The factors include surgical modality type (RNSM vs CNSM, HR=0.38, 95% CI 0.15–0.98, p=0.044), age (HR=1.02, 95% CI 0.98–1.07, p=0.35), BMI (<25 vs ≥25, HR=2.37, 95% CI 1.15–4.89, p=0.019), type of reconstruction (Implant-based vs Autologous, HR=7.85, 95% CI 3.84–16.04, p<0.001), bilaterality (Unilateral vs Bilateral, HR=2.01, 95% CI 0.90–4.52, p=0.090), and TNM stage group (Benign vs ≤Stage I, HR=0.49, 95% CI 0.14–1.70, p=0.26; Benign vs >Stage I, HR=0.70, 95% CI 0.19–2.60, p=0.59). The x-axis indicates the hazard ratio (HR) with "Less" and "More" labels, and the vertical line represents HR=1.
+- Subfigure B: Forest plots showing prognostic factors after PSM. The top plot presents the factor for nipple necrosis: surgical modality type (RNSM vs CNSM, HR=0.16, 95% CI 0.04–0.71, p=0.015). The bottom plot shows the factor for postoperative complication grade III: surgical modality type (RNSM vs CNSM, HR=0.39, 95% CI 0.20–0.75, p=0.005). The x-axis for both plots indicates HR with "Less" and "More" labels, and the vertical line represents HR=1.

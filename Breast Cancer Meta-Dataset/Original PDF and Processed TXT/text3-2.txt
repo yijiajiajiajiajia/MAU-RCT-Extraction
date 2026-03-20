@@ -1,0 +1,290 @@
+# Text Content (Before References)
+Journal of Plastic, Reconstructive & Aesthetic Surgery (2020) 73, 1514–1525
+ELSEVIER
+JPRAS
+An International Journal of
+Surgical Reconstruction
+www.JPRASurg.com
+Original Article
+Robotic versus conventional nipple sparing mastectomy and immediate gel implant breast reconstruction in the management of breast cancer- A case control comparison study with analysis of clinical outcome, medical cost, and patient-reported cosmetic results
+
+Hung-Wen Lai a, b, c, d, e, f, g, h, m, n, ∗, Shou-Tung Chen a, b, c, Chi Wei Mok l, o, Ying-Jen Lin i, Hwa-Koon Wu j, Shih-Lung Lin k, Dar-Ren Chen a, b, c, Shou-Jen Kuo a, b, c
+a Endoscopic & Oncoplastic Breast Surgery Center, Changhua Christian Hospital, 135 Nanxiao Street, Changhua 500, Taiwan
+b Division of General Surgery, Changhua Christian Hospital, Changhua, Taiwan
+c Comprehensive Breast Cancer Center, Changhua Christian Hospital, Changhua, Taiwan
+d Minimal invasive surgery research center, Changhua Christian Hospital, Changhua, Taiwan
+e Kaohsiung Medical University, Kaohsiung, Taiwan
+f Division of Breast Surgery, Yuanlin Christian Hospital, Yuanlin, Taiwan
+g School of Medicine, National Yang Ming University, Taipei, Taiwan
+h School of Medicine, Chung Shan Medical University, Taichung, Taiwan
+i Tumor Center, Changhua Christian Hospital, Changhua, Taiwan
+j Department of Radiology, Changhua Christian Hospital, Changhua, Taiwan
+k Division of Plastic and Reconstructive Surgery, Department of Surgery, Changhua Christian Hospital, Changhua, Taiwan
+l Division of Breast Surgery, Department of Surgery, Changi General Hospital, Singapore
+m Chang Gung University College of Medicine, Taoyuan City, Taiwan
+n Division of General Surgery, Kaohsiung Chang Gung Memorial Hospital, Kaohsiung, Taiwan
+o Singhealth Duke-NUS Breast Centre, Singapore
+
+Synopsis: Robotic nipple sparing mastectomy (R-NSM) and immediate gel implant breast reconstruction (IGBR) in the management of breast cancer had a comparable clinical outcome with conventional nipple sparing mastectomy (C-NSM) and IGBR. Although R-NSM was associated with better patients’ satisfaction with the esthetic outcome, it comes at the price of longer operation time and higher medical expenses if compared with C-NSM.
+
+∗Correspondence to: Endoscopic & Oncoplastic Breast Surgery Center, Changhua Christian Hospital, 135 Nanxiao Street, Changhua 500, Taiwan.
+E-mail addresses: 143809@cch.org.tw (H.-W. Lai), 1886@cch.org.tw (S.-T. Chen), mok.chi.wei@singhealth.com.sg (C.W. Mok), 180681@cch.org.tw (Y.-J. Lin), 17597@cch.org.tw (H.-K. Wu), 103280@cch.org.tw (S.-L. Lin), 115045@cch.org.tw (D.-R. Chen), 40225@cch.org.tw (S.-J. Kuo).
+https://doi.org/10.1016/j.bjps.2020.02.021
+1748-6815/ © 2020 British Association of Plastic, Reconstructive and Aesthetic Surgeons. Published by Elsevier Ltd. All rights reserved.
+
+Summary
+Background: Robotic nipple sparing mastectomy (R-NSM), which uses the da Vinci surgical platform, could perform NSM and immediate breast reconstruction through a small and inconspicuous extra-mammary axillary or lateral chest incision. R-NSM was reported with extremely low nipple areolar complex (NAC) necrosis rate, good cosmetic results, and high patient satisfaction. However, there was little evidence available comparing the effectiveness and safety of R-NSM and conventional NSM (C-NSM) in the management of breast cancer.
+Methods: A case control comparison study was conducted for patients with breast cancer who underwent R-NSM or C-NSM with immediate gel implant breast reconstruction (IGBR) from July 2011 to September 2019 at a single institution to compare the clinical outcomes, patient-reported esthetic results, and medical cost.
+Results: According to the study design, 54 procedures of R-NSM were compared with 62 procedures of C-NSM in the surgical management of breast cancer combined with IGBR. Compared with C-NSM, R-NSM was associated with higher overall satisfaction (92% excellent and 8% good versus 75.6% excellent and 24.4% good, P=0.046) and wound/scar related outcome in patient-reported esthetic results. The NAC ischemia/necrosis risk, overall complication rate, and blood loss were not significantly different between R-NSM and C-NSM groups. However, longer operation time and higher overall medical cost (10,877 ± 796 versus 5,702 ± 661 US Dollars, P<0.01) was observed in R-NSM group.
+Conclusion: Compared with C-NSM, R-NSM showed comparable clinical outcomes and favorable patients’ satisfaction with the esthetic results, but at the price of longer operation time and higher cost.
+
+© 2020 British Association of Plastic, Reconstructive and Aesthetic Surgeons. Published by Elsevier Ltd. All rights reserved.
+
+Introduction
+Owing to the high rate of patient satisfaction and acceptable oncologic safety, nipple-sparing mastectomy (NSM) is increasingly performed in breast cancer patients without nipple areolar complex (NAC) invasion. 1–4 Ischemic complications involving the NAC, however, remained an important issue in NSM. 2, 5, 6 Many factors related to NAC ischemia/necrosis were identified, 2, 6, 7 and breast skin incision types, which cause disruption of blood supply to NAC, played an important role especially in areolar related incision. Novel surgical techniques which decrease the body imaging damage post NSM and lower the risk of NAC necrosis are still required and under investigation. 8–10
+
+Robotic nipple sparing mastectomy (R-NSM), operated through the da Vinci surgical platform equipped with three-dimensional (3D) imaging and flexibility of instruments, could perform NSM and immediate breast reconstruction (IBR) through small and inconspicuous incision. 11–13 In our previous patients’ reported cosmetic outcome evaluation, R-NSM with scar placement over the extra-mammary lateral chest or axillary incision was associated with high patients’ satisfaction especially for the shortening of wound length and inconspicuous scar location, 14 which reflected the desire of patients for scarless operation and approaching the goal of esthetic mastectomy. Furthermore, by sparing incision placement over the breast skin flap and far away from the areolar, R-NSM procedures were associated with extremely low (0%) NAC necrosis rate, 15–17 and could be a promising new technique for breast cancer patients indicated for NSM.
+
+Despite the potential disadvantage of prolonged operation time and increased cost of R-NSM, 14 its application in the management of early breast cancer or risk-reducing mastectomy had been reported, 16–18 and a growing number of R-NSM was performed worldwide. 19–24 However, a recent US FDA safety communication 25 seemed to cast doubt, raising a need for closer scrutiny as well as evaluation of this technique to ensure R-NSM in the management of breast cancer. Currently, studies which directly compared R-NSM versus conventional NSM (C-NSM) procedures were lacking despite being urgently needed to delineate its value in the management of breast cancer.
+
+To clarify the benefits and limitations of R-NSM versus C-NSM in the management of patients with breast cancer, a case-control comparison study was conducted. The goal of the current study is to critically compare R-NSM versus C-NSM procedures from different aspects, namely the clinical outcomes, patient-reported esthetic results, and medical cost in the management of patients with breast cancer.
+
+Materials and methods
+Patients
+To compare the efficacy and benefit of R-NSM and C-NSM, a case control comparison study was conducted from a single institution. Patients with primary operable breast cancer who underwent NSM from July 2011 to September 2019 were retrieved from a prospectively maintained breast cancer database at Changhua Christian Hospital (CCH), a tertiary medical center in Taiwan. Before we started the robotic mastectomy program in March 2017, patients were offered the choices of either endoscopic NSM (E-NSM) or conventional NSM (C-NSM). After the program of robotic mastectomy, we offered three different NSM options for patients that were conventional NSM, endoscopic NSM, or Robotic NSM. The fee for breast reconstruction, endoscopic breast surgery, and robotic breast surgery were not reimbursed by our national insurance. Thus, we would explain how these three types of operations were performed and inform patients how much money out-of-pocket they would need to pay for each operation. The decision of C-NSM or R-NSM in the current study was decided by shared decision making between patients and operating teams. In the current study, the main theme of research is case control comparison of robotic NSM versus conventional NSM, and all endoscopic NSM cases were excluded.
+
+All the R-NSM procedures were performed by the same single breast surgeon (HWL). To reduce bias resulting from surgical technique or surgeon related factors in this case control comparison study, in C-NSM group, only patients operated by HWL were enrolled for this comparison analysis. In addition, in order to reduce the possible variations in cosmetic outcomes derived from different types of breast reconstruction, only patients who received immediate direct to cohesive gel implant breast reconstructions were selected. Patients who had received previous breast conserving surgery or previous radiation to the chest wall were excluded. The study design and patients’ allocation in the current study are illustrated in Figure 1.
+
+The patients’ characteristics, clinical outcomes, medical cost, and patient-reported cosmetic results between R-NSM and C-NSM were compared and analyzed. The study was approved by the Institutional Review Board of the CCH (CCH IRB No.: 170806 & 190414). Written informed consent to the use of clinical records was obtained from each participant. This current report includes photos of several patients who had agreed and consented for the publication of their pictures. The data reported in the current analysis also included the data reported in the earlier publications. 13, 14, 17
+
+Indications of NSM
+NSM was indicated for breast cancer patients who opted for mastectomy and were keen to preserve NAC. 26 Patients selected for NSM should have no gross involvement of NAC as evaluated preoperatively through clinical examinations and imaging studies (mammography, sonography, and/or breast magnetic resonance imaging). On the other hand, patients found to have nipple involvement during intra-operative frozen section would be subjected to NAC excision and a change of procedure to skin-sparing mastectomy instead.
+
+Indications of R-NSM
+The inclusion and exclusion criteria of R-NSM in the current study had been reported previously. 13, 14, 17 The inclusion criteria for R-NSM were early stage breast cancer (carcinoma in situ, stage I - IIIA), tumor size less than 5 cm, no evidence of multiple lymph nodes metastases, and no evidence of nipple, skin, or chest wall invasion. Patients for whom R-NSM were contra-indicated included those with apparent NAC involvement, inflammatory breast cancer, breast cancer with chest wall or skin invasion, locally advanced breast cancer, breast cancer with extensive axillary lymph nodes metastases (stage IIIB or later), and patients with severe co-morbid conditions, such as heart disease, renal failure, liver dysfunction, and poor performance status as assessed by the primary physicians.
+
+With regard to the size and shape of breast for patients considered for robotic mastectomy, the ideal candidates for R-NSM are for patients with small to medium sized, none to mildly ptotic breast. In terms of breast cup size, recommendation was made for breast cup size C and below. Women with large (breast cup size larger than E or breast mastectomy weight >600 gm) and ptotic breast were relatively not good candidates for R-NSM and IBR with gel implant due to technical limitations and sub-optimal cosmetic outcomes.
+
+R-NSM and immediate gel implant breast reconstruction (IGBR) technique
+The surgical techniques of R-NSM used in current study were described in previous reports 13, 14, 17 and illustrated in Figure 2. Breast reconstructions after R-NSM can be performed using prosthetic implants 14, 15, 27 or autologous tissue with robotic assisted latissimus dorsi flap harvest. 23, 28–30 In the current study, only patients who received breast reconstruction with one stage direct to silicone cohesive gel implant were enrolled for case comparison study (Figure 1). Implant type breast reconstruction performed in the current study was placed in the sub-pectoral muscular pocket (Figure 2) consisting of pectoralis major, serratus anterior, and fascia of external oblique muscle 13, 14, 17 without the use of acellular dermal matrix or mesh.
+
+Comparison of C-NSM and R-NSM
+Peri-operative morbidities and oncologic safety of C-NSM and R-NSM were carefully monitored. Surgical margin involvement was defined as tumor on ink. Adjuvant hormone therapy, chemotherapy, and radiotherapy were given to patients based on recommendations of current breast cancer guidelines. Incidence of recurrence or death due to breast cancer was ascertained at the most recent follow-up.
+
+Cost analysis of C-NSM versus R-NSM
+The medical cost or expenses associated with robotic or conventional NSM with IGBR were collected and compared. Medical cost incurred for each procedure referred to overall hospitalization costs, inclusive of surgical and miscellaneous fees (Table 3). Information on surgical fees and expenses were obtained from the information department of CCH. In Taiwan, the operative fees for breast reconstruction and robotic breast surgery were not reimbursed by national insurance and patients had to pay out-of-pocket. Currency was expressed in New Taiwan dollar (NTD) and United States dollar (USD). An exchange rate of 31 NTD/USD was used for the purpose of this study.
+
+Esthetic outcome evaluation
+Post-operative esthetic results were evaluated by comparing pre-operative and post-operative pictures (Figure 2). A self-reported questionnaire was used to evaluate the cosmetic outcomes of breast cancer patients following breast reconstruction at a time interval of at least 3 months after the operation when full healing had taken place (Table 4).
+
+Statistical analyses
+Differences in continuous variables were tested by the independent t-test and reported as mean ± standard deviation (SD). Mann-Whitney’ test was performed when distributions of two groups are not at normal distributions. The chi-square test was used for categorical comparisons of data when appropriate. A P value of less than 0.05 was considered statistically significant; all tests were two-tailed. All statistical analyses were performed with the statistical package SPSS (Version 19.0, SPSS, Chicago).
+
+Results
+A total of 62 C-NSM and 54 R-NSM with IGBR procedures in the surgical management of breast cancer were enrolled in the current study (Figure 1). From Table 1, the age, location, tumor size, lymph node status, and stage of these two groups were comparable. In this R-NSM cohort, there was no case needed to be converted to C-NSM or E-NSM. Compared with the C-NSM group, the R-NSM was associated with longer operation time (mean 224 ± 61 versus 197 ± 80 min, P<0.01). There was no statistical difference in resected mastectomy specimen weight or blood loss in these two groups of patients (Table 2).
+
+Morbidities/complications evaluation
+The rate of any degree of NAC ischemia/necrosis was 13% in the R-NSM group (0% total necrosis, 1(1.9%) partial necrosis, and 6(11.1%) transient nipple ischemia) and 14.5% in the C-NSM group (0% total necrosis, 3(4.8%) partial necrosis, and 6(9.7%) transient nipple ischemia). One (1.6%) patient in the C-NSM group suffered from total implant loss while no implant loss was observed in the R-NSM group. The rate of overall complication-with-significance was 24% in the R-NSM group and 29% in the C-NSM group (P=0.68, Table 2).
+
+Cost-Analysis between R-NSM and C-NSM
+The details of medical cost spent in both the C-NSM or the R-NSM group were summarized in Table 3. Compared with C-NSM and IGBR, R-NSM and IGBR were associated with higher overall medical cost (10,877 ± 796 versus 5702 ± 661 US Dollars, P<0.01).
+
+Patient-reported cosmetic results
+Forty-five (72.6%) patients in the C-NSM group and 50 (92.6%) in the R-NSM group completed the self-reported questionnaire (Table 4). There was no difference in the pre-operative breast satisfaction between the two groups of patients. In post-operative cosmetic outcomes evaluation, there was no statistically significant difference in terms of breast appearance when dressed or undressed, symmetry of bilateral breast size, or shape in both groups. The R-NSM group was associated with higher satisfaction score in terms of nipple areolar position. The average scores in terms of scar appearance, scar length, and surgical wound location were higher in the R-NSM group than the C-NSM group. The overall satisfaction rate was higher in the R-NSM group (92% excellent, and 8% good) if compared to the C-NSM group (75.6% excellent and 24.4% good, P=0.046, Table 4). The skin incision types and locations of R-NSM and C-NSM were summarized in Figure 3.
+
+One (1.9%) of the 54 procedures of R-NSM for breast cancer was found to have positive margin involvement while 0% in the C-NSM group (P=0.47). This patient received post mastectomy radiotherapy for more than 4 positive lymph nodes and did not undergo a second operation as it was only reported as a small foci of superficial margin involvement. The oncologic safety of R-NSM was not matured for comparison with C-NSM as the mean follow-up time was only 14.6 ± 8.8 months, and no local recurrence was observed till now.
+
+Discussion
+In current case control comparison study, we enrolled 54 R-NSM and 62 C-NSM with IGBR procedures in the surgical management of patients with primary breast cancer. The age, tumor size, lymph node status, stage, and size of mastectomy specimen did not differ between these two groups of patients (Table 1, 2) and all were operated on by the same surgeon, which excluded any potential surgeon or surgical technique related bias. We observed a favorable patient-reported satisfaction rates in the R-NSM group at the price of prolonged operation time and a higher medical cost. The surgical margin involved rate and morbidities in both the R-NSM and C-NSM groups were quite low indicating the safety of both procedures.
+
+In terms of patient-reported cosmetic results, R-NSM was associated with higher overall satisfaction rate (92% excellent, and 8% good) than C-NSM (75.6% excellent and 24.4% good, P=0.046). This difference was mainly from the higher scores of scar appearance, length, and surgical wound location in the R-NSM group (Table 4, Figures 2, 3). One of the major advantages of R-NSM is that the wound could be smaller (3–5 cm) and hidden in an inconspicuous extra-mammary area. The advantage of placement of scar at the extra-mammary axilla or lateral chest area at the ant. axillary line at the level of NAC (Figures 2, 3) is that the scar could be hidden in the front view or in the lateral view when the arm was adducted. When wearing a bra, the scar (lateral chest at NAC level) could be hidden under the bra.
+
+In the current study, there was no complete NAC necrosis case in either the C-NSM or the R-NSM group, and partial necrosis (4.8% versus 1.9%) or transient nipple ischemia (9.7% versus 11.1%) was not statistically different between the two groups (Table 2). In a meta-analysis, 2 around 9.1% of NSMs were found to have partial NAC necrosis, and 2% of cases were complicated with complete necrosis leading to NAC loss. Decreasing NAC ischemia/necrosis complications remained an important goal for refinements of NSM surgical techniques. R-NSM was reported to have very low NAC necrosis risk. 15–17 The small and extra-mammary axilla or lateral chest located scar of R-NSM, which spared an incision of the skin flap on the breast, could prevent disruption of vascular supply to the NAC, and is expected to lower the risk of NAC ischemia/necrosis.
+
+The higher satisfaction of nipple areolar position in R-NSM group indicated less deviation of NAC due to the single axillary or lateral chest wound. However, this scar location and length is very difficult to perform in NSM without the use of robotic surgical platform or endoscopic assisted NSM. Furthermore, it must be kept in mind that when capsular contracture occurs or re-operation is needed, it is more difficult to perform capsulotomy/capsulectomy or other revision surgeries through this small and remote wound.
+
+The comparable results of symmetry of breast size and shape between R-NSM and C-NSM (Figure 2, Table 4) showed the consistency of breast reconstruction quality which was mainly attributed to the same operation team, and not affected by the use of robotic surgical platform or conventional approach. These results showed that in patients with similar characteristics and operated by the same experienced surgeon, both C-NSM and R-NSM were deemed equally safe.
+
+Compared with C-NSM, R-NSM consistently reported longer operation times in the current study of approximately 30 mins longer (Table 2). The longer duration of R-NSM was additional time spent for preparation of working space, insertion of single port, docking of robotic arms, resection of breast with robotic system, and breast reconstruction through a small incision (Figure 2, 3). The longer operation time of R-NSM, however, could be decreased after the initial learning curve and refinements of operation techniques. In our previous learning curve study, 17 the mean operation time of R-NSM and IGBR decreased from 287 ± 77 mins (initial phase, case #1–12) to 236 ± 31 mins (mature phase, case #13–26, P=0.02) and currently most R-NSMs could be finished within 3 h.
+
+The cost of R-NSM was significantly higher than C-NSM in all aspects including that of medical fee covered by national insurance, fee paid by patients, and overall cost (P<0.01, Table 3). The overall medical cost difference between R-NSM and C-NSM was approximately 5174 USDs, which accounted for the use of da Vinci surgical platform, disposable instruments, and single port for R-NSM (Figure 2). The hospitalization duration of R-NSM in comparison with C-NSM was 2 days longer, and this might be attributed to the financial consideration of patients who received R-NSM. They needed to stay longer to receive claims from private insurance policies.
+
+The strength of this study lies in the fact that this is, to the best of our knowledge, the first reported study comparing conventional versus robotic NSM in the management of breast cancer with different aspects covering clinical outcome, costs, and patients-reported cosmetic results. Our study is limited in its retrospective nature, small sample size, and possible selection bias among these two (robotic or conventional approach) methods. The scar locations of control (C-NSM) group varied widely and some were in less favorable locations than other hidden positions (like peri-areolar or infra-mammary incisions) which might have led to lower patients’ reported satisfaction in C-NSM. The lack of long-term follow-up results in the current study could not give us an answer as to whether patients who received R-NSM would have had similar loco-regional recurrence or distant free survival compared with patients in the C-NSM group. We provided the cost of C-NSM versus R-NSM but “cost-effectiveness” analysis could not be performed to show the actual benefit of either operation in terms of financial cost. Despite these limitations, our study investigated two groups of patients with comparable baseline characteristics who were operated on by the same surgeon which minimized surgical technique related bias. The information derived from the current study was therefore valuable to the existing literature.
+
+Novel surgical techniques of NSM, which decrease NAC ischemia/necrosis, left minimal and inconspicuous scar, with good cosmetic outcome and high patients’ satisfaction while maintaining oncologic safety are demanding. 8–10 R-NSM, which had showed promising esthetic outcomes with a small and well-hidden scar, is one of the recent progresses of continuing evolution from “radical mastectomy” to “esthetic mastectomy”. The preliminary clinical and oncologic outcome of R-NSM was acceptable, and operation time decreased steadily after learning curve and techniques refinements. The cost of R-NSM, however, remained an unsolved issue, and is expected to be lower after more robotic surgical platforms become available. For risk reducing mastectomy or patients with early breast cancer indicated for total skin & nipple preserving mastectomy and desire for small and hidden scar, R-NSM is one of the alternative options among the novel NSM procedures.
+
+In conclusion, in the current case control comparison study, R-NSM had comparable clinical outcomes, favorable patients-reported esthetic satisfaction in the price of longer operation time, and higher medical cost in comparison with C-NSM.
+
+Author disclosures
+None of the authors have conflicts of interest or financial ties to disclose.
+
+Financial disclosure
+Funding: This study was funded by the Ministry of Science and Technology of Taiwan, and the number of this funding was: MOST 108-2314-B-371-006-. This study was also sponsored by research funding provided by the Changhua Christian Hospital 106-CCH-IRP-014, 106-CCH-IRP-015, 107-CCH-HCR-035, and 108-CCH-IRP-122.
+
+Acknowledgement
+The authors would like thank Yun-Ting Chang, Shu-Hsin Pai, Chin-Mei Tai, Ya-Ling Lin, and Shun-Ing Tsai for the assistance in this study.
+
+# Tables
+## Table 1 Clinical demographics of patients who received conventional nipple sparing mastectomy (C-NSM) and robotic nipple sparing mastectomy (R-NSM) with immediate gel implant breast reconstruction (IGBR)
+| Variable | R-NSM (n=54 procedures) | C-NSM (n=62 procedures) | P value | All NSM (N=116 procedures) |
+| --- | --- | --- | --- | --- |
+| Tumor location - Left | 21 (39%) | 36 (58%) | 0.08 | 57 (49%) |
+| Tumor size (cm) - Mean ± SD | 2.8 ± 1.5 | 2.6 ± 1.6 | 0.09 | 2.7 ± 0.4 |
+| Tumor size (cm) - Another measure | 3.4 ± 0.8 | 3.1 ± 1.8 | - | 3.1 ± - |
+| Tumor size (cm) - Third measure | 2.5 ± 2.3 | 2.5 ± 1.6 | - | 2.5 ± - |
+| Stage - 0 | 9 | 8 | 0.173 | 17 |
+| Stage - I | 18 (33%) | 26 (27%) | - | 44 (38%) |
+| Stage - IIa | 18 (40%) | 37 (37%) | - | 55 (47%) |
+| Stage - IIb | 6 (13%) | 11 (11%) | - | 17 (15%) |
+| Stage - IIIa | 5 (9%) | 3 (3%) | - | 8 (7%) |
+| Node surgery - SLNB only | 40 (74%) | 37 (60%) | 0.07 | 77 (66%) |
+| Node surgery - SLNB then ALND | 11 (20%) | 12 (19%) | - | 23 (20%) |
+| Node surgery - ALND | 2 (4%) | 6 (10%) | - | 8 (7%) |
+| Node surgery - Not done | 1 (2%) | 7 (11%) | - | 8 (7%) |
+| Node metastasis - Yes | 20 (38%) | 13 (21%) | 0.06 | 33 (29%) |
+| Node metastasis - No | 33 (62%) | 49 (79%) | - | 82 (71%) |
+| Node stage - N0 | 33 (62%) | 49 (79%) | 0.02 | 82 (71%) |
+| Node stage - N1 | 16 (30%) | 27 (23%) | - | 43 (37%) |
+| Node stage - N2 | 4 (8%) | 6 (5%) | - | 10 (9%) |
+| Node stage - N3 | 1 (2%) | 0 (0%) | - | 1 (1%) |
+| Another stage grouping - I | 14 (27%) | 15 (27%) | 0.47 | 29 (25%) |
+| Another stage grouping - IIa | 16 (31%) | 33 (31%) | - | 49 (42%) |
+| Another stage grouping - IIb | 7 (14%) | 14 (13%) | - | 21 (18%) |
+| Another stage grouping - IIIa | 6 (12%) | 8 (8%) | - | 14 (12%) |
+| Another stage grouping - I (R-NSM:7; C-NSM:9) | 16 (28%) | 21 (21%) | 0.30 | 37 (32%) |
+| Another stage grouping - II (R-NSM:7; C-NSM:9) | 25 (53%) | 34 (64%) | - | 59 (59%) |
+| Another stage grouping - III (R-NSM:1; C-NSM:10) | 9 (19%) | 11 (21%) | - | 20 (17%) |
+| ER status - Positive | 46 (87%) | 42 (81%) | 0.57 | 88 (84%) |
+| ER status - Negative | 7 (13%) | 10 (19%) | - | 17 (16%) |
+| PR status - Positive | 33 (62%) | 41 (79%) | 0.10 | 74 (70%) |
+| PR status - Negative | 20 (38%) | 11 (21%) | - | 31 (30%) |
+| HER2 status - Overexpression | 9 (21%) | 13 (28%) | 0.62 | 22 (24%) |
+| HER2 status - Negative | 34 (79%) | 34 (72%) | - | 68 (76%) |
+| HER2 status - <14% | 28 (72%) | 16 (41%) | 0.01 | 44 (56%) |
+| HER2 status - >14% | 11 (28%) | 23 (59%) | - | 34 (44%) |
+| Surgical margin - Involved | 1 (2%) | 0 (0%) | 0.47 | 1 (2%) |
+| Surgical margin - No involved | 53 (98%) | 62 (100%) | - | 115 (98%) |
+| Recurrence - Yes | 0 (0%) | 5 (8%) | 0.09 | 5 (4%) |
+| Recurrence - No | 54 (100%) | 57 (92%) | - | 111 (96%) |
+| Follow-up time (months) - Mean ± SD | 14.6 ± 8.8 | 47.3 ± 19.6 | <0.01 | 32.1 ± - |
+
+Note: NA: not available, R-NSM: robotic nipple sparing mastectomy, C-NSM: conventional nipple sparing mastectomy, SLNB: sentinel lymph node biopsy, ALND: axillary lymph node dissection.
+
+## Table 2 Peri-operative parameters and complications associated with robotic or conventional nipple sparing mastectomy and immediate gel implant breast reconstruction for breast cancer
+| Variable | All NSM (N=116) | R-NSM (n=54) | C-NSM (n=62) | P value |
+| --- | --- | --- | --- | --- |
+| All operation time (minute) - Mean ± SD | 216 ± 71 | 224 ± 61 | 197 ± 79.9 | 0.01 ∗ |
+| Blood loss (ml) - Mean ± SD | 68 ± 64.5 | 35.0 ± 28.2 | 97.3 ± 73.4 | <0.01 ∗ |
+| Hospital stay (days) - Mean ± SD | 6 ± 2 | 7 ± 2 | 5 ± 2 | <0.01 ∗ |
+| Mean mastectomy weight (gm) - Mean ± SD | 343 ± 246 | 293 ± 113 | 321.5 ± 314 | 0.92 ∗ |
+| Reconstruction implant volume (ml) - Mean ± SD | 314 ± 98 | 331 ± 83 | 275 ± 109 | 0.02 ∗ |
+| Complication - Any degree of nipple ischemia event | 16 (13.8%) | 7 (13%) | 9 (14.5%) | - |
+| Complication - Transient partial nipple ischemia | 12 (10.3%) | 6 (11.1%) | 6 (9.7%) | - |
+| Complication - Partial nipple areolar complex necrosis | 4 (3.4%) | 1 (1.9%) | 3 (4.8%) | - |
+| Complication - Total nipple areolar complex necrosis | 0 (0%) | 0 (0%) | 0 (0%) | - |
+| Complication - Seroma formation needing aspiration | 8 (6.9%) | 3 (5.6%) | 5 (8.1%) | - |
+| Complication - Blister formation (small region) | 1 (0.9%) | 1 (1.9%) | 0 (0%) | - |
+| Complication - Skin flap small partial ischemia necrosis | 13 (11.2%) | 5 (9.3%) | 8 (12.9%) | - |
+| Complication - Hematoma formation | 2 (1.7%) | 1 (1.9%) | 1 (1.6%) | - |
+| Complication - Implant loss | 1 (0.9%) | 0 (0%) | 1 (1.6%) | - |
+| Overall complication - Yes | 51 (44%) | 22 (41%) | 29 (46.8%) | 0.64 |
+| Overall complication - No | 65 (56%) | 32 (59%) | 33 (53.2%) | - |
+| Overall complication # - Yes | 31 (26.7%) | 13 (24%) | 18 (29%) | 0.68 |
+| Overall complication # - No | 85 (73.3%) | 41 (76%) | 44 (71%) | - |
+
+Note: ∗ p value performed with Mann-Whitney’ test as 2 group distributions are not at normal distributions. # Complications with significance (excluding transient nipple ischemia, which recovered after conservative management, and seroma which relieved after repeated aspiration). NSM: nipple sparing mastectomy, R-NSM: robotic nipple sparing mastectomy, C-NSM: conventional nipple sparing mastectomy.
+
+## Table 3 Comparison of the cost of conventional nipple-sparing mastectomy (C-NSM) with immediate gel implant breast reconstruction (IGBR) and robotic nipple sparing mastectomy (R-NSM) with IGBR
+| Cost Item | C-NSM and IGBR | R-NSM and IGBR | P value |
+| --- | --- | --- | --- |
+| Medical cost covered by National insurance - NTD (Mean ± SD, Range) | 67,807 ± 12,407 (39,149–107,469) | 89,677 ± 20,498 (43,838–137,994) | <0.01 |
+| Medical cost covered by National insurance - USD (Mean ± SD, Range) | 2119 ± 388 (1223–3358) | 2802 ± 641 (1370–4312) | <0.01 |
+| Medical cost paid for by patients - NTD (Range) | 100,000–130,000 | 230,000–250,000 | <0.01 |
+| Medical cost paid for by patients - USD (Range) | 3226–4500 | 7400–8100 | <0.01 |
+| Total cost for NSM and IGBR - NTD (Mean ± SD, Range) | 176,772 ± 20,485 (139,149–234,749) | 337,177 ± 24,681 (293,838–417,926) | <0.01 |
+| Total cost for NSM and IGBR - USD (Mean ± SD, Range) | 5702 ± 661 (4489–7573) | 10,877 ± 796 (9479–13,482) | <0.01 |
+
+Note: NSM: nipple-sparing mastectomy, NTD: New Taiwan dollar, USD: United States dollar, 1 USD equals 31 NTDs. Medical cost covered by National insurance ∗: including operation fees for breast cancer and/or axillary lymph node surgery, anesthesia, medication, admission fee, and all other medical related fees (excluding gel implant and other reconstruction related fees). Medical cost paid for by patients #: including fees for breast reconstruction, robotic breast surgery, instruments, and gel implants.
+
+## Table 4 Patient-reported cosmetic result for robotic nipple sparing mastectomy (R-NSM) or conventional nipple sparing mastectomy (C-NSM) and immediate gel implant breast reconstruction
+| Question | R-NSM group (n=50) | C-NSM group (n=45) | P value |
+| --- | --- | --- | --- |
+| Q1. Preoperative breast appearance satisfaction - Unsatisfied | 0 (0%) | 0 (0%) | 0.08 |
+| Q1. Preoperative breast appearance satisfaction - Fair | 8 (16%) | 3 (6.7%) | - |
+| Q1. Preoperative breast appearance satisfaction - Satisfied | 24 (48%) | 16 (35.6%) | - |
+| Q1. Preoperative breast appearance satisfaction - Excellent | 18 (36%) | 26 (57.8%) | - |
+| Q1. Preoperative breast appearance satisfaction - Mean score | 3.2 ± 0.7 | 3.5 ± 0.6 | - |
+| Q2. Postoperative breast appearance satisfaction – dressed with clothes - Unsatisfied | 2 (4%) | 0 (0%) | 0.16 |
+| Q2. Postoperative breast appearance satisfaction – dressed with clothes - Fair | 4 (8%) | 6 (13.3%) | - |
+| Q2. Postoperative breast appearance satisfaction – dressed with clothes - Satisfied | 18 (36%) | 23 (51.1%) | - |
+| Q2. Postoperative breast appearance satisfaction – dressed with clothes - Excellent | 26 (52%) | 16 (35.6%) | - |
+| Q2. Postoperative breast appearance satisfaction – dressed with clothes - Mean score | 3.4 ± 0.8 | 3.2 ± 0.7 | - |
+| Q3. Postoperative breast appearance satisfaction – naked without clothes - Unsatisfied | 3 (6%) | 4 (8.9%) | 0.2 |
+| Q3. Postoperative breast appearance satisfaction – naked without clothes - Fair | 7 (14%) | 13 (28.9%) | - |
+| Q3. Postoperative breast appearance satisfaction – naked without clothes - Satisfied | 22 (44%) | 18 (40.0%) | - |
+| Q3. Postoperative breast appearance satisfaction – naked without clothes - Excellent | 18 (36%) | 10 (22.2%) | - |
+| Q3. Postoperative breast appearance satisfaction – naked without clothes - Mean score | 3.1 ± 0.8 | 2.8 ± 0.9 | - |
+| Q4. Postoperative bilateral breast size satisfaction - Unsatisfied | 3 (6%) | 2 (4.4%) | 0.32 |
+| Q4. Postoperative bilateral breast size satisfaction - Fair | 6 (12%) | 7 (15.6%) | - |
+| Q4. Postoperative bilateral breast size satisfaction - Satisfied | 19 (38%) | 24 (53.3%) | - |
+| Q4. Postoperative bilateral breast size satisfaction - Excellent | 22 (44%) | 12 (26.7%) | - |
+| Q4. Postoperative bilateral breast size satisfaction - Mean score | 3.2 ± 0.9 | 3.0 ± 0.8 | - |
+| Q5. Postoperative bilateral breast symmetry satisfaction - Unsatisfied | 3 (6%) | 1 (2.2%) | 0.46 |
+| Q5. Postoperative bilateral breast symmetry satisfaction - Fair | 7 (14%) | 9 (20%) | - |
+| Q5. Postoperative bilateral breast symmetry satisfaction - Satisfied | 20 (40%) | 22 (48.9%) | - |
+| Q5. Postoperative bilateral breast symmetry satisfaction - Excellent | 20 (40%) | 13 (28.9%) | - |
+| Q5. Postoperative bilateral breast symmetry satisfaction - Mean score | 3.1 ± 0.9 | 3.0 ± 0.8 | - |
+| Q6. Postoperative bilateral nipple areola position satisfaction - Unsatisfied | 0 (0%) | 1 (2.2%) | 0.05 |
+| Q6. Postoperative bilateral nipple areola position satisfaction - Fair | 3 (6%) | 8 (17.8%) | - |
+| Q6. Postoperative bilateral nipple areola position satisfaction - Satisfied | 22 (44%) | 24 (53.3%) | - |
+| Q6. Postoperative bilateral nipple areola position satisfaction - Excellent | 25 (50%) | 12 (26.7%) | - |
+| Q6. Postoperative bilateral nipple areola position satisfaction - Mean score | 3.4 ± 0.6 | 3.0 ± 0.7 | - |
+| Q7. Scar appearance satisfaction - Unsatisfied | 0 (0%) | 0 (0%) | 0.01 |
+| Q7. Scar appearance satisfaction - Fair | 1 (2%) | 7 (15.6%) | - |
+| Q7. Scar appearance satisfaction - Satisfied | 22 (44%) | 24 (53.3%) | - |
+| Q7. Scar appearance satisfaction - Excellent | 27 (54%) | 14 (31.1%) | - |
+| Q7. Scar appearance satisfaction - Mean score | 3.5 ± 0.5 | 3.2 ± 0.7 | - |
+| Q8. Scar length satisfaction - Unsatisfied | 0 (0%) | 0 (0%) | 0.01 |
+| Q8. Scar length satisfaction - Fair | 0 (0%) | 8 (17.8%) | - |
+| Q8. Scar length satisfaction - Satisfied | 21 (42%) | 23 (51.1%) | - |
+| Q8. Scar length satisfaction - Excellent | 29 (58%) | 14 (31.1%) | - |
+| Q8. Scar length satisfaction - Mean score | 3.6 ± 0.5 | 3.1 ± 0.7 | - |
+| Q9. Surgical wound position satisfaction - Unsatisfied | 1 (2%) | 0 (0%) | 0.01 |
+| Q9. Surgical wound position satisfaction - Fair | 0 (0%) | 6 (13.3%) | - |
+| Q9. Surgical wound position satisfaction - Satisfied | 20 (40%) | 23 (51.1%) | - |
+| Q9. Surgical wound position satisfaction - Excellent | 29 (58%) | 16 (35.6%) | - |
+| Q9. Surgical wound position satisfaction - Mean score | 3.5 ± 0.6 | 3.2 ± 0.7 | - |
+| Overall score - Unsatisfied (8–11) | 0 (0%) | 0 (0%) | 0.046 |
+| Overall score - Fair (12–19) | 0 (0%) | 0 (0%) | - |
+| Overall score - Good (20–27) | 4 (8%) | 11 (24.4%) | - |
+| Overall score - Excellent (28–32) | 46 (92%) | 34 (75.6%) | - |
+
+Note: Q: question, R-NSM: robotic nipple sparing mastectomy, C-NSM: conventional nipple sparing mastectomy. ∗Overall score: summation of question Q2 to Q9 for representation of overall satisfaction index. Patients with results graded as “excellent” or “good” were defined as being satisfied with the cosmetic results.
+
+# Image Descriptions (Text Format)
+## Figure 1: Flowchart of patients selected for R-NSM or C-NSM and immediate gel implant breast reconstruction
+This is a flowchart illustrating the patient selection process for the study comparing robotic nipple sparing mastectomy (R-NSM) and conventional nipple sparing mastectomy (C-NSM) with immediate gel implant breast reconstruction (IGBR) for breast cancer treatment. The study is an open-label, non-blind, non-randomized, retrospective study conducted at Changhua Christian Hospital (CCH) from July 2011 to September 2019. 
+
+The selection process starts with patients with primary operable breast cancer who received breast cancer operations during the study period. Exclusions include: operations other than NSM, prophylactic mastectomy or indications other than malignancy/benign disease, patients without breast reconstructions or with breast reconstructions other than direct-to-cohesive gel implants (e.g., autologous flap, two-stage tissue expander, or saline implant), operations performed by surgeons other than Dr. Hung-Wen Lai (HWL) to reduce bias from operation skills, and endoscopic assisted NSM cases. 
+
+After exclusions, 51 patients (with 54 procedures, including 3 bilateral breast cancer patients) were enrolled in the R-NSM with IGBR group, and 62 patients (with 62 procedures) were enrolled in the C-NSM with IGBR group. All breast reconstructions in the study are direct-to-cohesive type gel implants.
+
+## Figure 2: Representative operative pictures showing techniques of C-NSM versus R-NSM with immediate gel implant breast reconstruction
+This figure contains 10 sub-figures (a to j) displaying preoperative, intraoperative, and postoperative images of patients who underwent C-NSM or R-NSM with IGBR:
+
+a) Preoperative front view of a 46-year-old female with right breast cancer scheduled for right C-NSM and immediate gel implant breast reconstruction.
+b) Preoperative front view of a 39-year-old female with right breast cancer scheduled for right R-NSM and immediate gel implant breast reconstruction.
+c) Intraoperative picture during C-NSM, showing the surgeon performing the nipple sparing mastectomy.
+d) Intraoperative picture during R-NSM, showing the operation being performed using the da Vinci Si robotic platform (Intuitive Surgical, Sunnyvale, CA) with the operating surgeon at the console.
+e) Postoperative picture after C-NSM with removal of the mastectomy specimen; C-NSM typically requires an approximately 8–10 cm incision.
+f) Postoperative picture after R-NSM with removal of the mastectomy specimen; R-NSM requires an approximately 3–5 cm extra-mammary axillary incision (the length depends on the size of the breast to be removed and the gel implant to be inserted), and the scar is well-hidden.
+g) Immediate post-breast reconstruction outcome (front view) for a patient who underwent C-NSM and IGBR.
+h) Immediate post-breast reconstruction outcome (front view) for a patient who underwent R-NSM and IGBR.
+i) Postoperative 3-month lateral view for a patient who underwent C-NSM and IGBR; the image shows good symmetry, well-perfused NAC, and the wound is indicated with a white arrowhead.
+j) Postoperative 3-month lateral view for a patient who underwent R-NSM and IGBR; the image demonstrates a small wound hidden in the inconspicuous axilla region, indicated with a white arrowhead.
+
+## Figure 3: Distribution of skin incision types and locations for R-NSM versus C-NSM with immediate gel implant breast reconstruction
+This figure consists of two sub-figures (A and B) summarizing the skin incision types and locations for the two surgical techniques:
+
+A) Distribution of incision types and locations for R-NSM: 63% (34 cases) of incisions are extra-mammary axillary incisions, and 37% (20 cases) are lateral chest incisions at the anterior axillary line, level with the nipple areolar complex (NAC).
+B) Distribution of incision types and locations for C-NSM: The incisions have a wider distribution, with 71% in one unspecified location, 10% in another, 5% in a third, 3% in a fourth, 3% in a fifth, 2% in a sixth, and 2% in a seventh (specific locations not detailed but noted to vary widely, including some less favorable positions compared to R-NSM incisions).
