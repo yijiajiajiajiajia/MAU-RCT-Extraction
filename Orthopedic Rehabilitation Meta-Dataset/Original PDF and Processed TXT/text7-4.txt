@@ -1,0 +1,181 @@
+# Clinical Trial/Experimental Study
+Medicine ®
+OPEN
+Effects of early virtual reality-based rehabilitation in patients with total knee arthroplasty
+A randomized controlled trial
+Silvia Gianola, PT, MSc, PhDa,∗, Elena Stucovitz, Eng MScb, Greta Castellini, PT, MSc, PhDa, Mariangela Mascali, MDc, Francesco Vanni, PTc, Irene Tramacere, PhDd, Giuseppe Banfi, MDe,f, Davide Tornese, MDc
+
+## Abstract
+Background: Virtual reality (VR)-based rehabilitation is a promising approach for improving recovery in many conditions to optimize functional results, enhancing the clinical and social benefits of surgery.
+Objective: To assess the efficacy of an early rehabilitation performed by the VR-based rehabilitation versus the traditional rehabilitation provided by physical therapists after primary total knee arthroplasty (TKA).
+Methods: In this randomized controlled clinical trial, 85 subjects met the inclusion criteria and were randomized 3 to 4 days after TKA to an inpatient VR-based rehabilitation and a traditional rehabilitation. Participants in both groups received 60minutes/day sessions until discharge (around 10 days after surgery). The primary outcome was the pain intensity. The secondary outcomes were: the disability knee, the health related quality of life, the global perceived effect, the functional independent measure, the drugs assumption, the isometric strength of quadriceps and hamstrings, the flexion range of motion, and the ability to perform proprioception exercises. Outcomes were assessed at baseline (3–4 days after TKA) and at discharge.
+Results: VR-based or traditional rehabilitation, with 13% of dropout rate, shown no statistically significant pain reduction between groups (P=.2660) as well as in all other outcomes, whereas a statistically significant improvement was present in the global proprioception (P=.0020), in favor of the VR-based rehabilitation group.
+Conclusions:VR-based rehabilitation is not superior to traditional rehabilitation in terms of pain relief, drugs assumptions and other functional outcomes but seems to improve the global proprioception for patients received TKA.
+Level of evidence : Therapy, level 1b. CONSORT-compliant.
+Trial registration : http://www.clinicaltrials.gov, ClinicalTrials.gov, NCT02413996.
+Abbreviations: CONSORT = CONsolidated Standards Of Reporting Trials, EQ-5D = EuroQol five-dimensional questionnaire, FIM = functional independent measure, GPE = global perceived effect, HRQoL = health-related quality of life, RCT = randomized controlled trial, ROM = range of movement, SD = standard deviation, TKA = total knee arthroplasty, VAS = visual analogue scale, VR = virtual reality, VRRS = Virtual Reality Rehabilitation System, WOMAC = Western Ontario and McMaster Universities osteoarthritis index.
+Keywords: CONSORT, randomized controlled trials, rehabilitation, virtual reality
+Editor: Dennis Enix.
+The work was supported by the Italian Ministry of Health for Conto Capitale 2012 (PCC-2012-2353895).
+The authors have no conflicts of interest to disclose.
+All data generated or analysed during this study are included in this published article [and its additional files]. Row data are stored at the following link: https://osf.io/ rmu5f/?view_only=ee3c16d1f72643d8ade6e2bb785c0242.
+Supplemental Digital Content is available for this article.
+a IRCCS Istituto Ortopedico Galeazzi, Unit of Clinical Epidemiology, b IRCCS Istituto Ortopedico Galeazzi, Motion Analysis Laboratory, c IRCCS Istituto Ortopedico Galeazzi, Center for Sports Rehabilitation, d Department of Research and Clinical Development, Scientific Directorate, Fondazione IRCCS Istituto Neurologico Carlo Besta, Milan, Italy, e IRCCS Istituto Ortopedico Galeazzi, Scientific Directorate, f Vita-Salute San Raffaele University, Milan, Italy.
+∗Correspondence: Silvia Gianola, IRCCS Istituto Ortopedico Galeazzi, Unit of Clinical Epidemiology, via R. Galeazzi, Milan, Italy
+(e-mail: silvia.gianola@grupposandonato.it).
+Copyright © 2020 the Author(s). Published by Wolters Kluwer Health, Inc.
+This is an open access article distributed under the terms of the Creative Commons Attribution-Non Commercial License 4.0 (CCBY-NC), where it is permissible to download, share, remix, transform, and buildup the work provided it is properly cited. The work cannot be used commercially without permission from the journal.
+How to cite this article: Gianola S, Stucovitz E, Castellini G, Mascali M, Vanni F, Tramacere I, Banfi G, Tornese D. Effects of early virtual reality-based rehabilitation in patients with total knee arthroplasty: a randomized controlled trial. Medicine 2020;99:7(e19136).
+Received: 25 March 2019 / Received in final form: 19 December 2019 / Accepted: 13 January 2020
+http://dx.doi.org/10.1097/MD.0000000000019136
+
+## 1. Introduction
+Knee osteoarthritis, one of the most frequent musculoskeletal degenerative disorders in adulthood, results in progressive disability,[1] diminished quality of life, and higher healthcare spending.[2] Degenerative diseases increase with age, exacerbating the associated problems in modern societies.[1] The elderly have high standards in relation to mobility, independence, quality of life, and participation in social life. For these reasons, the ability to walk is considered essential for most activities of daily living.[3] As many older adults undergo orthopedic surgery to restore mobility,[1] total knee arthroplasty (TKA) has become one of the most common procedures.[4] Its incidence is 150 to 200/ 100,000 inhabitants in Western countries[5]; worldwide, more than 500,000 total knee joints are implanted every year.[6]
+Postoperative rehabilitation is crucial for the success of any surgical procedure. While national health reimbursement policies may influence the length of stay in hospital after TKA,[7] rehabilitation helps to optimize functional results, enhancing the clinical and social benefits of surgery.[8] The delivery of postsurgery TKA rehabilitation is almost universal.[9,10] However, consensus on the type of rehabilitation is lacking.[11] Virtual reality (VR)-based rehabilitation is a promising approach to improving recovery in many conditions. VR-based rehabilitation has been largely investigated by systematic reviews in neurologic rehabilitation.[12–16] A recent systematic review of six neurologic cohorts found evidence that when combined with traditional rehabilitation the use of VR may be beneficial in improving joint function.[17]
+Post-surgery VR-based rehabilitation has demonstrated its potential to increase quality of life outcomes at least as effectively as usual care in orthopedics.[18] For example, preliminary postoperative results in randomized controlled trials (RCTs) have been reported for VR by tele-rehabilitation following TKA.[19–24] To date, few quality studies have focused on VR training by devices (e.g., Nintendo Wii Fit) for orthopedic – rehabilitation[2527]and very little literature has investigated inpatient VR rehabilitation following TKA.[27] Several trials using VR-based rehabilitation have been registered in clinicaltrials.gov (NCT03454256, NCT03311971, NCT01979718). To our knowledge, none to date have published the early effects of VR-based rehabilitation on TKA inpatients.
+
+## 2. Aim
+The aim of this study was to compare the efficacy of early rehabilitation with VR via the Virtual Reality Rehabilitation System (VRRS) versus traditional rehabilitation in improving functional outcomes after primary TKA.
+
+## 3. Methods
+### 3.1. Trial design and sample size calculation
+For this phase III, two-armed, single-blind, parallel, and superiority RCT, the protocol was approved by the San Raffaele Hospital Ethic Committee, Milan (06/03/2014), registered with clinicaltrials.gov (NCT02413996) and strictly followed good clinical practice guidelines and the tenets of the Helsinki Declaration. Informed, written consent was obtained prior to participation. Subjects were allocated to treatment group according to a simple computer-generated randomization chart. Allocation concealment was administered by an independent physician of the rehabilitation ward who assigned the subjects to the intervention groups according to the list of randomization. Assessors were blinded to the interventions; due to the nature of the interventions, blinding of patients, and physiotherapists was impossible to maintain. An independent consultant provided the statistical analysis. The study reporting followed the CONsolidated Standards Of Reporting Trials (CONSORT) statement and its extensions[28–30] (see Table, Supplemental Digital Content 1, http://links.lww.com/MD/D790, which illustrates the compliance with the CONSORT checklist).
+The first sample size expected to enroll 142 based on a pilot study. However, according to our ethical committee, we emended the sample size according to a recent trial based on a similar study for the PICO (participants, interventions, comparisons, outcomes) methodology.[31] The primary outcome was the visual analogue scale (VAS) for pain score (0–100 points, wherein 0 denotes no pain). Based on an expected effect at 10 days in the control group of a reduction of 20.4 points on the VAS score, to detect a significant absolute difference of 20.3 points between the experimental and the control group, we assumed a common standard deviation (SD) of 25.8, a 5% type I error and a 10% type II error, while taking into account a 20% dropout rate from the whole sample. For this, a total sample size of 84 subjects was planned.
+
+### 3.2. Study setting and participants
+Participants were recruited at the Rehabilitation Department, IRCCS Orthopedic Institute Galeazzi, Milan, between November 2014 and November 2017. Eligible participants were adults between 45 and 80 years old who had undergone primary unilateral TKA for knee osteoarthritis and had given written, informed consent to participate in the study. Exclusion criteria were: previous orthopedic surgery on the same side (e.g., hip arthroplasty), unstable health condition (e.g., heart or lung disease), pregnancy, and assumption of psychotropic drugs.
+
+### 3.3. Interventions
+Subjects were randomly allocated 3 to 4 days after TKA to one of two rehabilitation groups: experimental (VR rehabilitation) or control (traditional rehabilitation). In addition, both groups performed passive knee motion on a Kinetec knee continuous passive motion system (Rimec, Chions, Italy) and functional exercises (stair negotiation and level walking) daily for 60 minutes on at least 5 days (see Figures, Supplemental Digital Content 2, http://links.lww.com/MD/D791, which illustrate the rehabilitation training program).
+
+### 3.4. Outcomes
+The primary outcome was changes in pain score as measured in 100mm on a VAS.[32] The secondary outcomes were: knee disability as assessed by the Western Ontario and McMaster Universities osteoarthritis index (WOMAC),[33]which consists of 24 items divided into three subscales investigating pain, knee joint stiffness, and physical function; health-related quality of life (HRQoL) as assessed by the EuroQol five-dimensional (EQ-5D) questionnaire[34]; the global perceived effect (GPE) as assessed by the GPE score[35]; the functional independent measure (FIM) as assessed by the FIM questionnaire[36]; the frequency of medication assumption; the isometric strength of the quadriceps and hamstring muscles as assessed using a dynamometer, the knee active range of movement (ROM) measured by a goniometer and the proprioception assessed using the stabilometric platform of the VRRS. In particular, we measured the percentage value of similarity between the trajectory points of an ideal healthy person’s and the patient’s center of pressure movement during the reaching test, a different task respect to the proprioceptive exercises proposed in the training of the experimental and control groups. All outcomes were recorded at baseline (3–4 days after TKA) and then at discharge (around 10 days after surgery).
+
+### 3.5. Statistical methods
+Demographic characteristics are reported as absolute and relative frequencies for categorical variables, and as mean with SD for continuous variables. Since, preliminary analyses for continuous variables confirmed the normality of outcome measures at each assessment with the Shapiro–Wilk test, parametric methods were applied for significance testing (i.e., t test). Chi-square tests were used to assess significant associations between categorical variables. A multivariate analysis of covariance (ANCOVA) with decrease in VAS as response variable was used to adjust for demographic characteristics (i.e., patient gender and age), and for baseline VAS pain scores. All analyses were performed by an independent researcher using STATA statistical software, version 15.[37]
+
+### 3.6. Role of the funding source
+The funding sources had no controlling role in the study design, data collection, analysis, interpretation, or report writing. The corresponding author was responsible for the decision to submit the manuscript for publication.
+
+## 4. Results
+### 4.1. Participants and general characteristics
+In all, 85 patients were included in the trial: 44 were randomly allocated to receive VR-based rehabilitation (experimental group) and 41 to traditional rehabilitation (control group). Eleven patients dropped out of the study (rate <20%). Nine of these 11 patients were from the experimental group; they declined starting treatment mainly because they felt uncomfortable with the rehabilitation device. The data from 74 patients were available for the final analyses. Figure 1 presents the flow of participants through the trial. The initial study sample was 37 (43.5%) men and 48 (56.5%) women; the mean age was 68.6 (±8.8) years. Except for age, the baseline clinical characteristics were similar for both groups (Table 1).
+
+### 4.2. Outcome measurements
+No significant difference in decrease in VAS pain scores was found between the experimental and the control group (P=.26, t test) (Table 2). The lack of a significant effect could at least in part be due to several confounding variables, however. Accordingly, baseline VAS scores and gender were significantly, or almost significantly, associated with both randomized group and outcome (P of the association between baseline VAS score and randomized group and VAS decrease of 0.05 and <0.01 respectively, t tests; and p of the association between gender and randomized group and VAS score decrease of 0.05 and <0.01, chi-square test and t test, respectively). However, ANCOVA including randomized group, baseline VAS scores, and gender as covariates showed no significant effect for the VAS decrease between the experimental and the control group (P=.46, F test), although the corresponding adjusted R² was very low (48%) [data not shown].
+Knee disability, as assessed using the WOMAC, showed a similar pattern in both groups (P=.62 t test), although the only items related to joint rigidity were statistically significantly different in the control group (P=.04 t test). No differences in all the other outcomes were found between the two groups: HRQoL as assessed by the EQ-5D (P=.15 t test), FIM scale (P=.07, t test), the GPE (P=.28 t test), quadriceps and hamstring isometric strength as assessed with a dynamometer (P=.95 t test), and knee active ROM (P=.58 t test). Nonetheless, the proprioception task score was significantly higher for the experimental group (P=.002 t test) (Table 2). No difference was reported for the frequency of medication use by both groups. Table 3 reports the absolute frequency of medications provided during rehabilitation.
+
+## 5. Discussion
+This trial provides evidence that early inpatient VR-based rehabilitation is not superior to traditional rehabilitation in relieving pain and improving other functional outcomes, whereas it enhanced proprioception in these TKA patients. The nonsuperiority of VR-based rehabilitation can be partially explained by the baseline VAS pain scores and gender that correlated with the groups. The baseline pain scores were slightly higher in the control than in the experimental group (59.7±21.7 versus 50.2± 22.1), thus increasing the chance of lowering pain. Minimal important changes are known to depend strongly on baseline values and only to a limited extent on the type of intervention.[38] Lee et al found that participants with more severe pain or physical dysfunction tended to have more positive experiences, leading to higher levels of flow during VR-based rehabilitation.[39] Also, gender can be a confounding factor as well. Much literature has been directed towards explaining the biological underpinnings of sex differences in pain sensitivity. It seems that women may be more pain sensitive and retain a less-efficient endogenous pain inhibitory ability than men.[40] Moreover, gender can be driven by contextual factors. Contextual factors are physical, psychological, and social factors that can directly influence the quality of the therapeutic outcome.[41] Few trials have investigated gender effects on the placebo response but some experimental settings have been noted.[42] For example, in an acupuncture trial with male and female acupuncturists, the females induced greater trust than the male experimenters.[43] Further research is needed to investigate gender effects in placebo and nocebo responses to treatment.
+In our study, we noted a considerable increase in global proprioception for the VR-based rehabilitation group. Proprioception refers to the ability to sense a joint’s position in space. It provides the somatosensory input necessary for performing daily activities correctly and it plays an essential role in the simple task of standing and in more complex physical activities (e.g., walking, running, throwing a ball, and walking over unstable surfaces) while interacting with the surrounding three-dimensional world.[44] Proprioception is a key function in knee osteoarthritis rehabilitation as it influences pain, disability, and other patient-reported outcomes.[45] Previous research has shown that decreased proprioception leads to a greater risk of falling.[46–49] For these reasons, proprioception has a crucial role in the consolidation of long-term functional outcomes.
+In contrast, we found a statistically significant difference in the WOMAC-rigidity scale scores in favor of the control group. A possible explanation is the lack of manual treatment provided by the physiotherapist in the experimental group (e.g., patella mobilization). Manual treatment by physiotherapists applies different forms of touch, such as assistive touch, touch to prepare the patient, touch to provide information, caring touch, touch for receiving therapeutic intervention, and touch perceiving information.[50,51] Moreover, touch in the clinical setting works as a useful strategy for treating musculoskeletal pain.[52,53] Nevertheless, experts agree that manual treatment after primary TKA is a recommended physiotherapy component.[11]
+There are still very few studies investigating the effects of VR-based rehabilitation in orthopedics.[18] The potential of virtual systems has been largely demonstrated in neurology[17]but little attention has focused on post-operative rehabilitation particularly after TKA. Non-inferiority trials of VR in TKA have demonstrated similar findings at different lengths of follow-up and through diverse modalities of delivery. Some authors reported that 2-week interactive virtual tele-rehabilitation[20] or 6 weeks of tele-rehabilitation[19] are at least as effective as conventional therapy.
+
+### 5.1. Strength and limitations
+The major strength of this study is its design for the real-world environment as a pragmatic setting. Among its limitations are the impossibility to conduct a double-blind trial due to the nature of the interventions. To avoid detection bias, the participants were instructed not to reveal their treatment group to the outcome assessors. Also, we focused only on the efficacy of VR-based rehabilitation but not its cost-effectiveness, since previous literature documents that VR is an economical, safe, and convenient alternative.[54] Proprioception in both groups was measured using the VRRS device; the experimental group may have had a slight advantage of a learning effect[55–57] since they trained on the VRRS even if task used for training and assessment were different.
+The number of dropouts differed between the groups because some participants felt uncomfortable with the VR device technology. In fact, most dropouts were from the VR-based rehabilitation group. None crossed over to the control group, however. The dropout rate reflects the difficulty in achieving consistent compliance with VR-based rehabilitation. The main reason why the patients declined VR-based rehabilitation was the lack of face-to face contact with the therapist. Though clinical trials tend to standardize interventions, traditional face-to-face rehabilitation is often personalized (e.g., different types of mobilization by a therapist using touch).[29] This could have influenced adherence to treatment in terms of dropout or compliance or acceptability of new technologies (represented by VR) for internal contextual factors. Patient’s expectation, therapeutic touch, and modality of treatment administration are, in fact, some of the contextual factors that work as facilitators of placebo or nocebo,[55–57] modulating different responses across treatments.[58–61] This might also explain the improvement in WOMAC-rigidity in the control group, which was manually mobilized.
+
+### 5.2. Clinical implications
+Our findings have many implications. The application of new technologies such as VR could offer novel possibilities for service delivery in rehabilitation. For the Italian National Health System, VR-based rehabilitation can offer an advantage of reducing the number of in-person sessions performed at a rehabilitation center. It may hold promise as a way to prevent injury in TKA patients by enhancing proprioception. VR delivered by telerehabilitation could allow patients who have difficulty with arranging transport to the rehabilitation center to still be followed. The moderate dropout rate limits any generalization, however. What needs to be recognized at this stage is the influence of contextual, personal and motivational factors because they can affect the efficacy of VR-based rehabilitation (both the process and the outcome). We believe that VR-based rehabilitation can be offered as a valid alternative to traditional face-to-face rehabilitation after TKA, particularly in situations where contextual factors have a positive effect (e.g., in patients more accepting of new technologies). It has been demonstrated that greater education facilitates a so-called internal locus of control, which is recognized as an important factor in patient compliance.[62,63] Taking such contextual factors into account, VR may enrich a well-established traditional rehabilitation program and represent a new paradigm for musculoskeletal rehabilitation after TKA.[41] A further area of focus is to enhance involvement of patients and personnel in providing information and education[64] in the pre-surgery phase so as to obtain realistic expectations, conditioning, and better knowledge of VR, thus reinforcing the response towards new protocols of post-surgery rehabilitation (i.e., VR-based rehabilitation).[59]
+
+## 6. Conclusions
+To the best of our knowledge, this is the first RCT to investigate inpatient VR rehabilitation following TKA. Virtual rehabilitation is not superior to traditional rehabilitation in achieving pain relief after TKA.
+
+## Acknowledgments
+The authors wish to thank the study participants and the staff at the Center for Sports Rehabilitation, IRCCS Istituto Ortopedico Galeazzi. The manuscript was revised by a native English speaker.
+
+## Author contributions
+Conceptualization: Silvia Gianola.
+Data curation: Elena Stucovitz.
+Formal analysis: Silvia Gianola, Irene Tramacere.
+Funding acquisition: Davide Tornese.
+Investigation: Greta Castellini, Mariangela Mascali, Francesco Vanni.
+Methodology: Silvia Gianola, Elena Stucovitz, Greta Castellini, Irene Tramacere.
+Project administration: Silvia Gianola, Davide Tornese.
+Resources: Francesco Vanni, Davide Tornese.
+Supervision: Greta Castellini, Giuseppe Banfi, Davide Tornese.
+Validation: Davide Tornese.
+Visualization: Silvia Gianola.
+Writing – original draft: Silvia Gianola, Elena Stucovitz, Davide Tornese.
+Writing – review & editing: Silvia Gianola, Elena Stucovitz, Greta Castellini, Mariangela Mascali, Francesco Vanni, Irene Tramacere, Giuseppe Banfi, Davide Tornese.
+Silvia Gianola orcid: 0000-0003-3770-0011.
+
+---
+
+# Tables
+## Table 1: Patient demographic
+| | VRRS group N = 44 | Control group N = 41 | P -Value ∗ |
+| --- | --- | --- | --- |
+| Men – no. (%) | 24 (54.5) | 13 (31.7) | .7147 |
+| Right knee | 20 (45.5) | 18 (43.9) | .5880 |
+| TKA – no. (%) | - | - | - |
+| Age (years) | 66.6 ± 8.7 | 70.7 ± 8.5 | .0331 |
+| Baseline VAS score | 50.2 ± 22.1 | 59.7 ± 21.7 | .0525 |
+Plus-minus values are the mean±standard deviation. TKA=total knee arthroplasty, VAS=visual analogue scale, VRRS=Virtual Reality Rehabilitation System. ∗ Chi-square test or t test, as appropriate.
+
+## Table 2: Primary and secondary outcomes for the two treatment groups
+| Outcome assessment | VR-based rehabilitation | Traditional rehabilitation | Total no. | P-Value (between groups) |
+| --- | --- | --- | --- | --- |
+| VAS pain score | | | | |
+| Before | 47.65±21.29 | 60.20±21.71 | | |
+| After | 24.62±16.80 | 31.23±19.59 | | |
+| Change | -23.03 (95% CI -30.26 to -15.79) | -28.97 (95% CI -36.82 to -21.12) | 74 | 0.26 |
+| WOMAC-total score | | | | |
+| Before | 1519.85±170.39 | 1670.25±199.03 | | |
+| After | 729.57±175.73 | 904.48±229.14 | | |
+| Change | -790.28 (95% CI -870.79 to -709.78) | -765.77 (95% CI -829.66 to -701.87) | 74 | 0.62 |
+| WOMAC-pain | | | | |
+| Before | 237.85±57.76 | 280.25±66.79 | | |
+| After | 49.42±48.85 | 92.30±70.10 | | |
+| Change | -188.42 (95% CI -211.50 to -165.34) | -187.95 (95% CI -209.45 to -166.44) | 74 | 0.98 |
+| WOMAC-rigidity | | | | |
+| Before | 79.57±35.04 | 108.07±39.49 | | |
+| After | 34.14±35.09 | 41.02±30.61 | | |
+| Change | -45.43 (95% CI -59.52 to -31.33) | -67.05 (95% CI -83.15 to -50.95) | 74 | 0.046 |
+| WOMAC-function | | | | |
+| Before | 1196.14±105.04 | 1284.48±130.27 | | |
+| After | 651±125.84 | 777.43±164.56 | | |
+| Change | -545.14 (95% CI -599.51 to -490.77) | -507.05 (95% CI -554.11 to -459.98) | 74 | 0.28 |
+| FIM | | | | |
+| Before | 101.94±9.90 | 97.75±11.35 | | |
+| After | 118.97±3.90 | 118.94±3.46 | | |
+| Change | 17.03 (95% CI 13.92 to 20.14) | 21.19 (95% CI 17.94 to 24.44) | 74 | 0.07 |
+| EQ-5D | | | | |
+| Before | 0.73±0.11 | 0.64±0.19 | | |
+| After | 0.86±0.08 | 0.79±0.07 | | |
+| Change | 0.13 (95% CI 0.09 to 0.17) | 0.15 (95% CI 0.09 to 0.21) | 74 | 0.15 |
+| GPE | | | | |
+| Change | 4.58 (95% CI 4.41 to 4.76) | 4.71 (95% CI 4.55 to 4.86) | 72∗∗ | 0.28 |
+| Isometric strength | | | | |
+| Change | 25.08 (95% CI 12.56 to 37.60) | 25.50 (95% CI 14.68 to 36.32) | 58∗∗ | 0.95 |
+| Knee ROM | | | | |
+| Change | 68.03 (95% CI 63.30 to 72.76) | 69.75 (95% CI 65.52 to 73.98) | 72∗ | 0.58 |
+| Global proprioception | | | | |
+| Change | 73.46 (95% CI 68.15 to 78.76) | 59.86 (95% CI 53.33 to 66.39) | 71 | 0.002 |
+Before and after variables are expressed as mean±standard deviation; change and difference variables as mean with 95% confidence interval (CI). ∗ Outcomes assessed only after treatment, EQ-5D=EuroQol five-dimensional questionnaire, FIM=functional independent measure, GPE=global perceived effect, ROM=range of movement, VAS=visual analogue scale, VR=virtual reality, WOMAC=Western Ontario and McMaster Universities osteoarthritis index. ∗ t Test. ∗∗ Missing data. For isometric strength, the missing data (n=16) were principally due to technical failure of the dynamometer (e.g., broken device).
+
+## Table 3: Absolute frequency of medication use
+| | VR-based rehabilitation group | Traditional rehabilitation group |
+| --- | --- | --- |
+| Oxycodone/Naloxone 5/2.5mg (e.g., Targin) | 4 | 3 |
+| Oxycodone/Naloxone 10/5mg (e.g., Targin) | 1 | 0 |
+| Paracetamol 1000mg (e.g., Tachipirin) | 21 | 22 |
+| Ketorolac 30mg/mL i.m. (e.g., Lixidol) | 8 | 10 |
+| Tramadol 100mg i.m. (e.g., Contramal) | 12 | 16 |
+| Tapentadol (e.g., Palexia) | 1 | 0 |
+| Ibuprofen 600mg (e.g., Brufen) | 2 | 2 |
+| Paracetamol/codeine 500/30mg (e.g., Tachidol) | 1 | 0 |
+i.m=intramuscular injection, VR=virtual reality.
+
+---
+
+# Image Description (Figure 1: Flow of participants)
+The flow chart depicts the progress of participants throughout the trial, divided into three main stages: Enrollment, Allocation, and End of Treatments.
+
+1. **DAY 1 – ENROLLMENT (surgery ward)**: A total of 88 patients who had undergone TKA were assessed for eligibility. Among them, 3 patients were excluded because they declined to participate. The remaining 85 patients were randomized into two groups.
+
+2. **DAY 3-4 – ALLOCATION (rehabilitation ward)**: Before allocation, the following outcomes were assessed for all randomized patients: pain, WOMAC (Western Ontario and McMaster Universities osteoarthritis index) knee disability, FIM (Functional Independent Measure), EQ-5D (Health-related quality of life five-dimensional questionnaire), and medication use. The 85 patients were then allocated to two groups: 41 patients to the traditional rehabilitation group (control group) and 44 patients to the VR-based rehabilitation group (experimental group).
+
+3. **DAY 10 – END OF TREATMENTS (discharge from the hospital)**: At this stage, the following outcomes were assessed for both groups: pain, WOMAC knee disability, FIM, EQ-5D, medication use, isometric strength, flexion range of motion, proprioception, and global perceived effect. During the treatment period, 2 patients dropped out of the traditional rehabilitation group (reason: not comfortable with the study), and 9 patients dropped out of the VR-based rehabilitation group (reason: 8 were not comfortable with virtual reality, and 1 other unspecified reason). Finally, 39 patients from the traditional rehabilitation group and 35 patients from the VR-based rehabilitation group were included in the final analysis.
+
+Note: WOMAC denotes Western Ontario and McMaster Universities osteoarthritis index; FIM denotes Functional Independent Measure; EQ-5D denotes Health-related quality of life five-dimensional questionnaire.

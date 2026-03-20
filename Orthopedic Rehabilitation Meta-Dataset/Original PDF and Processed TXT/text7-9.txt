@@ -1,0 +1,179 @@
+# Text Content (Before References)
+EFFECTS OF FULL IMMERSION VIRTUAL REALITY TRAINING ON BALANCE AND KNEE FUNCTION IN TOTAL KNEE REPLACEMENT PATIENTS: A RANDOMIZED CONTROLLED STUDY
+SAMWON YOON* and HOHEE SON†
+Department of Physical Therapy Catholic University of Pusan Busan, 57 Oryundaero Geumjeonggu, South Korea
+*Idmap33@naver.com †sonhh@cup.ac.kr
+Received 27 November 2019
+Accepted 11 March 2020
+Published 16 September 2020
+Journal of Mechanics in Medicine and BiologyVol. 20, No. 9 (2020) 2040007 (14 pages)© The Author(s)DOI: 10.1142/S0219519420400072
+
+Background: Recently, new methods have emerged that encourage voluntary participation by allowing patients to perform tasks, including exercises or treatments, in a virtual reality (VR) environment. 
+Aim: This study aimed to examine the effects of full immersion virtual reality training on balance and knee function in patients who had undergone total knee replacement. 
+Design: Single blind randomized controlled trial. 
+Setting: Department of Physical Therapy in a rehabilitation center. 
+Population: A total of 30 elderly patients (≥65 years old) who had undergone total knee replacement. 
+Methods: Participants were randomly allocated to an experimental group (n=18) and a control group (n=18). The experimental group received a continuous passive motion machine, exercise therapy, and a full immersion VR training program; the control group received only a continuous passive motion machine and exercise therapy. Biorescue was used to test static and dynamic balance ability, and the Timed Up and Go and Western Ontario and McMaster Universities tests were used to assess knee function. Paired t-tests were used to examine differences by time in each group, and independent t-tests were used to examine differences between the groups. 
+Results: In terms of within-group differences by time, both the experimental group and the control group showed significant changes in the anterior and posterior limits of stability in both sides; static balance; and knee function. In the between-groups comparison, among static balance tests, there was a significant difference in center of mass path length in the standing position with eyes open (p=0.006); among dynamic balance tests, there were significant differences in left, right, anterior, and posterior limits of stability (p=0.000). 
+Conclusions: VR training produced better early balance ability and knee function than what was seen in the control group. We believe that VR training in initial post-operative rehabilitation of total knee replacement patients may increase the rate of recovery. 
+Clinical Rehabilitation Impact: VR exercise programs are effective in early rehabilitation after total knee replacement, and have clinical value as inexpensive methods that can promote active participation.
+
+Keywords: Virtual reality; total knee replacement; balance; full immersion virtual reality; knee function.
+
+1. Introduction
+With the aging of the population, the prevalence of osteoarthritis (OA), a representative geriatric disease, is increasing.1 Knee OA causes rapid progression of joint deformity, and eventually leads to bone spur formation, pain, reduced knee function, and gait impairment.2 When pain and inflammation persist in spite of medical, non-medical, and conservative therapy, total knee replacement (TKR) is recommended as the most appropriate treatment; with the recent growth of the elderly population, the number of TKR surgeries is increasing worldwide.3,4 In 2015, across 21 European countries, 109 patients underwent TKR per 100,000 individuals, which was double the number of these surgeries in 1998.5 In the United States in 2011, over 500,000 patients underwent TKR, and this number is predicted to increase to 3.5 million patients by 2030.6
+
+Physiotherapy generally consists of continuous passive motion (CPM) immediately after TKR to prevent joint stiffness and improve the range of motion (ROM); exercise therapy is also provided, including unloaded knee extensor exercises and cycling.7 However, other than joint ROM, CPM alone does not significantly affect muscle strength or flexibility8; therefore, there is a need for early exercise programs that enable active participation immediately after surgery.9 It is vital to direct efforts toward preventing a lack of exercise in the initial post-operative phase because this can lead to deficits in muscle strength, flexibility, and joint proprioception, all of which in turn reduce joint function and increases the risk of complications, especially in elderly patients.10 Many researchers have emphasized the importance of restoring postural balance control and knee function to optimize outcomes after TKR.11,12
+
+Because CPM and general treatment alone are insufficient for improving balance and knee function,8–13 the need for active exercise is increasingly being recognized; however, such exercise requires the voluntary participation on the part of the patient. Recently, new methods have emerged that encourage voluntary participation by allowing patients to perform tasks, including exercises or treatments, in a virtual reality (VR) environment.14,15 VR exercise programs are effective at increasing motivation by inciting interest and entertainment.16,17 Moreover, within the virtual environment, VR exercise programs can systematically provide not only auditory and visual, but also proprioceptive sensory feedback suited to the individual user.18
+
+Among the various types of VR equipment, full immersion virtual reality (FIVR) has been receiving attention of late; this modality is even being implemented and supplied in a form that utilizes normal cell phones.19 FIVR eliminates spatiotemporal limitations and blurs the boundary between the virtual and the real; moreover, the cost of displays that can implement FIVR has decreased to around one-thirtieth of initial costs, making them an economically viable option for the general public.20
+
+To date, there have been various studies implementing VR using video game devices, including the Nintendo Wii or the PlayStation, and applying these devices to patients requiring rehabilitation.21,22 Nevertheless, there is a lack of research investigating FIVR training for rehabilitation of TKR patients.
+
+Therefore, the purpose of this study was to investigate the effects of a balance exercise program using FIVR on balance ability and knee function in TKR patients.
+
+2. Materials and Methods
+2.1. Participants
+The participants were patients who underwent TKR for OA at Pusan S Hospital, Busan, between May and September 2017. Based on the results of a preliminary experiment on 12 patients, using G*Power with an effect size of 0.5, power of 0.8, and significance level of 0.05, we calculated the required sample size to be 15 participants; to account for dropout, we recruited a total of 36 participants. All participants were inpatients and gave their written informed consent prior to participation. Afterwards, participants were randomly allocated to an experimental group and a control group, using a computer-generated random allocation number by an investigator who was not involved in this study. This study was approved by the institutional review board of the Catholic University of Pusan (CUPIRB-2017-018).
+
+The inclusion criteria were as follows: age ≥65 years and planning to undergo bilateral TKR; no prior experience of TKR; capable of independent gait, without walking aids, for at least 10 m, 2 weeks after bilateral TKR; and capable of communicating with alert mental status.
+
+Patients with any of these following conditions were excluded from this study: presence of dizziness or cyber sickness during FIVR training; post-operative complications, including infections; musculoskeletal abnormalities in other parts of the body apart from the knees; pain that makes it difficult to participate in exercise.
+
+2.2. Devices and application
+In FIVR training, patients wore VR glasses (VR Glass, Hyundai Chemistry, KOREA) fitted with a smartphone. The application used in this experiment was a balance game developed by Gregory Street Studios (BASEjump VR: Wingsuit, Gregory Street Studios, UK, 2017). In this application, the user is falling forwards in VR, and tries to reach a target while avoiding obstacles by moving left and right.
+
+2.3. Intervention protocols
+A total of 18 patients each were randomly allocated to an experimental group and a control group, using a computer-generated random allocation number by an investigator who was not involved in this study. All participants started CPM therapy on the 5th post-operative day and participated in 2 weeks of exercise therapy starting after 2 post-operative weeks. The experimental group performed additional VR exercise for two weeks starting after two post-operative weeks.
+
+2.4. CPM
+All patients used a CPM device from the 5th post-operative day, starting at 1 cycle per 45 s at a viable ROM angle for the patient, and the angle was gradually increased. CPM was used to induce joint motion for 30 mins per day, 5 times per week.
+
+2.5. Exercise therapy
+All patients participated in exercise therapy starting after two post-operative weeks. A sandbag weighing around 1 kg was placed on the ankle, and the patients performed non-weight bearing knee extensor exercises within the range allowed by pain, or cycling for 30 mins per day, 5 days per week, for 2 weeks.
+
+2.6. FIVR exercise
+Starting in the 3rd post-operative week, the experimental group participated in rehabilitation training in FIVR using VR glasses fitted with a smartphone and the "BASEjump VR: Wingsuit" application, which was suited to the study aims.
+
+The patients adopted a starting position standing with both knees flexed around 70° and performed the application tasks with a VR environment that changed in real-time, in 360°, according to the patient’s head movements. The patient was instructed to continue maintaining their balance anteriorly while moving in several directions according to the task. At first, the exercise was started on firm ground, and if possible, patients progressed to a mat (Coronella, AIREX AG, Switzerland) or a balance pad (Balance pad, AIREX AG, Switzerland). If necessary, patients were allowed to rest one hand on a wall to catch their balance. In order to prevent dizziness and fear in VR, patients were given an explanation and 10 min of thorough practice to help them adjust to VR and were given 2 min of rest during training to prevent dizziness and fatigue. VR training was performed 20 mins per day, 5 days per week, for 2 weeks.
+
+2.7. Measurement methods
+For all patients, balance, gait, and knee function were measured once after 2 post-operative weeks and again after 4 post-operative weeks.
+
+2.8. Static and dynamic balance ability
+Biorescue (RM INGENIERIE, France) is a device that is suitable for measuring patient balance ability and is capable of testing both static balance and dynamic balance, which is needed for sitting and standing and anterior, posterior, left, and right movements in daily living. The pressure sensitive platform contains 1600 sensors, and the range of pressure measurement was 1-100 N/cm². The patients stood upright with their legs spread at around 30°, focused on a monitor placed directly in front of them, and maintained a static standing position for 30 s each with eyes either open or closed; during this time, the total path length and mean velocity of the body’s center of mass (CoM) was measured.23 Dynamic balance assessment measures the limits of maximal stability when the patient moves dynamically in a standing posture; to this end, movement of the patient’s CoM was analyzed when moving in 8 directions, as instructed (anterior, posterior, left, right, and the diagonals). Here, the patients were instructed to move their CoM as far as possible using the ankles, while maintaining the sole of their foot in contact with the platform. Before measurement, patients were given a detailed explanation with a demonstration. This instrument has been shown to have high reliability, with a test-retest intraclass coefficient (ICC) of 0.83.24
+
+2.9. Gait ability
+We used the timed up-and-go (TUG) test, which is a method of assessing dynamic balance and functional mobility. The patient sits in a chair (with armrests); upon receiving the "start" signal, the patient stands up from the chair, walks 3 m, turns around a turning point, walks back to the chair, and sits down. The time taken to complete this course is measured. This test has been demonstrated to be reliable based on intra-tester reliability (ICC=0.99), inter-tester reliability, and test-retest reliability (ICC=0.95), and its validity is recognized with r=-0.84-0.92.25
+
+2.10. Knee function
+We used the Western Ontario and McMaster Universities (WOMAC) Osteoarthritis Index developed by Bellamy et al.26 The instrument consists of 24 questions in total, including pain, stiffness, and daily activities. Patients respond on a scale from 0 ("None") to 4 ("Very severe"), and higher scores indicated more severe knee dysfunction. At the time of development, the instrument was demonstrated to have high reliability, with Cronbach’s alpha=0.93.
+
+2.11. Data processing and analysis
+The data were analyzed using SPSS 22.0 ver. for Windows, and all data were expressed as mean and standard deviation. Differences between pre- and post-training were analyzed using paired t-tests, and differences between groups were analyzed using independent t-tests. The statistical significance level (α) was set as 0.05.
+
+3. Results
+3.1. Participant characteristics
+There were 30 participants in this study (all females); their mean age was 72.06 years, mean height was 157.38 cm, and mean weight was 60.23 kg.
+
+3.2. Static balance ability
+The experimental group showed significant reductions in surface area of ellipse (SAE) and length, while the control group did not show significant reductions in SAE, length, or speed. In the between-groups comparison, length was significantly smaller in the experimental group than in the control group.
+
+3.3. Dynamic balance ability
+The experimental group showed significant increases in all variables, while the control group only showed significant increases in the limits of stability in the left, right, and anterior directions. In the between-groups comparison, all variables were significantly greater in the experimental group than in the control group.
+
+3.4. TUG test
+Both groups showed significant improvements. In the between-groups comparison, there were no significant differences.
+
+3.5. Knee function test
+When we measured WOMAC results, both groups showed significant improvements. In the between-groups comparison, there were no significant differences.
+
+4. Discussion
+This study aimed to examine the effects of an FIVR exercise program on balance and knee function in TKR patients, and to determine whether a VR rehabilitation program could encourage active participation by TKR patients. We used Biorescue to examine changes in static balance and limits of stability, reflecting changes in dynamic balance generated by the FIVR exercise program. Both groups showed significant increases in the limits of stability and static balance ability post-intervention. In the between-groups comparison, compared to the control group, the experimental group showed significant increases in the static balance variable of CoM path length and in all variables for dynamic balance. Several studies reported that VR exercise programs are effective at improving balance.27–29 Duque et al.27 applied a VR exercise program to 30 elderly individuals who had experienced falls, and observed a significant improvement in balance ability; Rendon et al.28 examined changes in dynamic balance after implementing a six-week VR exercise program in 34 elderly individuals, and reported that VR exercise reduced fall risk by improving postural stability and dynamic balance. In particular, Fung et al.29 used a Nintendo Wii Fit to administer a VR exercise program to 50 TKR patients and reported that the VR exercise program improved standing posture and balance control, consistent with our results. Dynamic balance especially showed significant differences in all variables between the experimental group and the control group; we believe that this is because the VR program was in the form of a game that had the patients move their CoM in a standing position and that this had a positive effect on actual balance ability. 
+
+In order to measure TKR patients’ gait ability after 2 weeks of the VR exercise program, we measured performance on the TUG test. Both groups showed significant improvements in TUG times; however, there was no significant difference between the groups. The fact that VR exercise programs did not show a statistically significant difference in gait compared to the control group appears to be because the CPM and exercise therapy administered to both groups had positive effects on gait velocity. In addition, because the VR program was only performed in a standing position, we believe that it did not have any major effects on gait. However, in an RCT by Mirelman et al.,30 a treadmill-based non-immersive VR exercise programs was applied for six weeks; the authors reported significant improvements in gait ability and reduced fall risk in a group of high-fall-risk elderly individuals. Additionally, in a study by Baram and Miller,31 VR training greatly improved gait velocity in multiple sclerosis patients and reduced restrictions in activities of daily living. Studies by Lamontagne et al.32 and Yang et al.,33 applying VR exercise programs to stroke patients both reported significant increases in gait velocity. Likewise, despite of the studies that VR exercise programs have positive effects on gait ability, a problem of directly comparing subjects exists due to the different conditions of them. Therefore, in later experiments, it will be important to consider actual gait training and long-term VR programs for patients with TKR. 
+
+Finally, in order to examine the effects of the VR exercise program on knee function in TKR patients, we used WOMAC. Both groups showed significant decreases in WOMAC scores after exercise. In the between-groups comparison, there were no significant differences; however, the experimental group did show a larger decrease in WOMAC scores than the control group. Cyrillo and Greve34 assessed WOMAC scores after administering a VR exercise program to 90 knee OA patients and reported that VR exercise was even more effective than conventional therapy in terms of improved knee function. Even though we did not observe a significant difference between the experimental group and the control group, based on the results of previous studies and our study, VR exercise programs can be seen to have a positive effect on knee function.
+
+You et al.35 conducted a study to determine whether VR exercise programs are able to induce neuroplasticity and restore locomotor ability; they reported that VR exercise programs have the potential to reorganize the cerebral cortex, associated with recovery of locomotor ability. Furthermore, training intensity and sensory feedback can be adjusted through interactions with the user; hippocampal theta waves show considerable activation while the individual plays VR games and activated hippocampal theta waves increase learning efficiency.36,37
+
+VR exercise programs can encourage voluntary participation by stimulating interest.38 Maclean et al.39 highlighted active participation attributed to user enjoyment and ample intervention effect as strengths of VR, while also reporting that these strengths helped to improve the intervention effect in elderly individuals. VR further enhances exercise learning effects by providing hard-to-experience situations in safe conditions.40,41 Regularly performing balance, muscle strengthening, and gait exercise is important for preventing falls in elderly TKR patients. However, the general exercise programs performed at rehabilitation centers do not attract much interest, and users readily become bored because of the simplicity of the activity. Appropriate use of VR exercise programs can overcome these limitations, stimulating patient motivation and interest, enabling continuous exercise participation, as well as providing sufficient intervention effects.42 FIVR exercise programs are suitable for the general population because of their convenience and low cost, also providing rehabilitation effects in safe and enjoyable environments. The VR device used in this study is considered useful because it is lighter and cheaper than the PlayStation, OMNI, Xbox, or Nintendo Wii, and can be readily installed and operated by anybody.43
+
+One limitation of our study is that it required a safe environment, because the head-mounted display worn by the participants makes it difficult to observe surrounding objects, increasing the risk of falls. In addition, experimenters had to be cautious because immersion can cause cyber sickness. We administered the VR program for only two weeks, and it was difficult to verify its effectiveness because of the relatively short intervention duration. Furthermore, because the training program was only performed in a standing position, we believe that later studies should develop VR programs combined with gait training.
+
+5. Conclusions
+We used a FIVR exercise program as part of rehabilitation for patients who underwent TKR. The experimental group and the control group both showed significant improvements in static balance, dynamic balance, and knee function, and the experimental group showed a larger improvement in dynamic balance than the control group. These results demonstrate that VR exercise programs are effective in early rehabilitation after TKR and have clinical value as inexpensive methods that can promote active participation.
+
+Conflicts of Interest
+The authors certify that there is no conflict of interest with any financial organization regarding the material discussed in the manuscript.
+
+Acknowledgments
+This work was supported by the National Research Foundation of Korea (NRF) funded by the Korea government (MSIT) No. 2017R1C1B5074040. Hohee Son contributed to the design of the study, the analysis and interpretation of the results, and writing the content of the manuscript. Samwon Yoon collected and interpreted the data and writing the content of the manuscript.
+
+# Tables (TXT Format)
+Table 1. The general characteristics of subjects.
+                EG                CG                P
+Age (years)    72.26±3.65       71.86±4.89       0.802
+Height (cm)    158.13±4.01      156.66±2.94      0.264
+Weight (kg)    61.06±4.84       59.40±5.42       0.382
+Notes: Mean±SD. EG: experimental group. CG: control group.
+
+Table 2. The comparison of the static balance between the groups.
+                Pre                Post                P
+SAEa
+EG             147.40±111.52     94.20±58.89       0.003*
+CG             148.00±95.51      137.13±78.23      0.496
+P              0.987             0.101
+Length
+EG             22.70±6.02        18.00±3.40        0.001*
+CG             23.67±5.83        23.83±6.63        0.818
+P              0.659             0.006†
+Speed
+EG             0.64±0.10         0.60±0.08         0.334
+CG             0.72±0.14         0.68±0.14         0.305
+P              0.121             0.101
+Notes: Mean±SD. a: surface area of ellipse. EG: experimental group. CG: control group. *: Significant difference (p<0.05). †: Significant difference between groups (p<0.05).
+
+Table 3. The comparison of the dynamic balance between the groups.
+                Pre                Post                P
+Left LOSa
+EG             732.53±91.09      1229.20±137.19    0.000*
+CG             661.93±88.17      768.73±86.08      0.000*
+P              0.040             0.000†
+Right LOS
+EG             533.60±76.96      964.33±143.40     0.000*
+CG             500.33±101.24     614.53±115.03     0.000*
+P              0.320             0.000†
+Forward LOS
+EG             554.67±107.59     1181.13±163.2     0.000*
+CG             610.73±67.99      618.67±85.79      0.749
+P              0.099             0.000†
+Backward LOS
+EG             296.00±84.61      624.73±155.96     0.000*
+CG             292.07±110.40     344.27±106.78     0.000*
+P              0.914             0.000†
+Notes: Mean±SD. a: limits of stability. EG: experimental group. CG: control group. *: Significant difference (p<0.05). †: Significant difference between groups (p<0.05).
+
+Table 4. The comparison of the timed up and go between the groups.
+                Pre                Post                P
+EG             34.08±3.43        18.99±5.73        0.000*
+CG             36.19±3.73        21.36±5.77        0.000*
+P              0.119             0.268
+Notes: Mean±SD. EG: experimental group. CG: control group. *: Significant difference (p<0.05). †: Significant difference between groups (p<0.05).
+
+Table 5. The comparison of the WOMAC score between the groups.
+                Pre                Post                P
+EG             64.47±10.66       32.80±3.91        0.000*
+CG             62.20±8.83        35.87±4.47        0.000*
+P              0.531             0.055
+Notes: Mean±SD. EG: experimental group. CG: control group. *: Significant difference (p<0.05). †: Significant difference between groups (p<0.05).
+
+# Image Descriptions (TXT Format)
+Figure 1: Schematic diagram of the study design. The study initially included 36 total knee replacement patients. These patients were randomly allocated to either the fully immersive virtual reality exercise group (n=18) or the control group (n=18). Pre-tests (assessing static & dynamic balance, Timed Up and Go test, and WOMAC test) were conducted for both groups. During the intervention period, 1 patient in the experimental group gave up the exercise program, 2 dropped out due to surgical pain, and 3 had missing data; in the control group, 3 dropped out due to surgical pain and 3 had missing data. Post-tests (the same assessments as pre-tests) were finally conducted with 15 participants in each group.
+
+Figure 2: A head-mounted display used in the study. It refers to VR glasses (VR Glass, Hyundai Chemistry, KOREA) that are fitted with a smartphone for full immersion virtual reality training.
+
+Figure 3: The "BASEjump VR: Wingsuit" application interface. This is a balance game developed by Gregory Street Studios (UK, 2017). In the application, the user is simulated to be falling forwards in a virtual reality environment, and needs to move left and right to avoid obstacles and reach the target.
+
+Figure 4: A diagram illustrating the period of intervention. All participants started continuous passive motion (CPM) therapy on the 5th post-operative day. Starting from 2 weeks post-operatively, both groups participated in 2 weeks of exercise therapy. Additionally, the experimental group performed extra full immersion virtual reality training from 2 weeks post-operatively for 2 weeks (until 4 weeks post-operatively).
