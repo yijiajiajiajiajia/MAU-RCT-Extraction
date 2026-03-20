@@ -1,0 +1,168 @@
+# Text Content Before References
+## Abstract
+The effectiveness of antipsychotics in preventing relapses and attaining symptomatic remission is a relevant topic of psychopharmacological research. The purpose of the present study was to compare the relapse and symptomatic remission rates during the first year of treatment between low doses of haloperidol and SGAs (olanzapine and risperidone) in drug-naïve first-episode non-affective psychosis individuals. This is a prospective, randomized, open-label study conducted from February 2001 to February 2006. Data for the present investigation were obtained from a large epidemiologic and 3-year longitudinal intervention program of first-episode psychosis (DSM-IV criteria) conducted at the University Hospital Marques de Valdecilla, Santander, Spain. One hundred and seventy four patients were randomly assigned to haloperidol (N=56), olanzapine (N=55), or risperidone (N=63) and followed up for 1 year. Primary effectiveness measures were the time up to relapse and rates of relapse and symptomatic remission. There were no significant differences in the relapse rate between treatments (11.1% haloperidol; 18.5% olanzapine, and 13.8% risperidone) (χ²=1.230; p=0.541) or in the time up to relapse (Log Rank χ²=0.308; p=0.857). The rates of relapse for adherent (11.2%) and non-adherent (26.9%) patients were significantly different (χ²=4.215; df=1; p=0.040). The remission rate did not differ significantly between treatment groups (χ²=2.760; p=0.252) and adherence to medication did not seem to significantly influence remission rates. We conclude that haloperidol, olanzapine and risperidone show a similar effectiveness in relapse prevention or in remission attainment during the first year of treatment.
+
+## 1. Introduction
+Relapse prevention is of special importance in schizophrenia because relapses are associated with a poor prognosis (DeQuardo and Tandon, 1998). Ensuring the long-term maintenance of antipsychotic treatments is crucial to prevent relapses (Wyatt, 1991). In stabilized chronic and first-episode psychosis, second generation antipsychotics (SGA) have been shown to be superior to first generation antipsychotics (FGA) in preventing relapses (Csernansky et al., 2002; Schooler et al., 2005), although other studies failed to observe the benefits of SGAs over FGAs (Marder et al., 2003). It is to be expected that SGAs would, due to them being better tolerated, substantially improve adherence and consequently reduce the risk of relapse compared to FGAs (Leucht et al., 2003). However, 30% of patients will relapse despite treatment attainment (Hogarty and Ulrich, 1998). On the other hand, only a small number of studies have explored the differential effect of SGAs and FGAs on symptomatic remission rates. Results from the EUFEST study revealed higher rates of remission in patients on SGAs (Boter et al., 2009). The effectiveness of antipsychotics in preventing relapses and attaining remission is a relevant and timely topic of psychopharmacological research.
+
+The purpose of the present study was to compare the relapse and symptomatic remission rates during the first year of treatment between low doses of haloperidol and SGAs (olanzapine and risperidone: two established standard antipsychotics) in the long-term treatment of drug-naïve first-episode non-affective psychosis individuals. We hypothesize that rates of relapse will be lower with olanzapine and risperidone than with haloperidol. Adherence monitoring, the use of low doses of haloperidol, and a low dropout rate can warrant the generalizability of our findings.
+
+## 2. Method
+### 2.1. Study setting and financial support
+Data for the present investigation were obtained from a large epidemiological and 3-year longitudinal intervention program of first-episode psychosis (PAFIP) conducted at the outpatient clinic and the inpatient unit at the University Hospital Marques de Valdecilla, Santander, Spain. It conformed to international standards for research ethics and was approved by the local institutional review board. No pharmaceutical company supplied any financial support to it. The referrals to the PAFIP came from the inpatient unit and emergency room at the University Hospital Marques de Valdecilla, community mental health services and other community health care workers in Cantabria. There were no biases in the way patients were referred and the age-corrected (15-50) incidence rate for schizophrenia spectrum disorder was of 1.38 per 10,000. A more detailed description of our program has been previously reported (Pelayo-Teran et al., 2008).
+
+### 2.2. Subjects
+From February 2001 to February 2005 all referrals to PAFIP were screened for patients who met the following criteria: 1) age 15-60 years; 2) living in the catchment area; 3) experiencing their first episode of psychosis; 4) no prior treatment with antipsychotic medication or, if previously treated, a total life time of adequate antipsychotic treatment of less than 6-weeks; 5) meeting DSM-IV criteria for brief psychotic disorder, schizophreniform disorder, schizophrenia, or schizoaffective disorder. Patients were excluded for any of the following reasons: 1) meeting DSM-IV criteria for drug dependence, 2) meeting DSM-IV criteria for mental retardation, 3) having a history of neurological disease or head injury. The diagnoses were confirmed using the Structured Clinical Interview for DSM-IV (SCID - I) carried out by an experienced psychiatrist 6 months on from the baseline visit (First et al., 2001).
+
+### 2.3. Study design
+This is a prospective, randomized, open-label study. Patients who agreed to participate underwent a complete evaluation of sociodemographic and clinical variables before random assignment to treatment. The procedure used was a computer-generated randomization list that was drawn up by a statistician. Dose ranges were 5-20 mg/day for olanzapine, 3-6 mg/day of risperidone and 3-9 mg/day for haloperidol during the early phases. At the treating physician’s discretion, the dose and type of antipsychotic medication could be changed based on clinical efficacy and the profile of side effects during the follow-up period. Lormetazepam and clonazepam were permitted for clinical reasons. Whenever clinically significant extrapyramidal signs occurred, anticholinergic medication (biperiden at a dose of up to 8 mg/day) was allowed. No anticholinergics were administered prophylactically. Antidepressants (sertraline) and mood stabilizers (lithium) were permitted if clinically needed. At study intake, all but three patients were antipsychotic naïve. Patients who were taking antipsychotics at intake underwent a washout period of 5 days before initiating treatment protocol. Data on antipsychotic treatment (doses, discontinuation, and concomitant medications) and relapse were regularly registered at baseline, 6-week, 3-month, 6-month, 9-month and 1-year. During the follow-up period of 1 year patients were followed up at the psychiatric outpatient clinic of our hospital by experienced psychiatrists (RP-I, MLR-B and IM) who ascertained the clinical status.
+
+The severity scale of the Clinical Global Impression (CGI) scale (Guy, 1976) was used to measure the overall severity of illness. The total score of the Brief Psychiatric Rating Scale (BPRS) (Overall and Gorham, 1962) was used to assess the severity of general psychiatric symptomatology. The same trained psychiatrist (BC-F) completed all clinical assessments.
+
+Adherence to antipsychotic drugs was assessed by the information obtained from patients and close relatives by the staff (nurse, social worker and psychiatrists) involved in the clinical follow-up. For the present investigation, patients were consensually dichotomized into having a good (defined as patients regularly taking at least 90% of prescribed medication) and a poor adherence (medium or poor compliance). Adherence categorization was done at 1-year evaluation and was based on the information gathered from patient and close relatives over the entire year.
+
+### 2.4. Effectiveness outcome measures
+The primary outcome consisted of assessing relapse rates and the time up to first relapse.
+
+Relapse was defined among those patients who achieved clinical improvement and stability (CGI rating ≤4 and decrease of at least 30% on BPRS total score and all BPRS key symptom items by being rated ≤3 for more than 4 consecutive weeks at some point during the first 6-months following program entry) and was defined, according to the following criteria, as any of them occurring after clinical improvement: 1. A rating of 5 or above on any key BPRS symptom items for at least 1 week; 2. CGI rating of ≥6 and a change score of CGI of “much worse” or “very much worse” for at least 1 week; 3. Hospitalization for psychotic psychopathology; 4. Completed suicide. The key BPRS symptoms were unusual thought content, hallucinations, suspiciousness, conceptual disorganization and bizarre behavior. The patients were considered to have relapsed if the relapse state lasted at least 1 week.
+
+The secondary outcome consisted of evaluating symptomatic remission rates. Remission was defined according to Andreasen et al. (2005) criteria that encompass BPRS and SANS scores: 1. A score of mild or less (≤3) on six predefined BPRS symptom items: grandiosity, suspiciousness, unusual thought content, hallucinations, conceptual disorganization and mannerisms and 2. SANS item scores of ≤2 simultaneously in all items. These criteria are required to be maintained for at least 6-months, with only those patients being included in the final analysis.
+
+### 2.5. Statistical analyses
+To ensure group comparability, baseline sociodemographic and clinical characteristics were tested by 1-way analysis of variance (ANOVA) or χ² test for categorical variables.
+
+The primary aim of this study was to test the hypothesis that the three antipsychotic treatments would result in different rates of relapse after 1 year. A dichotomous variable was created that assigned a value of 1 as soon as a patient experienced a relapse. Kaplan-Meier survival curves and a long-rank test were used to assess the time up to relapse. Patients who dropped out of the study or discontinued randomly assigned treatment were categorized as censored observation at the time of the event’s occurring. Percentages of relapse rates between groups were examined by means of chi-square tests. The analyses for remission rates were by intention to treat and by protocol and differences in symptomatic remission rates at 1 year between groups were examined by means of chi-square tests. Categorical data were evaluated by using Fisher’s exact and chi-square tests. All hypotheses were tested by using a two-sided significant level of 0.05.
+
+The Statistical Package for Social Science (SPSS), version 15.0, was used for statistical analyses. All statistical tests were two-tailed, and significance was determined at the 0.05 level, although in the correlation analysis. No adjustments were made for multiple comparisons.
+
+## 3. Results
+### 3.1. Description of study cohort
+Fig. 1 shows the trial profile. Of 243 individuals who were referred to PAFIP, 184 met inclusion criteria. Of these, 182 patients gave written consent to participate in the study and were randomly assigned to treatment. Eight of the initial 182 individuals were finally excluded from the final analyses because they did not meet Structured Clinical Interview for DSM-IV criteria for non-affective psychosis (N=7) (5 affective psychosis, 1 social phobia and 1 personality disorder not otherwise specified) at the 6-month interview; or because it was confirmed that they had previously received antipsychotic treatment for longer than 6-weeks (N=1). At the baseline, only 1.7% (N=3) of patients reported some prior treatment. The mean self-reported duration of prior treatment was 4 weeks (SD=2; range=2-6).
+
+In order to analyse relapse, we include only patients who met criteria of clinical improvement (N=166) as defined above. Demographic and clinical characteristics of patients included in the relapse analysis are shown in Table 1. There were no statistical differences between the three treatment groups in any of the background demographic and clinical characteristics. The diagnosis of schizophrenia was significantly higher in the haloperidol group (75.9% haloperidol; 51.9% olanzapine; 55.2% risperidone; F=7.772; P=0.021). At 1 year mean modal daily doses were 10.1 (3.9) mg/day for olanzapine, 3.4 (1.8) mg/day for risperidone, and 2.9 (1.4) mg/day for haloperidol.
+
+In order to analyse remission, the overall sample of patients (N=174) was included in the final analyses. Demographic and clinical characteristics of the overall sample have been described elsewhere (Crespo-Facorro et al., in press). There were no statistical differences between the three treatment groups in any of the background demographic and clinical characteristics.
+
+The overall dropout rate at 1 year was small (N=21; 12.1%). Dropout reasons were: 14 individuals decided to withdraw from the study, 6 individuals did not show up for the 1-year interview and one patient committed suicide during the follow-up.
+
+The discontinuation rate for any cause differed significantly between treatment groups (χ²=8.517; p=0.014) and has been previously described by our group (Crespo-Facorro et al., in press). Thus, 57.1% in the haloperidol group, 32.7% in the olanzapine group and 34.8% in the risperidone group discontinued the initially assigned medication at 1-year assessment with a shorter time on treatment in the haloperidol group [7.90 (95% CI, 6.86-8.50) months for haloperidol, 10.01 (95% CI, 9.16-10.97) months for olanzapine and 9.61 (95% CI, 8.68-10.53) months for risperidone; Log Rank χ²=10.080; p=0.006].
+
+Data on adherence to medication were available for 133 patients. Only 26 (19.5%) met the criteria for non-adherence. Adherence to treatment did not differ significantly between treatments, there being a percentage of good adherence of 84.8% in the haloperidol group, 73.8% in the olanzapine group and 82.2% in the risperidone group (χ²=1.816; p=0.403).
+
+### 3.2. Effectiveness
+#### 3.2.1. Relapse
+Of 166 clinically improved patients regarded as being at risk of relapse, 32 (19.3%) had at least one relapse over the 1-year follow-up. Eight out of these 32 patients had the relapse posterior to treatment discontinuation. There were no significant differences in relapse rate (6 out of 54, 11.1% for haloperidol; 10 out of 54, 18.5% for olanzapine; and 8 out of 58, 13.8% for risperidone) (χ²=1.230; df=2; p=0.541). The mean time up to relapse was 10.9 (95% CI, 10.89-11.72) months for haloperidol, 10.78 (95% CI, 9.99-11.56) months for olanzapine and 10.98 (95% CI, 10.25-11.71) months for risperidone. Fig. 2 represents a Kaplan-Meier time plot to relapse, there being no significant difference between curves (Log Rank χ²=0.308; p=0.857).
+
+The relapse rates for adherent and non-adherent patients were respectively 11.2% and 26.9% (χ²=4.215; df=1; p=0.040).
+
+#### 3.2.2. Symptomatic remission
+At 1 year, 31% of patients met criteria for remission (Table 2). Although the proportion of remission was higher with olanzapine (32.7%) and risperidone (34.9%) compared to the remission rate of patients having taken haloperidol (25%), the remission rate did not differ significantly between treatment groups (χ²=1.471; p=0.479; Table 2). Post hoc analysis consistently revealed no differences between treatments (all Ps >0.239). Per protocol analyses revealed no significant differences in remission rates between treatments. Twenty-five percent of patients who, during the 1-year follow-up, continued to take haloperidol (N=6 out of 24), 43.2% (N=16 out of 37) who continued on olanzapine and 41.5% (N=17 out of 41) who continued on risperidone, had remitted at 1 year (χ²=2.354; df=2; p=0.308).
+
+No significant differences in remission rates were found between adherent (36.9%) and non-adherent (27.6%) patients (χ²=0.884; df=1; p=0.347).
+
+## 4. Discussion
+Among first-episode non-affective psychotic patients, we did not find significant differences between haloperidol, olanzapine and risperidone in relapse prevention during the first year of treatment. In addition, the proportion of patients attaining symptomatic remission during the first year did not significantly differ between the three antipsychotics. Relapse rates in our study do seem to be influenced by non compliance with oral medication.
+
+### 4.1. Relapse prevention
+No significant differences between antipsychotics in preventing relapse were found. In a previous randomized double-blind study in first-episode patients, Schooler et al. (2005) observed a lower rate of relapses at 2 years in the risperidone group compared to the haloperidol group (42% risperidone and 55% haloperidol). In contrast, haloperidol and risperidone were equally effective in preventing relapse in patients with stabilized schizophrenia (Marder et al., 2003). Dossenbach et al. (2005) observed that olanzapine and risperidone were associated with a lower risk of relapse compared to haloperidol and quetiapine during a follow-up period of 1 year. In our study the analysis of the time up to relapse revealed no differences between treatments as well as an estimated time up to relapse of 10.81 months (Fig. 2). Previous studies conducted within the context of specialized early intervention services found a rather similar time up to relapse (34 weeks) (Malla et al., 2008). In contrast, double-blind multinational studies had reported a shorter mean time up to relapse (114 days for risperidone and 103 days for haloperidol) (Schooler et al., 2005). It is of note that the higher rate of discontinuation and the shorter time of treatment for patients taking haloperidol in our study, compared to risperidone and olanzapine groups, might have had a downward influence on the number of relapses (N=6) before treatment discontinuation (Fig. 1). Despite this likely bias we found no difference in the rate of relapse between conventional and second generation antipsychotics at 1 year.
+
+Relapse rates have been reported to be as high as 50-60% during the first 2 years following the first episode (Ram et al., 1992; Robinson et al., 1999). Hogarty and Ulrich (1998) described an increment of relapse rates from 27% at 1 year to 43% during the second year of treatment in first-episode patients on antipsychotics. Consistently, a progressive increment in the cumulative rate for a first relapse was also described (from 16.2% by the end of the 1-year follow-up to 81.9% by the end of the 5-year follow-up) after a first episode of schizophrenia (Robinson et al., 1999). Lower relapse rates are observed in first-episode patients followed up in specialized early intervention services compared to standard care (Craig et al., 2004; Linszen et al., 1998; Malla et al., 2008) and are expected to be significantly reduced when psychosocial treatment is added to medication (Herz et al., 2000). We have observed that only 19.3% of first-episode patients relapsed during the first year. In our study the patients received, in addition to psychopharmacological treatment, psychosocial and psychoeducational treatment (consisting of a combination of individual and group psychoeducational therapy for patients and relatives, specialized intervention for substance use and adherence to treatment, and active monitoring for prodromal symptoms of relapse) (for a detailed description of psychotherapeutic strategies in PAFIP, Crespo-Facorro et al., 2008). In addition, the different criteria for relapse used in the literature may significantly account for the variability in relapse rates reported (Gleeson et al., 2010).
+
+A significant impact of adherence to medication on the risk of relapse was expected. We observed that non-adherence patients were at a higher risk of relapse compared to adherent patients (26.9% and 11.2% respectively). Stopping antipsychotic medications has been shown as the biggest predictor of relapse in schizophrenia (Gilbert et al., 1995; Robinson et al., 1999). It is also of note that the fact that there were no significant differences between antipsychotic treatments in the rates of adherence makes it unlikely that the comparison of relapse rates between antipsychotic drugs might be significantly influenced by medication non-adherence. Further studies from our group will focus on a specific and proper investigation into the influence of sociodemographic, clinical and cognitive variables in long-term relapse prevention in first-episode schizophrenia patients.
+
+### 4.2. Remission attainment
+The proportion of patients who attained a symptomatic remission at 1 year did not differ between treatment groups. Recent results from the EUFEST study have described higher rates of remission at 1 year in patients on amisulpride (37%) and olanzapine (38%) compared to haloperidol-treated patients (17%). The proportions of patients on SGAs in our sample who attained remission (32.7% of patients on olanzapine and 34.9% of patients on risperidone) are comparable to the findings in the EUFEST study. In contrast, in our study the rate of symptomatic remission in the haloperidol group (25%) was slightly higher than the rate observed in the EUFEST (17%) and may account for discrepancies between the two studies. The fact that haloperidol-treated patients in the EUFEST study discontinued treatment earlier (mean time to discontinuation 0.5 month) earlier on in the course of treatment (Kahn et al., 2008) would have resulted in less time to achieve criteria of remission and consequently would have influenced their results.
+
+We found that 31% of first-episode patients met criteria for symptomatic remission at 1 year. Emsley et al. (2007), also using the criteria proposed by Andreasen et al. (2005), observed that 23.6% of first-episode patients achieved symptomatic remission during a follow-up period of 2-4 years. In this study, no significant differences were found between haloperidol and risperidone in the rates of remission. In another first-episode study, using a different definition of remission, 47.2% of patients achieved a symptomatic remission within 5-years (Robinson et al., 2004). No analyses comparing antipsychotic treatments were reported. The remission rates of studies using definitions of symptomatic remission solely based on the resolution of psychotic symptoms have proffered higher rates of remission (about 80%) (Lieberman et al., 2003; Malla et al., 2006). The fact that the severity of negative symptoms was not included in the remission criteria and the longer follow-up period (2 years) in these studies may account for discrepancies between studies. It is also of note that we failed to replicate the results from previous studies showing the significant impact of adherence to antipsychotics on the rate of remission (Malla et al., 2006, 2008). The lack of standardization in the criteria of remission and the disparity with regard to the length of follow-up period may significantly account for inconsistencies in the remission rates between studies (van Os et al., 2006).
+
+### 4.3. Limitations
+There are several aspects of our research that limit the generalizability of our findings. First, as a practical clinical trial in our study patients and clinicians were not blinded to treatments and therefore may involuntarily bias the outcomes. Nevertheless, in clinical practice knowledge of medications is part of the ecological validity of outcomes and does not necessarily detract from the robustness of the findings (March et al., 2005). Moreover, as a non-industry-funded study, the risk for systematic bias is scarce. Second, an additional possible criticism of the study, as mentioned above, is the fact that discontinuation for any cause is significantly more frequent in patients initially assigned to haloperidol than in subjects who started treatment with risperidone or olanzapine. A higher discontinuation rate and a shorter time of treatment might have had a downward influence on number of relapses before treatment discontinuation in the haloperidol group.
+
+## 5. Conclusions
+It can be concluded that haloperidol, olanzapine and risperidone show a similar effectiveness in relapse prevention or in remission attainment during the first year of treatment. It is also of note that our results seem to provide further support for the notion that running specialized early intervention clinical programmes diminishes the long-term risk of relapse among first-episode schizophrenia patients.
+
+## Funding source
+The present study was performed at the Hospital Marqués de Valdecilla, University of Cantabria, Santander, Spain, under the following grant support: Instituto de Salud Carlos III PI020499, PI050427, PI060507, Plan Nacional de Drogas Research Grant 2005-Orden sco/3246/2004, SENY Fundació Research Grant CI 20050308007 and Fundación Marqués de Valdecilla API07/011.
+
+No pharmaceutical company supplied any financial support towards it.
+
+## Contributors
+All the authors have participated and have made substantial contributions to this paper: Benedicto Crespo-Facorro: design, interpretations of data and drafting the article. Rocio Perez-Iglesias, Ignacio Mata, Jose Maria Pelayo-Terán, MariLuz Ramirez: collection, interpretation of data and revising. Olalla Caseiro: data collection and analysis. Obdulia Martínez-Garcia and Gema Pardo: data collection and revising. Jose Luis Vazquez-Barquero: conception, design and revising. They have read and approved the final version of the manuscript.
+
+## Conflict of interest
+Prof. Vazquez-Barquero and Prof. Crespo-Facorro have received unrestricted research funding from AstraZeneca, Pfizer, Bristol-Myers Squibb, and Johnson & Johnson that were deposited into research accounts at the University of Cantabria.
+
+Prof. Vazquez-Barquero has received honoraria for his participation as a speaker at educational events from Johnson & Johnson.
+
+Prof. Crespo-Facorro has received honoraria for his participation as a speaker at educational events from Bristol-Myers Squibb, Lundbeck and Johnson & Johnson.
+
+Dr. Mata has received honoraria for his participation as a speaker at educational events from Johnson & Johnson and Lilly.
+
+Drs. Perez-Iglesias, Caseiro, Pelayo-Teran and Ramirez, and Mrs. Martinez and Pardo report no additional financial or other relationship relevant to the subject of this article.
+
+## Acknowledgement
+We wish to thank the PAFIP researchers who helped with data collection and Víctor Ortiz for assistance in data managing and analysis. In addition, we acknowledge the participants and their families for enrolling in this study. The study, designed and directed by B C-F and JLV-B, conformed to international standards for research ethics and was approved by the local institutional review board.
+
+# Tables
+## Table 1: Demographic and clinical characteristics of 166 drug-naïve patients with a first episode of psychosis randomly assigned to treatment with risperidone, olanzapine or haloperidol.
+| Characteristics | Total N=166 | Haloperidol N=54 | Olanzapine N=54 | Risperidone N=58 | F (df=2) | p |
+|-----------------|-------------|------------------|-----------------|------------------|----------|-----|
+| Mean ± SD | Mean ± SD | Mean ± SD | Mean ± SD | | |
+| Age at admission (years) | 27.4 ± 7.8 | 28.3 ± 8.8 | 27.4 ± 6.9 | 26.7 ± 7.7 | 0.607 | 0.546 |
+| Age at psychosis onset (years) | 26.3 ± 7.2 | 26.8 ± 7.6 | 26.7 ± 6.8 | 25.5 ± 7.2 | 0.549 | 0.579 |
+| Duration of illness (months)a | 26.9 ± 34.6 | 31.9 ± 39.8 | 17.9 ± 23.5 | 30.7 ± 36.8 | 2.725 | 0.069 |
+| Duration of psychosis (months) | 13.4 ± 26.9 | 17.6 ± 37.8 | 8.7 ± 15.5 | 13.9 ± 22.6 | 1.496 | 0.227 |
+| N (%) | N (%) | N (%) | N (%) | χ² (df=2) | p |
+| Gender (male) | 103 (62.0) | 34 (63.0) | 33 (61.1) | 36 (62.1) | 0.039 | 0.981 |
+| Education level (elementary) | 82 (49.4) | 26 (48.1) | 26 (48.1) | 30 (51.7) | 0.193 | 0.908 |
+| Socioeconomic status of parents (Not/low qualified worker)b | 98 (60.1) | 34 (63.0) | 32 (59.3) | 32 (58.2) | 0.285 | 0.867 |
+| Urban area (yes) | 91 (54.8) | 24 (44.4) | 30 (55.6) | 37 (63.8) | 4.244 | 0.120 |
+| Living with parents (yes) | 105 (63.3) | 33 (61.1) | 31 (57.4) | 41 (70.7) | 2.280 | 0.320 |
+| Unmarried (yes) | 141 (84.9) | 46 (85.2) | 43 (79.6) | 52 (89.7) | 2.201 | 0.333 |
+| Student (yes) | 34 (20.5) | 14 (25.9) | 10 (18.5) | 10 (17.2) | 1.484 | 0.476 |
+| Unemployed (yes) | 78 (47.0) | 24 (44.4) | 23 (42.6) | 31 (53.4) | 1.531 | 0.465 |
+| Family psychiatric history (yes) | 34 (20.5) | 13 (24.1) | 15 (27.8) | 6 (10.3) | 5.852 | 0.054 |
+| Hospitalization (yes) | 105 (63.3) | 40 (74.1) | 34 (63.0) | 31 (53.4) | 5.121 | 0.077 |
+| Tobacco (yes) | 97 (58.4) | 29 (53.7) | 32 (59.3) | 36 (62.1) | 0.828 | 0.661 |
+| Cannabis (yes) | 78 (47.0) | 23 (42.6) | 26 (48.1) | 29 (50.0) | 0.659 | 0.719 |
+| Alcohol (yes) | 91 (55.2) | 32 (59.3) | 25 (47.2) | 34 (58.6) | 2.016 | 0.365 |
+| Diagnosis | | | | | | |
+| Schizophrenia | 101 (60.8) | 41 (75.9) | 28 (51.9) | 32 (55.2) | 7.772 | 0.021 |
+| Other schizophrenia spectrum diagnoses: | 65 (39.2) | 13 (24.1) | 26 (48.1) | 26 (44.8) | | |
+| Schizophreniform disorder | 40 (24.1) | 10 (18.5) | 16 (29.6) | 14 (24.1) | | |
+| Schizoaffective disorder | 4 (2.4) | 1 (1.9) | 0 (0.0) | 3 (5.2) | | |
+| Brief psychotic disorder | 9 (5.4) | 1 (1.9) | 4 (7.4) | 4 (6.9) | | |
+| Unspecified psychotic disorder | 12 (7.2) | 1 (1.9) | 6 (11.1) | 5 (8.6) | | |
+a Analyses were made based on Hal=53, Olan=53 and Ris=57
+b Hollingshead-Redlich scale; analyses were made based on Hal=56, Olan=55 and Ris=60
+
+## Table 2: Comparison of remission and relapse rates between treatments.
+| Outcomes | Total N=166 | Haloperidol N=54 | Olanzapine N=54 | Risperidone N=58 | χ² (df=2) | p |
+|----------|-------------|------------------|-----------------|------------------|----------|-----|
+| Relapse | 32 (19.3) | 6 (11.1) | 10 (18.5) | 8 (13.8) | 1.230 | 0.541 |
+| Symptomatic remission | 51 (31.0) | 14 (25.0) | 18 (32.7) | 22 (34.9) | 1.471 | 0.479 |
+
+# Image Descriptions
+## Figure 1: Flow diagram of subject through the phases of the randomized trial.
+The flow diagram illustrates the progression of participants in the study:
+- Initially, 243 individuals were referred to the PAFIP program.
+- Of these, 184 met the inclusion criteria, and 182 provided written consent to participate and were randomly assigned to treatment.
+- 8 individuals were excluded from the final analyses: 7 did not meet DSM-IV criteria for non-affective psychosis at the 6-month interview (5 with affective psychosis, 1 with social phobia, 1 with unspecified personality disorder) and 1 had prior antipsychotic treatment exceeding 6 weeks.
+- 174 patients were randomized into three groups: 56 assigned to haloperidol, 55 assigned to olanzapine, and 63 assigned to risperidone.
+- For relapse analysis: 54 patients in the haloperidol group, 54 in the olanzapine group, and 58 in the risperidone group were included; among these, 6 (haloperidol), 10 (olanzapine), and 8 (risperidone) relapsed, with some relapses occurring before treatment discontinuation (6, 10, 8 respectively).
+- For remission analysis: 56 patients in the haloperidol group, 55 in the olanzapine group, and 63 in the risperidone group were included; among these, 14 (haloperidol), 18 (olanzapine), and 22 (risperidone) achieved remission.
+
+## Figure 2: Time to first relapse among 166 patients with a first episode randomly assigned to treatment with haloperidol, risperidone or olanzapine.
+This is a Kaplan-Meier survival curve plot showing the time to first relapse over 12 months for the three treatment groups (haloperidol, olanzapine, risperidone).
+- The x-axis represents time in months (ranging from 0 to 12).
+- The y-axis represents the fraction survival (ranging from 0.0 to 1.0), indicating the proportion of patients who had not relapsed by each time point.
+- Three curves are presented, one for each antipsychotic, and they are closely aligned, indicating no significant difference in time to relapse between the groups (Log Rank χ²=0.308; p=0.857).
+- Below the plot, two tables are included:
+  1. "NO. AT RISK": Shows the number of patients remaining in the study (at risk of relapse) at each time point (Baseline, 3M, 6M, 9M, 12M) for each group:
+     - Haloperidol: 54 (Baseline), 47 (3M), 30 (6M), 24 (9M), 22 (12M)
+     - Olanzapine: 54 (Baseline), 48 (3M), 44 (6M), 39 (9M), 35 (12M)
+     - Risperidone: 58 (Baseline), 50 (3M), 41 (6M), 36 (9M), 33 (12M)
+  2. "NO. WITH RELAPSE": Shows the number of patients who had relapsed by each time point for each group:
+     - Haloperidol: 0 (Baseline), 1 (3M), 6 (6M), 6 (9M), 6 (12M)
+     - Olanzapine: 0 (Baseline), 4 (3M), 5 (6M), 8 (9M), 10 (12M)
+     - Risperidone: 0 (Baseline), 2 (3M), 5 (6M), 6 (9M), 8 (12M)

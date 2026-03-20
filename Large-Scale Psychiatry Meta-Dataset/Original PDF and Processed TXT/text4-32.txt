@@ -1,0 +1,248 @@
+### Text Content (Before References)
+Original Contribution
+Paliperidone Extended-Release Tablets for Prevention of Symptom Recurrence in Patients With Schizophrenia
+A Randomized, Double-Blind, Placebo-Controlled Study
+Michelle Kramer, MD,* George Simpson, MD,y Valentinas Maciulis, MD, PhD,z Stuart Kushner, MD,* Ujjwala Vijapurkar, PhD,* Pilar Lim, PhD,* and Marie¨lle Eerdekens, MD, MBA*
+
+Abstract: We evaluated the efficacy of paliperidone extended-release (ER), an investigational psychotropic agent, in delaying symptom recurrence in adult patients with schizophrenia and its safety and tolerability. In this randomized, double-blind, placebo-controlled, multicenter study, patients’ symptoms were stabilized during an 8-week run-in and a 6-week stabilization phases using open-label, flexibly dosed paliperidone ER (3–15 mg once daily, starting dose =9 mg). The primary efficacy variable was the time of first recurrence of schizophrenia symptoms, which included predefined changes in symptom scores, psychiatric hospitalization, self-injury, and suicidal or aggressive behavior during the double-blind phase (paliperidone ER or placebo treatment). Based on positive efficacy, the study was terminated at the preplanned interim analysis (43 recurrence events). The interim analysis (primary analysis) included 113 patients (mean age = 41 years; 51% men, 85% white). In the intent-to-treat group, 14 paliperidone ER–treated patients (25%) experienced a recurrence event versus 29 (53%) for placebo. Time-to-recurrence was significantly different, favoring the paliperidone ER group (P=0.005, log-rank test): 25% quantile of time-to-recurrence was 83 days (paliperidone ER) versus 23 days (placebo). Final analyses (n=205) were confirmatory. During initial open-label treatment with paliperidone ER, symptoms improved significantly. This improvement was maintained with continued treatment, as were functioning and quality-of-life measures. Treatment-emergent adverse events rates were similar: 35% for paliperidone ER and 40% for placebo. Paliperidone ER treatment versus placebo significantly delayed time-to-recurrence in patients with schizophrenia, maintained symptom stability and measures of functioning, and was generally well tolerated in this patient population.
+(J Clin Psychopharmacol 2007;27:6–14)
+
+Schizophrenia is a devastating illness with significant psychological, physical, social, and economic impacts.1,2 Although the disease course is variable, it is most often chronic, as characterized by an ongoing functional impairment and the frequent recurrence of acute psychotic symptoms.3 Relapse rates are substantial,4 resulting in repeated rehospitalization, decreased quality of life, and increased economic burden.5,6 Successive relapses are also associated with a poorer prognosis and progressively declining outcomes.7 Thus, the general goals of treatment aim to quickly reduce symptom severity, improve patient functioning, and prevent recurrences of symptomatic episodes and associated deterioration of functioning.
+
+Antipsychotic medication is the primary intervention for the stabilization of acute episodes and the prevention of symptom recurrence in patients with schizophrenia.8–10 The atypical antipsychotics are associated with lower risk of reversible and irreversible movement disorders than conventional antipsychotics;8,9,11–13 there is also evidence to suggest that atypical antipsychotics have an advantage in their ability to delay time to relapse,9,14 although there is variability in both the efficacy and safety characteristics of these drugs.5,15–17 Optimal effectiveness and the risk of adverse events must be considered when evaluating longer-term treatment strategies, as discontinuation rates remain high among the currently available oral preparations of antipsychotic agents.18
+
+Paliperidone is an investigational psychotropic medication. As the active major metabolite of the well-established antipsychotic agent, risperidone, it has a pharmacological activity at monoaminergic receptors that is similar to risperidone and is a general characteristic of newer antipsychotics.19 Paliperidone extended-release (ER) is a specific tablet formulation that uses OROS technology (Alza Corporation, Mountain View, Calif) to provide a consistent and continual drug delivery for more than a 24-hour period,19 thereby reducing the fluctuations in plasma concentrations that are characteristic of immediate-release formulations. Importantly, this gradually ascending release profile of paliperidone ER permits initiation of treatment with a therapeutically effective dose, reducing the need for initial dose titration.20–22 The terminal half-life of paliperidone is approximately 1 day and is unaffected by the formulation.23
+
+Furthermore, paliperidone ER, unlike risperidone, does not undergo significant hepatic metabolism,23 which may reduce the risk of clinically significant drug-drug interactions. This is a practical concern in patients with schizophrenia, who frequently have comorbidities that require additional medications.24
+
+The efficacy and safety of paliperidone ER in the acute treatment of schizophrenia have been demonstrated in 3 completed, randomized, double-blind, controlled studies20–22 that showed consistently positive results. The current study specifically evaluated the efficacy and safety of paliperidone ER in delaying symptom recurrence in patients who have been stabilized after an acute episode of schizophrenia.
+
+MATERIALS AND METHODS
+Patients
+Men and women, with ages from 18 to 65 years, were enrolled, provided they (1) had a diagnosis of schizophrenia (Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition [DSM-IV]) for at least 1 year and (2) were experiencing an acute episode of schizophrenia (Positive and Negative Syndrome Scale [PANSS] total score, 70–120). Patients were required to be physically healthy, capable of being compliant with self-administration of medication or have consistent help available throughout the study, and able to complete self-administered questionnaires.
+
+Patients were excluded if they had a DSM-IV Axis I diagnosis other than schizophrenia, if they had a DSM-IV Axis I diagnosis of substance dependence (except nicotine or caffeine) within 6 months before screening, or if they were considered to have a significant risk of suicidal or aggressive behavior. In addition, patients were excluded if they had medical conditions that could potentially alter the absorption, metabolism, or excretion of the study medication; relevant history of significant or unstable disease; known allergic reactions to barbiturates, carbamazepine, lamotrigine, phenytoin, paliperidone, or risperidone; a previous lack of response to risperidone; used a depot antipsychotic within 120 days; exposure to experimental treatment within 90 days before screening; electroconvulsive treatment within 3 months before screening; or had involuntary admission to a psychiatric hospital. Women were excluded if pregnant, nursing, or planning to become pregnant. Patients were encouraged to abstain from the use of alcohol or illicit substances for the entire study.
+
+Before run-in, patients were to have discontinued antiparkinsonian medications, antiepileptics, lithium, β-blockers (except those used for treatment of hypertension in stabilized patients), and monoamine oxidase inhibitors. Oral benzodiazepines were permitted. Oral benztropine or biperiden (or equivalent agents) for the treatment of extrapyramidal symptom (EPS) control and β-adrenergic blockers for treatment-emergent akathisia were allowed after baseline. Antidepressants (excluding monoamine oxidase inhibitors) were allowed if the dose was stable for at least 3 months before screening. Supportive or educational psychotherapy was also allowed.
+
+This study was conducted in accordance with the ethical principles that have their origin from the Declaration of Helsinki and that are consistent with good clinical practices and applicable regulatory requirements. After receiving a complete description of the study, all patients signed a study informed-consent document.
+
+Study Design, Randomization, and Blinding
+Johnson & Johnson Pharmaceutical Research and Development, LLC, funded this study, which was conducted on April 13 to August 31, 2005 at 45 centers in 6 countries (United States, Romania, Turkey, Latvia, Lithuania, and India). The study design included 5 phases: screening; an 8-week run-in phase, during which eligible patients were hospitalized and received open-label paliperidone ER (3–15 mg once daily, starting dose =9 mg) until they were deemed stable (minimum of 2 weeks); a 6-week open-label stabilization phase, during which discharged patients remained on their previous dose; a double-blind treatment phase of variable duration, during which stabilized patients were randomized 1:1 (via a sponsor-prepared, computer-generated randomization and stratification scheme, assigned by an interactive voice-response system) to receive paliperidone ER (starting at the dose maintained during stabilization) or placebo; and an optional 52-week, open-label extension. Patients remained in the double-blind phase until they experienced a recurrence event, until they withdrew from the study, or until the study was completed. We present the results through the end of the double-blind phase.
+
+An Independent Data Monitoring Committee performed ongoing safety monitoring, evaluated efficacy at the interim analysis, and provided recommendations to the sponsor about modifying, stopping, or continuing the study.
+
+Efficacy Measures
+The primary efficacy variable was the time to first recurrence during the double-blind phase. Recurrence was based on any one of the following criteria: (1) psychiatric hospitalization (involuntary or voluntary admission); (2) increase in PANSS total score by 25% for 2 consecutive days for patients who scored more than 40 at randomization or a 10-point increase for patients who scored 40 or below at randomization; (3) increase in the Clinical Global Impression-Severity (CGI-S) score to at least 4, for patients who scored 3 or below at randomization, or to at least 5, for patients whose CGI-S scores were 4 at randomization, for 2 consecutive days; (4) deliberate self-injury or aggressive behavior, or suicidal or homicidal ideation and aggressive behavior that was clinically significant; (5) increase in prespecified individual PANSS item scores to at least 5, for patients whose scores were 3 or below at randomization, or to at least 6, for patients whose scores were 4 at randomization, for 2 consecutive days.
+
+Secondary efficacy measures included PANSS total score and PANSS factor scores,25,26 Personal and Social Performance Scale (to assess patient functioning), CGI-S score, Schizophrenia Quality-of-Life Scale, and sleep visual analog scale.
+
+Safety and Tolerability Measures
+Safety was evaluated via an assessment of treatment-emergent adverse events (TEAEs) (using the World Health Organization Adverse Reaction Terminology dictionary), clinical laboratory tests, vital sign measurements, body weight, physical examinations, 12-lead electrocardiograms, and movement disorder rating scales (Simpson Angus Scale, Barnes Akathisia Rating Scale, and Abnormal Involuntary Movement Scale). Serum prolactin was also measured.
+
+Statistical Analyses
+This study included a prespecified interim analysis to be performed by an independent data monitoring committee after 43 recurrence events. If significant efficacy was established (P=0.01), the study was to be stopped.
+
+This study had a 90% power to detect a 20% difference between 10-month recurrence rates for placebo (45%) and paliperidone ER (25%) or, equivalently, a relative risk of 0.48, with a significance level set at 0.05; there was approximately a 43% probability of early study termination based on achieving efficacy at the interim analysis.
+
+The primary efficacy variable (time-to-recurrence) was analyzed using the Kaplan-Meier method to estimate the cumulative distribution function. A 2-sided, log-rank test was used to summarize time-to-recurrence in terms of number of events, number of censored patients, median, and 25th and 75th percentiles of events and to compare treatment differences. The estimate of hazards ratio and its 95% confidence interval (CI) were based on the Cox proportional hazards model, with treatment as the only covariate.
+
+All secondary analyses were performed with a significance level set at 0.05 (2-sided) across treatment groups with no adjustments for multiplicity. The last-observation-carried-forward approach was used for analyses of data from the double-blind phase.
+
+For secondary end points, an analysis of covariance model with factors for treatment and analysis center and baseline score (at double-blind randomization) as covariate was used to compare the treatment with regard to change from baseline to end point for the double-blind phase. Estimated least-squares means of the difference, with corresponding P values and 95% CIs, were presented for PANSS total and factor scores, CGI-S score, Personal and Social Performance Scale, Schizophrenia Quality-of-Life Scale, and sleep visual analog scale total scores. For CGI-S scores, ranked data were used.
+
+Populations Assessed
+All efficacy analyses from the double-blind phase used the intent-to-treat population data set, which included all randomized patients who received at least 1 dose of double-blind medication and had at least 1 valid postbaseline efficacy measurement.
+
+Safety summaries and analyses for the double-blind phase used data from all randomized patients who had taken at least 1 dose of double-blind study medication.
+
+Efficacy and safety summaries from the run-in and stabilization phases used data from all patients who received at least 1 dose of run-in phase medication.
+
+RESULTS
+The decision to terminate this study prematurely was based on significant efficacy results as determined by the Independent Data Monitoring Committee on August 1, 2005.
+
+The prespecified interim analysis became the primary analysis per protocol. The confirmatory final analysis data set also included events that occurred from May 13, 2005 (cutoff date for interim analysis), to August 31, 2005.
+
+Patient Disposition and Populations
+Two of the 113 patients randomized at the time of the interim efficacy analysis data cutoff did not have efficacy data, resulting in an intent-to-treat population of 111 patients.
+
+Patients participating in the study at the time of its early termination were considered to have completed the study: 530 patients were enrolled in the run-in phase and received at least 1 dose of medication; 207 were randomized into the double-blind phase (Fig. 1). Of the 179 patients who completed the study, 75 (36%) experienced a recurrence event, and 104 (50%) were considered to have completed the study as they were still enrolled in the double-blind phase at study termination.
+
+Discontinuations in the double-blind phase for reasons other than recurrence occurred in more paliperidone ER–treated patients (n=20, 19%) than placebo patients (n=8, 8%). The primary reason for discontinuation in paliperidone ER–treated patients was withdrawal of consent (n=12, 11%). No patients withdrew consent in the placebo group.
+
+Patient Demographics and Characteristics
+More than 80% of enrolled patients were diagnosed with paranoid schizophrenia, 14% with undifferentiated schizophrenia, and the remainder with disorganized, catatonic, or residual-type schizophrenia. Baseline demographic and psychiatric characteristics were generally similar across the populations (Table 1), including comparisons with patients not randomized to the double-blind phase. Compared with the intent-to-treat population used in the final analysis, however, patients not randomized (n=323) included more men (74% vs. 59%), more black patients (18% vs. 8%), more smokers (57% vs. 41%), fewer overweight patients (body mass index =25-30 kg/m², 21% vs. 31%), and fewer patients who previously used typical antipsychotic medications (32% vs. 48%).
+
+Patients’ symptom measures at double-blind randomization were consistent with improvement during the open-label run-in and stabilization phases (Table 1). At run-in baseline, the mean PANSS total score was 92.1 (SD=11.5); CGI-S scores indicated most patients to be moderately (49%) or markedly (40%) ill.
+
+Treatment Exposure
+During the flexible-dosing run-in phase, the mode daily dose (ie, dose taken most frequently) was 9 mg/d, taken by 45% of the patients. A total of 47% of patients had their doses increased to 12- or 15-mg dose, whereas 8% were tapered to the 6- or 3-mg dose.
+
+During the stabilization phase (n=312), the mode daily dose was distributed similarly across the 9-, 12-, and 15-mg doses with 33%, 26%, and 30% of patients, respectively, taking these doses.
+
+During the double-blind phase, patients included in the final analysis data set (used for safety analysis) were exposed for a median duration of 29 (placebo) and 45 (paliperidone ER) days. The mean dose and mean mode dose were 10.8 mg/d each; this was consistent across phases. The mode daily dose was 9 mg/d, used by 38% of patients; 22% used 12 mg/d, and 28% used 15 mg/d. Results for the interim analysis were consistent.
+
+Efficacy
+By the interim analysis, time-to-recurrence was significantly longer among patients in the paliperidone ER–treated group compared with the placebo group (P=0.005, log-rank test; Fig. 2A). Twenty-nine placebo-treated patients (53%) experienced a recurrence event compared with 14 paliperidone ER–treated patients (25%). The most frequent types of recurrence events were increases in CGI-S and PANSS total scores.
+
+Final analysis results (n=205) were confirmatory; time-to-recurrence was significantly longer among patients in the paliperidone ER group compared with those in the placebo group (P<0.001, log-rank test; Fig. 2B). Fifty-two placebo-treated patients (52%) experienced a recurrence event compared with 23 paliperidone ER–treated patients (22%). In addition, postrandomization treatment with paliperidone ER maintained the considerable improvement in symptom severity achieved after the open-label phases: the mean PANSS total score remained stable after an initial slight increase. In comparison, worsening was significantly greater for patients randomized to placebo (P<0.001) (Fig.3).
+
+Paliperidone ER treatment also resulted in significantly less deterioration in other measures of symptom severity, patient functioning, or quality of life compared with placebo. Treatment was not associated with daytime drowsiness (Table 2).
+
+Safety
+During the open-label phases, 73% of patients reported TEAEs. During the double-blind phase, 37% of patients reported TEAEs, which occurred at similar rates in the 2 treatment groups (Table 3). Twice as many serious TEAEs were reported for the placebo group as the paliperidone ER group (Table 3); most of them are related to exacerbation of the underlying psychotic disorder.
+
+The most frequently occurring TEAEs (≥10% of patients) in the open-label phases included tremor (16%), headache (14%), hyperkinesias (12%), and insomnia (10%). Three TEAEs occurred in at least 5% of either group of patients in the double-blind phase: psychosis, aggressive reaction, and insomnia. Of these, both psychosis and aggressive reaction occurred more frequently (≥5% difference) in the placebo group (n=102, 23% and 6%, respectively) than in the paliperidone ER group (n=104, 7% and 1%, respectively). Incidences of insomnia were similar for placebo- and paliperidone ER–treated patients (6% and 5%, respectively).
+
+There was 1 report of possible neuroleptic malignant syndrome, which occurred 3 days after the patient withdrew from the run-in phase. The patient had received paliperidone ER for 19 days and was treated for EPSs during run-in. All laboratory work and vital signs (including temperature) obtained at the end of the study were normal except for elevated creatine kinase (2201 U/L). There were no reports of cerebrovascular disorders or tardive dyskinesia. Incidences of orthostatic hypotension were low, experienced by 2% of placebo-treated patients and 5% of paliperidone ER–treated patients, during the double-blind phases. Extrapyramidal symptoms–related adverse events occurred in 31% of patients during the run-in and stabilization phases. Most of these occurred early, were mild or moderate in severity, and resolved within 3 weeks of continued treatment. During the double-blind phase, 7% of paliperidone ER–treated patients experienced EPS-related adverse events, compared with 3% in the placebo group. Prolactin levels were increased in paliperidone ER–treated patients, with the increases more pronounced in women. Mean prolactin levels decreased in patients randomized to placebo; those patients continuing treatment with paliperidone ER maintained levels elevated above the upper limit of the reference range. However, the incidence of potentially prolactin-related adverse events (eg, amenorrhea, nonpuerperal lactation) was low (4% paliperidone ER, 0% placebo).
+
+The incidence of increases in standing pulse rate (an increase of ≥15 beats per minute [bpm] with a value of ≥100 bpm) was higher in paliperidone ER–treated patients (15%) compared with placebo (8%). Consistent with this, the incidence of a high heart rate (≥100 bpm), based on electrocardiographic recordings, was 7% in the paliperidone ER group versus 2% for placebo.
+
+Body weight was measured at screening and at end point. In the safety analysis set, 12% (n=11) of placebo-treated patients and 20% (n=19) of paliperidone ER-treated patients had a weight increase of at least 7% from run-in baseline to double-blind end point, whereas 11% in the placebo group and 4% in the paliperidone ER group had a weight decrease of at least 7%. The mean increase was 1.8 kg for paliperidone ER–treated patients compared with 0.2 kg for placebo, as measured for more than 24 weeks (average) of treatment. The incidence of clinically significant weight gain (assessed as an adverse event) was low: 2% in each group. Changes in key metabolic parameters are shown in Table 4.
+
+There were 3 deaths. One suicide occurred 1 day after the patient was withdrawn from the stabilization phase after a period of suicidal ideation and while the patient was hospitalized for this event. Two deaths occurred during the double-blind phase; both patients were in the placebo treatment arm. One death was a suicide, which was considered as a recurrence by the investigator, and was included in the efficacy analysis. The other death was a result of the patient being shot, which was not considered by the investigator as a recurrence event, and was therefore included in the efficacy analysis as a censored observation.
+
+DISCUSSION
+Summary of Findings
+This study assessed the efficacy of paliperidone ER in delaying recurrence events and maintaining symptom control, its safety, and its tolerability in patients who had been stabilized after an acute episode of schizophrenia. The Independent Data Monitoring Committee recommended terminating the study early because the primary end point was achieved at the preplanned interim analysis: paliperidone ER significantly delayed time-to-recurrence compared with placebo. The final analyses confirmed these findings and additionally demonstrated that paliperidone ER treatment improved symptom severity and maintained both symptom stability and measures of functioning and quality of life.
+
+This study supports the efficacy and tolerability of paliperidone ER that was demonstrated previously in patients with schizophrenia20–22 and extends the data by demonstrating significant efficacy in delaying symptom relapse in stabilized patients. In addition, the safety profile in this longer-term trial, which showed that paliperidone ER was generally well tolerated, remained consistent with that found in previous shorter-term trials.20–22
+
+The results of this study also suggest that continued benefit is realized when treatment is extended beyond the 6-week duration used in the previous acute trials. Substantial improvement occurred in symptom severity during the 14-week open-label run-in and stabilization phases, and symptom stability was achieved. Subsequently, within the first 2 weeks of the double-blind phase, there was a statistically significant separation in the number of efficacy and quality-of-life measures between placebo- and paliperidone ER–treated patients. Paliperidone ER patients remained relatively stable, whereas notable worsening occurred in placebo-treated patients, indicating that paliperidone ER treatment maintained the significant symptom control achieved during the stabilization period. The initial slight worsening in PANSS scores postrandomization, which was seen in both treatment groups, may be related to an expectation, by either the evaluator or patient, of receiving placebo. It is common to find anticipation of efficacy or worsening linked to outcome in clinical trials.27–30
+
+Limitations of Study Design or Findings
+Because this study used a maintenance design, flexible dosing was allowed. Although consistent with common clinical practice, this design often results in an upward titration for most of the patients and rarely to dose reduction, as was seen in this trial. Investigators are reluctant to reduce the dose when efficacy is achieved in the absence of adverse events. Therefore, flexible dose studies are not most informative for dosing recommendations. Three other fixed-dose studies, which were conducted in parallel with this study, demonstrated that the lower doses of 3 and 6 mg are also effective in the treatment of schizophrenia.20–22 It is likely that these lower doses would also be effective in the maintenance of efficacy.
+
+More patients randomized to paliperidone ER treatment discontinued the study during the double-blind phase than placebo-treated patients, mostly due to withdrawal of consent. Lack of efficacy or symptom recurrence did not seem to be contributing factors. An examination of adverse events in these patients in the month before withdrawal of consent did not suggest a correlation between withdrawal and adverse events; however, the possibility cannot be completely excluded.
+
+Safety
+The incidence of adverse events and the rate of discontinuations as a result of adverse events were low in patients treated with paliperidone ER compared with placebo. The incidence of TEAEs in this trial during the open-label phases was similar to that observed in the previous trials for paliperidone ER.20–22
+
+Although no patient treated with paliperidone ER died during the study, 1 patient committed suicide 1 day after withdrawing from the stabilization phase and while hospitalized for treatment of suicidal ideation. Two deaths occurred in the placebo group.
+
+Mean body weight increases were detected in both treatment groups. The average weight gain for paliperidone ER–treated patients in this much longer duration study was largely consistent with the slight increase seen in the previous 6-week, fixed-dose studies.20–22 There was no worsening noted in other metabolic parameters.
+
+The low rates of potentially prolactin-related adverse events suggest that the observed increase in mean levels has limited clinical relevance.
+
+Extrapyramidal symptoms–related events were higher during the run-in and stabilization phases than the double-blind phase. This may have occurred partially because of the concomitant withdrawal of previous antipsychotic and anticholinergic agents before run-in.30 The tendency for investigators to titrate upward from the starting dose of 9 mg/d may also have contributed.
+
+Clinical Implications
+Paliperidone ER demonstrated efficacy in reducing the severity of symptoms, maintaining symptom control, and delaying symptoms of recurrence. In addition, measures of functioning and quality of life were maintained. The results suggest that once-daily paliperidone ER, which uses OROS technology, may offer an efficacious, well-tolerated option that meets the longer-term goals of treatment in patients with schizophrenia.
+
+ACKNOWLEDGMENTS
+The authors thank Dr Wendy P. Battisti, for her writing and editorial assistance, and Dr Susan Glasser, for the editorial review. Drs Battisti and Glasser are both employed by Johnson & Johnson Pharmaceutical Research and Development, LLC, USA.
+
+The authors recognize the following main investigators from the 45 sites that enrolled patients:
+Latvia: Andrezina, Raisa, MD; Arajs, Andris, MD; Revelis, Paulis, MD
+Lithuania: Germanavicius, Arunas, MD, PhD; Maciulis, Valentinas, MD, PhD; Radavicius, Liaudginas E., MD, PhD; Satkeviciute, Regina, MD, PhD; Subata, Emilis, MD, PhD
+India: Barhale, Vinay L., DPM, MD; Bohra, Neelam K., DPM, MD; Gautam, Shiv K., DPM, MD; Nagpal, Jitendra, MD, DNB; Raju, Nadukuru N., MD; Rao, Gundugurti P., MD; Thatikonda, Padma S., MD; Trivedi, Jitendra K., MD; Vahia, Vihang N., DMP, MD
+Romania: Dan, Irina-Ana, MD; Georgescu, Marie-Jama, MD, PhD; Grigoriu, Alexandru-Ioan, MD; Manea, Mirela, MD, PhD; Mihailescu, Radu, MD, PhD; Oros, Gheorghe, MD, PhD; Popescu, Ioana, MD; Prelipceanu, Dan, MD, PhD; Teodorescu, Radu, MD
+Turkey: Akdemir, Asena, MD; Alptekin, Koksal, MD; Dilbaz, Nesrin, MD; Karamustafalioglu, Oguz, MD; Ucok, Alp, Prof, MD
+USA: Bari, Mohammed, MD; Carr, Jesse, MD; Cutler, Andrew, MD; Garcia, Donald, Jr, MD; Gilliam, John, MD; Hafez, Hisham, MD; Linden, David, MD; Manning, Raymond, MD; Mattingly, Gregory, MD; Mofsen, Ricky, DO; Rajani, Raj, MD; Simpson, George, MD; Tran-Johnson, Tram, PharmD, PsyD; Yadalam, Kahinath, MD.
+
+### Tables (Text Format)
+Table 1. Patient Characteristics of Intent-to-Treat Populations
+| | Interim Analysis | | Final Analysis | |
+| --- | --- | --- | --- | --- |
+| | Placebo (n = 55) | Paliperidone ER (n = 56) | Placebo (n = 101) | Paliperidone ER (n = 104) |
+| Demographics | | | | |
+| Age, y (SD) | 39.8 (10.9) | 41.7 (10.2) | 37.5 (10.4) | 39.0 (10.7) |
+| Sex, n (%) | | | | |
+| Male | 29 (53) | 28 (50) | 63 (62) | 58 (56) |
+| Race, n (%) | | | | |
+| White | 46 (84) | 48 (86) | 61 (60) | 62 (60) |
+| Black | 9 (16) | 6 (11) | 9 (9) | 8 (8) |
+| Asian | 0 | 2 (4) | 0 | 3 (3) |
+| Others* | 0 | 0 | 31 (31) | 31 (30) |
+| Body mass index, kg/m² (SD) | 28.7 (8.9) | 27.3 (5.8) | 26.5 (7.9) | 25.7 (5.8) |
+| Psychiatric history | | | | |
+| Mean age at diagnosis of schizophrenia, y (SD) | 27.1 (9.4) | 29.0 (9.6) | 25.8 (9.4) | 27.1 (9.1) |
+| PANSS total score, mean (SD) [range] | 56.2 (8.2) [33–70] | 54.6 (8.7) [32–69] | 53.4 (10.6) [30–70] | 51.0 (11.4) [30–89] |
+| CGI-S, n (%) | | | | |
+| Not ill | 0 | 1 (2) | 5 (5) | 6 (6) |
+| Very mild | 17 (31) | 19 (34) | 33 (33) | 38 (37) |
+| Mild | 31 (56) | 31 (55) | 54 (53) | 49 (47) |
+| Moderate | 7 (13) | 5 (9) | 9 (9) | 11 (11) |
+| Previous psychotropic use, n (%) | | | | |
+| Total patients using psychotropics | 51 (93) | 53 (95) | 95 (94) | 97 (93) |
+| Benzodiazepines | 40 (73) | 43 (77) | 77 (76) | 76 (73) |
+| Atypical antipsychotics | 30 (55) | 38 (68) | 54 (53) | 68 (65) |
+| Typical antipsychotics | 32 (58) | 25 (45) | 58 (57) | 40 (38) |
+| Anti-EPS treatment | 20 (36) | 15 (27) | 32 (32) | 26 (25) |
+| Days since last psychotic episode, median (range) | 151 (18–4517) | 196 (21–4823) | 182 (7–4517) | 209 (21–4823) |
+| Before hospitalization for psychosis, median | 4 | 3 | 3 | 3 |
+| Before hospitalizations for psychosis, n (%) | | | | |
+| None | 4 (7) | 4 (7) | 27 (27) | 26 (25) |
+| One | 6 (11) | 7 (13) | 14 (14) | 15 (14) |
+| Two or more times | 45 (82) | 45 (80) | 60 (59) | 63 (60) |
+*Sites in India enrolled patients during the approximately 3-month period between the interim analysis and final data lock.
+
+Table 2. Secondary Efficacy Measures: Final Analysis Data Set
+| Efficacy Measure | Placebo (n = 101) | Paliperidone ER (n = 104) |
+| --- | --- | --- |
+| PANSS, mean (SD) | | |
+| Baseline | 53.4 (10.6) | 51.0 (11.4) |
+| Change from baseline | 15.1 (19.1) | 6.0 (13.6)* |
+| CGI-S Scale, median (range) | | |
+| Baseline | 3.0 (1-4) | 3.0 (1-4) |
+| Change from baseline | 1.0 (-2 to 4) | 0.0 (-2 to 3)* |
+| Personal and Social Performance Scale, mean (SD) | | |
+| Baseline | 72.6 (10.5) | 70.8 (10.9) |
+| Change from baseline | -8.0 (12.6) | -3.0 (10.4)* |
+| Schizophrenia Quality-of-Life Scale, mean (SD) | | |
+| Baseline | 29.9 (14.0) | 29.7 (15.0) |
+| Change from baseline | 6.1 (14.7) | 2.0 (12.5) |
+| Sleep quality visual analog scale, mean (SD) | | |
+| Baseline | 78.3 (20.0) | 76.4 (23.3) |
+| Change from baseline | -15.3 (26.9) | -6.4 (19.6)* |
+| Daytime drowsiness visual analog scale, mean (SD) | | |
+| Baseline | 19.5 (18.3) | 21.7 (23.2) |
+| Change from baseline | 1.8 (17.6) | -0.6 (19.1) |
+*Treatment with paliperidone ER resulted in significant differences in all secondary efficacy measures compared with placebo, except for daytime drowsiness scores, which were comparable to placebo. P ≤0.003; §P=0.04.
+
+Table 3. Treatment-Emergent Adverse Events Across Study Phases
+| Category | Run-in and Stabilization Phases (All Treated Patients) Paliperidone ER (n = 530) | Double-blind Phase (All Treated Patients) | |
+| --- | --- | --- | --- |
+| | | Placebo (n = 102) | Paliperidone ER (n = 104) |
+| All TEAEs | 385 (73) | 41 (40) | 36 (35) |
+| Possibly related TEAEs* | 252 (48) | 25 (25) | 18 (17) |
+| TEAEs leading to death | 0 | 2 (2) | 0 |
+| Died during posttreatment† | 3 (1) | 0 | 0 |
+| One or more serious TEAEs | 30 (6) | 16 (16) | 8 (8) |
+| TEAEs leading to discontinuation‡ | 27 (5) | 1 (1) | 3 (3) |
+*TEAEs that were considered by the investigator to be possible, probable, and very likely related to treatment. †Deaths after the run-in/stabilization phase included 2 suicides (1 after patient withdrew from stabilization phase and 1 in the double-blind phase) and 1 patient who was shot and died of the wounds. ‡For double-blind phase, these were hypertension, tachycardia, and costochondritis (n=1); thrombophlebitis (n=1), and mild somnolence and mild abnormal vision for paliperidone ER group; and nausea (n=1) for placebo group. Values are presented as n (%).
+
+Table 4. Change From Baseline to End Point in Key Clinical Laboratory Measures
+| Laboratory Measure | Run-in Baseline to Stabilization End Point (All Treated Patients)* Paliperidone ER (n = 530) | Double-blind Phase Baseline to End Point (Safety Population) | |
+| --- | --- | --- | --- |
+| | | Placebo (n = 102) | Paliperidone ER (n = 104) |
+| C-peptide (nmol/L) | n = 251 | n = 78 | n = 82 |
+| Baseline | 1.0 (1.0) | 1.0 (0.5) | 1.0 (0.5) |
+| Change | 0 | 0 | 0.1 (0.5) |
+| Glucose (nmol/L) | n = 273 | n = 81 | n = 85 |
+| Baseline | 5.4 (0.9) | 5.4 (0.8) | 5.5 (1.1) |
+| Change | 0.1 (1.4) | -0.1 (0.9) | -0.1 (0.7) |
+| Insulin (uU/mL) | n = 259 | n = 79 | n = 81 |
+| Baseline | 9.9 (11.0) | 9.0 (7.8) | 10.2 (8.2) |
+| Change | 0.4 (14.2) | -0.2 (10.8) | -0.1 (8.8) |
+| Lipids (mmol/L) | | | |
+| Cholesterol level | n = 278 | n = 86 | n = 87 |
+| Baseline | 4.8 (1.3) | 4.8 (1.2) | 5.0 (1.3) |
+| Change | -0.2 (0.86) | -0.2 (0.8) | 0 |
+| LDL | n = 272 | n = 82 | n = 84 |
+| Baseline | 3.0 (1.1) | 3.0 (1.0) | 3.0 (1.1) |
+| Change | -0.1 (0.76) | -0.1 (0.7) | 0 |
+| HDL | n = 277 | n = 85 | n = 86 |
+| Baseline | 1.1 (0.3) | 1.1 (0.3) | 1.2 (0.4) |
+| Change | 0 | 0 | 0 |
+| Triglycerides | n = 278 | n = 86 | n = 87 |
+| Baseline | 1.6 (1.2) | 1.7 (1.2) | 1.7 (1.2) |
+| Change | -0.1 (0.9) | -0.1 (0.7) | -0.1 (0.7) |
+*For those patients who made it to the end of the stabilization phase (14 weeks). LDL indicates low-density lipoprotein; HDL, high-density lipoprotein. Values for baseline and change are presented as mean (SD).
+
+### Image Descriptions (Text Format)
+Figure 1: Study flow and patient disposition. The flowchart illustrates the progression of patients through each phase of the study. A total of 530 patients were enrolled in the run-in phase (flexible dosing of paliperidone ER 3-15 mg/d), with 183 dropouts (due to criteria not met, adverse events, lost to follow-up, subject choice, noncompliance, or other reasons), leaving 312 patients to enter the stabilization phase (fixed dose of paliperidone ER established during run-in). Forty-nine patients dropped out during stabilization, resulting in 207 patients randomized to the double-blind phase (105 in paliperidone ER group, 102 in placebo group). During the double-blind phase, 8 patients dropped out from the paliperidone ER group and 20 from the placebo group. Ultimately, 94 patients in the paliperidone ER group and 85 in the placebo group completed the double-blind phase; 23 patients in the paliperidone ER group and 52 in the placebo group experienced recurrence. At the time of study termination, 35 patients were still in the run-in phase and 56 in the stabilization phase (not randomized, but allowed to enter the open-label extension).
+
+Figure 2: Time to recurrence. Two Kaplan-Meier curves comparing the time to first recurrence of schizophrenia symptoms between the placebo and paliperidone ER groups. A) Primary analysis (interim analysis) data set: Placebo group (n=55) and paliperidone ER group (n=56). The 25% quantile of time-to-recurrence was 23 days (95% CI: 14-42 days) for placebo and 83 days (95% CI: 32 days-not estimable) for paliperidone ER. The median time-to-recurrence was 62 days (95% CI: 42-119 days) for placebo, while the median was not estimable for paliperidone ER (as <50% of patients experienced recurrence). The log-rank test P-value was 0.005, favoring paliperidone ER. B) Final analysis data set: Placebo group (n=101) and paliperidone ER group (n=104). The log-rank test P-value was <0.001, confirming the significant delay in recurrence with paliperidone ER. The x-axis represents days since randomization, and the y-axis represents the percentage of patients without recurrence (ranging from 0% to 100%).
+
+Figure 3: PANSS total score over time (final analysis data set). A line graph showing the mean PANSS total scores across the run-in/stabilization phases and double-blind phase for the intent-to-treat population (n=205). The x-axis represents weeks of treatment, and the y-axis represents mean PANSS total score (ranging from 32 to 96). At run-in baseline, the mean PANSS score was ~92.1; scores improved significantly during run-in and stabilization, reaching ~53.4 (placebo) and ~51.0 (paliperidone ER) at double-blind baseline. During the double-blind phase, the placebo group (n=101) showed a significant increase in PANSS scores (worsening symptoms), while the paliperidone ER group (n=104) maintained relatively stable scores with only a slight initial increase. The difference between groups was statistically significant (P<0.001). Abbreviations: RI/ST = run-in and stabilization phases; DB = double-blind phase; LOCF = last-observation-carried-forward.

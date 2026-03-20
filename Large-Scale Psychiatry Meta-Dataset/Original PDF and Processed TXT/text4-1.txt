@@ -1,0 +1,187 @@
+### Text Content (Before References)
+International Clinical Psychopharmacology 2002, 17:207–215
+A 1-year, double-blind, placebo-controlled trial of ziprasidone 40, 80 and 160 mg/day in chronic schizophrenia: the Ziprasidone Extended Use in Schizophrenia (ZEUS) study
+M. Aratoa, R. O’Connorb and H.Y. Meltzerc on behalf of the ZEUS Study Group
+aArato¤ Clinic, Budapest, Hungary, bP¢zer Pharmaceuticals Group, New York, NY, and cVanderbilt University Medical Center, Psychiatric Hospital at Vanderbilt, Nashville, TN, USA
+Correspondence to Rory O’Connor, P¢zer Pharmaceuticals Group, 235 East 42nd Street, NewYork, NY10017-5755, USA
+Tel: +1212 573 2323; e-mail: oconnr1@p¢zer.com
+Received: 8 April 2002; accepted 28 May 2002
+
+We evaluated relapse in patients with stable, chronic schizophrenia over a 1-year period; inpatients were randomized to ziprasidone 40 mg/day (n=72), 80 mg/day (n=68), 160 mg/day (n=67) or placebo (n=71). The probability of relapse (Kaplan–Meier) at 1 year was significantly lower in the ziprasidone 40, 80, and 160 mg/day groups (43%, 35% and 36%, respectively) compared to placebo (77%; P=0.002, P<0.001 and P<0.001, respectively). In those patients who remained on treatment for at least 6 months, only 9% subsequently relapsed on ziprasidone compared to 42% on placebo (P=0.001). All three doses of ziprasidone were significantly superior to placebo on Positive and Negative Syndrome Scale (PANSS) efficacy variables (all P<0.05). Ziprasidone was associated with a significantly greater mean improvement in the PANSS negative symptom subscale compared to placebo (P<0.05). Discontinuation due to adverse events was similar with ziprasidone and placebo. Ziprasidone treatment was indistinguishable from placebo in assessments of movement disorders and was not associated with weight gain or cardiovascular abnormalities. These results demonstrate that ziprasidone was effective in reducing the frequency of relapse and was associated with long-term improvement in negative symptoms. Ziprasidone was well tolerated in this population of patients with chronic, stable schizophrenia.
+
+Keywords: chronic, negative symptoms, relapse, schizophrenia, ZEUS, ziprasidone
+
+INTRODUCTION
+Ziprasidone is a novel antipsychotic with a unique pharmacological profile. In addition to a high 5-HT D2 receptor binding ratio, it is an agonist at the 5-HT1A receptor, an antagonist at the 5-HT1D receptor and inhibits the reuptake of serotonin and norepinephrine (Seeger et al., 1995). The potent 5-HT1A receptor agonism, a property shared by clozapine (Newman-Tancredi et al., 1996; Zorn et al., 1999) appears to mediate, in vivo, a selective increase of dopamine release in the pre-frontal cortex compared to the striatum in pre-clinical studies, a property that has been postulated to contribute to efficacy in negative symptoms in schizophrenia (Zorn et al., 1999; Rollema et al., 2000).
+
+Ziprasidone has been shown to be effective and well tolerated in the treatment of patients with acute exacerbation of schizophrenia or schizoaffective disorder in short-term clinical trials (Goff et al., 1998; Keck et al., 1998; Daniel et al., 1999). It was hypothesized that ziprasidone would be effective and well tolerated in the prevention of psychotic relapse in a long-term trial of stable patients.
+
+METHODS
+This randomized, double-blind, parallel-group, placebo-controlled trial evaluated three fixed doses of ziprasidone in the treatment of chronic schizophrenia for 1 year. The study complied with the Declaration of Helsinki (Hong Kong, 1989 revision) and was approved by local ethics review boards. Patients were recruited from 26 European centres with facilities for long-term care of the mentally ill. All investigators were psychiatrists who were trained in using the Positive and Negative Syndrome Scale (PANSS) (Kay et al., 1987). Written informed consent was obtained for all patients.
+
+Patients
+Inpatients, aged 18 years or older, with chronic, stable schizophrenia (DSM-III-R) (American Psychiatric Association, 1987) who had been hospitalized for at least 2 months and had scores of ≤5 (markedly ill) on the Clinical Global Impression of Severity scale (CGIS) (CGI: ECDEU, 1976) were eligible. Previous treatment with ziprasidone was prohibited. Patients were excluded if they had a recent acute exacerbation of schizophrenia, a score of ≥5 on items P7 (hostility) or G8 (uncooperativeness) of the PANSS, or displayed a significant risk of suicide. Other exclusion criteria included treatment resistance (defined as lack of therapeutic response to a conventional antipsychotic during an acute exacerbation on at least two occasions in the previous 2 years) and substance abuse or dependence in the previous 3 months. Patients were also excluded if they had been treated with: depot neuroleptics, unless the last injection had been at least one treatment cycle before entry, an investigational drug within the previous 4 weeks, fluoxetine in the previous 5 weeks, monoamine oxidase inhibitors in the previous 2 weeks, or antidepressants or lithium in the previous week. Women of childbearing potential were eligible if they were using reliable contraception. Pregnant or breast-feeding women were excluded. Patients remained as inpatients for the duration of the study.
+
+Treatment and procedures
+Patients received single-blind placebo for up to 3 days while laboratory analyses and an electrocardiogram (EKG) were completed and previous antipsychotic and anticholinergic medications were discontinued. Patients were then assigned to one of four treatment arms pre-defined by a computer-generated pseudorandom code. Fixed doses of ziprasidone 40 mg/day, ziprasidone 80 mg/day and ziprasidone 160 mg/day, or placebo, were administered as twice daily doses, for up to 1 year in a double-blind fashion. Patients randomized to ziprasidone 160 mg/day received 80 mg/day for the first 2 days and 160 mg/day thereafter. No change in dose was permitted during the study. Anticholinergics, lorazepam for agitation and temazepam (upper limit 20 mg) for insomnia, were permitted at the investigator’s discretion. All other psychotropic medication was prohibited.
+
+Relapse was prospectively operationalized as either a Clinical Global Impression of Improvement (CGI-I) score ≥6, or a score ≥6 on PANSS items P7 (hostility) or G8 (uncooperativeness) persisting for two successive days. Patients with a CGI-I score of 5 (minimally worse) had evaluations repeated daily for 3 days, and then weekly, until their condition improved (remained in the study), or deteriorated to a score ≥6 (withdrawn from the study). In addition, any patient who the investigator considered to be in need of additional treatment for exacerbation of symptoms was withdrawn from the study and offered appropriate treatment. Patients withdrawing under these conditions were prospectively defined as experiencing relapse.
+
+Assessments
+All assessments were undertaken according to a predefined schedule and upon early discontinuation from the study. The PANSS and CGI scales were completed at screening, baseline, and at the end of weeks 3, 6, 16, 28, 40 and 52. The Global Assessment of Functioning (GAF) scale (American Psychiatric Association, 1987) was administered at baseline and weeks 28 and 52. The Simpson–Angus rating scale (Simpson and Angus, 1970) and the Barnes Akathisia Rating Scale (Barnes, 1989) were administered at baseline and weeks 6, 16, 28, 40 and 52. The Abnormal Involuntary Movements Scale (AIMS) (AIMS: ECDEU, 1976) was administered at baseline and weeks 28 and 52.
+
+All adverse events, either observed or spontaneously reported were recorded and classified using COSTART terminology (US FDA, 1996). Routine laboratory tests were performed at screening and weeks 4, 12, 28 and 52 and all samples were analysed in a central laboratory. Electrocardiograms (12-lead) were recorded at screening and weeks 12, 28 and 52 and analysed centrally. Blood pressure and pulse rate were measured at screening, baseline and weeks 2, 4, 12, 28, 40 and 52. Patients were weighed at baseline and weeks 28 and 52. Ophthalmological assessment, including fundoscopy and slit-lamp examination, was performed at screening and endpoint. All serious adverse events occurring during the study, and up to 3 months following cessation of study treatment, were recorded.
+
+Statistical analysis
+Patients with both a baseline assessment and at least one assessment thereafter were included in efficacy analyses. Patients receiving at least one dose of study drug were included in safety analyses. All tests of statistical significance were two-sided (α=0.05).
+
+Kaplan–Meier survival curves estimated the probability of remaining relapse free. Among-group differences were estimated using the log-rank test. For the comparison between each ziprasidone group and placebo, P values were derived from a Cox regression model, and the percentage of patients who had an acute exacerbation after 6 months was compared between ziprasidone and placebo groups using a chi-square analysis.
+
+Mean changes from baseline in efficacy variables were compared between each of the ziprasidone groups and the placebo group on an intention-to-treat basis (ITT) using the last observation carried forward (LOCF). Treatment effects, based on least squares mean changes, were examined using an analysis of covariance (ANCOVA) (PROC GLM procedure, statistical analysis software (SAS)) with baseline response as a covariate and fixed terms for centre and treatment. All P values were derived from the respective t-tests. The frequency of individual adverse events was compared between each of the ziprasidone groups and the placebo group and the contrast P values were based on a continuity corrected test of the difference between two proportions. An analysis of mean changes in efficacy variables in patients who completed the study was also undertaken using the methods described above.
+
+RESULTS
+Patients and disposition
+Of 329 patients screened, 294 were randomized, received at least one dose of double-blind treatment, and were included in the analyses. Sixteen patients from one centre were excluded from analysis because the centre was found to have deviated from the protocol by permitting concomitant conventional antipsychotic treatment.
+
+The baseline characteristics were similar in each treatment group (Table 1). The frequency, type and severity of concomitant and previous medical illnesses and the frequency and type of pre-study medication were balanced among groups. Before entering the study, most patients were taking a conventional antipsychotic. Twenty-seven patients were taking clozapine, two were taking quetiapine and one was taking olanzapine. Generally, patients were middle aged, with a long history of schizophrenia and multiple hospitalizations. Mean baseline efficacy variables were similar in all treatment groups (Table 2).
+
+The higher incidence of withdrawal in the placebo group compared to ziprasidone was largely due to a higher incidence of relapse (Table 3). Kaplan–Meier analysis demonstrated the probability of relapse at 1 year was significantly lower in patients treated with ziprasidone 40 mg/day (43%), ziprasidone 80 mg/day (35%) and ziprasidone 160 mg/day (36%) compared with patients who received placebo (77%) (all d.f.=1; chi squared=9.470, P=0.002; chi squared=12.974, P<0.001; chi squared=13.959, P<0.001, respectively) (Fig. 1).
+
+Of the 34% (n=71/206) of patients treated with ziprasidone who relapsed over the course of the study, most (61/71) did so in the first 6 months. Of the 110 ziprasidone-treated patients who remained in the study for at least 6 months, only 9% (10/110) relapsed before endpoint. Of the total 61% (n=43/71) of placebo-treated patients who relapsed during the course of the study, 35 did so during the first 6 months. Of the 19 placebo-treated patients who remained in the study for at least 6 months, 42% (8/19) relapsed before endpoint. The differences between ziprasidone (9%) and placebo (42%) in the rate of relapse after 6 months was statistically significant (Chi squared=17.201, d.f.=3, P=0.001).
+
+Clinical response
+Comparisons of changes from baseline (LOCF) were statistically significant for all efficacy variables and favoured the three ziprasidone groups (Table 2). There was a small improvement in negative symptoms in the placebo group up to week 6 but, by week 16, the mean score was higher than baseline and continued to deteriorate until the end of the study. By contrast, each of the three ziprasidone treatment groups showed progressive improvement in negative symptoms throughout the study, with significant differences from placebo observed from week 16 onwards. No significant dose–response was observed in the analysis of efficacy variables.
+
+In the analysis of efficacy variables among patients who completed the 1-year treatment period, there were no significant differences between the placebo group (n=10) and the ziprasidone 40 mg/day (n=30), 80 mg/day (n=29) or 160 mg/day (n=30) groups at any assessment point during the study in the comparison of mean changes in PANSS total, negative subscale, positive subscale, CGI-S or GAF scores. Comparison of baseline scores among completers indicated that those who completed in the placebo group had a significantly higher mean GAF score (56.4) than any of the ziprasidone treatment groups (P=0.0469) (mean GAF all ziprasidone groups pooled=48.9). No significant differences among completers in mean baseline scores on other efficacy variables were observed.
+
+Safety and tolerability
+The proportions of patients experiencing treatment-emergent adverse events were similar in all four treatment groups (Table 4), as was the frequency of discontinuation due to treatment-related adverse events. Of the adverse events occurring in at least 5% of patients in any treatment group, those associated with ziprasidone treatment generally occurred with similar frequency to placebo and did not appear dose-related (Table 4).
+
+No postural hypotension was reported and tachycardia was no more frequent with ziprasidone than with placebo (≤3%). One patient on ziprasidone (40 mg/day) experienced constipation and there were only isolated reports of dry mouth and increased salivation (≤3% in any treatment group). Somnolence was also rarely reported (≤4% in any group). Nausea and dyspepsia were reported with ziprasidone treatment (≤4%) but not with placebo, although the incidence of vomiting was similar in all groups (≤6%). Rash was more frequent in ziprasidone-treated patients (6.3%) than placebo-treated patients (1.4%). However, no cases of rash were severe, serious or led to discontinuation. No episodes of impotence, ejaculatory dysfunction, decreased libido, amenorrhoea, galactorrhoea, or gynecomastia were reported.
+
+There were small mean improvements in all groups in the Simpson–Angus and Barnes Akathisia scales, and negligible changes in mean AIMS scores with values indistinguishable from placebo (Fig. 2). Concomitant anticholinergics were taken at some time by 9/71 (13%), 12/72 (17%), 9/68 (13%) and 13/67 (19%) of patients in the placebo and ziprasidone 40, 80 and 160 mg/day groups, respectively. Beta-blocker use was negligible in all groups.
+
+There was a small mean reduction in body weight of 3.6, 2.7, 3.2 and 2.9 kg in the placebo and ziprasidone 40, 80 and 160 mg/day groups, respectively. Laboratory abnormalities were reported in 24%, 22%, 20% and 31% of patients in the placebo, ziprasidone 40 mg/day, 80 mg/day and 160 mg/day groups, respectively. Most abnormalities were isolated reports in single patients. Changes in haematological, renal, liver and hormonal variables were unremarkable and no notable differences between ziprasidone and placebo were observed. Median serum prolactin decreased from baseline in all treatment groups (1–4.25 ng/ml). No pattern of clinically significant changes in blood pressure and pulse rate were noted. Ziprasidone treatment was not associated with significant EKG abnormalities and QTc interval changes were similar in all groups (Table 5). No patient had a QTc interval >500 ms. No ophthalmological abnormalities were observed.
+
+Four patients on ziprasidone 40 mg/day and one on placebo had serious adverse events that were classed as treatment-related. One ziprasidone-treated patient had extrapyramidal symptoms, asthenia, dehydration and hypotension, which occurred on day 6, and another had a recurrence of acute dystonia on day 13. One ziprasidone-treated patient had vomiting and cardiac insufficiency and another had a grand mal seizure on the second day of treatment.
+
+DISCUSSION
+This large, randomized, double-blind placebo-controlled clinical trial of ziprasidone in doses of 40–160 mg/day demonstrated the effectiveness of this novel antipsychotic agent in preventing relapse over a 1-year period in inpatients with chronic, stable schizophrenia.
+
+The study was unique in that long-term analysis of relapse was not restricted to patients who had demonstrated a short-term treatment response, as is usual with extension studies (Lindstrom et al., 1995; Speller et al., 1997; Tollefson and Sanger, 1997). The large sample size and long (1-year) duration enabled assessment of the effectiveness of ziprasidone during maintenance therapy. Mean baseline PANSS scores indicated that patients had moderate levels of positive symptoms, moderate to high levels of negative symptoms and GAF scores indicating seriously impaired function, which is characteristic of the majority of patients with chronic schizophrenia. These patients had similar characteristics to those often treated in partial hospitalization or outpatient programs in the USA and Europe, and are likely to be representative of a substantial proportion of the population with chronic schizophrenia. Since patients were hospitalized for the duration of the study, it is impossible to determine the effect of social stressors, such as discharge, residential changes or family conflict on symptom exacerbation. However, the stability of the environment indicates that outcomes may be more likely due to treatment effects.
+
+The study design, selection of patients, comparator, assessment instruments and statistical analyses used in this study are consistent with expert recommendations for studying long-term treatment with antipsychotics (Angst et al., 1991). The potential for administration of placebo for up to 1 year necessitated special precautions regarding patient safety. All patients were required to remain under immediate medical supervision as inpatients in dedicated long-stay facilities for the duration of the study, enabling early detection of symptom deterioration. Relapse was conservatively defined and prospectively operationalized, enabling rapid withdrawal of patients at risk of relapse and institution of treatment as appropriate.
+
+Ziprasidone offered significant protection against relapse compared to placebo. Although relapse studies display wide variability in definitions of relapse and duration of follow-up, the rate observed here in the placebo group (49% in the first 6 months and 61% over 1 year) is compatible with reported rates of relapse following abrupt neuroleptic withdrawal (Hogarty, 1993; Gilbert et al., 1995; Weiden and Oltson, 1995; Viguera et al., 1997). The rate of relapse over 1 year with ziprasidone treatment (34%) is comparable to that seen with conventional neuroleptics (Hogarty, 1993; Kissling, 1994; Gilbert et al., 1995; Weiden and Oltson, 1995; King, 1998). In addition, patients receiving ziprasidone for at least 6 months were unlikely to relapse subsequently; by contrast, those few patients on placebo who remained in the study for at least 6 months remained at high risk of relapse. Kaplan–Meier analysis of the probabilities of relapse over 1 year confirmed that the differences between each of the three ziprasidone groups and the placebo group were statistically significant (all P ≤0.002).
+
+In this study, mean scores on all efficacy scales deteriorated in the placebo group, but scores remained stable in the ziprasidone group. Ziprasidone treatment was associated with a significant mean reduction from baseline in the PANSS negative subscale in contrast to the increase observed in the placebo group. Negative symptoms are heterogeneous and changes during treatment may reflect improvement in primary, core negative symptoms or improvement in secondary negative symptoms due to improvement in positive or depressive symptoms or reduction in extrapyramidal side-effects and their associated pharmacological treatment (Möller et al., 1995; DeQuardo and Tandon, 1998). Although the efficacy of ziprasidone in treating primary negative symptoms requires further investigation, the small, but statistically significant reduction in the PANSS negative subscale associated with ziprasidone appears to be independent of between-group differences in these other variables.
+
+An analysis of patients who completed the study yielded no significant differences between the placebo group and the ziprasidone treatment groups in the analysis of mean changes in efficacy variables. However, this analysis was unlikely to provide meaningful findings as only 10 patients in the placebo group completed the study and the mean GAF score among these placebo-treated patients was significantly higher than the ziprasidone-treated patients at baseline.
+
+The lack of clear dose–response seen in this study deserves comment. There are few well-controlled long-term fixed dose studies of stable patients with schizophrenia, and it is difficult to know if this effect is clinically relevant, or if it is an artifact related to the difficulty of evaluating symptom change in patients with chronic, stable psychopathology. The primary outcome analysis was the differential probability of relapse and the study was not powered to compare continuous variable changes between ziprasidone groups. A dose–response is evident in studies of patients with acute exacerbation of schizophrenia receiving ziprasidone (Goff et al., 1998; Keck et al., 1998; Daniel et al., 1999) and further long-term studies are required to clarify this point.
+
+Poor tolerability is a major cause of medication noncompliance (Fleischhacker et al., 1994; Kissling, 1994; Kane, 1997) and associated psychotic relapse. Although the median duration of ziprasidone treatment was more than two-fold greater than placebo, there was no difference among groups in the total percentage of patients who experienced adverse events. Discontinuation due to adverse events, including movement disorders, was rare, and no greater in ziprasidone-treated patients than in placebo-treated patients.
+
+Ziprasidone was not associated with clinically significant laboratory abnormalities or EKG changes and had little effect on QTc intervals compared with placebo. No patient had a QTc interval >500 ms. Ziprasidone was generally indistinguishable from placebo in all assessments of movement disorders, confirming the favourable profile demonstrated in short-term studies (Goff et al., 1998; Keck et al., 1998; Daniel et al., 1999). Symptoms of sexual dysfunction were not reported and symptoms of anticholinergic activity were infrequent. The lack of weight gain associated with ziprasidone in this study is encouraging, consistent with results from short-term clinical trials (Keck et al., 1998; Daniel et al., 1999) and may distinguish ziprasidone from other atypical antipsychotics (Allison et al., 1999).
+
+In summary, this 1-year, placebo-controlled trial demonstrated that ziprasidone was effective in reducing the frequency of relapse in patients with chronic, stable schizophrenia, and had a tolerability profile similar to that of placebo. Furthermore, ziprasidone treatment was associated with a small but statistically significant improvement in negative symptoms as measured by the PANSS negative symptom subscale. This efficacy and tolerability profile supports the effectiveness of ziprasidone in the long-term management of schizophrenia.
+
+Acknowledgements
+Drs M. Arato and H.Y. Meltzer are paid as consultants on a project basis by the sponsor, Pfizer Inc. Dr R. O’Connor is an employee of Pfizer Inc. The authors, the ZEUS study group and the sponsor wish to thank the patients who took part in the ZEUS study, their families for their support, and the staff who took care of the patients during the study. They also wish to thank Dr Jean Bradbury for her contribution. The ZEUS study group comprised: Czech Republic: Dr I. Drabek, Dr Z. Drlilkova, Dr J. Hronek, Dr P. Jerabek, Dr Z. Muchl, Dr V. Namestkova, Dr P. Rocek; Poland: Dr M. Jarema, Professor A. Kiejna, Professor M. Masiak, Dr T. Matusiak, Dr W. Mrowiec, Dr M. Paluba, J. Rybakowski, Professor M. Rzewuska, Dr K. Sobucka, Dr W. Szelenberger, Dr R. Wardenski; Hungary: Dr G. Bartko, Dr A. Bela, Dr L. Csekey, Dr G. Horváth Ostorharics, Dr I. Kosza, Dr A. Szilagyi; Estonia: Dr A. Puusild, Dr P. Valvur.
+
+### Tables (TXT Format)
+Table 1. Baseline characteristics of patients
+| Variable | Placebo (n=71) | Ziprasidone, 40 mg/day (n=72) | Ziprasidone, 80 mg/day (n=68) | Ziprasidone, 160 mg/day (n=67) |
+| --- | --- | --- | --- | --- |
+| Men, n (%) | 59 (83) | 52 (72) | 48 (71) | 44 (66) |
+| Antipsychotic therapy, n (%)a | 67 (88) | 63 (83) | 67 (88) | 61 (80) |
+| Anticholinergic therapy, n (%)a | 19 (25) | 18 (24) | 23 (30) | 20 (26) |
+| Smoker, n (%) | 50 (70) | 44 (61) | 47 (69) | 50 (75) |
+| Age (years), mean (range) | 48.7 (20-76) | 50.8 (18-82) | 49.8 (24-78) | 49.6 (22-73) |
+| Weight (kg), mean (range) | 73.5 (48-115) | 73.0 (45-124) | 70.9 (45-116) | 71.3 (44-155) |
+| Duration of illness (months), mean (SD) | 260 (147) | 275 (166) | 248 (150) | 264 (130) |
+| Current hospitalization (months), mean (SD) | 62 (89) | 72 (116) | 69 (95) | 70 (85) |
+| Previous hospitalizations, mean (SD) | 12.1 (9.6) | 9.5 (8.0) | 8.3 (7.6) | 10.3 (7.4) |
+aBefore the study.
+
+Table 2. Mean baseline and endpoint efficacy variables and GAF scores (ITT LOCF)
+| Variable | Treatment | Baseline (Mean ± SD) | Endpoint (Mean ± SD) | Mean Change | LS Mean Difference versus Placebo | P |
+| --- | --- | --- | --- | --- | --- | --- |
+| PANSS Total | Placebo (n=71) | 88.4 ± 10.0 | 104.0 ± 27.1 | 15.6 | - | - |
+| | Ziprasidone 40 mg/day (n=71) | 84.2 ± 18.4 | 87.1 ± 27.6 | 2.9 | -13.1 | 0.001 |
+| | Ziprasidone 80 mg/day (n=68) | 86.2 ± 18.6 | 88.0 ± 30.8 | 1.9 | -12.7 | 0.001 |
+| | Ziprasidone 160 mg/day (n=67) | 84.5 ± 18.3 | 83.2 ± 25.8 | -1.3 | -16.8 | <0.001 |
+| PANSS Negative Subscale | Placebo (n=71) | 25.8 ± 5.1 | 27.1 ± 7.2 | 1.4 | - | - |
+| | Ziprasidone 40 mg/day (n=71) | 24.8 ± 6.3 | 22.9 ± 7.4 | -1.9 | -3.5 | <0.001 |
+| | Ziprasidone 80 mg/day (n=68) | 24.8 ± 5.4 | 23.7 ± 7.4 | -1.0 | -2.4 | 0.011 |
+| | Ziprasidone 160 mg/day (n=67) | 25.1 ± 5.9 | 22.3 ± 7.0 | -2.8 | -4.2 | <0.001 |
+| PANSS Positive Subscale | Placebo (n=71) | 18.0 ± 6.2 | 24.2 ± 9.0 | 6.2 | - | - |
+| | Ziprasidone 40 mg/day (n=71) | 17.3 ± 5.7 | 20.3 ± 9.0 | 3.0 | -3.3 | 0.008 |
+| | Ziprasidone 80 mg/day (n=68) | 17.9 ± 5.8 | 19.0 ± 9.0 | 1.2 | -4.7 | <0.001 |
+| | Ziprasidone 160 mg/day (n=67) | 16.7 ± 5.4 | 18.5 ± 8.5 | 1.8 | -4.3 | 0.001 |
+| CGI-S | Placebo (n=71) | 4.1 ± 0.8 | 5.0 ± 1.2 | 1.0 | - | - |
+| | Ziprasidone 40 mg/day (n=71) | 4.0 ± 0.7 | 4.5 ± 1.3 | 0.4 | -0.6 | 0.002 |
+| | Ziprasidone 80 mg/day (n=68) | 4.0 ± 0.6 | 4.2 ± 1.4 | 0.2 | -0.8 | <0.001 |
+| | Ziprasidone 160 mg/day (n=67) | 4.0 ± 0.7 | 4.2 ± 1.4 | 0.1 | -0.8 | <0.001 |
+| GAF | Placebo (n=70) | 46.9 ± 12.8 | 36.7 ± 15.1 | -10.2 | - | - |
+| | Ziprasidone 40 mg/day (n=71) | 48.0 ± 11.7 | 44.0 ± 18.7 | -4.0 | 6.9 | 0.005 |
+| | Ziprasidone 80 mg/day (n=68) | 46.9 ± 12.0 | 45.9 ± 19.6 | -1.0 | 8.5 | 0.001 |
+| | Ziprasidone 160 mg/day (n=66) | 47.6 ± 11.8 | 46.7 ± 19.6 | -0.9 | 9.1 | <0.001 |
+ITT, intention-to-treat; LOCF, last observation carried forward; Z, ziprasidone; P, placebo; PANSS, Positive and Negative Syndrome Scale; CGI-S, Clinical Global Impression Severity Scale; GAF, Global Assessment of Function Scale. P versus placebo for change from baseline (ANCOVA). Rounding of values may result in some discrepancies between mean scores and mean change scores shown.
+
+Table 3. Reasons for withdrawal from the study
+| Reason | Placebo (n=71) |  | Ziprasidone 40 mg/day (n=72) |  | Ziprasidone 80 mg/day (n=68) |  | Ziprasidone 160 mg/day (n=67) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | n | % | n | % | n | % | n | % |
+| Total withdrawn | 61 | 86 | 42 | 58 | 39 | 57 | 37 | 55 |
+| Relapsea | 43 | 61 | 27 | 38 | 21 | 31 | 23 | 34 |
+| Adverse eventb | 11 | 15 | 7 | 10 | 7 | 10 | 5 | 7 |
+| Laboratory abnormalities | 1 | 1 | - | - | 1 | 1 | 2 | 3 |
+| Otherc | 6 | 8 | 8 | 11 | 10 | 15 | 7 | 10 |
+aProspectively defined criteria for mandatory withdrawal or in investigator’s opinion. b1, 1, 1 and 4, respectively, were intercurrent illness (i.e. not related to treatment). cOther includes hospital transfer, withdrawn consent, lost-to-follow up and administrative reasons.
+
+Table 4. Summary of exposure to treatment and treatment-emergent adverse events (AE) experienced at some time during the study
+| Variable | Placebo (n=71) |  | Ziprasidone 40 mg/day (n=72) |  | Ziprasidone 80 mg/day (n=68) |  | Ziprasidone 160 mg/day (n=67) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Median duration of treatment (days) | 72 |  | 149 |  | 200 |  | 271 |  |
+| With AE | 54 | 76 | 52 | 72 | 50 | 74 | 47 | 70 |
+| With AE excluding emergent psychotic symptomsa | 51 | 72 | 50 | 69 | 49 | 72 | 47 | 70 |
+| Discontinued due to AEa | 11 | 15 | 7 | 10 | 7 | 10 | 5 | 7 |
+| Discontinued due to movement disorders | 3 | 4 | 3 | 4 | 2 | 3 | - | - |
+| AEb reported in ≥5% (n≥4) of patients in any treatment group |  |  |  |  |  |  |  |  |
+| Infection | - | - | 3 | 4 | 4 | 6 | 2 | 3 |
+| Asthenia | - | - | 3 | 4 | 3 | 4 | 6c | 9c |
+| Headache | 4 | 6 | 3 | 4 | 5 | 7 | 7 | 10 |
+| Flu syndrome | 2 | 3 | - | - | - | - | 5 | 7 |
+| Accidental injury | - | - | 2 | 3 | 4 | 6 | 3 | 4 |
+| Hypertension | 5 | 7 | 4 | 6 | 3 | 4 | 5 | 7 |
+| Diarrhoea | 3 | 4 | 5 | 7 | 5 | 7 | 4 | 6 |
+| Vomiting | 3 | 4 | 3 | 4 | 4 | 6 | 4 | 6 |
+| Tooth disorder | 3 | 4 | 3 | 4 | 2 | 3 | 4 | 6 |
+| Weight loss | 3 | 4 | 3 | 4 | 6 | 9 | 4 | 6 |
+| Dyskinesia | 5 | 7 | 3 | 4 | 3 | 4 | 2 | 3 |
+| Tremor | 2 | 3 | 1 | 1 | 3 | 4 | 4 | 6 |
+| Extrapyramidal syndrome | 4 | 6 | 2 | 3 | 2 | 3 | 4 | 6 |
+| Insomnia | 22 | 31 | 20 | 28 | 19 | 28 | 30 | 45 |
+| Depression | 4 | 6 | 6 | 8 | 4 | 6 | 7 | 10 |
+| Anxiety | 12 | 17 | 8 | 11 | 7 | 10 | 9 | 13 |
+| Agitation | 13 | 18 | 9 | 13 | 8 | 12 | 10 | 10 |
+| Akathisia | 4 | 6 | 7 | 10 | 6 | 9 | 8 | 12 |
+| Respiratory tract infection | 3 | 4 | 2 | 3 | 4 | 6 | 2 | 3 |
+| Pharyngitis | 1 | 1 | 3 | 4 | 4 | 6 | 2 | 3 |
+| Bronchitis | 1 | 1 | 3 | 4 | 2 | 3 | 4 | 6 |
+| Rash | 1 | 1 | 4 | 6 | 4 | 6 | 5 | 7 |
+aExcludes emergent psychotic symptoms that were occasionally categorized as adverse events by some investigators. b5, 1, 1 and 4 were intercurrent illness (i.e. not related to treatment). cP<0.05 versus placebo based on continuity corrected test of difference between two proportions.
+
+Table 5. Summary of QTc intervals at baseline and endpoint
+| Variable | Placebo (n=45) |  | Ziprasidone 40 mg/day (n=58) |  | Ziprasidone 80 mg/day (n=57) |  | Ziprasidone 160 mg/day (n=55) |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | Mean (ms) | Range (ms) | Mean (ms) | Range (ms) | Mean (ms) | Range (ms) | Mean (ms) | Range (ms) |
+| Baseline | 404.2 | 321-507 | 408.8 | 350-494 | 400.7 | 337-457 | 404.5 | 344-473 |
+| Endpoint | 399.6 | 341-478 | 412.4 | 330-490 | 404.6 | 333-464 | 405.4 | 345-461 |
+| Mean change | -4.6 | - | 3.6 | - | 3.9 | - | 0.9 | - |
+
+### Image Descriptions (TXT Format)
+Figure 1: Kaplan–Meier estimate of time to relapse. The graph is a survival curve plot with the x-axis labeled "Week" (ranging from 0 to 52 weeks) and the y-axis labeled "Proportion free of impending relapse" (ranging from 0.0 to 1.0). Four curves are presented, representing the four treatment groups: placebo (n=71), ziprasidone 40 mg/day (n=70), ziprasidone 80 mg/day (n=68), and ziprasidone 160 mg/day (n=67). The placebo group shows the steepest decline in the proportion of relapse-free patients, with the lowest proportion remaining relapse-free at 52 weeks (approximately 0.23). The three ziprasidone groups have much flatter curves, with higher proportions of relapse-free patients at 52 weeks: ziprasidone 40 mg/day (approximately 0.57), ziprasidone 80 mg/day (approximately 0.65), and ziprasidone 160 mg/day (approximately 0.64). Statistical significance markers are included: **P<0.01 for ziprasidone 40 mg/day versus placebo, and ***P<0.001 for ziprasidone 80 mg/day and 160 mg/day versus placebo. The overall log-rank P-value is 0.0001. A stepwise elimination of non-significant variables (P<0.05) in the model resulted in a final model comprising only treatment group contrast variables, with all other confounding variables having little impact. Cox regression comparison at 1 year showed significant differences between placebo and each ziprasidone group: ziprasidone 40 mg/day (chi squared=9.470, d.f.=1, P=0.002), 80 mg/day (chi squared=12.974, d.f.=1, P<0.001), and 160 mg/day (chi squared=13.959, d.f.=1, P≤0.001).
+
+Figure 2: Mean change from baseline in movement disorder assessment scales (ITT LOCF). The graph is a bar chart with the x-axis listing the four treatment groups: placebo (N=71), ziprasidone 40 mg/day (N=70), ziprasidone 80 mg/day (N=68), and ziprasidone 160 mg/day (N=67). The y-axis represents the mean change from baseline (ranging from -6 to 3). Three movement disorder scales are included: Simpson–Angus, AIMS (Abnormal Involuntary Movements Scale), and Barnes Akathisia. For each treatment group, three bars are presented corresponding to the three scales. All groups show small mean improvements (negative values) in the Simpson–Angus and Barnes Akathisia scales, with no substantial differences between ziprasidone groups and placebo. Mean changes in AIMS scores are negligible (close to 0) across all groups, with values indistinguishable from placebo. Baseline and endpoint AIMS assessments were not available for two patients in the placebo group and one in the ziprasidone 160 mg/day group.

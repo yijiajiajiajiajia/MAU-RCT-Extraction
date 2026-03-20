@@ -1,0 +1,266 @@
+### Text Content (Before References)
+A Double-Blind Comparison of Haloperidol Oral Concentrate, Haloperidol Solutabs and Placebo in the Treatment of Chronic Schizophrenia
+K. Y. OTA. Ph.D., Abel A. A. KURLAND. M.D. Catonsville, Md.
+
+HALOPERIDOL is a major antipsychotic and tranquilizing agent belonging to a class of compounds known as the butyrophenones. Although this compound has been commercially available in the United States since 1967, it has been widely used in Europe since 1958.1
+
+Evidence from a fairly large number of controlled studies2-7 seems to indicate that haloperidol is a potent neuroleptic with therapeutic qualities similar to those of the most effective phenothiazines. In a comprehensive review, Crane observed that the drug has shown its greatest effectiveness in the treatment of acute and chronic schizophrenia as well as in the manic phase of manic-depressive psychosis. Overactivity and agitation are target symptoms particularly susceptible to the drug's action, whereas depression does not appear to be greatly affected. Side effects appear to be extrapyramidal reactions. However, clinical evidence indicates that haloperidol is at least as safe as any of the phenothiazines.
+
+In addition to the tablet, injectable, and oral concentrate dosage forms already being marketed, haloperidol has recently become available in a soluble tablet form (Solutabs, McNeil). Although the route and manner of administration may have a subtle influence on the outcome of treatment, there is no clear evidence as yet that one form of the medication is more effective than another.8 However, in view of the fact that much clinical evidence and experience has been gained with the liquid and parenterally administered forms of the drug, it seemed appropriate to compare the effectiveness of the new soluble tablets with that of the established liquid dosage form before asserting that the two are entirely comparable. The present study, therefore, was designed to provide such a double-blind, placebo-controlled comparison.
+
+### Material and Method
+The purpose of this study was to evaluate the effectiveness of haloperidol in a soluble tablet form in maintaining control of the symptomatology of hospitalized schizophrenic patients who had previously responded to haloperidol administered as oral concentrate.
+
+#### Subjects
+Patients selected for this double-blind study were diagnosed clinically as chronic schizophrenics. All had been previously treated and adequately maintained for at least one month with haloperidol oral concentrate. Although 54 patients initially entered the study, data pertaining to ten were judged by the senior investigator to be insufficient for statistical purposes, and they were therefore excluded from the final analyses.
+
+From the Spring Grove State Hospital, Maryland Psychiatric Research Center, Catonsville, Md. • Haldol, McNeil Laboratories, Inc., Fort Washington, Pa.
+February-March, 1973
+
+#### Procedure
+All the patients were placed on a drug-free interval for one week prior to the stabilization period. They were then stabilized by treatment with haloperidol oral concentrate for 30 days. At the end of this stabilization period, a 90-day, double-blind treatment period was initiated. Those patients assigned to the haloperidol oral concentrate group received active oral concentrate and soluble placebo tablets. The patients in the haloperidol soluble tablet group received active soluble tablets and placebo oral liquid. A third group received placebo in both the oral concentrate and soluble tablet forms. The characteristics of the 44 patients studied are presented in Table I. It will be seen that the three treatment groups were homogeneous with respect to age, sex, and length of hospitalization.
+
+With minor exceptions, the dose administered initially to each patient in the two active medication groups during the double-blind phase was identical in strength to the dose the patient had been receiving at the end of the stabilization period. This starting dose was usually maintained throughout the entire double-blind phase. Table II presents a summary of the dosages administered during the stabilization and double-blind phases of the study.
+
+As can be seen from the table, courses of therapy were highly similar throughout the stabilization period. Statistical analysis of average daily dose and average cumulative dose during the stabilization period revealed no significant differences. Although the data from the double-blind phase indicated that the average number of days on treatment for the oral concentrate group was shorter than for the remaining two drug groups, this difference was also not statistically significant.
+
+Clinical and laboratory evaluations consisted of the following:
+1. A psychiatric, medical, and pharmacologic history.
+2. A complete physical examination at the start of the stabilization period, including clinical laboratory tests consisting of complete blood count, serum creatinine, serum glutamic-pyruvic transaminase, and alkaline phosphatase. These were repeated at the beginning of the double-blind phase and at the end of the study. Vital signs, consisting of blood pressure (sitting), pulse, weight, and temperature, were recorded prior to the study and at two-week intervals thereafter.
+3. Clinical evaluations, consisting of the Brief Psychiatric Rating Scale (BPRS)8 and the Nurses' Observation Scale for Inpatient Evaluation (NOSIE),9 were completed prior to, and at the completion of, the stabilization period, as well as at the midpoint and end of the double-blind phase. Clinical Global Ratings of severity of illness were made at the beginning of the study as well as at the beginning and end of the double-blind segment, while Clinical Global Ratings of improvement were made at the latter two points.
+
+### Results
+#### Brief Psychiatric Rating Scale (BPRS)
+The 16 items comprising the BPRS were analyzed individually, in addition to the total score analysis. Comparison of the three treatment groups at the end of the stabilization period as well as at the end of the double-blind phase was accomplished by means of analysis of covariance, with initial scores as the covariate.10 The summary of the behavioral data analyses is shown in Table III.
+
+The results indicated that the three groups were entirely homogeneous in response during the stabilization period, during which all received the oral concentrate form of the drug. At the end of the double-blind phase, however, the two groups receiving active medication showed a superior mean response to that shown by the placebo group on all items of the BPRS, with the exception of motor retardation (in which initial pathology was minimal in all cases). The mean differences observed were statistically significant at the 0.05 level or beyond with respect to emotional withdrawal, conceptual disorganization, mannerisms and posturing, grandiosity, unusual thought content, blunted affect, and BPRS total score. Similar trends toward significance (P<0.10) were also noted with respect to anxiety and depressive mood.
+
+Subsequent statistical analyses of the above scales, using Duncan's Multiple Range Test11 on the covariance-adjusted means, revealed the three treatment groups could further be differentiated from one another. Where statistical significance existed, both active drug groups responded superior to the placebo group (P<0.05 in new Multiple Range Test) in the following items: emotional withdrawal, grandiosity, and total score. The soluble tablet group responded significantly more favorably than the placebo group in the areas of conceptual disorganization, mannerisms and posturing, and unusual thought content; while in the blunted affect item, the oral concentrate group responded more favorably than the placebo group. The differences between the two active drug groups, however, were negligible.
+
+On the basis of these findings, the active drug groups showed superior therapeutic responses over the placebo group in certain psychotic dimensions, although any superiority of oral concentrate or soluble tablets over one another could not be clearly demonstrated.
+
+#### Nurses' Observation Scale for Inpatient Evaluation (NOSIE)
+The NOSIE scores consist of seven factorial measures derived from 30 individual items; three scores represent positive adjustment, three reflect pathology or "negative adjustment," and one is a total patient assets score combining the positive and negative factors. All of these measures were subjected to the same type of statistical analysis mentioned above, and the results are presented in Table IV.
+
+As before, no significant mean differences were observed among the three treatment groups at the close of the stabilization period. At the end of the double-blind phase, however, the two groups receiving active medication showed a superior mean response to the placebo group with respect to social interest and total patient assets (P<0.05). There were no differences between the oral concentrate and soluble tablet groups.
+
+#### Clinical Global Impression (Severity of Illness)
+This seven-point rating scale measured the present severity of illness, ranging from "normal or not ill at all" to "most severely ill." The results of the analysis are presented in Table V.
+
+The analysis of the data showed that the three groups were homogeneous in terms of the mean initial severity of illness. At the end of the stabilization period, all groups had experienced a small reduction in their ratings. However, at the end of the double-blind period, these scores were further reduced in the two active drug groups but not in the placebo group. The final adjusted means revealed no statistically significant differences among the three groups.
+
+#### Clinical Global Impression (Degree of Improvement)
+This rating scale, aimed to measure the magnitude of the clinical change which has occurred since the start of the study, employed a seven-point scale, ranging from "very much improved" to "very much worse," with a midpoint of "no change." The ratings were obtained at the end of the stabilization period and at the end of the double-blind phase. Table VI presents the results.
+
+As seen from the table, most of the patients in all three groups improved or remained unchanged during the 30-day stabilization period. The two groups of patients who continued to receive active haloperidol medication also improved during the double-blind phase of the study. The placebo group, on the other hand, appeared to show a worsening effect by the end of the double-blind period, and the differences among the three groups were statistically significant at the 0.05 level.
+
+#### Side Effects
+The frequency of side effects is tabulated in Table VII. As can be seen, there were no statistically significant differences among the three groups. It is, however, noted that variability in individual reactions to a drug is clearly shown.
+
+In reviewing the individual cases, there were nine patients who developed various symptoms during the stabilization period in the oral concentrate group, but these symptoms disappeared in eight patients during the double-blind phase of haloperidol concentrate treatment. One patient continued to display a mild degree of rigidity, tremor, and akathisia, but these symptoms were not severe enough to discontinue treatment.
+
+In the soluble tablet group, there were seven patients who developed extrapyramidal symptoms during the stabilization period. Of these, five became symptom free during the double-blind phase, while two patients experienced sialorrhea and hyperactivity after seven to eight weeks of soluble tablet treatment. Six patients, with no side effects during the stabilization period, developed various symptoms such as rigidity, akathisia, loss of associated movement, tremor, and, in one case, dyskinesia.
+
+In the placebo group, there were no symptoms of rigidity or tremor during the stabilization period, while five patients displayed other symptoms as listed in the table. Of these, only one patient continued to experience the same symptoms throughout the study, two became symptom free, and two developed new symptoms during the subsequent placebo period. During this double-blind placebo phase, however, five patients developed such symptoms as rigidity, loss of associated movement, tremor, hyperactivity, and other often-noticed adverse reactions to a phenothiazine.
+
+The side effect symptoms varied from mild to severe in degree. Biperiden was given to control severe extrapyramidal symptoms, and mild to moderate cases were dealt with by manipulation of study drug dosage levels. Fifteen out of 44 patients who developed side effects during one phase or another spontaneously recovered from the symptoms without any change in therapy.
+
+#### Laboratory Findings
+Although there were no significant findings in the laboratory data, it was noted that there were considerable variations in the polycyte and lymphocyte counts at the end of the study. Polycytes tended to increase while the lymphocytes tended to decrease. These variations are often found among chronic schizophrenic patients, and the findings from this study are thus not considered to be clinically significant.
+
+#### Vital Signs
+There were no significant changes in the vital signs data. However, the oral concentrate group had one patient having tachycardia and another exhibiting orthostatic hypotension. Again, the differential effects among the three groups were not clear.
+
+#### Dropouts
+Of a total of 54 patients included in the project, ten were terminated before completion: five during the stabilization period and the remainder during the double-blind phase of the study.
+
+The five subjects dropped during the stabilization period received haloperidol oral concentrate for only two to ten days. Their reasons for termination were as follows: severe rigidity, sialorrhea, and insomnia, one patient; hyperactive and unmanageable, three patients; left hospital without medical authorization, one patient.
+
+Of the five patients who were dropped during the double-blind phase, four were on placebo for seven to 11 days, and one received haloperidol oral concentrate, 2 mg q.i.d. for ten days. One subject in the placebo group became suicidal; and in most others, recurrence of hallucinations and general behavioral and intrapsychic deterioration were the primary considerations for early termination. The patient in the oral concentrate group suffered from hallucinations, confusion, and gradual physical deterioration, resulting in weight loss.
+
+There were no dropouts from the soluble tablet group.
+
+### Discussion
+The findings of this study demonstrated the clinical and statistically significant superiority of haloperidol over placebo as an antipsychotic compound. The overall poor showing of the placebo was also reflected in the relatively large number of dropouts during the double-blind stage; in those chronic patients who were undoubtedly in need of antipsychotic medication, serious decompensation seems to set in within one to two weeks. Some patients, however, once they become stabilized and then treated with placebo, seemed to maintain their clinical status quo for four to 16 weeks with little behavioral disturbance. If the behavior of this type of patient should become temporarily or reactively disruptive, chemotherapy could perhaps involve an active neuroleptic on a short-term rather than long-term basis.
+
+Among those few patients who did not respond favorably to haloperidol oral concentrate during stabilization, the outcome was that of hyperactivity and aggressive behavior in previously passive patients, and increased hyperactivity and aggressiveness in those already manifesting these characteristics. These clinical observations may reflect the lack of sedation with haloperidol and/or the emergence of symptomatology suppressed but not ablated by sedative phenothiazines. With the utilization of parenteral and/or more liberal oral dosages of haloperidol, which, however, was precluded by the design of this controlled clinical investigation, these symptoms may have been readily controlled.
+
+Although there were no differential therapeutic effects noted between the oral concentrate and the soluble tablets, two patients who completed the oral concentrate open phase successfully by either improving or remaining the same began to regress and decompensate during the double-blind phase while receiving the same oral concentrate and had to be dropped from the study. The onset of exacerbation of hyperactivity and schizophrenic symptomatology appeared within ten days after the double-blind phase commenced. The data seem to suggest the existence of a psychological component, involving a "negative placebo effect" that could be influential in treatment outcome. (The patient, believing he is on placebo when he is actually on active medication, psychologically inhibits, hinders, or even precludes his own clinical improvement.) However, the above response may also suggest an exacerbation of these patients' symptomatology with a subsequent overall worsening, which may have been prevented, retarded, or eliminated with more frequent and higher doses of haloperidol not permitted by the protocol. Since in the soluble tablet group there were no dropouts and one additional improved patient, and there were no significant differences between this group and the concentrate group, the inference of a treatment-influencing psychological component is further reinforced. A replication of this study using soluble tablets instead of oral concentrate in the open phase is certainly indicated.
+
+With regard to side effects, there were almost as many adverse reactions during the double-blind phase in the placebo group as there were in the active drug groups. Those who developed such neurologic side effects as rigidity, tremor, etc., on placebo might have been experiencing the transient effects of drug withdrawal that are sometimes seen in chronic schizophrenic patients.12
+
+Since the population for this study was carefully selected and then stabilized for at least a month on the oral concentrate in order to provide a reliable baseline before the double-blind phase, there were no significant differences at the end of the stabilization period among the subsequent treatment groups. However, the wide range of individual variability present at the beginning and end of the stabilization period remained through the end of the double-blind phase, even though the two active drug groups differed significantly from the placebo group. The so-called "chronic schizophrenics" are a heterogeneous group, including tense, agitated, hyperactive individuals on one hand and inactive, withdrawn, "backward" patients on the other, with many falling between the two extremes. Given this wide variability in patient symptomatology, the subjective feelings, impressions, and expectations of both patients and staff regarding medication within a given nosological category can sometimes cause difficulty in drawing any clear conclusions as to who is suitable for any given drug. However, in spite of the wide range of individual variability, the clinical and statistically significant results observed in this study in favor of both dosage forms of haloperidol clearly demonstrated the superiority of this active compound over placebo in the treatment of a heterogeneous group of psychiatric patients.
+
+From the standpoint of nursing care, a survey indicated that haloperidol soluble tablets were preferred over the oral concentrate, since the amount of medication could be measured more exactly. In addition, the nurses commented that the soluble tablet required less time to administer by allowing the medication to dissolve in the liquid vehicle each patient received at the time of dosing.
+
+### Summary
+This double-blind study was conducted among chronic schizophrenics in a state psychiatric hospital in order to evaluate the effectiveness of haloperidol in a soluble tablet form in maintaining control of the symptomatology of hospitalized schizophrenic patients who were first stabilized on haloperidol oral concentrate.
+
+A total of 54 male and female patients, all of whom were diagnosed as chronic schizophrenics, and whose ages ranged from 22 to 58 years, were placed on a drug-free period of one week and were then adequately maintained for at least one month with haloperidol oral concentrate prior to the double-blind treatment phase. Following this stabilization period, they were randomly assigned to one of the following three treatment groups: haloperidol oral concentrate, haloperidol soluble tablet, or placebo. In order to maintain the anonymity of medication, all groups received both liquid and tablet forms, each containing an active drug or placebo according to their assigned treatment regimen. A 90-day double-blind schedule was carried out.
+
+The results, on the basis of psychometric data, supported superiority of haloperidol oral concentrate and soluble tablets over placebo, although no differential effects between the two active forms were obtained. The general areas of improvement were shown in psychotic ideation and in affective and socially favorable behavioral changes.
+
+With respect to the side effects, no significant differences were observed among the three groups. Clinical laboratory findings, including vital signs, did not show any gross abnormal changes at the end of the study.
+
+Five patients were dropped during the stabilization period with oral concentrate, and an additional five patients were prematurely terminated during the double-blind phase. In all cases, the reasons involved behavioral deterioration, and the patients had to be removed from the rigid experimental schedule, or the double-blind code had to be broken, in order to handle the acute symptoms in a more flexible clinical manner. During the double-blind phase, four of the dropouts were on placebo and the fifth was receiving oral concentrate. There were no dropouts from the soluble tablet group. In considering the psychiatric condition and the rate of regression, there was a wide range of individual differences in tolerance and reactivity to the three treatment groups among the chronic schizophrenics.
+
+The soluble tablet form seemed to be effective for a long-term treatment schedule, with few complications. From the standpoint of nursing care, the soluble tablets were preferred by the nurses for the ease and accuracy of drug administration.
+
+### Acknowledgment
+This study was supported by McNeil Laboratories, Inc., Fort Washington, Pa., and administered by Friends Medical Science Research Center, Inc., Baltimore, Maryland. The author wishes to thank Bruno Radauskas, M.D., Superintendent, and Deusdedit Jolbitado, M.D., Clinical Director of Spring Grove State Hospital, for their special interest and support in this study. Appreciation is also expressed to the nursing personnel who cooperated in this project. Gratitude is extended to Doctors Peregrino Ferro, Olive Harris, Ronald Smeets, and Stella Wachsler, who methodically observed and evaluated the patients throughout the study. Without their scientific and clinical interest, this study could not have been completed.
+
+
+### Tables (in TXT Format)
+#### Table 1: Patient Characteristics
+| Category | Concentrate (n=15) | Tablets (n=17) | Placebo (n=12) |
+|----------|--------------------|----------------|----------------|
+| Male     | 6                  | 9              | 9              |
+| Female   | 9                  | 8              | 3              |
+| Age (years) - Mean | 43.0 | 41.3 | 42.8 |
+| Age (years) - S.D. | 11.33 | 10.63 | 8.53 |
+| Age (years) - Range | 22-66 | 23-58 | 29-54 |
+| Length of hospitalization (years) - Mean | 15.13 | 13.2 | 12.65 |
+| Length of hospitalization (years) - S.D. | 9.84 | 8.45 | 6.10 |
+| Length of hospitalization (years) - Range | 4.3-37.0 | 3.4-35.0 | 4.9-24.0 |
+
+#### Table 2: Dosage Summary
+*As assigned throughout double-blind phase. During stabilization period, all groups received haloperidol oral concentrate.*
+| Treatment Group | Period | Average days on drug | Average daily dose (mg) - Initial | Average daily dose (mg) - Low | Average daily dose (mg) - High | Average daily dose (mg) - Final | Average cumulative dose | Average daily dose (additional column) |
+|-----------------|--------|----------------------|-----------------------------------|--------------------------------|---------------------------------|---------------------------------|-------------------------|----------------------------------------|
+| Oral concentrate | Stabilization | 28.5 | 5.1 | 5.1 | 10.4 | 10.3 | 230 | 8.0 |
+| Soluble tablets | Stabilization | 28.1 | 5.4 | 5.4 | 9.7 | 9.1 | 217 | 7.7 |
+| Placebo | Stabilization | 28.2 | 5.3 | 5.3 | 9.2 | 8.5 | 210 | 7.5 |
+| Oral concentrate | Double-Blind | 69.3 | 10.4 | 10.4 | 10.4 | 10.4 | 694 | 10.4 |
+| Soluble tablets | Double-Blind | 79.1 | 8.8 | 8.2 | 8.8 | 8.2 | 685 | 8.8 |
+| Placebo | Double-Blind | 76.3 | - | - | - | - | - | - |
+
+#### Table 3: Brief Psychiatric Rating Scale
+| Item | Treatment Group | N* | Stabilization Period - Mean initial score | Stabilization Period - Mean final score | Stabilization Period - Mean adj. final score | Stabilization Period - AOCV† significance level | Double-blind Period - Mean initial score | Double-blind Period - Mean final score | Double-blind Period - Mean adj. final score | Double-blind Period - AOCV† significance level |
+|------|-----------------|----|-------------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------------------------|------------------------------------------|----------------------------------------|----------------------------------------------|------------------------------------------------|
+| Physical concerns | Oral concentrate | 11 | 2.82 | 2.64 | 2.73 | N.S. | 2.64 | 2.00 | 2.06 | N.S. |
+| Physical concerns | Soluble tablets | 16 | 3.19 | 3.13 | 3.00 | - | 3.13 | 2.63 | 2.53 | - |
+| Physical concerns | Placebo | 7 | 2.71 | 2.43 | 2.58 | - | 2.43 | 2.86 | 2.98 | - |
+| Anxiety | Oral concentrate | 15 | 3.87 | 3.67 | 3.55 | N.S. | 3.67 | 3.53 | 3.45 | N.S. |
+| Anxiety | Soluble tablets | 17 | 3.88 | 3.65 | 3.52 | - | 3.65 | 3.35 | 3.27 | - |
+| Anxiety | Placebo | 12 | 3.08 | 2.83 | 3.16 | - | 2.83 | 3.50 | 3.72 | - |
+| Emotional withdrawal | Oral concentrate | 14 | 4.50 | 3.71 | 3.73 | N.S. | 3.71 | 3.07 | 3.05 | P<0.05 |
+| Emotional withdrawal | Soluble tablets | 16 | 4.88 | 3.88 | 3.59 | - | 3.88 | 3.44 | 3.33 | - |
+| Emotional withdrawal | Placebo | 12 | 4.08 | 3.33 | 3.69 | - | 3.33 | 4.00 | 4.17 | - |
+| Conceptual disorganization | Oral concentrate | 15 | 4.53 | 4.20 | 4.38 | N.S. | 4.20 | 4.20 | 4.18 | P<0.05 |
+| Conceptual disorganization | Soluble tablets | 17 | 4.88 | 3.88 | 3.82 | - | 3.88 | 3.47 | 3.55 | - |
+| Conceptual disorganization | Placebo | 12 | 5.00 | 4.42 | 4.27 | - | 4.42 | 5.08 | 4.99 | - |
+| Guilt feelings | Oral concentrate | 7 | 3.43 | 3.14 | 2.81 | N.S. | 3.14 | 1.86 | 1.55 | N.S. |
+| Guilt feelings | Soluble tablets | 10 | 3.00 | 2.00 | 1.91 | - | 2.00 | 1.90 | 1.99 | - |
+| Guilt feelings | Placebo | 7 | 2.00 | 1.71 | 2.18 | - | 1.71 | 2.14 | 2.33 | - |
+| Tension | Oral concentrate | 15 | 3.33 | 3.13 | 3.14 | N.S. | 3.13 | 3.40 | 3.45 | N.S. |
+| Tension | Soluble tablets | 17 | 3.59 | 3.47 | 3.31 | - | 3.47 | 3.24 | 3.17 | - |
+| Tension | Placebo | 12 | 3.00 | 3.17 | 3.39 | - | 3.17 | 3.50 | 3.54 | - |
+| Mannerisms and posturing | Oral concentrate | 12 | 2.50 | 2.75 | 3.22 | N.S. | 2.75 | 3.75 | 3.83 | P<0.05 |
+| Mannerisms and posturing | Soluble tablets | 16 | 3.69 | 3.31 | 3.02 | - | 3.31 | 2.81 | 2.70 | - |
+| Mannerisms and posturing | Placebo | 11 | 3.36 | 2.73 | 2.64 | - | 2.73 | 4.27 | 4.36 | - |
+| Grandiosity | Oral concentrate | 7 | 2.29 | 2.57 | 3.03 | N.S. | 2.57 | 1.00 | 1.01 | P<0.05 |
+| Grandiosity | Soluble tablets | 7 | 3.43 | 2.86 | 2.47 | - | 2.86 | 1.29 | 1.21 | - |
+| Grandiosity | Placebo | 6 | 3.00 | 2.33 | 2.26 | - | 2.33 | 4.00 | 4.08 | - |
+| Depressive mood | Oral concentrate | 15 | 3.60 | 3.33 | 3.17 | N.S. | 3.33 | 2.53 | 2.47 | N.S. |
+| Depressive mood | Soluble tablets | 14 | 3.14 | 2.71 | 2.78 | - | 2.71 | 2.50 | 2.57 | - |
+| Depressive mood | Placebo | 11 | 3.00 | 3.00 | 3.14 | - | 3.00 | 3.18 | 3.19 | - |
+| Hostility | Oral concentrate | 13 | 3.46 | 3.54 | 3.46 | N.S. | 3.54 | 3.15 | 3.00 | N.S. |
+| Hostility | Soluble tablets | 13 | 3.54 | 3.62 | 3.49 | - | 3.62 | 3.00 | 2.82 | - |
+| Hostility | Placebo | 11 | 2.82 | 2.27 | 2.52 | - | 2.27 | 3.55 | 3.94 | - |
+| Suspiciousness | Oral concentrate | 14 | 3.29 | 3.36 | 3.41 | N.S. | 3.36 | 3.36 | 3.26 | N.S. |
+| Suspiciousness | Soluble tablets | 16 | 3.63 | 3.50 | 3.38 | - | 3.50 | 3.00 | 2.82 | - |
+| Suspiciousness | Placebo | 12 | 3.17 | 2.58 | 2.69 | - | 2.58 | 3.00 | 3.35 | - |
+| Hallucinatory behavior | Oral concentrate | 13 | 4.23 | 3.54 | 3.44 | N.S. | 3.54 | 3.38 | 3.40 | N.S. |
+| Hallucinatory behavior | Soluble tablets | 11 | 3.36 | 3.45 | 3.63 | - | 3.45 | 3.00 | 3.06 | - |
+| Hallucinatory behavior | Placebo | 11 | 4.09 | 3.73 | 3.67 | - | 3.73 | 4.64 | 4.55 | - |
+| Motor retardation | Oral concentrate | 8 | 2.50 | 1.88 | 1.89 | N.S. | 1.88 | 2.38 | 2.42 | N.S. |
+| Motor retardation | Soluble tablets | 12 | 2.75 | 2.42 | 2.25 | - | 2.42 | 1.58 | 1.52 | - |
+| Motor retardation | Placebo | 9 | 2.22 | 1.89 | 2.09 | - | 1.89 | 1.78 | 1.82 | - |
+| Uncooperativeness | Oral concentrate | 12 | 2.92 | 3.00 | 2.99 | N.S. | 3.00 | 3.08 | 3.05 | N.S. |
+| Uncooperativeness | Soluble tablets | 16 | 3.31 | 3.25 | 3.12 | - | 3.25 | 3.06 | 2.94 | - |
+| Uncooperativeness | Placebo | 10 | 2.10 | 2.20 | 2.43 | - | 2.20 | 3.90 | 4.13 | - |
+| Unusual thought content | Oral concentrate | 15 | 4.60 | 3.93 | 3.94 | - | 3.93 | 4.13 | 4.17 | P<0.05 |
+| Unusual thought content | Soluble tablets | 17 | 4.35 | 3.82 | 3.98 | - | 3.82 | 3.35 | 3.43 | - |
+| Unusual thought content | Placebo | 12 | 5.00 | 4.50 | 4.26 | - | 4.50 | 5.25 | 5.10 | - |
+| Blunted affect | Oral concentrate | 11 | 4.73 | 3.73 | 3.48 | N.S. | 3.73 | 3.09 | 3.16 | P<0.05 |
+| Blunted affect | Soluble tablets | 16 | 4.44 | 3.88 | 3.88 | - | 3.88 | 3.56 | 3.54 | - |
+| Blunted affect | Placebo | 11 | 4.18 | 3.91 | 4.15 | - | 3.91 | 4.36 | 4.32 | - |
+| Total score | Oral concentrate | 15 | 50.60 | 46.80 | 47.28 | N.S. | 46.80 | 44.13 | 44.06 | P<0.05 |
+| Total score | Soluble tablets | 17 | 53.47 | 48.24 | 46.78 | - | 48.24 | 42.29 | 41.55 | - |
+| Total score | Placebo | 12 | 49.17 | 44.17 | 45.62 | - | 44.17 | 54.33 | 55.48 | - |
+
+*Number of patients evaluated for this item during the study. †Analysis of covariance: N.S. indicates the three "Mean Adjusted Final Scores" are not statistically significantly different when tested at the P<0.05 level.*
+
+#### Table 4: Nurses' Observation Scale for Inpatient Evaluation
+| Item | Treatment Group | N* | Stabilization Period - Mean initial score | Stabilization Period - Mean final score | Stabilization Period - Mean adj. final score | Stabilization Period - AOCV† significance level | Double-blind Period - Mean initial score | Double-blind Period - Mean final score | Double-blind Period - Mean adj. final score | Double-blind Period - AOCV† significance level |
+|------|-----------------|----|-------------------------------------------|-----------------------------------------|---------------------------------------------|------------------------------------------------|------------------------------------------|----------------------------------------|----------------------------------------------|------------------------------------------------|
+| Social competence (+) | Oral concentrate | 15 | 49.27 | 54.80 | 54.39 | N.S. | 54.80 | 52.67 | 51.58 | N.S. |
+| Social competence (+) | Soluble tablets | 17 | 47.24 | 49.82 | 50.74 | - | 49.82 | 49.65 | 50.89 | - |
+| Social competence (+) | Placebo | 12 | 49.83 | 53.33 | 52.55 | - | 53.33 | 47.17 | 46.77 | - |
+| Social interest (+) | Oral concentrate | 15 | 53.40 | 52.53 | 51.83 | N.S. | 52.53 | 54.07 | 53.62 | P<0.05 |
+| Social interest (+) | Soluble tablets | 17 | 51.18 | 51.71 | 52.89 | - | 51.71 | 52.88 | 52.88 | - |
+| Social interest (+) | Placebo | 12 | 53.50 | 50.67 | 49.87 | - | 50.67 | 46.92 | 47.48 | - |
+| Personal neatness (+) | Oral concentrate | 15 | 49.67 | 52.40 | 53.00 | N.S. | 52.40 | 48.00 | 48.00 | N.S. |
+| Personal neatness (+) | Soluble tablets | 17 | 48.88 | 48.35 | 49.41 | - | 48.35 | 50.71 | 53.10 | - |
+| Personal neatness (+) | Placebo | 12 | 54.50 | 58.17 | 55.92 | - | 58.17 | 49.75 | 46.35 | - |
+| Irritability (-) | Oral concentrate | 15 | 57.20 | 55.87 | 54.92 | N.S. | 55.87 | 54.93 | 53.98 | N.S. |
+| Irritability (-) | Soluble tablets | 17 | 56.76 | 55.35 | 54.76 | - | 55.35 | 54.18 | 53.55 | - |
+| Irritability (-) | Placebo | 12 | 53.58 | 51.17 | 53.18 | - | 51.17 | 54.83 | 56.90 | - |
+| Manifest psychosis (-) | Oral concentrate | 15 | 54.33 | 48.73 | 48.09 | N.S. | 48.73 | 53.40 | 55.37 | N.S. |
+| Manifest psychosis (-) | Soluble tablets | 17 | 52.47 | 51.65 | 52.07 | - | 51.65 | 50.18 | 50.20 | - |
+| Manifest psychosis (-) | Placebo | 12 | 52.83 | 55.42 | 55.63 | - | 55.42 | 57.42 | 54.92 | - |
+| Retardation (-) | Oral concentrate | 15 | 52.53 | 46.80 | 45.98 | N.S. | 46.80 | 44.60 | 45.03 | N.S. |
+| Retardation (-) | Soluble tablets | 17 | 50.41 | 51.18 | 50.99 | - | 51.18 | 46.06 | 45.26 | - |
+| Retardation (-) | Placebo | 12 | 45.42 | 46.25 | 47.54 | - | 46.25 | 51.17 | 51.75 | - |
+| Total patient assets (+)-(-) | Oral concentrate | 15 | 46.93 | 50.73 | 51.21 | N.S. | 50.73 | 50.67 | 49.51 | P<0.05 |
+| Total patient assets (+)-(-) | Soluble tablets | 17 | 45.65 | 46.76 | 48.15 | - | 46.76 | 49.53 | 51.16 | - |
+| Total patient assets (+)-(-) | Placebo | 12 | 51.25 | 50.33 | 47.78 | - | 50.33 | 44.17 | 43.29 | - |
+
+*Number of patients evaluated for this item during the study. †Analysis of covariance: N.S. indicates the three "Mean Adjusted Final Scores" are not statistically significantly different when tested at the P<0.05 level.*
+
+#### Table 5: Clinical Global Impression (Mean Severity of Illness)
+| Drug Group | Time of Evaluation - Start of stabilization | Time of Evaluation - Start of double-blind | Time of Evaluation - End of double-blind | Final adjusted mean (AOCV) |
+|------------|---------------------------------------------|---------------------------------------------|-------------------------------------------|------------------------------|
+| Oral concentrate | 5.33 | 5.00 | 4.60 | 4.54 |
+| Soluble tablets | 5.00 | 4.94 | 4.59 | 4.57 |
+| Placebo | 4.92 | 4.75 | 4.92 | 5.03* |
+
+*P<0.05*
+
+#### Table 6: Clinical Global Impression (Improvement)*
+| Treatment Group | End stabilization period - Mean rating | End stabilization period - No. of patients (Imp.) | End stabilization period - No. of patients (N.C.) | End stabilization period - No. of patients (Worse) | End double-blind period - Mean rating | End double-blind period - No. of patients (Imp.) | End double-blind period - No. of patients (N.C.) | End double-blind period - No. of patients (Worse) |
+|-----------------|------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
+| Oral concentrate | 3.47 | 10 | 1 | 4 | 3.73 | 9 | 0 | 6 |
+| Soluble tablets | 3.94 | 9 | 1 | 7 | 3.65 | 10 | 1 | 6 |
+| Placebo | 3.33 | 7 | 4 | 1 | 5.00 | 2 | 3 | 7 |
+
+*N.C.=No change; Imp.=improved.*
+
+#### Table 7: Frequency Tabulation of Side Effects
+| Symptoms | Oral concentrate (N=15) - Stabilization | Oral concentrate (N=15) - Double-blind | Soluble tablets (N=17) - Stabilization | Soluble tablets (N=17) - Double-blind | Placebo (N=12) - Stabilization | Placebo (N=12) - Double-blind |
+|----------|------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------|--------------------------------|
+| Rigidity | 4 | 3 | 2 | 3 | - | 3 |
+| Loss of assoc. movement | - | 1 | - | 1 | - | 1 |
+| Tremor | 4 | 5 | 3 | 4 | - | 3 |
+| Akathisia | 2 | 2 | 2 | 2 | 1 | 1 |
+| Dystonia | - | 2 | - | - | - | - |
+| Sialorrhea | - | 1 | - | 1 | - | - |
+| Dyskinesia | - | - | - | 1 | - | - |
+| Hyperactivity | - | - | - | 1 | - | 2 |
+| Vertigo | 2 | - | 1 | - | 1 | - |
+| Headache | 1 | - | 2 | 2 | 3 | 1 |
+| Dry mouth | 4 | - | 3 | - | 1 | - |
+| Nasal congestion | 4 | - | 1 | - | 2 | 1 |
+| Blurred vision | - | - | - | - | 1 | 1 |
+| Drowsiness | 1 | - | 2 | - | 1 | 2 |
+| Tachycardia | 1 | - | - | - | - | - |
+| Orthostatic hypo | 1 | - | - | - | - | - |
+| Skin rashes | 1 | 1 | - | - | - | - |
+| Insomnia | 4 | 4 | 2 | 5 | - | 2 |
+| Nausea | 1 | - | 1 | - | 1 | - |
+| Total no. of patients | 9 | 4 | 7 | 8 | 5 | 8 |
+| Total no. of symptoms | 30 | 19 | 19 | 19 | 11 | 17 |
+
+
+### Image Description (in TXT Format)
+There are no images included in the article.

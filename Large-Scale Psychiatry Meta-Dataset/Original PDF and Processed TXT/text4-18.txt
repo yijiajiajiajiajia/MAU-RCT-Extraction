@@ -1,0 +1,184 @@
+### Text Content (before References)
+Acta psychiatr. scand. 1986:74:255-262
+Key words: schizophrenia; haloperidol decanoate; flupenthixol decanoate; depot antipsychotic; dosing interval; long-term treatment; cross-over study.
+
+Haloperidol decanoate and flupenthixol decanoate in schizophrenia
+A long-term double-blind cross-over comparison
+G. Eberhard and E. Hellbom
+Dept. of Psychiatry, University of Lund, Malmo General Hospital, and Janssen-Pharma, V. Frolunda. Sweden
+
+ABSTRACT - Thirty-two schizophrenic patients, previously treated with antipsychotics, were treated with haloperidol decanoate and flupenthixol decanoate in a double-blind cross-over study. The drugs were given for 24 weeks each at an individually adapted dose. The last three injections of either drug were given at fixed 4-week intervals. The mean dose over the two treatment periods changed from 131 mg (start) to 151 mg (week 24) in the haloperidol decanoate group and from 56 mg to 66 mg in the flupenthixol decanoate group, the inter-drug ratio being 2.3:1. During the first study period, the patients’ condition remained rather stable with both drugs. After crossing-over, the symptoms were further reduced with haloperidol decanoate but increased with flupenthixol decanoate. Side effects of the two drugs were comparable and were generally few and mild. It was concluded that 4-week intramuscular administration of haloperidol decanoate provides appropriate control of schizophrenic symptoms, but that flupenthixol decanoate should be dosed at shorter intervals.
+
+Received August 2, 1985; accepted for publication March 15, 1986
+
+Due to such advantages as careful and reproducible deposition and lack of the risk of patient non-compliance with prescribed medication, long-acting depot injections of antipsychotic drugs have become the mainstay in the treatment of chronic schizophrenia (1). Different ester forms have facilitated the conversion of a short-acting drug to a depot preparation: enanthate (2, 3), palmitate (4), undecylenate (5), and particularly decanoate which was used to “depotize” fluphenazine (6, 7), its thioxanthene analogue flupenthixol (8, 9), perphenazine (10), and, more recently, haloperidol (11-13). Haloperidol decanoate was shown to maintain or improve the mental status of patients who had been receiving fluphenazine decanoate, flupenthixol decanoate, fluspirilene or penfluridol (14-16). It was also used successfully in comparative studies with fluphenazine decanoate (17-19). Symptoms which seemed to respond particularly well were emotional withdrawal, suspiciousness, motor retardation, blunted affect and hallucinatory behaviour. These results were obtained with 4-weekly doses. To corroborate existing evidence for the usefulness of 4-weekly injections of haloperidol decanoate (HALd) in the control of schizophrenic symptoms, it was compared with flupenthixol decanoate (FLUd) in a long-term double-blind cross-over trial.
+
+Material and methods
+Patient selection
+The basic inclusion criterion was the presence of schizophrenic symptoms according to the DSM III-criteria, requiring at least a 1-year treatment with depot neuroleptics. Both orally treated patients, and those already on depot neuroleptics were admitted to the study. Old, deteriorated patients were excluded. Other reasons for exclusion were serious somatic diseases incompatible with neuroleptic therapy, impaired liver or kidney function, acute heart failure and treatment with barbiturates or antiepileptics.
+
+Thirty-eight patients, who were informed of and consented to participate in the study, were initially included. Thirty-two of them, 17 men and 15 women, aged between 25 and 60 (median: 38) years, completed the study (Table 1). In 22 patients, the symptoms had been present for more than 6 years, in eight from 1 to 6 years, and two patients had a recent relapse of the condition. Although there was a minority (n=10) of inpatients, all but one had been hospitalized before, for a median duration of 1 year. Twenty-five patients had been on depot treatment before (median duration: 18 months): perphenazine (n=12), flupenthixol (n=11), fluphenazine (n=2), and the rest had received oral antipsychotics (see Table 1). The main psychotic symptoms were delusional thoughts (n=24) auditory hallucinations (n=16), withdrawal (n=7) and compulsive thoughts (n=5). Most of the patients were, however, fairly well regulated on previous medication (see Fig. 1-5).
+
+Drop outs. All patients completed the first period, thereafter six dropped out, three on HALd, three on FLUd. All three previously on HALd relapsed after 4-6 weeks on FLUd. One was admitted to hospital and all three were given other neuroleptics than FLUd.
+
+Two of the three patients on FLUd relapsed after 16 weeks on HALd and one developed a skin reaction, later found not related to HALd.
+
+Design and medication
+In agreement with ethical committees, a 48-week double-blind, cross-over study was done. The patients were randomized in groups of six, to start either on HALd or on FLUd. After 24 weeks (Period I) the drugs were switched over and dosed for another 24 weeks (Period II). Because of the study design there was no wash-out period. During the first fortnight of the study, however, previous oral medication was gradually withdrawn. The test medications were given intramuscularly. If there was no clear indication (e.g. previous therapy) of the dose to be used, the initial dose was 0.5 to 2 ml (1 ml corresponding to 50 mg of HALd or 20 mg of FLUd). Guided by the clinical response and the possible occurrence of side effects, the dose was increased by increments of 0.5 to 1 ml, up to a maximum of 6 ml. During the first 12 weeks of each period, the intervals between the injections were flexible, but thereafter, they were fixed at 4 weeks.
+
+Concomitant medications were limited to orphenadrine or biperiden for any extrapyramidal symptoms, and chloralhydrate, benzodiazepines and promethazine for any sleep disturbances or psychotic anxiety.
+
+Assessments
+At weeks 0, 12, 16, and 24 of both the HALd and the FLUd treatment phases, the psychiatrist completed the comprehensive psychopathological rating scale (CPRS), adopted from Asberg et al. (20). A score 3 (extreme degree of the symptom), 2 (clearly pathological), 1 (border case) or 0 (absent) was given to 40 items reported by the patient, and to 25 items observed by the rater during an interview. One more item of the CPRS was a global rating of the illness using the same 0 to 3 scoring system. Finally, the assumed reliability of the rating was indicated as 0 (very poor), 1 (fair), 2 (good) or 3 (very good). At weeks 0, 14, 18, (i.e. 2 weeks after injection) and 24 of each study phase, the patient stated whether the condition had improved or deteriorated as compared to the preceding control assessment (or to the weeks before the study). At the same time any side effects were recorded. In particular, a check-list was completed of side effects expected to occur. The patient’s weight was noted before and after each treatment phase. At the end of the study the psychiatrist stated which of the two medications globally had the best effect.
+
+For statistical analysis of the results, the Wilcoxon matched-pairs signed-ranks test was used to evaluate within patient changes, and the Mann-Whitney U-test for intergroup differences in score changes.
+
+Results
+The two drug sequence groups each consisted of 16 patients and were comparable as to patient and disease characteristics and previous treatment (Table 1).
+
+Drug doses and concomitant medications
+In both groups, 12 patients were started on 1-3 ml of the depot injection and four patients on 4-6 ml. The mean (SD) starting dose was 2.19 (1.36) ml in the HALd group and 2.88 (1.41) ml in the FLUd group. During the first months of the study, these doses were gradually adapted to the individual responses. The dose level reached by the 12th week could generally be maintained. During Period II, the mean ml-dose remained the same in most patients; it was slightly reduced in some patients who were changed over to HALd, but had to be increased in several patients put on FLUd. Conversion of ml-doses to mg-doses showed that the ratio HALd/FLUd was 2.3/1.0 both at weeks 0 (mean doses in Periods I + II: 131 mg/56.2 mg) and weeks 24 (151 mg/66 mg).
+
+Anticholinergic drugs (orphenadrine or biperiden) were given to 17 patients, mainly to be used temporarily against disturbing extrapyramidal symptoms. Bensodiazepines were used by 15 patients during shorter periods. Three patients (two on HALd, one on FLUd) were given promethazine (Lergigan®) or acetylglycinamide chloralhydrate (Ansopal®).
+
+Global evaluation
+In the investigator’s opinion, FLUd and HALd had a similar effect in 11 of the 32 patients; HALd was judged to be better in 16 patients and FLUd in five patients (P<0.05 binomial test), (Table 2).
+
+About two thirds of the patients reported that, at the end of either treatment, their condition was not different from that before. After 24 weeks of HALd treatment (both periods), one patient felt worse than before and 10 patients better. After the two FLUd periods five patients felt worse and seven better.
+
+CPRS-Scale
+In Period I, the mean score for the reported symptoms (items 1-40) slightly decreased with both drugs, although the investigator hardly observed any symptom changes (items 41-65), except for a tendency towards improvement during the last 2 months of HALd treatment. In Period II the patients and observer unanimously noted favourable changes with HALd but deterioration with FLUd (Fig. 1, 2 and 3).
+
+Three subclusters of CPRS symptoms were analysed: schizophrenia (items 1, 5, 6, 28, 29, 30, 31, 33, 36, 37, 45, 50), (Fig 4), depression (items 1, 3, 5, 6, 7, 14, 16, 18, 19, 41), (Fig 5), and lack of vitality (items 1, 5, 6, 14, 18, 21, 41, 49, 54, 60). The changes in each of these subclusters paralleled those of the total-symptom cluster (Table 3).
+
+Symptom changes were reflected in the CPRS item 66, global rating: in Period I most patients’ condition remained stable or slightly improved in both groups but in Period II the responses to HALd and FLUd were divergent. In eight of the 32 patients, the assumed reliability of the rating (item 67) was very poor on at least two rating occasions. Taking into account only the ratings with at least a fair reliability showed that the global score was reduced from 1.7 to 1.4 and from 1.3 to 1.2 (week 0 to 24 in Periods I and II, respectively) in the FLUd-HALd sequence group; in the HALd-FLUd group a score decline from 2.0 to 1.6 was followed by an increase from 1.7 to 2.1.
+
+Statistical evaluation of the CPRS-item changes only partly provided support for the clinical observations because of the large inter-patient variability and the rather small patient groups. FLUd had no significant effect. Taking together the two treatment periods, the start-to-end change of the global CPRS rating (item 66) was significant (P=0.01) with HALd. The intrapatient comparison of weeks 24 in Period I and Period II (all patients) with HALd, showed that the global rating was better (P=0.05) with HALd than with FLUd. Particularly in Period II was this rating in favour of HALd, both in patients (10 HALd, 12 FLUd) who were treated with the same dose for 6 months (P=0.022) and in patients (6 HALd, 4 FLUd) who had their doses adapted (P=0.067).
+
+A significant superiority of HALd over FLUd (all patients) was noted at 16 weeks for the cluster of the 40 reported symptoms (P=0.05) and at 24 weeks for the cluster of the 25 observed symptoms (P=0.02). The changes in the sum of observed and reported symptoms (65 items) paralleled those of item 66 but were less clearcut (P<0.1).
+
+No differences in response were found between in- or outpatients, and between patients with a fixed dose in Period II or a changing dose. In the latter subgroup, the score for the subcluster schizophrenia at the end of Period II was significantly (P=0.04) better with HALd than with FLUd. HALd also improved depression and lack of vitality (see Fig. 4-5 and Table 3).
+
+Side effects
+At each assessment in the two study periods, four to eight of the 16 patients in each group reported to have experienced adverse effects in the preceding weeks. Table 4 lists the side effects usually associated with any antipsychotic drug treatment. The two medications appeared to be largely comparable in this respect. Side effects occurring in at least three patients were tiredness, sleep disturbances, rigidity, tremors, akathisia, and a dry mouth. These effects were generally mild and did not necessitate change of dosage. The patients’ weight did not appreciably change with either drug.
+
+Discussion
+As in previous studies (14-16), the schizophrenic symptomatology in patients already treated with antipsychotics was kept stable or improved in most cases during long-term treatment with HALd, given 4-weekly.
+
+In contrast, with FLUd, symptoms could not be kept under control, particularly in the second study period. Conceivably, this is not due to genuine inefficacy but rather to insufficient plasma levels at the end of the injection interval. With respect to the double-blind design, both drugs were dosed at a 4-week interval. In fact, 4-week dosing of FLUd has been used before (21). However, in other studies FLUd was given every 2 weeks (22-24) which is probably more appropriate. The present results show that excessive length of the interval cannot generally be met by dose increases. In some patients this might be feasible, but only widens the inter-individual variation in drug response. This variation appeared to be limited with HALd as shown by the smaller standard errors to the mean symptoms scores.
+
+FLUd is acting both on D1 and D2 receptors whereas HALd is acting only on D2 receptors (25). If D1 receptors were of importance, clinical differences should be observed.
+
+As FLUd has been claimed to have activating (26, 27) and antidepressant (28) properties, these symptoms were focused on in the present study. No conclusions can be drawn as for FLUd in this respect. HALd not only improved typical schizophrenic symptoms, but also depression and lack of vitality.
+
+In conclusion, HALd provides good control of the different symptoms of the schizophrenic picture, it can be comfortably used in a 4-week injection regimen, in contrast to FLUd, and it has an acceptable side effect level, comparable to that of FLUd.
+
+Acknowledgements
+The authors are greatly indebted to the psychiatrists and psychologists who participated in this multicentre trial and also to T. Aerts and Y. Gelders (Janssen Pharmaceutica, B-2340 BEERSE, Belgium) and to U. Osterlund (Janssen-Pharma, Sweden) for their active collaboration in this study. The participating psychiatrists and psychologists were: Hikan Bartler, Helena Bergstrand, Goran Franzén, Gunilla Hegart, Kjell-Ake Larsson, Lars Goran Loof, Bogi Melsted, Lars Naimell, Allan Nilsson, Katarina Nyman, Hans Soderberg, Anders Varenius, Olof Wenedikter, Bo Werkstrom and Gunnar Vogel.
+
+### Tables (txt format)
+Table 1. Patient data
+| | Sequence HALd/FLUd (n = 16) | Sequence FLUd/HALd (n = 16) |
+| --- | --- | --- |
+| Sex* | | |
+| Male | 10 | 7 |
+| Female | 6 | 9 |
+| Age** (years) | 31 (25-59) | 39 (28-60) |
+| Civil status* | | |
+| unmarried | 15 | 10 |
+| married | 1 | 5 |
+| widow | | 1 |
+| living alone | 11 | 6 |
+| with husband/wife | 1 | 4 |
+| family | 4 | 5 |
+| hospital | | 1 |
+| Status of work* | | |
+| regular work | 4 | 2 |
+| unemployed | 1 | 1 |
+| sheltered work | 4 | 2 |
+| sick pension | 1 | 9 |
+| housewife | | 2 |
+| Duration of illness* (years) | | |
+| 0-1 | 2 | 0 |
+| 1-3 | - | 4 |
+| 3-6 | 3 | 1 |
+| 6-12 | 3 | 2 |
+| >12 | 8 | 9 |
+| No. hospital stays | | |
+| never | 1 | 0 |
+| 1-5 | 7 | 10 |
+| 6-10 | 6 | 4 |
+| >10 | 2 | 2 |
+| Months in hospital** | 13 (0-480) | 9.5 (0-160) |
+| Earlier depot treatment* | | |
+| none | 4 | 3 |
+| Fluphenthixol | 2 | 9 |
+| Fluphenazine | 2 | |
+| Perphenazine | 8 | 4 |
+| Time on depot | | |
+| none | 4 | 3 |
+| 1-3 months | 3 | 2 |
+| 3-6 months | 3 | 1 |
+| 6-12 months | 1 | 1 |
+| 1-3 years | 1 | 5 |
+| 3-6 years | 1 | 3 |
+| >6 years | 3 | 1 |
+| Main symptomatology* | | |
+| simplex | 1 | 3 |
+| hebephrenia | 3 | 3 |
+| paranoid | 3 | 7 |
+| schizoaffective | 5 | 2 |
+| undifferentiated | 4 | 1 |
+*Number of patients; **Median/extremes
+
+Table 2. Number of patients in whom HALd or FLUd treatment was better
+| | Number of patients in whom | | | P* |
+| --- | --- | --- | --- | --- |
+| | haloperidol d. treatment was better | flupenthixol d. treatment was better | no difference between treatments | |
+| Sequence hal.dec.-flup.dec. n = 16 | | | | 0.73 |
+| Sequence flup.dec.-hal.dec. n = 16 | | | | 0.006 |
+| Total population n = 32 | | | | 0.029 |
+*Binomial test, two-tailed probability
+
+Table 3. Response of CPRS subclusters to FLUd and HALd
+| Subclusters | Drug sequence | Mean (± SEM) score | | | |
+| --- | --- | --- | --- | --- | --- |
+| | | Period I | | Period II | |
+| | | Week 0 | Week 24 | Week 0 | Week 24 |
+| Schizophrenia | HALd-FLUd | 8.7 ± 1.1 | 7.3 ± 1.8 | 7.4 ± 1.6 | 10.3 ± 1.9 |
+| | FLUd-HALd | 8.2 ± 1.7 | 5.7 ± 1.8 | 5.6 ± 1.8 | 4.0 ± 0.7 |
+| Depression | HALd-FLUd | 7.8 ± 1.4 | 6.9 ± 1.5 | 7.3 ± 1.4 | 9.7 ± 1.8 |
+| | FLUd-HALd | 8.0 ± 1.5 | 6.8 ± 1.7 | 6.8 ± 1.7 | 5.9 ± 1.3 |
+| Lack of vitality | HALd-FLUd | 7.3 ± 1.3 | 7.2 ± 1.4 | 7.7 ± 1.4 | 8.6 ± 1.5 |
+| | FLUd-HALd | 8.2 ± 1.1 | 6.6 ± 1.4 | 6.6 ± 1.4 | 6.3 ± 1.2 |
+
+Table 4. Occurrence of side effects (n=32)
+| Side effects | HALd (Period I + II) | | | | FLUd (Period I + II) | | | |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| | wk 0 | wk 14 | wk 18 | wk 24 | wk 0 | wk 14 | wk 18 | wk 24 |
+| Tiredness, sedation or alike | 10 | 7 | 6 | 1 | 8 | 9 | 7 | 9 |
+| Sleep disturbance | 4 | 3 | 3 | 4 | 6 | 5 | 5 | 3 |
+| Rigidity | 5 | 3 | 4 | 3 | 2 | 4 | 4 | 2 |
+| Hypokinesia | 1 | 2 | 2 | 2 | 2 | 1 | 1 | 1 |
+| Tremor | 4 | 5 | 5 | 3 | 5 | 1 | 5 | 5 |
+| Akathisia | 1 | 3 | 4 | 2 | 2 | 2 | 1 | 2 |
+| Dystonia | 1 | 0 | 0 | 1 | 2 | 0 | 0 | 0 |
+| Gastrointestinal disturbances | 1 | 0 | 0 | 1 | 1 | 1 | 1 | 1 |
+| Cardiovascular disturbances | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Tachycardia | 0 | 1 | 1 | 0 | 1 | 0 | 0 | 0 |
+| Hypotension | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 1 |
+| Dry mouth | 4 | 5 | 5 | 5 | 5 | 2 | 2 | 2 |
+| Hypersalivation | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Hyperhydrosis | 0 | 2 | 2 | 0 | 1 | 1 | 1 | 0 |
+| Urinary retention | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+
+### Image Descriptions (txt format)
+Fig. 1: Sum of total CPRS scale. The x-axis represents the study weeks, marked as 0, 12, 16, 24/0, 12, 16, 24 weeks (indicating the end of Period I and the start of Period II). The y-axis represents the total CPRS score. The graph displays the changes in total CPRS scores over the two 24-week treatment periods (Period I and Period II) for the two drug sequences (HALd-FLUd and FLUd-HALd).
+
+Fig. 2: Reported symptoms. The x-axis is labeled with weeks (0, 12, 16, 24/0, 12, 16, 24 weeks). The y-axis denotes the score of reported symptoms (CPRS items 1-40). The graph illustrates the variations in the mean score of symptoms reported by patients during the treatment with HALd and FLUd in both study periods.
+
+Fig. 3: Observed symptoms. The x-axis shows the study weeks (0, 12, 16, 24/0, 12, 16, 24 weeks). The y-axis represents the score of observed symptoms (CPRS items 41-65). The graph depicts the changes in the mean score of symptoms observed by the rater during the interview across the two treatment periods with the two drugs.
+
+Fig. 4: Schizophrenia subcluster. The x-axis indicates the weeks (0, 12, 16, 24/0, 12, 16, 24 weeks). The y-axis is the score of the schizophrenia subcluster (CPRS items 1, 5, 6, 28, 29, 30, 31, 33, 36, 37, 45, 50). The graph shows the score changes of the schizophrenia-specific symptom subcluster during the two treatment periods for both drug sequences. The legend includes labels such as "FLUET HAL.DECA", "FLUENTIXOL-HAL.ECA", "FLUET", "DCA.-FLENTD", "MLDECA", etc., corresponding to the different drug sequences or treatment groups.
+
+Fig. 5: Depression subcluster. The x-axis is marked with weeks (0, 12, 16, 24/0, 12, 16, 24 weeks). The y-axis represents the score of the depression subcluster (CPRS items 1, 3, 5, 6, 7, 14, 16, 18, 19, 41). The graph displays the changes in the depression symptom subcluster score over the two treatment periods for the two drug sequences, with relevant labels in the legend for each group.

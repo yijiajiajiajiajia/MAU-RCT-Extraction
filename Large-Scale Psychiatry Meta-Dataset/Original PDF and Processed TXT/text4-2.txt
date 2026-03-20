@@ -1,0 +1,190 @@
+### Text Content (Before References)
+Equivalent Switching Dose From Oral Risperidone to Risperidone Long-Acting Injection: A 48-Week Randomized, Prospective, Single-Blind Pharmacokinetic Study
+Ya Mei Bai, M.D., Ph.D.; Tzu Ting Chen, M.D.; Jen-Yeu Chen, M.D.; Wen-Ho Chang, M.D.; Bojian Wu, M.D.; Chih Hung Hung, M.D.; and Wen Kuo Lin, M.D.
+
+Objective: Previous studies showed clinical benefit of risperidone long-acting injection in the treatment of schizophrenia. However, the equivalent switching dose from oral risperidone to risperidone long-acting injection was still in debate. This study, conducted among hospitalized patients, included a long-enough study period and optimal control of drug compliance to test the equivalent switching dose.
+
+Method: Fifty symptomatic, stable hospitalized patients with DSM-IV schizophrenia were randomly assigned to receive either daily oral risperidone or risperidone long-acting injection every 2 weeks. Those originally receiving an oral risperidone dose of 4 mg/day or less received 25 mg of risperidone long-acting injection, those taking an oral dose of more than 4 mg/day but of 6 mg/day or less received 37.5 mg of risperidone long-acting injection, and those taking more than 6 mg/day received 50 mg of risperidone long-acting injection. Assessments of clinical efficacy, side effects, metabolic safety, drug tolerance, and serum concentration of risperidone metabolites were performed repeatedly. The study was conducted from March 2004 to May 2005.
+
+Result: Forty-five patients (90%) completed the study. There were no significant differences in Positive and Negative Syndrome Scale (PANSS) scores between the 2 groups, but the risperidone long-acting injection group showed reduced UKU Side Effect Rating Scale total scores (p=.048), Simpson-Angus Scale scores (p=.028), prolactin levels (p=.046), and serum concentrations of risperidone metabolites (p=.028). Among the risperidone long-acting injection group, patients who received either 25 mg q 2 weeks or 37.5 mg q 2 weeks of risperidone long-acting injection showed increased PANSS scores (p=.058), decreased serum metabolite concentrations (p=.028), and an increased tendency to relapse.
+
+Conclusions: The results support good tolerability of risperidone long-acting injection, but it is suggested that the equivalent switching dose be adjusted as follows: those originally on an oral risperidone dose of 3 mg/day or less should receive 25 mg of risperidone long-acting injection, those taking an oral dose of more than 3 mg/day but of 5 mg/day or less should receive 37.5 mg, and those taking an oral dose of more than 5 mg/day should receive 50 mg of risperidone long-acting injection.
+
+(J Clin Psychiatry 2007;68:1218–1225)
+Received Oct. 23, 2006; accepted Jan. 2, 2007. From the Department of Psychiatry, Taipei Veterans General Hospital, Taipei (Dr. Bai); the Department of Psychiatry, College of Medicine, National Yang-Ming University, Taipei (Dr. Bai); the Department of Psychiatry, Yu-Li Veterans Hospital, Hua-Lien (Drs. T. T. Chen, J.-Y. Chen, Hung, and Lin); the Graduate Institute of Behavior Sciences, Kaohsiung Medical University, Kaohsiung (Dr. T. T. Chen); the Department of Psychiatry, Yu-Li Hospital, Hua-Lein (Dr. Wu); and the Department of Psychiatry, Buddhist Tzu Chi General Hospital, Da Lin (Dr. Chang), Taiwan.
+
+This study was supported by grants from Janssen-Cilag Taiwan, Taipei; the Johnson & Johnson Corporation, Taipei; and the National Science Council of Taiwan (NSC 95-2314-B-075-011) to Dr. Bai.
+
+The manuscript underwent English-language editing by MedCom Asia, which received payment from the authors for the services provided.
+
+The authors report no other financial affiliation or relationship relevant to the subject of this article.
+
+Corresponding author and reprints: Ya Mei Bai, M.D., Ph.D., Department of Psychiatry, Taipei Veterans General Hospital, No. 201, Sec. 2, Shih-Pai Rd., Taipei 112, Taiwan (e-mail: ymbi@mail2000.com.tw).
+
+Risperidone is the first atypical antipsychotic drug available in a long-acting injection. Risperidone long-acting injection offers the advantages of the conventional depot neuroleptics (e.g., assured compliance, sustained delivery, stable plasma levels) and the proven efficacy of atypical antipsychotics on positive and negative symptoms of schizophrenia in both short- and long-term studies.1–6 Risperidone long-acting injection is generally well tolerated; it is associated with low incidences of withdrawals due to adverse effects (1%–16%).7 Furthermore, with its assured mode of medication delivery, risperidone long-acting injection assists patients in achieving remission of symptoms, an important step toward their functional recovery.8–10 Lasser et al.11 reported that many previously stable but nonremitted patients met remission criteria for schizophrenia after switching to risperidone long-acting injection and had significant improvements in patient-rated health status for life quality. From a pharmacoeconomic standpoint, a study by Leal et al.12 study found that the percentage of schizophrenic patients subsequently requiring hospitalization decreased from 38% prior to risperidone long-acting injection administration to only 12% following administration, with health care resource use reduced commensurately. Furthermore, patients receiving risperidone long-acting injection experienced normalization of their health-related quality-of-life, clinically meaningful improvement in overall mental health, greater energy, better social functioning, and fewer limitations in their daily activities resulting from emotional or physical complaints.13
+
+Existing guidelines for the use of risperidone long-acting injection14 state that most individuals should be started on a dose of 25 mg injected every 2 weeks, but the findings of some recent studies raise doubts about these guidelines. In a U.K. study,15 for example, 250 patients were administered risperidone long-acting injection and followed for a year. All subjects began treatment on a dosage of 25 mg q 2 weeks; resource use data were obtained for 3 years prior to risperidone long-acting injection administration and then were collected for a year thereafter. Results showed that only 81 subjects (32.4%) completed 1 year of risperidone long-acting injection treatment. Days per year spent in U.K. hospitals increased from a mean of 31 per patient 3 years prior to administration to 44 in year –2, 90 in year –1, and 141 in the year following initial administration. Direct health care costs increased accordingly.15 Another 1-year, double-blind study16 examined the effects of fixed risperidone long-acting injection doses in 324 symptomatically stable patients with schizophrenia or schizoaffective disorder. Patients were randomized to groups receiving either 25mg or 50-mg injections biweekly, with results showing that those receiving 25 mg were more likely to relapse during the first year (21.6%) than those receiving 50 mg (14.9%) (p=.059). Even among patients previously maintained on risperidone equivalents of 4 mg/day or less, those given 25-mg injections were far more likely to relapse (17.2%) than those given 50-mg injections (8.6%) (p=.027)16 In the European “Switch to Risperidone Microspheres” (STORMI) study,17 83% of the 1876 subjects initially received a risperidone long-acting injection dose of 25 mg, while smaller groups received 37.5 mg (11%) or 50 mg (6%). By the endpoint of the sixth month of this study, only 44% of the original cohort was taking 25 mg per injection; 26% were taking 37.5 mg and 30% were getting 50 mg per injection.17 Nesvag et al.18 measured serum concentrations from 78 patients receiving 3 different risperidone long-acting injection doses, and results showed that some subjects began risperidone long-acting injection treatment at 25 mg q 2 weeks, which provides apparently subtherapeutic plasma levels of risperidone and its major metabolite, 9-hydroxyrisperidone.18 All of these data suggest that a substantial percentage of patients might require initial risperidone injections greater than the 25 mg now advised, and they raised the clinical question of how to define the effective initial dose to reduce the risk of relapse and maintain good tolerance.19 Defining an equivalent switching dose from oral risperidone to risperidone long-acting injection may be helpful for clinicians, since we have had much more experience with oral risperidone.
+
+In the present 48-week comparative study, the efficacy and safety were compared between oral risperidone and risperidone long-acting injection. To define the appropriateness of equivalent switching doses, changes in psychopathology and serum concentration of risperidone metabolites were compared among 3 different risperidone long-acting injection dosages.
+
+METHOD
+
+General Considerations
+
+Most previous studies that demonstrated the clinical benefits of risperidone long-acting injection over oral typical and atypical antipsychotics have been conducted on a mixed population of outpatients and inpatients. Results from these studies have indicated that the benefits of risperidone long-acting injection are multifactorial, derived from both the improved compliance of the risperidone long-acting injection depot formulation and the improved pharmacotherapy of the atypical antipsychotic.20
+
+However, to assess experimentally the drug equivalencies from oral risperidone to risperidone long-acting injection, the compliance variable must be controlled; a study conducted among hospitalized patients may have optimal control for the factor. In addition, since most patients switched to risperidone long-acting injection are already symptomatically stable, follow-up has to be long enough to permit accurate assessment of the chances of symptom recurrence. The present study, then, is a 48-week, randomized, prospective, single-blind study of symptomatically stable hospitalized patients with schizophrenia. Patients were then randomly assigned to the oral risperidone group or the risperidone long-acting injection group. A previous report showed that the average oral dose of risperidone for patients in Taiwan was around 4 mg/day,21 and expert consensus guidelines indicated that risperidone long-acting injection 25 mg q 2 weeks is adequate for most patients,14 so we began the study by switching equivalent dose for the risperidone long-acting injection group as follows: administering risperidone long-acting injection in 25-mg injections to those patients receiving oral risperidone doses of 4 mg/day or less, administering 37.5-mg injections to those receiving oral risperidone at more than 4 mg/day but at 6 mg/day or less, and administered 50-mg injections to those taking more than 6 mg/day of oral risperidone.
+
+Patients
+
+Patients enrolled in this study were 18 to 65 years old and had been given a DSM-IV diagnosis of schizophrenia disorder. All were symptomatically stable, receiving Positive and Negative Syndrome Scale (PANSS)22 total scores of less than 80 at the screening visit and at baseline. Each of the following PANSS parameters had scores of less than 4 as well: conceptual disorganization, hallucinatory behavior, suspiciousness, and unusual thought content. Differences between Clinical Global Impressions scale (CGI)23 scores at the screening visit and at baseline were less than 1. Inclusion criteria were (1) previous treatment with oral risperidone for at least 3 months prior to the screening visit and (2) otherwise good health, based on the results of a physical examination and blood biochemistry and hematology tests performed at the screening visit and on a medical history. Exclusion criteria were (1) a history of neuroleptic malignant syndrome, documented organic disease of the central nervous system, or current seizure disorder; (2) current risk of violent behavior against other individuals; and (3) current suicidal ideation or suicidal ideation during the 6 months preceding screening. The study was conducted from March 2004 to May 2005 in Taiwan’s largest psychiatric teaching hospital, which offered long-term disposition for patients with poor social support, enabling stable patients to stay at the hospital for years. The study was performed in accordance with the Declaration of Helsinki and was preapproved by the Ethics Review Committee of Yu-Li Veterans Hospital (Hua-Lien, Taiwan). The study was described comprehensively to all patients prior to their enrollment, and all patients provided written, informed consent before they were allowed to participate.
+
+Medications
+
+Patients were randomly assigned to the oral risperidone group or the risperidone long-acting injection group. Subjects in the risperidone long-acting injection group received injections every 2 weeks: 25-mg injections were administered to those patients receiving oral risperidone doses of 4 mg/day or less; 37.5-mg injections, to those who had received oral risperidone at doses greater than 4 mg/day but at 6 mg/day or less; and 50-mg injections, to those taking more than 6 mg/day of oral risperidone. Their original oral risperidone dose was maintained for the first 3 weeks, after which time it was either stopped or tapered off within 3 days because of the time required to achieve therapeutic serum levels of risperidone long-acting injection.20 Supplementation of oral risperidone doses was allowed if the patient experienced acute exacerbation of psychotic symptoms, and risperidone long-acting injection injections could be increased during the trial in increments of 12.5 mg, up to a maximum of 50 mg per injection.
+
+Subjects in the oral risperidone group were maintained on their previous doses of oral risperidone and, like subjects in the risperidone long-acting injection group, were given supplements of oral risperidone if they experienced a worsening of their psychotic symptoms. Administration of other antipsychotics, either in oral or injectable form, was prohibited throughout the study period. Doses of anticholinergics were titrated according to the presence and severity of extrapyramidal symptoms (EPS), and benzodiazepines were prescribed adjunctively if the patient’s psychiatric condition became temporarily unstable. Participation in the study was discontinued if psychotic symptoms were exacerbated or if the subject could not tolerate side effects. Nurses administered and monitored all risperidone long-acting injections and oral medications throughout the course of the study to ensure drug compliance.
+
+Clinical Assessment
+
+Clinical efficacy and side effects were assessed by trained investigators at baseline and weeks 4, 8, 12, 24, 36, and 48. Assessments included the positive score of the PANSS, the CGI severity scale, the Global Assessment of Functioning (GAF),24 the Abnormal Involuntary Movement Scale (AIMS),25 the Simpson Angus Scale (SAS),26 the Barnes Akathisia Scale (BAS),27 and the UKU Side Effect Rating Scale (UKU).28 Quality of life was assessed with the Medical Outcomes Study Short-Form Health Survey (SF-36)29 physical component summary (PCS) and mental component summary (MCS). Drug tolerance was monitored with laboratory tests, including hematology, biochemistry, and prolactin levels at baseline and weeks 4, 8, 12, 24, 36, and 48. Serum concentrations of risperidone metabolites (risperidone and 9-hydroxyrisperidone) were monitored at baseline and weeks 4, 8, 12, and 24. Overnight fasting blood samples were drawn from 7:00 a.m. to 8:00 a.m., 12 hours after the last dose of medication. After solid-phase extraction, plasma risperidone and 9-hydroxyrisperidone metabolites were measured by reverse-phase high-performance liquid chromatography with ultraviolet detection, as described in detail by Lane et al.30 The standard curves of risperidone and 9-hydroxyrisperidone were linear over a range of 2 to 150 ng/mL. The intraassay and interassay coefficients of variation were less than 15% in the range between 2 and 150 ng/mL for each compound. The lower limit of detection of both compounds was 2 ng/mL. An ACCESS prolactin kit (Beckman Coulter, Fullerton, Calif.) with an upper limit of detection of 200 ng/mL was used to measure plasma prolactin levels.
+
+Patient satisfaction with treatment was rated on a 5-point scale of 5 = very good, 4 = good, 3 = reasonable, 2 = moderate, and 1 = poor at baseline and weeks 4, 8, 12, 24, 36, and 48. Pain at injection was evaluated in the risperidone long-acting injection group at weeks 4, 8, 12, 24, 36, and 48, using a 10-cm visual analog scale (VAS) ranging from 0 (no pain) to 10 (unbearably painful). Investigators recorded spontaneously reported adverse events during each patient visit and at the endpoint of the study. A serious adverse event was defined as any untoward medical occurrence that had been life-threatening or that had resulted in death, persistent or significant disability, or incapacity.
+
+Data Analysis
+
+This study was designed to compare the efficacy and safety of oral risperidone and risperidone long-acting injection in subjects who had received at least 1 dose of risperidone long-acting injection or oral risperidone. All data were analyzed on an intent-to-treat basis, and endpoint data was generated with the last observation carried forward (LOCF). For categorical measures, between-group proportion differences were analyzed with the Fisher exact test. For continuous measures, between-group comparisons were analyzed with the nonparametric Mann-Whitney test, the 2-independent group, or the analysis of covariance model, with covariate adjustment of unequal baseline value. To test the characteristics of risperidone long-acting injection at 3 doses, the nonparametric Kruskal-Wallis test was used. For all comparisons, the level of significance was set at p=.05. SPSS 13.0 for Windows (SPSS Inc.. Chicago, Ill.) was used for all statistical analyses.
+
+RESULTS
+
+Clinical Assessment: Efficacy, Safety, and Drug Tolerance
+
+No significant difference between the 2 groups was noted at baseline for demographics, original risperidone dose, percentage of concomitant use of benzodiazepines and anticholinergics, PANSS score, GAF score, side effect profiles, or SF-36-PCS or MCS score (Table 1). Of the 50 patients enrolled in the study, 45 completed the study, for a completion rate of 90%. All 5 patients withdrawn from the study were from the risperidone long-acting injection group. One patient withheld informed consent due to gastrointestinal side effects at week 5, 2 patients were discharged in stable condition, and 2 patients taking 25 mg risperidone long-acting injection q 2 weeks (original oral risperidone doses of 3 mg/day and 4 mg/day, respectively) had symptom relapses. There was no significant difference for the change in doses of oral risperidone and risperidone long-acting injection between the 2 groups (Table 2), nor for the concomitant use of benzodiazepines and anticholinergics (Table 1).
+
+At the 48th week, no significant differences between the 2 groups were noted for change in the following parameters: PANSS positive, negative, and general psychopathology scores; CGI score; GAF score; and SF-36-PCS and -MCS score (Table 1); nor were differences found for body weight or biochemical variables (Table 3). But the risperidone long-acting injection group showed a significantly decreased UKU score (p=.048; Figure 1), a decreased SAS score (p=.028; Figure 2); and decreased prolactin levels (p=.046; Table 3). The mean + SD VAS pain rating (score 1–10) was 2.9 ± 3.0.
+
+Pharmacokinetics
+
+At baseline, positive correlations between serum concentration of prolactin and risperidone metabolites were noted (9-hydroxyrisperidone [r=0.419 and p=.003] and total risperidone metabolites [r=0.326 and p=.022]). During the study period, significantly lower serum concentrations of 9-hydroxyrisperidone (p=.003) and nearly significantly lower concentrations of total risperidone metabolites (p=.081) were noted in the risperidone long-acting injection group than in the oral risperidone group (Figure 3). In order to assess the equivalent switching dose from oral risperidone to risperidone long-acting injection, changes in PANSS scores and serum concentrations of risperidone metabolites were compared. The results revealed that patients switched to 37.5 mg q 2 weeks of risperidone long-acting injection showed significantly decreased serum concentrations of 9-hydroxyrisperidone (p=.023) and total risperidone metabolites (p=.028) and nearly significantly increased PANSS total scores (p=.058) compared with patients taking other risperidone long-acting injection doses (Table 4, Figure 4).
+
+DISCUSSION
+
+This study was performed among hospitalized patients and had a completion rate of 90%, which was higher than in previous studies4,6,31,32 and beneficial for interpretation of results. The hypothesis of the clinical superiority of risperidone long-acting injection over oral typical and atypical antipsychotics1,3–6,32 was derived from improved compliance owing to continuous drug delivery and from the improved pharmacotherapy of an atypical antipsychotic medication.9 Our study design controlled for both factors; our results showed no benefit in clinical efficacy of risperidone long-acting injection over oral risperidone. However, the result of good tolerance of risperidone long-acting injection consistent with previous reports4,6 may be explained by the relative stability of serum level metabolites18,20 responsible for the statistically marked reduction in UKU-assessed side effects, SAS-measured extrapyramidal symptoms, and reduced serum prolactin observed here. Most previous pharmacokinetic reports was from white patients; this is the first study of Asian patients showing a similar result. For the metabolic profiles, no significant difference between the 2 groups was noted, and both groups experienced very mild weight loss. This long-term result was consistent with the relatively low liability of oral risperidone for inducing weight gain compared with other atypical antipsychotics.33 The VAS scores (1–10) for pain at injection showed a mild degree (2.9 ± 3.0). Conventional depot preparations are oil-based and must be injected slowly34; they are more painful and are associated with greater risks of cyst and sore development at the site.35 Risperidone long-acting injection is water-based, and Lindenmayer et al.36 reported that VAS pain ratings of risperidone long-acting injection were low at all visits across all doses. Patients who are treated with risperidone long-acting injection will benefit from knowing that they are less likely to experience pain, an injection site reaction, or breakthrough EPS than they might experience with conventional depot therapy.14
+
+The most surprising finding of the study is the markedly reduced efficacy of risperidone long-acting injection at injectable doses lower than 50 mg q 2 weeks. Most previous premarketing studies of risperidone long-acting injection were with risperidone long-acting injection dosages of 25 mg, 50 mg, and 75 mg4-6; patients in the run-in stage with oral risperidone of 2 mg/day or less were switched to risperidone long-acting injection 25 mg, and those with an oral risperidone dose from 2 to 4 mg/day were switched to risperidone long-acting injection 50 mg. When we designed the study, the marketed dosages of risperidone long-acting injection were 25, 37.5, and 50 mg, and expert consensus guidelines suggested that risperidone long-acting injection 25 mg is the initial dose for most patients.10 Although in the present study we had designed a more conservative dose equivalent switching method, patients who received either 25 mg q 2 weeks or 37.5 mg q 2 weeks of risperidone long-acting injection showed increased PANSS scores, decreased serum metabolite concentrations, and an increased tendency to relapse. The result suggested that the switching method still needs modification. We have tried to define an equation model from the pharmacokinetic results, but have failed to do so. The failure may be due to our small sample size, variation of sample sizes at 3 risperidone long-acting injection dosages from 3 to 14, and a readily apparent difficulty of the variation in serum concentration of risperidone metabolites afforded by the same dose in different individuals-1 study estimated concentration to dose ratios of between 1.8 and 36.8 (nmol/L)/mg/day.14 But these empirical data still offered clinical reference. Although significant differences for the change in PANSS scores were noted among the 3 risperidone long-acting injection dosages, no significant difference was noted between the risperidone long-acting injection and oral risperidone groups. Therefore, the equivalent switching dose may need little modification. We suggest that the threshold for switching risperidone long-acting injection doses be reduced to oral risperidone 3 mg/day for risperidone long-acting injection 37.5 mg q 2 weeks, and oral risperidone 5 mg/day for risperidone long-acting injection 50 mg q 2 weeks. Of course, more large-scale studies or postmarketing surveys are required to define the switching dose. Posed another way, the interesting question is whether the superiority of tolerance would diminish with the upward titration of threshold. In previous premarketing studies with available risperidone long-acting injection dosages of 25 mg, 50 mg, and 75 mg,4,6 good tolerance was still evident. The concern may be decreased.
+
+In this study, we tried to offer empirical data for optimum dosing strategies, but it is difficult to enroll a large sample for long-term pharmacokinetic study. Limited sample size is the major drawback of the study in that statistical power may be not enough to detect the difference of efficacy between the risperidone long-acting injection and oral risperidone groups, although changes in side effects, prolactin levels, and concentrations of risperidone metabolites were statistically significant. The significant differences for the change in efficacy and serum concentration of risperidone metabolites among 3 risperidone long-acting injection dosages address the reconsideration of optimum dosing strategies for risperidone long-acting injection, but since generalization of the results was still limited by the small sample size for each risperidone long-acting injection dose, further long-term and large-scale pharmacokinetic studies are definitely required to investigate the long-term stability of switching to and benefits of maintenance treatment with risperidone long-acting injection.
+
+Drug name: risperidone (Risperdal and others).
+
+### Tables (TXT Format)
+Table 1. Comparison of the Profiles of the Risperidone Long-Acting Injection and Oral Risperidone Groups at Baseline and for Change From Baseline at Week 48a
+Note: Values shown as mean ± SD unless otherwise noted.
+Abbreviations: AIMS = Abnormal Involuntary Movement Scale, BAS = Barnes Akathisia Scale, CGI = Clinical Global Impressions scale, EPS = extrapyramidal symptoms, GAF = Global Assessment of Functioning, NS = not significant, PANSS = Positive and Negative Syndrome Scale, SAS = Simpson-Angus Scale, SF-36 = Medical Outcomes Study Short-Form Health Survey, UKU = UKU Side Effect Rating Scale. Symbol: … = not applicable.
+bPatient satisfaction with treatment rated on a 5-point scale (1 = poor, 2 = moderate, 3 = reasonable, 4 = good, 5 = very good).
+
+| Parameter | Risperidone Long-Acting Injection Group (N = 25) | Oral Risperidone Group (N = 25) | Significance |
+| --- | --- | --- | --- |
+| Concomitant benzodiazepine usage, N (%) | 19 (76) | 19 (76) | NS |
+| Concomitant anticholinergic usage, N (%) | 16 (64) | 18 (72) | NS |
+| PANSS Positive Score | 13.1 ± 4.5 | 13.9 ± 4.9 | NS (0.12) |
+| PANSS Negative Score | 20.0 ± 8.5 | 21.7 ± 9.0 | NS (0.20) |
+| PANSS General Psychopathology Score | 32.2 ± 8.0 | 34.7 ± 8.7 | NS |
+| PANSS Total Score | 65.2 ± 17.6 | 70.2 ± 19.6 | NS |
+| CGI Severity Scale | 3.96 ± 0.20 | 3.92 ± 0.28 | NS (0.04) |
+| GAF Score | 6.1 ± 4.1 | 6.0 ± 3.8 | NS |
+| UKU Side Effect Rating Scale Score | 8.9 ± 5.1 | 11.5 ± 5.6 | p = .048 |
+| SAS Score | 0.40 ± 1.3 | 0.36 ± 1.2 | p = .028 |
+| AIMS Score | 8.0 | 7.7 | NS |
+| BAS Score | 8.5 | 6.5 | NS |
+| Serum Prolactin (ng/mL) | 64.4 ± 10.4 | 59.6 ± 11.4 | NS |
+| SF-36 Physical Component Summary | 45.8 ± 8.5 | 46.5 ± 9.8 | NS |
+| SF-36 Mental Component Summary | 33.2 ± 15.5 | 37.1 ± 16.0 | NS |
+| Patient Satisfaction (5-point scale) | 3.7 ± 1.5 | 3.6 ± 1.6 | NS |
+
+Table 2. Subjects With Changes in Dosages of Oral Risperidone and Risperidone Long-Acting Injection, by Randomized Group
+
+| Patient Group | Original Oral Risperidone Dose (mg/d) | Initial Risperidone Long-Acting Injection Dose (mg q 2 wk) | Final Risperidone Long-Acting Injection Dose (mg q 2 wk) |
+| --- | --- | --- | --- |
+| Risperidone Long-Acting Injection Group | 8 | 50 | 37.5 |
+| Risperidone Long-Acting Injection Group | 4 | 25 | 37.5 |
+| Risperidone Long-Acting Injection Group | 6 | 37.5 | 37.5 + 3 mg/d po |
+| Risperidone Long-Acting Injection Group | 4 | 25 | 25 + 2 mg/d po |
+| Risperidone Long-Acting Injection Group | 6 | 37.5 | 37.5 + 1 mg/d po |
+| Risperidone Long-Acting Injection Group | 3 | 25 | Relapsed at wk 24 |
+| Risperidone Long-Acting Injection Group | 4 | 25 | Relapsed at wk 44 |
+| Oral Risperidone Group | 1 | - | 2 |
+| Oral Risperidone Group | 2 | - | 3 |
+| Oral Risperidone Group | 2 | - | 4 |
+| Oral Risperidone Group | 3 | - | 4 |
+| Oral Risperidone Group | 3 | - | 4 |
+| Oral Risperidone Group | 3 | - | 4 |
+| Oral Risperidone Group | 4 | - | 3 |
+| Oral Risperidone Group | 5 | - | 6 |
+| Oral Risperidone Group | 6 | - | 5 |
+| Oral Risperidone Group | 6 | - | 5 |
+
+Table 3. Comparison of the Change From Baseline to Week 48 in Body Weight, Laboratory Values, and Prolactin Levels Between the Randomized Groupsa
+Note: Values shown as mean ± SD.
+Abbreviations: BUN = blood urea nitrogen, NS = not significant, SGOT = serum glutamic-oxaloacetic transaminase, SGPT = serum glutamic-pyruvic transaminase.
+
+| Variable | Risperidone Long-Acting Injection Group | Oral Risperidone Group | Significance |
+| --- | --- | --- | --- |
+| Body weight, kg | –2.18 ± 5.03 | –0.35 ± 7.48 | NS |
+| SGOT, U/L | –4.83 ± 17.5 | –5.14 ± 11.68 | NS |
+| SGPT, U/L | –4.00 ± 33.49 | –2.16 ± 29.10 | NS |
+| Serum fasting glucose, mg/dL | 9.64 ± 51.03 | –2.64 ± 16.05 | NS |
+| Serum triglycerides, mg/dL | –0.04 ± 48.24 | –3.68 ± 42.00 | NS |
+| Serum cholesterol, mg/dL | 6.52 ± 20.69 | 10.16 ± 24.12 | NS |
+| Serum creatine kinase, U/L | 34.7 ± 101.7 | 4.3 ± 77.99 | NS |
+| BUN, mg/dL | –0.28 ± 3.14 | –1.20 ± 3.29 | NS |
+| Serum creatinine, mg/dL | –0.12 ± 0.22 | –0.12 ± 0.17 | NS |
+| Serum uric acid, mg/dL | –0.02 ± 1.13 | 0.004 ± 1.004 | NS |
+| Serum prolactin, ng/mL | –17.3 ± 36.3 | 8.8 ± 21.2 | p = .046 |
+
+Table 4. Comparison for Change in PANSS Scores and Serum Concentrations of Risperidone Metabolites and Prolactin Among 3 Dosages of Risperidone Long-Acting Injection in 25 Patientsa
+Note: Values shown as mean ± SD.
+bThe differences between doses were clinically significant, although the nature of the comparison precluded the need to test for statistically significant differences.
+Abbreviations: NS = not significant, PANSS = Positive and Negative Syndrome Scale.
+
+| Variable | 25 mg (N = 14; 56%) | 37.5 mg (N = 8; 32%) | 50 mg (N = 3; 12%) | Significance |
+| --- | --- | --- | --- | --- |
+| Original oral risperidone dose, mg/d | 3.4 ± 0.8 | 5.8 ± 0.5 | 8.0 ± 0 | … b |
+| PANSS Total Score | 3.36 ± 7.09 | 5.75 ± 14.32 | –11.67 ± 11.55 | p = .058 |
+| PANSS Positive Symptoms Score | 0.64 ± 1.69 | 0.63 ± 4.37 | –3.67 ± 4.73 | NS |
+| PANSS Negative Symptoms Score | 0.36 ± 4.97 | 1.25 ± 6.39 | –3.33 ± 0.58 | NS |
+| PANSS General Psychopathology Score | 2.36 ± 4.75 | 3.88 ± 8.27 | –4.67 ± 7.23 | NS |
+| Risperidone metabolites, ng/mL | –2.89 ± 4.08 | –5.63 ± 4.35 | –0.05 ± 4.75 | NS |
+| 9-Hydroxyrisperidone metabolites, ng/mL | –2.65 ± 5.41 | –8.70 ± 3.68 | –0.37 ± 4.74 | p = .023 |
+| Total metabolites, ng/mL | –5.54 ± 8.58 | –14.3 ± 5.44 | –0.42 ± 9.32 | p = .028 |
+| Prolactin, ng/mL | –14.4 ± 36.99 | –33.15 ± 29.56 | 11.51 ± 39.60 | NS |
+
+### Image Descriptions (TXT Format)
+Figure 1: Change Over Time in UKU Side Effect Rating Scale (UKU) Scores in the Risperidone Long-Acting Injection and Oral Risperidone Groups.
+- X-axis: Time points (Baseline, Week 4, Week 12, Week 24, Week 36, Week 48).
+- Y-axis: UKU Score (ranging approximately from 3.5 to 6.5).
+- Two groups are plotted: Risperidone Long-Acting Injection and Oral Risperidone.
+- Baseline UKU scores are around 6.1 for both groups.
+- Over time, the Risperidone Long-Acting Injection group shows a gradual decrease in UKU scores (to approximately 3.8 at Week 48), while the Oral Risperidone group remains relatively stable (around 5.4 at Week 48).
+- Statistical comparison (analysis of covariance) shows p = .048 between the two groups.
+
+Figure 2: Change Over Time in Simpson-Angus Scale (SAS) Scores in the Risperidone Long-Acting Injection and Oral Risperidone Groups.
+- X-axis: Time points (Baseline, Week 4, Week 12, Week 24, Week 36, Week 48).
+- Y-axis: SAS Score (ranging approximately from 2.0 to 7.2).
+- Two groups are plotted: Risperidone Long-Acting Injection and Oral Risperidone.
+- Baseline SAS scores are around 6.5 for the Oral Risperidone group and 7.2 for the Risperidone Long-Acting Injection group.
+- The Risperidone Long-Acting Injection group shows a significant decrease in SAS scores over time (to approximately 2.0 at Week 48), while the Oral Risperidone group shows a slight decrease (to around 4.0 at Week 48).
+- Statistical comparison (analysis of covariance) shows p = .028 between the two groups.
+
+Figure 3: Change From Baseline Over Time in Concentration of Serum Risperidone Metabolites in the Risperidone Long-Acting Injection and Oral Risperidone Groups.
+- X-axis: Time points (Week 2, Week 4, Week 8, Week 12, Week 16, Week 20, Week 24).
+- Y-axis: Change From Baseline in Serum Concentration (ranging approximately from -10 to 2).
+- Six lines are plotted, representing three metabolite types for each group: Risperidone Metabolites (risperidone long-acting injection group and oral risperidone group), 9-Hydroxyrisperidone Metabolites (risperidone long-acting injection group and oral risperidone group), and Total Risperidone Metabolites (risperidone long-acting injection group and oral risperidone group).
+- The Risperidone Long-Acting Injection group shows a greater decrease in 9-Hydroxyrisperidone Metabolites and Total Risperidone Metabolites compared to the Oral Risperidone group.
+- Statistical comparisons (ANCOVA): Change in risperidone metabolites between groups (p = .834); Change in 9-hydroxyrisperidone metabolites between groups (p = .003); Change in total risperidone metabolites between groups (p = .081).
+
+Figure 4: Change Over Time in Serum Concentrations of Metabolites at Risperidone Long-Acting Injection Dosages of 25, 37.5, and 50 mg.
+- Three subplots are included, each for a different metabolite type:
+  1. Risperidone Metabolites: X-axis (Time points: Week 2, Week 8, Week 12, Week 16, Week 20, Week 24); Y-axis (Change From Baseline in Concentration, ranging from -7 to 1). Three lines for 25 mg, 37.5 mg, and 50 mg doses. The 37.5 mg dose shows the greatest decrease, followed by 25 mg, while 50 mg remains near baseline.
+  2. 9-Hydroxyrisperidone Metabolites: X-axis (same time points); Y-axis (Change From Baseline in Concentration, ranging from -10 to 2). The 37.5 mg dose shows the most significant decrease, followed by 25 mg, with 50 mg showing minimal change.
+  3. Total Metabolites: X-axis (same time points); Y-axis (Change From Baseline in Concentration, ranging from -16 to 2). The 37.5 mg dose has the largest decrease, followed by 25 mg, and 50 mg shows the least change.

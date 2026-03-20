@@ -1,0 +1,231 @@
+# TEXT BEFORE REFERENCES
+INTRODUCTION
+Although phenothiazines have gained acceptance as the standard treatment for the acute episode of schizophrenia (Rathod and Rees, ; Cole, 1964), there is much more doubt about their effectiveness as maintenance therapy. Several American studies have reported on the results of maintenance therapy with chlorpromazine compared with placebo, and found phenothiazine treatment to be superior in preventing relapse (Scarpitti et al., 1964; Pasamanick et al., 1957; Ravaris et al., 1967). However, these studies suffer from methodological problems which impair their clarity. First, as emphasized by Leff and Wing (1971), diagnostic criteria are rarely stipulated. This is clearly important if American work is to be compared with British, since Kendell et al. (1971) have shown the wider concept of schizophrenia used in the U.S.A. Secondly, the likelihood of bias occurring in the population meeting trial selection criteria, resulting in a trial population which is unrepresentative of the group as a whole, is not usually defined. Every trial worker knows this 'sample' phenomenon, which appears to result in a sudden scarcity of patients as soon as a trial is contemplated. The trial of maintenance therapy conducted by Leff and Wing (1971) meets this objection by following the progress of patients who met the trial criteria but could not be included for various other reasons.
+Finally there are problems of whether patients assigned to the drug group of a trial actually take their medication. There have been many studies showing how unreliable out-patients are in taking their medications, rates from 30 to 50 per cent unreliability being quoted (Parkes et al., 1962; Wilcox et al., 1965). With the advent of intramuscular depot phenothiazines it has become possible to ensure that prescribed medication is taken, and it is likely that absorption and serum levels can be better maintained in a given patient over a length of time.
+British and Scandinavian work has concentrated on retrospective surveys of readmission rates. For instance Imlah and Murphy (1970), Lowther (1968) and Freeman (1970) report studies in which readmission rates were calculated using each patient as his own control. Most studies report a reduction in the number of days spent in hospital during the follow-up period.
+
+METHOD
+The trial was designed to try to meet the difficulties referred to, and to define the considerable sources of bias in selecting the samples. The aim was to test the hypothesis that there would be a lower rate of relapse in a group of relapsing out-patient schizophrenics treated with intramuscular long-acting fluphenazine decanoate (Modecate) than in a similar control group given oral trifluoperazine hydrochloride capsules (Stelazine) as maintenance therapy, in the setting of a Community Nursing Service.
+In July 1971 all patients attending the Royal Edinburgh Hospital (see below) were reviewed. There were 97, and this was called Base Population. This was then categorized by age, sex, diagnosis and length of illness. Each patient was reviewed by the staff of the clinic for suitability for inclusion in the trial, on the following criteria:
+(i) Diagnostic
+(2) Precariousness of present clinical state
+(3) Attendance record
+(4) Co-operation over pill taking
+(5) Attitude to continuing treatment
+All patients entering the trial were between 20 and 65 years of age.
+
+(i) Diagnostic criteria
+All patients attending the Modecate Clinic have been classified according to the criteria of Forrest and Hay (1971), Hay and Forrest (1972).
+
+(2) Precariousness of clinical state
+Patients referred to the Modecate Clinic are seen before every injection of fluphenazine decanoate by a member of the Hospital Community Nursing Service, who thus comes to know the patient well. In practice the largest single reason given for unsuitability was the feeling of either doctor or nurse that the patient's clinical state was too uncertain to risk changing treatment.
+
+(3) Attendance record
+If a patient was unreliable in attending the Clinic, and had to be frequently visited at home by Community Nurses, he was not included in the trial.
+
+(4) Co-operation about pill taking
+Patients known to have strong objections to oral medication were excluded from the trial.
+
+(5) Attitude to continuing treatment
+Where it was known that a patient, although apparently stable and without florid symptoms, was likely to object when asked to vary the treatment regime, he was not approached about entering the trial.
+
+THE TRIAL
+The trial was designed as a straight, double blind two group comparison lasting 40 weeks. All patients entering the trial agreed to regular injections as before in the same dosage, and, in addition, to take capsules dispensed at the Clinic. All patients were told that the capsules were a new treatment, acting to prevent a recurrence of their illness, to be taken at the same time as the injections. No attempt was made to match the groups. Double blind conditions were maintained throughout the trial.
+The treatment given was as follows: every patient received both an injection and a supply of capsules. One treatment consisted of placebo injections (sesame oil vehicle) and active capsules (trifluoperazine hydrochloride spansules 10 mgm.). The other consisted of injections of long-acting fluphenazine decanoate in sesame oil, and oral placebo capsules. The preparations employed had identical appearances.
+Before entering the trial, all patients were rated on the Brief Psychiatric Rating Scale (Overall and Goreham, 1962). This (BPRS) is an instrument where inter-rater reliability is established, and which is designed to assess change in mental state, not diagnosis.
+In the present study patients were rated by one author (R.C.) only. Scoring was done by ascribing equal interval and equal weight to each rated symptom category, as described by Overall and Goreham. No diagnostic weights were used, and the original seven point scale (not present/very mild/mild/moderate/moderately severe/extremely severe) was modified to a five point scale (not present/mild/moderate/marked/severe) which has been found to have a higher inter-rater reliability (Daniel, 1972).
+BPRS scores were carried out at intervals of eight weeks throughout the trial, or on withdrawal. A patient was counted as a drop out if less than four weeks trial treatment was completed. Withdrawal was defined as the point at which symptoms were so bad that it became necessary to know what treatment the patient was having in order to decide on his future management. At this point the BPRS was administered, the patient terminated the trial, and the patient's management was handed over to another doctor. At the end of the trial the BPRS ratings were evaluated. The pre-trial rating was taken as the standard. The mean of the remaining 5 ratings for each patient was calculated, together with the Standard Error of the mean. A mean score which was two Standard Errors in either direction from the pre-trial rating counted as a change (better or worse depending on the direction). A mean score within two Standard Errors of the pre-trial rating was counted as No Change.
+The progress of patients who were found unsuitable for the trial was followed up for 40 weeks while the trial was proceeding. Progress was assessed by noting relapse as shown by the necessity for readmission.
+
+Characteristics of the trial patients and base population
+There were 97 patients attending the Modecate Clinic, all on injections of fluphenazine decanoate. Of this number, only 31 were considered suitable for the trial. It should be noted that the non-trial patients include all those whose stability, symptoms or attitude made prognosis guarded. Therefore considerable bias operated to include only relatively favourable patients in the trial, and this might be expected to influence the general relevance of the trial results. This point was also emphasized by Leff and Wing (1971), but seems an inescapable facet, given this type of trial format. The data in Appendix I show that the trial group was indeed unrepresentative of the base population. Males were under-represented in the trial group, while there was a relative excess of older patients with a larger mean length of illness.
+
+Characteristics of the two trial groups
+Of the two treatment groups, Group A received oral trifluoperazine and placebo injections, and Group B received placebo capsules and fluphenazine decanoate injections. Data concerning sex, age, length of illness, diagnosis and pre-trial dose of fluphenazine for each group were examined, and it was found that there was an even distribution by sex and age. For details see Appendix II.
+
+RESULTS
+Of the 31 patients entering the trial, two dropped out because of failure to co-operate with capsule taking within four weeks of starting the trial. They were both in Group A (i.e. oral trifluoperazine and placebo injections) and are not further considered in the results. Of the remaining 29 patients in the trial, the overall withdrawal rate was as follows:
+χ² = N.S.
+
+There is an obvious trend in favour of Group B (active injection/placebo capsule), where the withdrawal rate was 14.3 per cent compared with 60 per cent for Group A, but this fails to reach statistical significance.
+Outcome by diagnostic category, in which Group A and B were disparate, shows that the greatest number of worse and withdrawn patients were schizophrenics (Table II).
+The results of checking to see whether patients took medication as prescribed showed that 48.9 per cent of Group A and 35.7 per cent of Group B did not. The difference is not significant (Table III).
+
+Drug dosage changes
+There were only four changes in dose, all reductions because of side effects, spread equally between Group A and Group B.
+
+Outcome of non-trial patients
+Outcome of non-trial patients showed an overall admission rate of 30.2 per cent in 40 weeks follow-up. Only 3 patients were lost sight of, a follow-up success rate of 95.5 per cent.
+
+Outcome of trial patients by admission only
+It will be observed that the data available for assessing progress of the non-trial group can solely rely on the readmitted/not readmitted comparison. The trial group were differently assessed, and after they were withdrawn from the trial because of worsening symptoms their management was handed over to another doctor. After the trial was over he reported the number of trial patients who had needed admission. The others had been managed by re-starting on a regime of fluphenazine injections plus intensive community support. The number of readmissions was as follows:
+p > 0.05
+
+The results show that only patients from the oral trifluoperazine group were admitted, and no patient from the injection group was admitted. However, although this is a marked trend it just fails to reach statistical significance. On the other hand, the readmission rate of 30.2 per cent for non-trial patients (who were all treated with fluphenazine injections) compared with 0 per cent for trial patients (treated with fluphenazine injections) does reach statistical significance (χ² = 9.934, p < 0.01).
+
+Later statistical treatment
+Subsequent to the earlier analysis of the data the global scores on the BPRS ratings (i.e. different scores on the same patients) of patients in Group A and B were subjected to analysis of variance.
+First the initial patient rating was subtracted from all subsequent ratings for that individual, leaving a set of observations for each individual representing his changes of state from the initial rating. These differences were then analysed by a fairly standard analysis of variance in which it was assumed that there would be differences from individual to individual, difference between the two treatments, and a residual variability. (Table VII).
+
+DISCUSSION AND CONCLUSIONS
+This straight double blind trial of 40 weeks maintenance therapy in selected schizophrenic out-patients has shown an evident trend favouring a regime of depot intramuscular fluphenazine decanoate in sesame oil with placebo capsules (Group B) against maintenance on oral trifluoperazine capsules and placebo injections of sesame oil vehicle (Group A). Using the analysis of variance (on the global scores on BPRS ratings) this trend just reaches statistical significance at the 5 per cent level. However, a number of defects in the trial design must be taken into account. There were differences in composition between the two treatment groups (which, it will be remembered were allocated randomly) so that these differences may in themselves account for the different relapse rates between the groups.
+The two groups were evenly matched for mean length of illness, and for distribution within the groups, but there was a great range of illness from 1-27 years. This may affect outcome since response to maintenance phenothiazines may differ according to the stage of illness (Leff and Wing, 1971).
+Drug taking habits showed that both groups were unreliable at taking medication orally, and although there was a slightly higher rate of unreliability in Group A (48.9 per cent compared with 35.7 per cent for Group B), the difference is not statistically significant. The amount of unreliability corresponds with 30 per cent reported by Parkes et al. (1962), and 46 per cent by Renton et al. (1963) for schizophrenics.
+In considering the applicability of these results to schizophrenics in general, it must be remembered that the trial population was not typical of the Base Population from which it was selected, and the latter itself may not be typical of other schizophrenic populations. The trial patients tended to be relatively stable, co-operative and amenable to change when compared with the non-trial patients, and the results were obtained in the setting of a well-organized Community Nursing Service (Nickerson, 1972), and all that this entails in terms of close supervised follow-up in a relatively compact catchment area. The non-trial group could all be said to have a bad prognosis, and yet its readmission rate was only 30.2 per cent. This compares with 26.6 per cent for Trial Group A (oral trifluoperazine/placebo injections) and 0 per cent for Trial Group B (oral placebo/fluphenazine injections). The difference between the latter figure and the re-admission rate for non-trial patients is highly significant while the difference between the re-admission rates for Group A and for the non-trial patients is not significant.
+This lends support to the contention that while the trial group as a whole had a better prognosis (i.e. overall re-admission rate of 13.8 per cent) than the non-trial patients (overall re-admission rate of 30.2 per cent) yet within the trial group the significant variable was whether or not the patient received depot injections of fluphenazine.
+
+SUMMARY
+A double blind controlled trial lasting 40 weeks was carried out to determine the effect of maintenance therapy with phenothiazines in a population of schizophrenics in the community. The study took place in the setting of a Community Nursing Service. All patients received capsules and injections, but were divided into two groups. Group A received oral trifluoperazine capsules (Stelazine) and placebo injections, while Group B received placebo capsules and depot fluphenazine decanoate injections (Modecate). Group A had a withdrawal rate from the trial of 60 per cent and a readmission rate to hospital of 26.6 per cent. Group B had a withdrawal rate of 14.3 per cent and a readmission rate of 0 per cent. The differences just fail to reach statistical significance at the 5 per cent level, but there was an evident trend suggesting the injection regime was superior in preventing relapse. This trend was confirmed when the differences in the BPRS scores were subjected to statistical analysis (significant at 5 per cent level). Considerable bias operated in drawing the sample, and the ways in which this might have affected outcome have been discussed. The progress of all patients attending the hospital Modecate Clinic, from whom the trial population was drawn, was followed over the trial period. Readmission rate for those patients who were excluded from the trial because of problems associated with precarious prognosis, was 30.2 per cent.
+
+ACKNOWLEDGEMENTS
+We would like to thank Dr. G. R. Daniel and Dr. L. Adamson of E. R. Squibb (Great Britain) Ltd., Dr. D. H. Outram of Smith, Kline and French Laboratories Ltd., members of the Royal Edinburgh Hospital Community Nursing Service for their co-operation, and Miss Robertson, the Hospital Pharmacist and Dr. J. Clarke of the M.R.C. (Psychiatric Epidemiology).
+
+# TABLES
+## 表一 (Table I) - Withdrawal Rate of Trial Patients
+| Group | Completed | Withdrawn | Totals | Withdrawal Rate |
+|-------|-----------|-----------|--------|-----------------|
+| Group A | 6 | 9 | 15 | 60.0% |
+| Group B | 12 | 2 | 14 | 14.3% |
+Note: χ² = N.S.
+
+## 表二 (Table II) - Outcome by Diagnostic Category
+| Diagnostic Category | Group A | | Group B | |
+|---------------------|---------|-----|---------|-----|
+| | Better | Worse | Better | Worse |
+| Schizophrenia | 1 | 4 | 5 | 4 |
+| Paranoid psychoses | - | - | 1 | 1 |
+| Schizophreniform | 0 | 3 | - | - |
+| Other | 3 | 1 | 6 | 1 |
+
+## 表三 (Table III) - Outcome by Capsule Taking Habits
+| Capsule Taking Habit | Group A | | Group B | |
+|----------------------|---------|-----|---------|-----|
+| | Better | Worse | Better | Worse |
+| Regular | 7 | 1 | 9 | 0 |
+| Erratic | 1 | 6 | 3 | 2 |
+| Totals | 8 | 7 | 12 | 2 |
+
+## 表四 (Table IV) - Overall Readmission Rate: Non-trial Patients
+| Status | Number |
+|--------|--------|
+| Not Readmitted | 47 |
+| Readmitted | 20 |
+| Attending clinic regularly | 19 |
+| Refused treatment but in touch | 22 |
+| Lost touch | 3 |
+Note: Total non-trial patients = 66; Follow-up success rate = 95.5%; Overall readmission rate = 30.2%
+
+## 表五 (Table V) - Readmission by Diagnosis (Non-trial Patients)
+| Diagnostic Category | Readmitted | Not Readmitted |
+|---------------------|------------|----------------|
+| Schizophrenia | 9 | 17 |
+| Paranoid psychosis | 2 | 8 |
+| Schizophreniform | 4 | 9 |
+| Other | 5 | 18 |
+
+## 表六 (Table VI) - Trial Patients: Readmission Rate
+| Group | Readmitted | Not Readmitted | Totals | Readmission Rate |
+|-------|------------|----------------|--------|------------------|
+| Group A | 4 | 11 | 15 | 26.6% |
+| Group B | 0 | 14 | 14 | 0.0% |
+| Totals | 4 | 25 | 29 | 13.8% |
+Note: p > 0.05
+
+## 表七 (Table VII) - Analysis of Variance
+| Source of Variation | d.f. | s.s. | m.s. | F |
+|---------------------|------|------|------|-----|
+| Between treatments | 1 | 5.71 | 5.71 | 4.15 |
+| Between patients after treatments | 27 | 37.89 | 1.40 | - |
+| Residual | 73 | 100.47 | 1.38 | - |
+| Total | 101 | 144.07 | - | - |
+Note: The F-value (4.15) for the treatment effect just reaches statistical significance at the 5 per cent level.
+
+## 表八 (Appendix I) - Characteristics of Trial Patients Compared with Non-trial Patients
+### i. By Sex
+| Sex | Non-trial Patients (N=66) | | Trial Patients (N=31) | |
+|-----|----------------------------|-----|-----------------------|-----|
+|     | N | % | N | % |
+| Males | 32 | 48 | 9 | 29 |
+| Females | 34 | 52 | 22 | 71 |
+
+### ii. By Age
+| Age Group | Non-trial Patients (N=66) | | Trial Patients (N=31) | |
+|-----------|----------------------------|-----|-----------------------|-----|
+|           | N | % | N | % |
+| Less than 19 | 0 | 0 | 0 | 0 |
+| 20-29 | 15 | 23 | 4 | 13 |
+| 30-39 | 22 | 33 | 8 | 26 |
+| 40-49 | 13 | 20 | 7 | 23 |
+| 50-59 | 12 | 18 | 9 | 29 |
+| 60+ | 4 | 6 | 3 | 10 |
+
+### iii. By Mean Length of Illness
+| Group | Mean Length of Illness |
+|-------|-------------------------|
+| Non-trial Patients - Males | 11.4 years |
+| Non-trial Patients - Females | 8.4 years |
+| Trial Patients - Males | 15.1 years |
+| Trial Patients - Females | 11.1 years |
+
+### iv. By Length of Illness
+| Length of Illness | Non-trial Patients (N=66) | | Trial Patients (N=31) | |
+|-------------------|----------------------------|-----|-----------------------|-----|
+|                   | N | % | N | % |
+| 1-4 years | 12 | 18 | 5 | 16 |
+| 5-9 years | 10 | 15 | 8 | 26 |
+| 10-14 years | 10 | 15 | 4 | 13 |
+| 15+ years | 34 | 52 | 14 | 45 |
+
+### v. By Diagnosis
+| Diagnosis | Non-trial Patients (N=66) | | Trial Patients (N=31) | |
+|-----------|----------------------------|-----|-----------------------|-----|
+|           | N | % | N | % |
+| Schizophrenia | 41 | 62 | 17 | 55 |
+| Paranoid psychosis | 17 | 26 | 11 | 35 |
+| Schizophreniform | 6 | 9 | 2 | 6 |
+| Other | 2 | 3 | 1 | 3 |
+
+## 表九 (Appendix II) - Characteristics of the Two Treatment Groups in the Trial
+### i. By Sex
+| Group | Male | Female | Total |
+|-------|------|--------|-------|
+| Group A | 3 | 12 | 15 |
+| Group B | 4 | 10 | 14 |
+
+### ii. By Age
+| Age Group | Group A | | Group B | |
+|-----------|---------|-----|---------|-----|
+|           | Male | Female | Male | Female |
+| 20-29 | 0 | 1 | 0 | 0 |
+| 30-39 | 1 | 2 | 0 | 3 |
+| 40-49 | 1 | 5 | 2 | 2 |
+| 50-59 | 1 | 4 | 2 | 4 |
+| 60+ | 0 | 0 | 0 | 1 |
+
+### iii. By Mean Length of Illness
+| Group | Male | Female |
+|-------|------|--------|
+| Group A | 15.3 years | 10.9 years |
+| Group B | 18.3 years | 9.7 years |
+
+### iv. By Length of Illness
+| Length of Illness | Group A | | Group B | |
+|-------------------|---------|-----|---------|-----|
+|                   | Male | Female | Male | Female |
+| 1-4 years | 1 | 3 | 0 | 1 |
+| 5-9 years | 1 | 3 | 0 | 5 |
+| 10-14 years | 1 | 2 | 0 | 2 |
+| 15+ years | 0 | 4 | 4 | 2 |
+
+### v. By Diagnosis
+| Diagnosis | Group A | | Group B | |
+|-----------|---------|-----|---------|-----|
+|           | Male | Female | Male | Female |
+| Schizophrenia | 2 | 8 | 3 | 6 |
+| Paranoid psychosis | 1 | 3 | 1 | 3 |
+| Schizophreniform | 0 | 1 | 0 | 1 |
+| Other | 0 | 0 | 0 | 0 |
+Note: *Schizophrenia with dominant affective change; **Schizophrenia with epilepsy.
+
+# IMAGE DESCRIPTION
+No images are present in the text.

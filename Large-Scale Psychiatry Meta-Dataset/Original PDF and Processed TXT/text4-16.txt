@@ -1,0 +1,354 @@
+### Text Content (Before References)
+Department I1 (Head: S. J. Dencker), Lillhagen Hospital, Gothenburg.
+Institute of Psychology (Head: S. Rubenowitz), University of Gothenburg, Sweden
+Clopenthixol and flupenthixol depot preparations in outpatient schizophrenics
+I. A ONE YEAR DOUBLE-BLIND STUDY OF CLOPENTHIXOL DECANOATE AND FLUPENTHIXOL PALMITATE
+S. J. DENCKER, M. LEPP AND U. MALM
+
+Clopenthixol decanoate and flupenthixol palmitate, both depot neuroleptics belonging to the thioxanthene group, were studied during double-blind conditions for 12 months using four week intervals between injections. The 60 patients included in the study were chronic schizophrenics and treated as outpatients after earlier admission to hospital and rehabilitation training periods. They had all been treated with depot neuroleptics in the last three years and they had been free from relapse for at least 15 months. The main aim with this trial was to study the two depot drugs during maintenance treatment conditions in an outpatient setting.
+
+Ten patients dropped out, 7 because of unsatisfactory effect, mainly because only limited dose levels were accepted according to the design. In spite of the earlier long lasting neuroleptic treatment and the good social adaptation in this schizophrenic subgroup there was observed a symptom decrease in all the rating scales even in these symptom poor patients. This improvement in psychopathology with optimal results after half a year seems to be a combined result of the efficient neuroleptics tested and careful monitoring of the drug.
+
+Key words: Clopenthixol decanoate - flupenthixol palmitate - outpatient schizophrenics - double-blind - one-year - maintenance treatment.
+
+The thioxanthenes are effective neuroleptic agents, fully comparable with the phenothiazines and butyrophenones (Hollister (1973)). Two thioxanthene derivatives are now available as depot neuroleptics. The purpose of this study was to compare clopenthixol decanoate and flupenthixol palmitate as maintenance treatment in schizophrenia.
+
+Clopenthixol (Fig. 1) is a neuroleptic agent with sedative and antipsychotic properties. Flupenthixol (Fig. 2) has been described as a non-sedative neuroleptic counteracting lack of initiative, reduced emotional interests and withdrawal and has also been claimed to have antidepressant properties. It has been available for several years as a depot neuroleptic in the form of flupenthixol decanoate. As already stated we used flupenthixol palmitate in this study.
+
+Flexible dose intervals are customarily used for maintenance treatment. For scientific reasons we chose to give the injections at intervals of four weeks.
+
+Fig. 1. Clopenthixol.
+(Fig. 1 chemical structure: (σ₁-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂OH)₂)
+
+In this trial we studied schizophrenic patients in the maintenance phase, i.e. patients who were being treated as outpatients, often for several years after the first admission. They had all been treated with depot neuroleptics for at least three years and had been free from relapse for 15 months or more.
+
+DESIGN
+The study is a prospective one-year trial with a double-blind design. Before entering the trial the patients participated in a three-month preliminary open study during which they were treated with one of the two test preparations.
+
+The diagnostic criteria for a schizophrenic syndrome and thus for participation in the study were those applied in the NIMH collaborative study (1964). They are closely related to the Schneiderian criteria for schizophrenia, viz.:
+The presence on admission of two or more of the following symptoms, behaviours and/or signs:
+1. Thinking or speech disturbances.
+2. Catatonic motor behaviour.
+3. Paranoid ideation.
+4. Hallucinations.
+5. Delusional thinking other than paranoid.
+6. Blunted or inappropriate emotion.
+7. Disturbance of behaviour and interpersonal relationships.
+
+It should be noted that the chronic course of the disease in our patients can be a further confirmation of the diagnosis of schizophrenia. Besides these diagnostic criteria the above criteria for inclusion and exclusion were applied.
+
+As we wished to study schizophrenic patients on maintenance treatment all outpatients attending the clinic were reviewed. A number of 161 patients fulfilled the diagnostic criteria and 94 patients were found to fulfill the criteria for selection and started the preliminary trial (labelled pretrial in Fig. 3). Sixteen patients were excluded because they were participating in another study already and 11 did not wish to change their neuroleptic medication.
+
+Seven of the remaining 67 patients were withdrawn from the trial owing to their having been given injections more often than every four weeks or having received higher doses than those permitted. Thus 60 patients started the 12-month study during the years 1974-75. These patients were allocated at random to treatment with clopenthixol decanoate (30) or flupenthixol palmitate (30).
+
+Thus the selection criteria provide us with a well-defined population of patients suffering from a schizophrenic syndrome. The design leads to a sample of patients who had responded favourably to the drugs under study - in doses within the ranges recommended for maintenance therapy in schizophrenia.
+
+The trial period - one year - was divided into three phases (Fig. 3). Phase 1 comprised the first three months. The aim during phase 1 was to find the optimal dose for administration at four-week intervals. The next phase lasted also for three months and the dose was kept constant during this period. If necessary, however, additional injections were given two weeks after the ordinary injection during this phase. During the last 6 months of the trial (phase 3) the interval between injections was kept constant at four weeks.
+
+The injections were given by one of two nurses who knew the code but were unaware of other details of the study and who were not participating in the ratings or other assessments. This method of drug administration has been found in other trials to function well for maintaining double-blind conditions (Perris (1974)).
+
+Fig. 2. Flupenthixol.
+(Fig. 2 chemical structure: Not fully displayed in the text, referenced as Fig. 2)
+
+Thus dose adjustment could be made under circumstances where neither the therapist, the rater, nor the patient knew which of the two neuroleptics the patient was given - a double-blind method. The dose adjustments were carried out by increase or decrease of the volume of drug administered to the patient according to Table 1. As can be seen from the table both a minimum and a maximum dose were defined.
+
+In the event of extrapyramidal side effects occurring, benztropine or biperiden was given. Patients suffering from insomnia were given nitrazepam or chloral hydrate. All these adjuvant drugs were used with restraint. Diazepam and amitriptyline were used for anxiety and depression, respectively, in critical situations. No neuroleptics were allowed apart from the two test drugs.
+
+The patients received no other treatment apart from the psychotropics mentioned above. They were given no psychotherapy or social training.
+
+Fig 3. Design of the study.
+(Flowchart: CLINICAL TRIAL → PRETRIAL PHASE → PHASE 1 → PHASE 2 → PHASE 3 → FOLLOW-UP; with timeframes: Pretrial phase, Phase 1 (3 months), Phase 2 (3 months), Phase 3 (6 months), total 12 months)
+
+For the description of changes in psychopathology the BPRS (Overall & Gorham (1962)) and the Hamilton scale for depression (Hamilton (1960)) were used. In addition, the CPRS (Comprehensive Psychopathological Rating Scale (Asberg et al. (1978)) was used in the form of a subscale for schizophrenia (Dencker et al. (1980)). The complete CPRS scale consists of 40 reported and 25 observed items with explicit item descriptions and the scale steps 0, 1, 2, and 3 have been operationally defined for all items. The subscale for schizophrenia used in this study consists of 24 reported and 26 observed items with the addition of global ratings of degree of illness and reliability in reported as well as observed ratings. The ratings were based on a flexible clinical interview, which usually took 30-60 minutes, and performed by the same skilled rater. The information from the same interview served as a basis of completion of the protocols for the CPRS, BPRS as well as the Hamilton scales. Global ratings were performed according to McGlasham (1973).
+
+Side effects were recorded on scales for general (CSE scale, Andersen et al. (1974)) and extrapyramidal (Simpson & Angus (1970)) side effects. Social functioning in the community was described by means of scales for activity of daily living, working function (Claesson & Malm (1976)) and Katz’ scales for self-rating and rating by relatives (Katz (1970)). The patients’ experience of real ego and ideal ego was tested by Frojelin-Ahslund‘s first test (1975). Life events according to Schedule of Recent Events (SRE) were also recorded (Rahe & Arthur (1968)).
+
+The following laboratory tests were performed before, during, and after the one-year study: ESR, Hb, WBC, ASAT, ALAT, and creatinine as well as glucose and protein in urine.
+
+Blood samples for the determination of the drugs were drawn into tubes by venepuncture and serum was stored at -20°C until analysed.
+
+The ratings for psychopathology were done before the study, once a month during the first 6 months, and every three months thereafter. Global ratings of the patient’s condition were performed at the same time.
+
+Statistics
+The Wilcoxon Matched-Pairs Signed Ranks Test, χ² and the Student’s t-test were used for the statistical testings of differences.
+
+RESULTS
+Description of the patient material
+The design resulted in 60 patients (47 men and 13 women) entering the trial. They were equally divided between the two test preparations. The mean age of the patients was 41 years in the clopenthixol series and 40 years in the flupenthixol series (Table 2).
+
+Most of the patients (44 out of 60) had been ill for five years or more. The duration of illness, total stay in hospital, and total time on psychotropic medication are shown in Table 3.
+
+Drop-outs
+Of the 60 patients admitted to the trial 10 (16.7 %) dropped out during the one-year treatment period (Table 4). Almost all the patients who dropped out did so during the first six months. The reason was unsatisfactory effect in seven cases. Three of these seven patients had received clopenthixol and four flupenthixol.
+
+Assessments
+The results from the rating scales (before, after 6 and 12 months, respectively) are presented in Table 5. The scores in the clopenthixol group had for all three scales diminished significantly (P<0.01) at the rating after one year's treatment.
+
+The mean score in the flupenthixol group had also fallen significantly after one year of treatment (Table 5). For the BPRS (Fig. 4) and the CPRS (Fig. 6) the difference between the score before treatment and after one year was statistically significant at the 1 % level and for Hamilton's depression scale it was significant at the 5 % level (Fig. 5).
+
+A statistically significant reduction in the mean score for the BPRS (5 % level) was observed in the clopenthixol group after three months' treatment (Fig. 4) and in the flupenthixol group after four months' treatment. No statistically significant differences between the two test preparations could be found.
+
+For a more differentiated analysis of the improvements we used the factors of BPRS that Overall et al. (1967) have described (Table 6). We found that the score for the BPRS factor “withdrawal - retardation” fell highly significantly for both the clopenthixol and the flupenthixol groups. In the clopenthixol group we also found a significant reduction (P<0.05) of the scores for the factors “thinking disturbance” and “anxious-depression”. The comparison between the clopenthixol and flupenthixol groups revealed no statistically significant differences, however.
+
+Fig. 7 shows the changes after one year in the 16 items of the BPRS scale. For the BPRS item “Hostility” (No. 10) a significant reduction was noted for clopenthixol, but not for flupenthixol. The same finding was reported in the multicentre study of clopenthixol decanoate (Ahlfors et al. (1980)) and by Woggon et al. (1976) and Dom et al. (1978).
+
+An analysis of the Hamilton scale was carried out according to results from a factor analysis reported by Guy (1976). We found a significant reduction of the score for “retardation” on this scale in the clopenthixol group (P<0.01) while both groups demonstrated a significant reduction (P<0.05) for “anxiety-somatization” (Table 7). Comparison between the clopenthixol and the flupenthixol groups revealed no statistically significant differences between them.
+
+In the case of the CPRS subscale for schizophrenia we performed a factor analysis of our own based on the material from this trial. This is reported elsewhere (Dencker et al. (1980)), but in Table 8 is shown that statistically significant reductions in psychopathology were found for factors 1, 2, 4 (flupenthixol), and 6, viz. “anxiety-depression-asthenia”, “observed emotions”, “motor” (flupenthixol), and “affects fluctuation” for both drugs by analysis of residual percentage of psychopathology.
+
+Global ratings
+The results of the global ratings were consistent with the results for the specific scales (Table 9).
+
+Side effects
+The mean score for the general side effect scale (CSE) and Simpson’s scale for extrapyramidal side effects had fallen significantly after one year’s treatment, both in the clopenthixol and in the flupenthixol group (Table 10). No significant differences between the two test drugs could be demonstrated. The average residual percentage after 12 months’ trial in the 10 items of the Simpson scale is demonstrated in Fig. 8 and Table 11. Tremor (No. 9) increased in both drug groups, but all the other items showed symptom decrease.
+
+Nine patients had symptoms of tardive dyskinesia before the trial. In 5 patients the dyskinesia scoring had increased after one year and in three patients it had decreased. One dyskinetic patient dropped out. No differences between the test preparations were found.
+
+The side effects were analysed separately according to the 20 item CSE rating scale. At the ratings after one year’s treatment the score for “drowsiness” was particularly interesting in view of differences in sedative properties between clopenthixol and flupenthixol. When “drowsiness” occurred, the distribution was equal between the two treatment groups and, anyhow, the degree of “drowsiness” was low (Table 12).
+
+Social and work function
+Social function in the community was rated before the trial and after 6 and 12 months. No statistically significant changes for the ADL scale or Katz’ self-rating subscales S 2-4 were found. Nor were any changes found in the work function scale (Table 13). The Schedule of Recent Events did not show any relevant results.
+
+Ego perception
+The results of the ratings on the Frojelin-Ahslund scale revealed no statistically significant changes with respect to discrepancy between true ego and ideal ego (Table 14).
+
+Doses and serum concentrations
+The average dose after one year was 220 mg of clopenthixol decanoate every four weeks and 160 mg of flupenthixol palmitate every four weeks. The plasma concentrations are reported in a separate paper (Jørgensen & Fredricson Overø (1979)).
+
+Laboratory examinations
+No toxic effects were found.
+
+Concomitant drugs
+Few patients used concomitant drugs at the end of the study. No differences of importance between the two treatment groups were found (Table 15).
+
+DISCUSSION
+There were two reasons for choosing a four-week interval between the injections. One reason was that four weeks represent an optimum balance between the wish of most patients to have as long an interval as possible between injections and at the same time to have relatively frequent personal contact with the outpatient clinic. The other reason was that monthly contact satisfies the clinician’s need of regular contact with the schizophrenic outpatient in order to control the treatment. This conclusion is based on 12 years of studies on different intervals between 1 and 7 weeks in the context of maintenance treatment with different depot neuroleptics.
+
+The sample of patients was chosen so as to permit a study of outpatient aftercare for well controlled patients in the normal clinical situation where the main or only treatment is neuroleptic therapy. We also wanted to find out what happens when a change of depot neuroleptic is carried out. Thirdly we wanted a sample of patients representative for those who are treated with normal maintenance doses. We know that during a fairly long period after the exchange of drug, changes occur in the patient’s Condition that make individual adjustment of the dose necessary. When the dose on which the patient is stabilised has been arrived at, it is usually possible to continue the maintenance therapy with only minor dose adjustments. The next phase in routine treatment entails a checking that the initial beneficial effects can be maintained, that the chosen drug functions during longterm therapy, and that the dose level is correct. We wanted to carry out the research under conditions resembling the common clinical situation as closely as possible.
+
+Furthermore, we were interested in the side effects and limitations of optimum maintenance therapy with neuroleptics alone, the supply of drug being not only guaranteed by the use of depot neuroleptics but also by analysis of serum concentrations. For the discussion of the impact of earlier treatment, for example hospital treatment, see Dencker et al. (1978a, b).
+
+The study comprised patients who had been receiving neuroleptic treatment for several years and some of them had previously participated in clinical trials with neuroleptic agents. All the patients had relatively few symptoms.
+
+In contrast to the multicentre study reported by Ahlfors et al. (1980), in which patients with relapse or who had not responded satisfactorily to previous treatment (i.e. patients with marked symptoms) were studied, the patients in this present study had relatively low scores on the rating scales used. The reason for selecting such patients was that it is relatively easy to reduce the symptoms - by means of neuroleptics - in the initial phase of treatment of psychotic patients but that subsequent symptom reduction is a greater problem.
+
+This is illustrated in Fig. 9. The patients of the multicentre study had marked symptoms whereas the outpatients on maintenance treatment had relatively few symptoms. We define “marked symptoms” as a score of 30 or above on the BPRS scale. Thus a rapid reduction of symptoms in the selected outpatients in the present study was not to be expected, but it is surprising that the symptom reduction after 3 or 4 months’ treatment was as pronounced as it turned out to be.
+
+Statistically significant improvements of psychopathology, as measured by the rating scales, occurred in both the clopenthixol and flupenthixol groups. More detailed analysis of the improvements, using clusters of variables based on factor analysis, supports the view that the thioxanthenes are especially effective in reducing psychopathology connected with factors “withdrawal-retardation” (BPRS), “retardation” (Hamilton), and “anxiety-depression-asthenia”, “observed emotions”, and “affects fluctuation” (CPRS).
+
+The discrepancy between reduction in overall psychopathology and minor or no change of social function in the community may be interpreted as showing that the patients need assistance in the form of support, social training, and systematic psychotherapy in order to be able to benefit from the reduction in symptoms. However, the design of the study may represent a source of error operating in the same direction as treatment with thioxanthenes as the patients were interviewed and rated by the same psychologist at least 8 times during one year, apart from routine visits to the psychiatrist and nurses. This may have had a supportive psychotherapeutic effect. However, in the neuroleptic withdrawal study reported later, the same rating battery was used without any apparent supporting effect. The symptom reduction discussed thus seems to be the combined result of efficient drugs and careful drug monitoring.
+
+The Frojelin-Ahslund scale is a new one estimating the discrepancy between the perception of real ego and ideal ego. A considerable difference or discrepancy means poor acceptance of the person’s real self and glorification of the ideal picture. Decrease of the discrepancy is a positive change; it means a change of the self-evaluation towards an increased acceptance of oneself. A low discrepancy may also mean development of psychological defences. In our study we found a tendency towards decreased discrepancy between the real ego and the ideal one, but the change was not statistically significant.
+
+At month 12 of the study side effects were found to be slight. The most common side effects were sedation, parkinsonism, and akathisia. For sedation the frequency and degree were about equal after treatment with the two depot preparations.
+
+Of the 27 patients treated with clopenthixol sedation was registered in 9. In 8 out of these 9 patients sedation was weak, i.e. point one on the four-point scale. This finding is somewhat unexpected since, when given orally, clopenthixol is considered a rather sedative drug and since the average dose of clopenthixol decanoate in this study (220 mg every four weeks) is not especially low. Any differences in the sedation experienced by patients in oral clopenthixol treatment and by patients given clopenthixol decanoate may be explained by the additional content of trans(E)-clopenthixol in the clopenthixol given orally. Gruvem et al. (1978) thus found that the sedative side effects of clopenthixol may be mainly due to the trans(E)-isomer.
+
+For 7 out of 23 patients given flupenthixol palmitate sedation was recorded. Sedation was weak in four of these patients, moderate in two, and marked in one patient. These findings may be explained by the rather high average dose of flupenthixol palmitate used in this study, i.e. 160 mg every four weeks. They are further in accord with a number of clinical studies showing that flupenthixol does not cause sedation in low doses but has a certain sedative effect in higher doses (Gunby (1974)).
+
+In hospitalized schizophrenic patients with acute exacerbation the average dose of clopenthixol decanoate was 280 mg every two weeks (Ahlfors et al. (1980)). The average dose of clopenthixol decanoate used in this study with stabilized schizophrenic outpatients in maintenance therapy was 220 mg every four weeks and thus about one third of the dose given in the initial phase of treatment. This difference illustrates the need of individual dosage regimens.
+
+The analyses of the concentration of the drugs in serum showed satisfactory and stable serum levels (Jørgensen & Fredricson Overø (1980)) which - in combination with the clinical outcome - emphasizes the possibility of giving the drugs with intervals of four weeks.
+
+We find that there are fair reasons to conclude that the patients in this maintenance study received an optimal neuroleptic therapy. If this judgement is considered reasonable the target areas for additional treatment should be affective disturbances and anxiety-depression-asthenia.
+
+The reports on results of psychosocial intervention (MRT, Major Role Therapy) by Hogarty et al. (1976) and on interaction between patients and their families by Lefl (1978) support the view that in future we should combine optimal neuroleptic therapy with psychosocial treatment. The initial acute treatment aimed at achieving rapid reduction of psychopathology will often need to be followed by maintenance treatment with drugs in combination with various psychosocial treatment methods, body awareness and movement therapies etc. (Dencker et al. (1978a)).
+
+### Tables (Labelled as Table 1 to Table 15)
+Table 1. Dosage scheme for depot drug administration
+| ML | CLOPENTHIXOL DECANOATE (MG) | FLUPENTHIXOL PALMITATE (MG) |
+|-----|--------------------------------|--------------------------------|
+| 0.25 | 50 | 25 |
+| 0.50 | 100 | 50 |
+| 0.75 | 150 | 75 |
+| 1.00 | 200 | 100 |
+| 1.50 | 300 | 150 |
+| 2.50 | - | - |
+| 3.00 | 600 | 300 |
+
+Table 2. Distribution of patients according to sex and age
+| - | - | - | - | - | - | - | TOTAL | MEAN AGE |
+|-----|-----|-----|-----|-----|-----|-----|-------|----------|
+| MALE | 7 | 17 | 11 | 11 | 1 | - | 47 | 39.2 |
+| FEMALE | 1 | 3 | 5 | 3 | 1 | - | 13 | 44.8 |
+| TOTAL | 8 | 20 | 16 | 14 | 2 | - | 60 | 40.4 |
+
+Table 3. Some relevant anamnestic data
+| PREPARATION | ANAMNESIS | <3 MTHS. | 3-6 MTHS. | 6-12 MTHS. | 1-2 YEARS | 2-3 YEARS | 3-5 YEARS | 5-10 YEARS | >10 YEARS |
+|---------------|------------|-----------|------------|-------------|------------|------------|------------|-------------|------------|
+| CLOP. DEC. | DISEASE | - | - | - | - | - | - | 6 | 12 | 12 |
+| - | STAY IN HOSPITAL | 1 | 2 | 6 | 6 | 5 | 5 | 5 | - |
+| - | TREATMENT WITH PSYCHOTROP. | - | - | - | - | 5 | 4 | 16 | 5 |
+| FLUP. PAL. | DISEASE | - | - | - | - | - | - | 10 | 6 | 14 |
+| - | STAY IN HOSPITAL | 1 | 2 | 6 | 4 | 4 | 6 | 7 | - |
+| - | TREATMENT WITH PSYCHOTROP. | - | 1 | - | 2 | 5 | 4 | 9 | 9 |
+| TOTAL | DISEASE | - | - | - | - | - | - | 16 | 18 | 26 |
+| - | STAY IN HOSPITAL | 2 | 4 | 12 | 10 | 9 | 11 | 12 | - |
+| - | TREATMENT WITH PSYCHOTROP. | - | 1 | - | 2 | 10 | 8 | 25 | 14 |
+
+Table 4. Reason for drop-out in the two patient groups
+| REASON | CLOP. DEC. | FLUP. PAL. |
+|----------|-------------|-------------|
+| UNSATISFACTORY EFFECT | 3 | 4 |
+| DEAD IN PHYSICAL DISEASE | - | 1 |
+| MOVED TO OTHER CITY | - | 1 |
+| REFUSED TO CONTINUE | - | 1 |
+| TOTAL | 3 | 7 |
+
+Table 5. Average symptom score
+| SCALE | DRUG | BEFORE START | MONTH 6 | MONTH 12 |
+|--------|-------|---------------|----------|----------|
+| BPRS | CLOP. DEC. | 21.7 | 13.6 | 12.0 |
+| - | FLUP. PAL. | 23.4 | 11.6 | 14.6 |
+| HAMILTON | CLOP. DEC. | 19.7 | 13.4 | 12.1 |
+| - | FLUP. PAL. | 22.3 | 12.6 | 13.6 |
+| CPRS | CLOP. DEC. | 19.7 | 13.4 | 12.1 |
+| - | FLUP. PAL. | 22.3 | 12.6 | 13.6 |
+
+Table 6. The BPRS residual percentage at 12 months
+| GROUP OF SYMPTOMS | DRUG | NUMBER OF PATIENTS | RESIDUAL PERCENTAGE |
+|---------------------|-------|----------------------|----------------------|
+| ALL SYMPTOMS | CLOP. DEC. | 27 | 54** |
+| - | FLUP. PAL. | 23 | 65** |
+| THINKING DISTURBANCE (ITEM NOS. 4, 12, 16) | CLOP. DEC. | - | 55* |
+| - | FLUP. PAL. | - | 68** |
+| WITHDRAWAL-RETARDATION (ITEM NOS. 3, 18) | CLOP. DEC. | - | 52*** |
+| - | FLUP. PAL. | - | 62*** |
+| HOSTILE-SUSPICIOUSNESS (ITEM NOS. 10, 11, 14) | CLOP. DEC. | 15 | 55 |
+| - | FLUP. PAL. | 12 | 78 |
+| ANXIOUS-DEPRESSION (ITEM NOS. 2, 5, 9) | CLOP. DEC. | - | 58* |
+| - | FLUP. PAL. | 20 | 80 |
+*: P<0.05; **: P<0.01; ***: P<0.001
+
+Table 7. The Hamilton residual percentage at 12 months
+| GROUP OF SYMPTOMS | DRUG | NUMBER OF PATIENTS | RESIDUAL PERCENTAGE |
+|---------------------|-------|----------------------|----------------------|
+| TOTAL SCORE (ITEM 1-21) | CLOP. DEC. | 26 | 75** |
+| - | FLUP. PAL. | 23 | 79* |
+| ANXIETY/SOMATIZATION | CLOP. DEC. | 20 | 66* |
+| - | FLUP. PAL. | 19 | 59** |
+| LOSS OF WEIGHT | CLOP. DEC. | 3 | 50 |
+| - | FLUP. PAL. | 2 | 100 |
+| COGNITIVE DISTURBANCE | CLOP. DEC. | 21 | 105 |
+| - | FLUP. PAL. | 20 | 107 |
+| DIURNAL VARIATION | CLOP. DEC. | 4 | 20 |
+| - | FLUP. PAL. | 2 | 200 |
+| RETARDATION | CLOP. DEC. | 24 | 68** |
+| - | FLUP. PAL. | - | - |
+| SLEEP DISTURBANCE | CLOP. DEC. | - | - |
+| - | FLUP. PAL. | - | - |
+*: P<0.05; **: P<0.01; ***: P<0.001
+
+Table 8. The CPRS residual percentage at 12 months
+| GROUP OF SYMPTOMS | DRUG | NUMBER OF PATIENTS | RESIDUAL PERCENTAGE |
+|---------------------|-------|----------------------|----------------------|
+| TOTAL SCORE | CLOP. DEC. | 27 | 63*** |
+| - | FLUP. PAL. | 23 | 62*** |
+| FACTOR 1 | CLOP. DEC. | 26 | 62*** |
+| - | FLUP. PAL. | 22 | 63*** |
+| FACTOR 2 | CLOP. DEC. | 27 | 48**** |
+| - | FLUP. PAL. | 23 | 60**** |
+| FACTOR 3 | CLOP. DEC. | 14 | 59 |
+| - | FLUP. PAL. | 17 | 75 |
+| FACTOR 4 | CLOP. DEC. | 23 | 67 |
+| - | FLUP. PAL. | 17 | 44** |
+| FACTOR 5 | CLOP. DEC. | 4 | 233 |
+| - | FLUP. PAL. | 5 | 120 |
+| FACTOR 6 | CLOP. DEC. | 26 | 50**** |
+| - | FLUP. PAL. | 20 | 53*** |
+| FACTOR 7 | CLOP. DEC. | 7 | 62 |
+| - | FLUP. PAL. | 12 | 60 |
+| FACTOR 8 | CLOP. DEC. | 7 | 92 |
+| - | FLUP. PAL. | 6 | 78 |
+| FACTOR 9 | CLOP. DEC. | 6 | 20 |
+| - | FLUP. PAL. | 6 | 21 |
+| FACTOR 10 | CLOP. DEC. | 22 | 72 |
+| - | FLUP. PAL. | 21 | 84 |
+| FACTOR 11 | CLOP. DEC. | 19 | 73 |
+| - | FLUP. PAL. | 13 | 59 |
+*: P<0.05; **: P<0.01; ***: P<0.001; ****: P<0.0001
+
+Table 9. Global status ratings
+| STATUS RATING | CLOP. DEC. - DROP-OUTS | CLOP. DEC. - COMPLETED | - | - | FLUP. PAL. - DROP-OUTS | FLUP. PAL. - DROP-OUTS (LATEST) | FLUP. PAL. - COMPLETED | - |
+|----------------|--------------------------|--------------------------|-----|-----|--------------------------|----------------------------------|--------------------------|-----|
+| - | 0 | 0 | 6 | 7 | 0 | 0 | 3 | - |
+| 2 (BORDERLINE MENTALLY ILL) | - | - | 6 | 13 | - | 1 | 9 | 10 |
+| 3 (MILDLY ILL) | 2 | - | 10 | 5 | 2 | 1 | 7 | 6 |
+| 4 (MODERATELY ILL) | - | 2 | 5 | 2 | 1 | 2 | 3 | 1 |
+| 5 (MARKEDLY ILL) | 1 | 1 | - | - | 3 | 3 | 1 | 2 |
+| 6 (SEVERELY ILL) | - | - | - | - | 1 | - | - | - |
+| 7 (MOST EXTREMELY ILL) | - | - | - | - | - | - | - | - |
+| TOTAL | 3 | - | 27 | - | 7 | - | 23 | - |
+Note: Status Rating Definitions - 1: NORMAL, NOT MENTALLY ILL; 2: BORDERLINE MENTALLY ILL; 3: MILDLY ILL; 4: MODERATELY ILL; 5: MARKEDLY ILL; 6: SEVERELY ILL; 7: AMONG THE MOST EXTREMELY ILL PATIENTS
+
+Table 10. Side effects. State of general (CSE) and extrapyramidal symptoms (Simpson) before and after 6 and 12 months respectively
+| PREPARATION | SCALE | STATUS (MONTHS) | - | - | TEST OF SIGNIFICANCE (0/12 MONTHS) |
+|---------------|-------|------------------|-----|-----|--------------------------------------|
+| - | - | 0 | 6 | 12 | - |
+| CLOP. DEC. | CSE | - | - | - | P < 0.01 |
+| - | SIMPSON | - | - | - | P < 0.01 |
+| FLUP. PAL. | CSE | - | - | - | P < 0.01 |
+| - | SIMPSON | - | - | 1.9 | P < 0.01 |
+
+Table 11. Average residual percentage after one year in Simpson separate items
+| SYMPTOMS | CLOP. DEC. | FLUP. PAL. |
+|-----------|-------------|-------------|
+| ALL SYMPTOMS | - | - |
+| GAIT | 68 | 58 |
+| ARM LIMPING | - | - |
+| SMACKING | - | - |
+| MUSCLE RIGIDITY | 75 | 110* |
+| TREMOR | - | - |
+| AKATHISIA | - | - |
+| BLINKING | - | - |
+| FACIAL GRIMACING | - | - |
+| RESTLESSNESS | - | - |
+| OTHER | - | - |
+*: P<0.05; **: P<0.01; ***: P<0.001
+
+Table 12. Item “drowsiness” at 12 months
+| SEVERITY | CLOP. DEC. | FLUP. PAL. |
+|-----------|-------------|-------------|
+| NOT PRESENT | 18 | 16 |
+| WEAK | 8 | 4 |
+| MODERATE | 1 | 2 |
+| MARKED | - | 1 |
+| TOTAL | 27 | 23 |
+
+Table 13. ADL and work function before and after 6 and 12 months respectively. The higher value the better function (5 degree scale)
+| SCALE | CLOP. DEC. (BEFORE) | FLUP. PAL. (BEFORE) | CLOP. DEC. (MONTH 6) | FLUP. PAL. (MONTH 6) | CLOP. DEC. (MONTH 12) | FLUP. PAL. (MONTH 12) |
+|--------|-----------------------|-----------------------|-----------------------|-----------------------|------------------------|------------------------|
+| ADL | 3.7 | 3.7 | - | - | - | - |
+| WORK FUNCTION | 2.3 | 2.5 | 2.2 | 2.5 | - | - |
+
+Table 14. “Ego perception” before and after 12 months
+| PREPARATION | BEFORE | AFTER 12 MONTHS |
+|---------------|---------|------------------|
+| CLOP. DEC. | 46.3 | 44.8 |
+| FLUP. PAL. | 42.5 | 37.1 |
+
+Table 15. Concomitant drugs in the two groups studied. Number of patients is given
+| DRUG CATEGORY | CLOP. DEC. (MONTH 0) | CLOP. DEC. (MONTH 12) | FLUP. PAL. (MONTH 0) | FLUP. PAL. (MONTH 12) |
+|-----------------|------------------------|-------------------------|------------------------|-------------------------|
+| ANTIPARKINSONIAN | 9 | 5 | 9 | 7 |
+| BENZODIAZEPINES | 4 | 11 | 4 | 6 |
+| TRICYCLIC ANTIDEPRESSANTS | 1 | 0 | 3 | 3 |
+
+### Image Descriptions (Fig. 1 to Fig. 9)
+Fig. 1: Chemical structure of Clopenthixol. The structure is represented as (σ₁-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂-CH₂OH)₂, showing a hydrocarbon chain with a hydroxyl group at the end, bonded to a central σ₁ moiety (two identical chains).
+
+Fig. 2: Chemical structure of Flupenthixol. The specific structure is referenced but not fully displayed in the text; it is identified as a thioxanthene derivative with non-sedative antipsychotic properties.
+
+Fig. 3: Flowchart illustrating the study design. The flowchart outlines the sequence: CLINICAL TRIAL → PRETRIAL PHASE → PHASE 1 (3 months, optimal dose finding) → PHASE 2 (3 months, constant dose with possible additional injections) → PHASE 3 (6 months, fixed 4-week injection intervals) → FOLLOW-UP. The total duration of the study is 12 months.
+
+Fig. 4: Line graph showing the average total points and average total residual percentage from the BPRS (Brief Psychiatric Rating Scale) before and during the study for the two patient groups (Clopenthixol Decanoate and Flupenthixol Palmitate). The x-axis represents time points (Month 0, 1, 2, 3, 5, 6, 9, 12) and the y-axis represents average points (ranging from 12 to 23) and residual percentage (ranging from 50 to 100). Both groups show a gradual decrease in BPRS scores over time, with statistically significant reductions by Month 12.
+
+Fig. 5: Line graph displaying the average total points and average total residual percentage from the Hamilton Depression Scale before and during the study for the two drug groups. The x-axis lists time points (Month 0, 2, 3, 5, 6, 9, 12) and the y-axis shows average points (ranging from 7 to 10) and residual percentage. Both groups exhibit a significant decrease in depression scores, with the Clopenthixol group showing a more pronounced reduction in "retardation" factor.
+
+Fig. 6: Line graph presenting the average total points and average total residual percentage from the CPRS (Comprehensive Psychopathological Rating Scale) Schizophrenia Subscale before and during the study. The x-axis includes time points (Month 0, 1, 2, 3, 5, 9, 12) and the y-axis shows average points (ranging from 12 to 22) and residual percentage (ranging from 60 to 100). Both treatment groups demonstrate statistically significant reductions in psychopathology scores over the 12-month period.
+
+Fig. 7: Bar graph depicting the average residual percentage of each of the 16 BPRS items after one year of treatment for both drug groups. The x-axis labels the BPRS symptom numbers (1 to 16) and the y-axis shows residual percentage (ranging from 50 to 150). A significant reduction in the "Hostility" item (No. 10) is observed for Clopenthixol but not for Flupenthixol; most other items show symptom reduction in both groups.
+
+Fig. 8: Bar graph showing the average residual percentage of each of the 10 items from the Simpson Extrapyramidal Side Effects Scale after 12 months of treatment. The x-axis lists symptom numbers (1 to 10) and the y-axis represents residual percentage (ranging from 50 to 150). Tremor (Item 9) increased in both groups, while all other extrapyramidal symptoms (e.g., gait disturbance, muscle rigidity) showed a decrease.
+
+Fig. 9: Bar graph comparing BPRS average scores between two studies: the multicentre study (treating acutely ill schizophrenics) and the current one-year maintenance study (treating stable outpatients). The x-axis categorizes treatment phases (ACUTE TREATMENT, 1 MONTH TREATMENT, MAINTENANCE TREATMENT) and the y-axis shows average BPRS points (ranging from 10 to 30). The multicentre study patients had initial BPRS scores ≥30 (marked symptoms), while the current study patients had lower initial scores; both studies show symptom reduction over time, with the multicentre study having a steeper initial decline.

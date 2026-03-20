@@ -1,0 +1,82 @@
+### Text Content (Before References)
+Psychopharmacology (1982) 77:301 - 304
+Psychopharmacology
+Springer-Verlag 1982
+Prophylactic Effect of Neuroleptics in Symptom-Free Schizophrenics
+Tadashi Nishikawa 1, Akira Tsuda 1, Masatoshi Tanaka 1, Itsuyuki Koga 2, and Yasunori Uchida 2
+1 Department of Pharmacology, Kurume University School of Medicine, Kurume 830, Japan
+2 Seiwakai Nishikawa Hospital, Hamada 697, Japan
+
+Abstract. Prophylactic effects of psychotropic drugs on 55 schizophrenics in remission were evaluated for 3 years in a double-blind controlled study employing a cross-over design. Patients were randomly assigned to the following drugs orally administered twice a day: placebo; diazepam 15 mg; imipramine 50 mg; chlorpromazine 75 mg; and haloperidol 3 mg. The number of days of remission for each patient was recorded. Since only two patients received all five drug treatments, the data were analyzed using the number of days allocated to the "first assigned drugs" only and the cross-over aspect of the experimental design was disregarded. All patients treated with either the placebo, diazepam or imipramine relapsed within a year. On the other hand, four patients treated with chlorpromazine, or with haloperidol, were in remission for more than 1 year. Fifty percent of the patients relapsed within 16 days with placebo; 88 days with diazepam; 30 days with imipramine; 165 days with chlorpromazine; and 74 days with haloperidol. Within a year, only chlorpromazine significantly prolonged the remission state as compared to placebo and imipramine. At the end of the 3-year trial, both chlorpromazine and haloperidol significantly prolonged the remission state as compared to the other three drugs. These data suggest that neuroleptic treatment for a longer period is vitally important to prevent relapse even in schizophrenics in remission and that such a trial seems an efficient method for investigating the prophylactic effects of neuroleptics.
+
+Key words: Schizophrenics in remission - Prophylactic effect - Double-blind - Diazepam - Imipramine - Chlorpromazine - Haloperidol
+
+The efficacy of neuroleptics in the treatment of acute episodes of schizophrenia is now established (Casey et al. 1960). However, much solid evidence and information must be provided for the prophylactic use of neuroleptics in the patient who is free of symptoms or whose symptoms remain unchanged. What kind of, or what dose level of, neuroleptics should be chosen for maintenance treatment in symptom-free schizophrenics ? This whole field is still entirely dependent on trial and error.
+
+Numerous studies purport to explore this aspect of treatment, especially pertaining to inpatients (Good et al. 1958; Shawver et al. 1959; Blackburn and Allen 1961 ; Clark et al. 1961; Schiele et al. 1961; Adelson and Epstein 1962; Clark et al. 1970) but little information is available regarding outpatients (Troshinsky et al. 1962; Engelhardt et al. 1967; Left and Wing 1971; Hirsch et al. 1973). In these studies, however, only relapse rates or admission rates were recorded and analyzed. Such an experimental design using a nominal scale as an index requires large numbers of subjects and is less powerful statistically than techniques using continuous variables.
+
+The purpose of this study was to determine whether, 1) chlorpromazine and haloperidol have a specific prophylactic effect on relapse in remitted schizophrenics; 2) a double-blind, cross-over method using number of symptom-free days is a useful index of remission and a useful test for the investigation of the prophylactic effect of neuroleptics.
+
+Materials and Methods
+Fifty-five remitted schizophrenic outpatients with a history of several relapse episodes, who had reported regularly to the hospital (Seiwakai Nishikawa Hospital), were selected as subjects for this study. Daily doses of diazepam 15mg, imipramine 50 mg, chlorpromazine 75 mg, haloperidol 3 mg, or placebo were prepared. Drug appearance, with respect to powder color, taste and volume, was made identical by adding a kind of stomachics, SMP (Sankyo, Japan). Drugs were administered orally twice a day. Each patient was randomly assigned to one of the five drugs in a double-blind, cross-over design. The drug initially assigned was administered until relapse signs appeared. When relapse signs appeared, the assigned drug was changed to known neuroleptics in variable doses. If the patient went into remission again, the next drug in the sequence was administered. If psychotic symptoms failed to appear, the assigned drug was continued until the end of the 3-year trial. These procedures were performed for 3 years for each patient. Other medications were not permitted during the trial except nitrazepam 10 mg or biperidine 3 mg per day for cases of insomnia or drug-induced parkinsonism, including akathisia, respectively. All patients reported to a psychiatrist and received ordinary, brief psychotherapy every 2 weeks. Patients were asked about their daily drug consumption. If this inquiry revealed that a patient took drugs irregularly, then that patient was excluded from the study.
+
+Analysis of variance (ANOVA) was employed to compare the number of symptom-free days for patients from different drug treatments. Subsequent Tukey test was performed for multiple comparisons.
+
+Offprint requests to: T. Nishikawa
+0033-3158/82/0077/0301/$01.00
+
+Results
+Distribution of allocated drugs and the background of patients are indicated in Table 1. This table shows that the various drug groups were virtually identical with respect to the number, sex and age of the subjects, years after onset of the disease and the number of hospital admissions. The treatments with the first allocated drugs were performed in all patients. Then nine patients were dropped from the study for various reasons. These reasons included: failure to report to the hospital for scheduled appointments (N=3); admissions to other hospitals (N=2); strong requests from the patient not to change the previous drugs (N=3); and a suicide after admission to the hospital (N=1).
+
+The relapse symptoms observed during the study included difficulty sleeping, feelings of tension and nervousness, hyperkinesia, psychomotor excitement, hallucination and delusion, or bizarre behaviors. Thirty-four cases could not be allocated to their next scheduled drug either because they did not go into remission again, or because their doctors became anxious about allocating the next scheduled drugs even if they did go into remission again, or, finally, because they dropped out for reasons mentioned above. Only two patients received the five different drugs during the trial period. Hence, the data were analyzed based on the number of days of remission for the "first assigned drugs" only and the cross-over aspect of the design was disregarded.
+
+As shown in Fig. 1, all patients treated with placebo, diazepam and imipramine relapsed within a year. On the other hand, four patients treated with chlorpromazine or with haloperidol were in remission for more than 1 year. The number of days until 50% of the patients relapsed again were as follows: 16 days on the placebo; 88 days on diazepam; 30 days on imipramine; 165 days on chlorpromazine; and 74 days on haloperidol. As shown in Table 2, only chlorpromazine significantly prolonged the remission period as compared to the placebo and imipramine after a year. However, the prophylactic effect of neuroleptics became clearer depending on the course of the trial. At the end of the 3-year trial, both chlorpromazine and haloperidol significantly prolonged the remission period over the other three drugs.
+
+Discussion
+Although neuroleptics are used mainly in the treatment of acute schizophrenia, minor tranquilizers or antidepressants are occasionally prescribed by psychiatrists to be used alone, or in combination with neuroleptics. Hartmann (1976) postulates that schizophrenia is basically an illness; the variety of clinical symptoms can perhaps be understood as adaptations to a single deficit, and the multiplicity of causes, or aggravating factors, can be seen as factors producing acute or chronic stress. According to this hypothesis, these drugs which reduce stress in symptom-free patients might also prevent relapse even if the drug could not cure the schizophrenic symptoms. Moreover, some investigators have reported that diazepam showed a specific effect on hallucinations and certain forms of delusion (Kramer 1967; Kellner et al. 1975; Beckmann and Hass 1980), and that antidepressant therapy was a unique form of adaptation to stress in which the various antidepressant treatments mimic the desensitizing actions of stress at noradrenergic receptors (Stone 1979). Thus, it would be reasonable to compare these three kinds of tranquilizers for prophylactic effect on schizophrenic relapse.
+
+In the short-term, diazepam appeared to prevent relapse better than haloperidol, since diazepam gave a longer period until 50% of the patients relapsed as compared to haloperidol. However, to maintain the remission state for a longer time, treatment with neuroleptics is essentially more important than antidepressant or minor tranquilizer treatments. As far as the two neuroleptics are concerned, chlorpromazine seems to be more effective, since only chlorpromazine significantly prolonged the remission state within 2 years and gave a longer period until 50% of the patients relapsed as compared to haloperidol. The doses of haloperidol and chlorpromazine used in this study are considered to be usual for schizophrenics in remission in Japan. However, significant potency of prophylactic effects between the two drugs should be discussed carefully after a dose-response study for these two drugs is carried out within the context of the present study.
+
+Davis (1975) reported, in a review of 24 controlled studies on the use of maintenance antipsychotic drugs, that 698 patients out of 1068 patients who received a placebo (65%) relapsed, in contrast with 639 patients out of 2127 who received maintenance antipsychotic drugs (30%). On the other hand, all the patients without neuroleptics relapsed within a year in our study. This difference may be attributable to the following design characteristics of our study: 1) As shown in Table 1, we had carefully selected highly homogeneous patients who had a tendency to relapse several times; and 2) our subjects were patients in full remission who were working in society. Such patients are more frequently exposed to stressful situations and have a tendency to relapse more easily.
+
+The signs of relapse observed in this study were quite similar to those reported by Herz and Melville (1980). It is interesting to note that the signs of relapse could be interpreted as excitation of the central nervous system. Depression or lowering of activity could not be observed at the initial relapse stage even though the patients were classified as hebephrenic.
+
+A number of investigators have discussed the problem of maintenance drug therapy in symptom-free depression (Paykel et al. 1975, 1976). Stein et al. (1980) reported that continued treatment with tricyclic antidepressants, following acute symptomatic improvement, is appropriate for depressed outpatients seen in private psychiatric practice and that continued treatment for 6-8 months seems beneficial for most patients. Considering these findings, schizophrenics in remission should be treated with neuroleptics for a longer period as compared to the treatment which is suggested for depressed patients.
+
+Further study, using remission period days as index, is needed to clarify such questions as the duration of the maintenance treatment, the most effective dose level and the effect of different kinds of neuroleptics.
+
+Acknowledgements. We wish to thank Prof. William P. Pare, Pavlovian Research Laboratory, Veterans Administration Medical Center, Perry Point, MD, for the preparation of this manuscript.
+
+### Tables
+Table 1 Background of subjects
+Drugs | N | Sex (M) | Sex (F) | Age (mean ± SD) | Years after onset of the disease (mean ± SD) | Number of hospitalization (mean ± SD)
+--- | --- | --- | --- | --- | --- | ---
+Placebo | 10 | 6 | 4 | 33.6 ± 7.3 | 8.0 ± 6.5 | 2.5 ± 2.2
+Diazepam | 13 | 8 | 5 | 32.9 ± 8.8 | 6.7 ± 4.1 | 2.3 ± 1.4
+Imipramine | 12 | 8 | 4 | 33.8 ± 8.1 | 8.4 ± 5.4 | 4.2 ± 3.6
+Chlorpromazine | 10 | 7 | 3 | 33.1 ± 9.5 | 9.1 ± 7.6 | 2.8 ± 2.6
+Haloperidol | 10 | 8 | 2 | 33.0 ± 7.2 | 6.1 ± 6.0 | 2.0 ± 1.4
+Total | 55 | 37 | 18 | 33.3 ± 8.0 | 7.6 ± 5.8 | 2.8 ± 2.4
+Abbreviations: N = number; M = male; F = female. Values were expressed as the mean ± SD
+
+Table 2 Days when patients were free from symptoms at different periods after the onset of trial
+Drugs | 0.5 Years (mean ± SE) | 1 Year (mean ± SE) | 2 Years (mean ± SE) | 3 Years (mean ± SE)
+--- | --- | --- | --- | ---
+Placebo (a) (N = 10) | 52.7 ± 22.0 | 74.6 ± 23.6 | 74.6 ± 23.6 | 74.6 ± 23.6
+Diazepam (b) (N = 13) | 93.9 ± 18.0 | 93.9 ± 18.0 | 93.9 ± 18.0 | 93.9 ± 18.0
+Imipramine (c) (N = 12) | 56.8 ± 18.4 | 69.5 ± 26.6 | 69.5 ± 26.6 | 69.5 ± 26.6
+Chlorpromazine (d) (N = 10) | 116.4 ± 23.3 | 171.6 ± 44.7 | 244.6 ± 86.7 | 283.1 ± 114.0
+Haloperidol (e) (N = 10) | 89.0 ± 18.3 | 125.4 ± 41.1 | 198.4 ± 89.2 | 270.0 ± 136.8
+ANOVA | F(4/50) = 2.65, P < 0.05 | F(4/50) = 1.57, N.S. | F(4/50) = 2.04, P < 0.10 | F(4/50) = 9.88, P < 0.01
+Tukey test | a-d: P < 0.05; c-d: P < 0.10 | a-d: P < 0.05; c-d: P < 0.10 | a-d: P < 0.05; b-d: P < 0.10; c-d: P < 0.10 | a-d: P < 0.01; a-e: P < 0.01; b-d: P < 0.01; b-e: P < 0.01; c-d: P < 0.01; c-e: P < 0.01
+Values are expressed as the mean ± SE. Subjects' number showed in parentheses
+
+### Image Description (Fig. 1)
+Title: Changes in percentage of remitted patients assigned each drug at first from the beginning to the end of the 3-year trial.
+X-axis: Months after the onset of trial (representing the time course of the 3-year study, with months as the unit).
+Y-axis: Percentage of remitted patients (%) (indicating the proportion of patients who remained in remission at each time point).
+Study groups and sample sizes: Five groups corresponding to the first assigned drugs, with sample sizes as follows: placebo (N=10), diazepam (N=13), imipramine (N=12), chlorpromazine (N=10), haloperidol (N=10).
+Key observations: 
+- All patients in the placebo, diazepam, and imipramine groups relapsed within 12 months (1 year) of the trial onset, so their percentage of remitted patients drops to 0% by the 12-month mark and remains at 0% for the rest of the 3-year period.
+- In the chlorpromazine and haloperidol groups, some patients maintained remission beyond 1 year; specifically, four patients in these two groups remained in remission for more than 1 year.
+- The curve for chlorpromazine shows the highest percentage of remitted patients throughout the 3-year period, followed by the haloperidol group, while the placebo group has the steepest decline in remitted patients, reaching 0% the earliest among all groups.

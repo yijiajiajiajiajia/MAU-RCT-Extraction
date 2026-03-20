@@ -1,0 +1,174 @@
+### Text Content (before References)
+Brit.J. Psychiat.(1980), 137,522—529
+Controlled Trial of Sulpiride in Chronic Schizophrenic Patients
+By J. GUY EDWARDS, JOHN R. ALEXANDER, M. S. ALEXANDER, ALAN GORDON and T. ZUTCHI
+
+SUMMARY In a double-blind comparative trial of sulpiride (600-1,800 mg/day) and trifluoperazine (15-45 mg/day) in 38 chronic schizophrenic patients, ratings of therapeutic results and unwanted effects were made at two-weekly interviews during the six weeks treatment period. The results show that sulpiride has neuroleptic properties and a spectrum of therapeutic activity similar to that of trifluoperazine. There was an association between plasma sulpiride levels and therapeutic response after four weeks' treatment.
+
+Sulpiride is N-(1-Ethylpyrrolidin-2-ylmethyl)2-methoxy-5-sulphamoylbenzamide. It is a member of the substituted benzamide group of drugs, which includes sultopride, tiapride and, best known in Britain, metoclopramide. Its pharmacological properties and mode of action have been discussed elsewhere (Elliott et al, 1977; Jenner and Marsden, 1979; Meltzer et al, 1979), and it has been suggested that sulpiride is a selective type-2 dopamine receptor antagonist (Kebabian and Calne, 1979). It has been used widely in Europe for the treatment of vomiting and gastrointestinal diseases, vertigo and labyrinthine disturbances, and various neurotic and psychotic disorders, yet relatively few people in Britain know of its existence. Claims have been made that it has both neuroleptic and antidepressant properties, that it does not cause significant depressive, stimulant, autonomic or cardiovascular effects, and that it produces less extrapyramidal disturbance than other neuroleptics. These claims have been based on open studies (e.g. Carrère, 1968; Borenstein et al, 1968; Collard, 1969; Mouren et al, 1970; Halpern et al, 1973; Elizur and Davison, 1975; Setyonegoro and Dipojono, 1975; Nishiura, 1976; Mielke et al, 1977a, b; Bjerkenstedt et al, 1979) and trials involving comparisons with placebo (Bellomo and Fernandez, 1972; Blanco et al, 1972; Pinto, 1972), chlorpromazine (Toru et al, 1972; Carranza et al, 1973; Bratfos and Haug, 1979), perphenazine (Amakusa and Majima, 1973; Ishimaru et al, 1971), thioridazine (Tanimukai et al, 1973), and haloperidol (Taverna et al, 1972; Cassano et al, 1975).
+
+These trials have varied in their methodological sophistication. In some there is uncertainty about the criteria for inclusion, while others have been carried out in patients with a variety of diagnoses. In some studies there was no wash-out period to eliminate the effects of previous drugs, while in others there was inadequate control or no control at all. When control groups were included, treatment was not always randomized and assessments not always double-blind. In some studies other psychotropic drugs were given concurrently. For these reasons and because of the importance of confirming or disproving previous claims about the neuroleptic and other properties of sulpiride the following study was carried out.
+
+Methods
+Patients—Thirty-eight schizophrenic patients from the long-stay wards of Knowle Hospital gave their informed consent to participate in the study, which had received ethical approval. Some of their characteristics are shown in Table I. Schizophrenia was diagnosed on the basis of formal thought disorder and/or first rank symptoms (Schneider, 1959). There was agreement on the diagnosis between the consultant psychiatrist responsible for the general management of the patient and ourselves. No patient with a serious physical illness, organic brain syndrome, epilepsy, severe mental handicap or history of alcoholism or drug dependency was included. Every patient had previously been treated with a range of neuroleptic agents; these and rehabilitation had produced variable results. An attempt was made to withdraw previous medication for a month, where it had been given orally, and for three months, when given by long-acting depot injections, but the trial drugs were introduced earlier whenever there was a significant worsening of the mental state (i.e. for six patients in each group of 19).
+
+Procedure—Assessments on all of these scales were carried out at the end of the wash-out period and at two-weekly intervals during the six week trial period: (1) Brief psychiatric rating scale (BPRS) (Overall and Gorham, 1962); (2) global assessments of severity of illness and change in condition as shown in Tables II and III; (3) a life events questionnaire; (4) an unwanted effects questionnaire designed by one of us (J.G.E.). This had fixed-alternative response categories for scoring the patients' subjective assessments of the severity of effects, their frequency of occurrence and persistence, the investigators' assessments of their severity and probability of a causal connection between the symptoms and treatment, together with the effect of the symptoms on the treatment regime (see Appendix); (5) Rating scale for extrapyramidal side effects (Simpson and Angus, 1970); (6) single samples of handwriting on standard size graph paper; (7) body weight, pulse, lying and standing blood pressure; (8) haematological investigations and Vickers Group Tests (plasma electrolytes, enzymes, etc.); (9) plasma sulpiride; and (10) plasma prolactin and other anterior pituitary hormones, which will be reported elsewhere. For (9) and (10) fasting blood samples were collected at 9 a.m., at least 12 hours after the previous evening's medication. The plasma was immediately separated and stored at 20°C until analysed by radioimmunoassay techniques. Analyses were carried out blind to the treatment and timing of the samples on duplicate specimens. Before starting the trial we reached a satisfactory inter-rater agreement on the scales used.
+
+Patients were randomly allocated to treatment with sulpiride or trifluoperazine using a double-dummy technique. All ratings were double-blind. Dosages ranged from 600 to 1,800 mg of sulpiride and 15 to 45 mg of trifluoperazine, given in divided doses two to four times a day according to a flexible schedule. The only other drugs given were dichloralphenazone as a hypnotic and benztropine mesylate or procyclidine hydrochloride as an antiparkinson agent when absolutely necessary.
+
+Results
+On breaking the random code at the end of the study, it was found that patients in the two treatment groups were satisfactorily matched for age, sex, civil status, duration of illness, baseline total BPRS and global scores, extrapyramidal ratings, handwriting measurements, weight, pulse and blood pressure. By chance, however, more effects were recorded on the unwanted effects questionnaire administered at the end of wash-out in those who were to receive sulpiride (29) than in those who were to receive trifluoperazine (18). All but six patients in each group completed the withdrawal period. Four patients in the sulpiride group and seven in the trifluoperazine group reported life events. Excluding insignificant events, such as taking a trip out of hospital or having visitors, there were four events in the sulpiride group and three in the trifluoperazine group, and of these one in each group was recorded during the baseline.
+
+Drop-outs—One patient in the sulpiride group was withdrawn from the study after four weeks because of a worsening of his psychosis, while another patient absconded from hospital during the fifth week of treatment. One patient was withdrawn from the trifluoperazine group after seven days' treatment because of a worsening of his mental state.
+
+Dosages—The mean dosages of sulpiride given at 2, 4 and 6 weeks were 894, 1,112 and 1,212 mg respectively; the corresponding doses for trifluoperazine were 16.6, 23.6 and 27.7 mg. These represent a 35 per cent increase in the dose of sulpiride and a 64 per cent increase in that of trifluoperazine at 6 weeks. To determine the relationship between dosage and therapeutic response, patients were categorized as responders and non-responders. The former consisted of those who, on the global assessments, were moderately, much or very much improved, while the non-responders comprised those who were minimally improved, or worse, or showed no change. There were insufficient responders to allow for a statistical comparison of responses in relation to dosage at two weeks, but there was no significant difference in dosages between responders and non-responders at four and six weeks. This suggests that non-response was not due to those patients being given less medication.
+
+Other medication—Three patients in the sulpiride group and six in the trifluoperazine group required dichloralphenazone as a hypnotic at some stage during the trial, while only two patients in each group needed an antiparkinson drug.
+
+BPRS—The baseline mean total scores are shown in Table IV. Significant reductions in these occurred at 2, 4 and 6 weeks following treatment with both sulpiride and trifluoperazine. Using the t-test these were significant for sulpiride at the 0.1 per cent, 1 per cent and 0.1 per cent levels, respectively; the corresponding levels for trifluoperazine were 0.1 per cent, 0.1 per cent and 1 per cent.
+
+Because of the alleged favourable effects of sulpiride on negative symptoms a separate analysis of variance was carried out for the total scores of items 3 (emotional withdrawal), 13 (motor retardation), and 16 (blunted affect). Again no significant differences could be shown.
+
+Global assessments—Severity of illness—The reduction in mean scores from baseline levels (shown in Table IV) were highly significant for both drugs at 2, 4 and 6 weeks (P<0.01). There were no significant differences between drugs. These changes, occurring in such severely ill patients are, in our opinion, clinically significant for both drugs. More patients on trifluoperazine than on sulpiride improved at 2 weeks (P<0.05), but there were no other statistically significant differences between drugs.
+
+Unwanted effects questionnaire—In general less effects were recorded during the treatment period than during the baseline. There was, for example, an increase in extrapyramidal effects in both the sulpiride and trifluoperazine groups at two weeks, which returned to baseline level at four weeks and remained at these levels until six weeks. More excitatory/stimulant effects emerged during treatment with sulpiride than trifluoperazine, but these and other differences are difficult to interpret because of the imbalance of effects during the baseline. In general, relatively few effects, that were not present during the baseline and rated as almost certainly, probably, or possibly due to the medication but equally likely due to other causes, were noted during the 6 weeks' treatment period. Those that were are shown in Table V. In listing possible effects, we have erred towards over- rather than under-inclusion. One patient developed an itchy, erythematous maculopapular rash on his trunk during the third week of treatment with sulpiride; this lasted for seven to ten days, did not require treatment and remitted spontaneously while sulpiride was continued. No patient complained of galactorrhoea, but breasts were not examined routinely.
+
+The responses to the questions concerning subjective severity of effects (question 3), frequency of occurrence of effects (question 4), outcome of effects (question 5) and the investigators' assessments of the severity of the effects (question 6) were weighted as shown in the Appendix. It is appreciated that such weightings are arbitrary and that, by choosing different weights, apparent differences between drugs could be increased, decreased or even reversed. However, using the weightings, analysis of variance did not reveal any significant differences between drugs in extrapyramidal or excitatory/stimulant effects, even though the grand totals of all weighted scores of extrapyramidal effects throughout the six weeks' period were higher for trifluoperazine than sulpiride on subjective severity, frequency of occurrence, persistence and objective severity.
+
+Rating scale for extrapyramidal effects—There were no significant differences within groups or between groups for rigidity, tremor, salivation, glabellar tap or total score (Table IV).
+
+Other observations—There were no significant changes in handwriting measurements over time except in the trifluoperazine group, where there was a significant decrease at 6 weeks (P<0.05). There were no significant differences between drugs.
+
+No significant changes within groups or between groups could be demonstrated in weight, pulse or blood pressure.
+
+In routine laboratory tests a few scattered results outside the normal reference range were noted during the baseline and treatment periods, but there were not thought to be of clinical significance or related to treatment.
+
+Plasma sulpiride—The mean plasma sulpiride levels were 0.8, 1.7 and 1.6 μg/ml with standard errors 0.2, 0.5 and 0.3 μg/ml at 2, 4 and 6 weeks, respectively. There was no statistical evidence of an association between these levels and dosage, global or total BPRS scores at 2 and 6 weeks. There was, however, an association at 4 weeks; high plasma levels were associated with low global scores (Wilcoxon rank-sum test, P<0.01) and low total BPRS scores (Spearman's r=-0.52, P<0.05). There was no significant relationship between plasma sulpiride levels and total extrapyramidal scores.
+
+Plasma prolactin—These results will be reported in detail elsewhere, but it should be noted here that a dramatic and significant increase in the plasma prolactin occurred in the sulpiride group at two weeks and persisted until six weeks (P<0.01), but was not seen in the trifluoperazine group.
+
+Discussion
+This study has met most of the requirements of a trial that are now established procedures in research methodology. It involved strict criteria for entry, an adequate wash-out period, randomization of treatment, double-blind ratings and the avoidance of other psychotropic drugs. There was also satisfactory matching with the exception of baseline side effects. The number of life events recorded was similar in each treatment group. The relationship between such events and the cause of psychiatric illness is complex (Dohrenwend and Dohrenwend, 1978), but they should be recorded in trials in schizophrenia because of the effect that they can have on its course (Brown and Birley, 1968; Birley and Brown, 1970). They are not generally recorded in trials involving long-stay patients, yet such occurrences as staff changes on the ward can have a marked effect on outcome of treatment. Plasma sulpiride levels suggested that there was satisfactory compliance with treatment while prolactin levels showed that adequate blockage of dopamine receptors (presumably those in the tuberoinfundibular pathway that inhibit prolactin release from the pituitary) was taking place.
+
+The results suggest that, in the dosages given and under the conditions of the trial, sulpiride produces beneficial effects in chronic schizophrenic patients and that these are broadly similar to those of trifluoperazine. There was an association between this therapeutic response and plasma sulpiride levels at 4 weeks. Unwanted effects occurred relatively infrequently and were not troublesome in the case of either drug. There were suggestions that sulpiride produced less extrapyramidal disturbances but, with the measures adopted, statistically significant differences could not be demonstrated.
+
+Acknowledgements
+We thank Chemitechna Ltd. and Smith, Kline & French Laboratories Ltd. for providing the capsules, the pharmacy and nursing staff at Knowle Hospital for their co-operation, Dr Mansel Aylward and Mr Geoffrey Maddock for carrying out the assays, Miss Diane Jones for her computer help and Mrs Janette Farmer, Mrs Tina Jennings and Miss Mend Jones for their secretarial assistance.
+
+Appendix
+Unwanted Effects Questionnaire
+The record sheet lists vertically all the unwanted symptoms of neuroleptics, one below the other, and then all the unwanted signs. It then carries nine vertical columns, nos. 1—9, to the right of the list. Each column is filled in to answer questions 1—9 below. A fresh sheet is completed after each treatment period.
+
+A. Questions answered by patient.
+1. What symptoms or complaints have you had during the past week(s)? (check in column 1)
+2. How did the medication agree with you? (check in column 2)
+For each symptom/side effect mentioned:
+3. How much of a problem for you was this (name symptom): very serious (2), somewhat serious (1) or not serious at all (0)?
+4. How often did you have the (symptom): all of the time (3), often (2) or occasionally (1)?
+5. Did the (symptom): disappear completely (4), improve (3), remain unchanged (2) or get worse (1)?
+
+B. Questions answered by investigator.
+6. What is your overall impression of the severity of the symptom/side effect: mild (1), moderate (2) or severe (3)?
+7. Do you think that the symptom/sign is: almost certainly a side effect of the medication (5), probably a side effect (4), possibly a side effect but equally likely due to other causes (3), probably not a side effect (2), or almost certainly not a side effect (1)?
+8. What effect did the symptom/side effect have on the treatment regime: treatment unchanged (1), dosage decreased (2) or drug discontinued (3)?
+9. Was treatment for the symptom/side effect required? yes (2), no (1) (record treatment given)
+
+
+### Tables (in TXT format)
+Table I: Characteristics of patients in the trial
+| Characteristics | Sulpiride (N=19) | Trifluoperazine (N=19) |
+|-----------------|-------------------|-------------------------|
+| Sex:            |                   |                         |
+| men             | 15                | 18                      |
+| women           | 4                 | 1                       |
+| Ages:           |                   |                         |
+| 25—34           | 1                 | 2                       |
+| 35—44           | 4                 | 3                       |
+| 45—54           | 3                 | 3                       |
+| 55—64           | 9                 | 11                      |
+| 65—74           | 2                 | 0                       |
+| Civil status:   |                   |                         |
+| married         | 0                 | 2                       |
+| separated/divorced | 1               | 0                       |
+| single          | 18                | 17                      |
+| Duration of illness: |                   |                         |
+| 2—10 yrs        | 1                 | 1                       |
+| more than 10 yrs | 18               | 18                      |
+
+Table II: Global assessment of severity of illness
+| Severity of mental illness | Sulpiride |          |          | Trifluoperazine |          |          |
+|----------------------------|-----------|----------|----------|-----------------|----------|----------|
+|                            | Baseline  | 2 weeks  | 4 weeks  | 6 weeks         | Baseline  | 2 weeks  | 4 weeks  | 6 weeks  |
+| Normal                     | 0         | 0        | 0        | 0               | 0         | 0        | 0        | 0        |
+| Borderline                 | 0         | 1        | 1        | 1               | 0         | 0        | 0        | 0        |
+| Mildly ill                 | 2         | 4        | 4        | 5               | 1         | 2        | 4        | 5        |
+| Moderately ill             | 3         | 6        | 6        | 8               | 2         | 4        | 11       | 10       |
+| Markedly ill               | 5         | 4        | 8        | 4               | 6         | 5        | 4        | 5        |
+| Severely ill               | 11        | 7        | 2        | 1               | 11        | 7        | 2        | 1        |
+| Extremely ill              | 1         | 1        | 0        | 0               | 1         | 1        | 0        | 0        |
+| Total patients             | 19        | 19       | 18       | 17               | 19        | 18       | 18       | 18       |
+
+Table III: Global assessment of change in condition
+| Change in condition | Sulpiride |          |          | Trifluoperazine |          |          |
+|---------------------|-----------|----------|----------|-----------------|----------|----------|
+|                     | 2 weeks   | 4 weeks  | 6 weeks  | 2 weeks         | 4 weeks  | 6 weeks  |
+| Very much improved  | 0         | 1        | 1        | 0               | 1        | 1        |
+| Much improved        | 1         | 2        | 1        | 1               | 2        | 1        |
+| Moderately improved  | 3         | 5        | 6        | 1               | 8        | 9        |
+| Minimally improved   | 5         | 4        | 2        | 9               | 7        | 3        |
+| No change           | 8         | 7        | 5        | 5               | 3        | 4        |
+| Slightly worse       | 2         | 2        | 1        | 2               | 2        | 0        |
+| Much worse           | 0         | 1        | 0        | 0               | 0        | 0        |
+| Total patients       | 19        | 18       | 17       | 18               | 18       | 18       |
+
+Table IV: Results (Mean scores for the group)
+| Measures | Sulpiride |          |          | Trifluoperazine |          |          |
+|----------|-----------|----------|----------|-----------------|----------|----------|
+|          | Baseline  | 2 weeks  | 4 weeks  | 6 weeks         | Baseline  | 2 weeks  | 4 weeks  | 6 weeks  |
+| BPRS—total scores | 43.8 | 37.7*** | 31.5**  | 30.5***         | 42.7     | 34.4***  | 31.5***  | 36.1**   |
+| Global assessment of severity of illness | 5.4 | 4.6** | 4.4*** | 4.2***         | 5.4      | 4.4***   | 4.0***   | 4.2***   |
+| Rating scale for extrapyramidal effects: |    |       |        |                 |          |          |          |          |
+| Rigidity | 7.2 | 5.5 | 5.4 | 4.4 | 5.7 | 4.6 | 4.1 | 5.5 |
+| Glabellar tap | 1.4 | 0.9 | 1.0 | 0.9 | 1.1 | 1.0 | 1.1 | 1.5 |
+| Tremor | 1.3 | 1.3 | 1.1 | 0.9 | 1.1 | 0.9 | 1.1 | 1.1 |
+| Salivation | 0.4 | 0.7 | 0.7 | 0.2 | 0.4 | 0.4 | 0.5 | 0.9 |
+| Total score | 10.3 | 8.4 | 8.2 | 6.4 | 8.3 | 6.9 | 6.8 | 9.0 |
+| Handwriting measurements | 4.0 | 3.7 | 3.8 | 4.0 | 4.0 | 3.9 | 4.1 | 3.7* |
+| Weight (kg) | 69.5 | 69.9 | 70.2 | 70.1 | 69.7 | 70.0 | 70.5 | 70.1 |
+| Pulse rate (min⁻¹) | 80 | 79 | 77 | 80 | 80 | 79 | 79 | 80 |
+| Blood pressure (mm mercury) — standing: |    |       |        |                 |          |          |          |          |
+| Systolic | 126 | 125 | 125 | 121 | 127 | 129 | 125 | 125 |
+| Diastolic | 80 | 77 | 76 | 75 | 74 | 77 | 79 | 78 |
+| Blood pressure (mm mercury) — lying: |    |       |        |                 |          |          |          |          |
+| Systolic | 122 | 126 | 125 | 118 | 123 | 123 | 123 | 123 |
+| Diastolic | 74 | 77 | 75 | 74 | 73 | 77 | 77 | 78 |
+* reduction in score from baseline significant at 5 per cent level.
+** reductions in scores from baseline significant at 1 per cent level.
+*** reductions in scores from baseline significant at 0.1 per cent level.
+
+Table V: Unwanted effects: number of patients showing one at any time during the trial (each group 19 patients)
+| Effects | Sulpiride | Trifluoperazine |
+|---------|-----------|-----------------|
+| Symptoms: |           |                 |
+| nervousness, anxiety, tension | 5 | 1 |
+| irritability, anger, hostility | 2 | 0 |
+| excitation, restlessness | 4 | 1 |
+| weakness, fatigue, lethargy | 0 | 1 |
+| headache | 2 | 2 |
+| shakiness, trembling | 1 | 0 |
+| rash | 1 | 0 |
+| dry mouth | 0 | 1 |
+| nausea | 0 | 1 |
+| frequency of micturition | 0 | 1 |
+| increased interest in sex | 2 | 1 |
+| Signs: |           |                 |
+| tension, agitation | 4 | 0 |
+| emotional lability | 3 | 0 |
+| elation, reactions | 0 | 2 |
+| oral dyskinesia | 1 | 3 |
+| excessive salivation | 2 | 4 |
+| excessive perspiration | 1 | 1 |
+
+
+### Image Description (in TXT format)
+There are no images included in the text.
