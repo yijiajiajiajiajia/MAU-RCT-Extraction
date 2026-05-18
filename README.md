@@ -1,68 +1,93 @@
 
 
-# Meta-Analysis Multi-Domain Dataset Repository
+# MAU-RCT-Extraction
 
-## Overview
+This repository contains the Minimal Atomic Unit (MAU) extraction pipeline and the multi-domain datasets used for meta-analysis data extraction experiments.
 
-This repository provides a comprehensive dataset designed to support prompt engineering and multi-domain validation for meta-analysis data extraction. It includes both:
+The original single-file script has been reorganized into a small Python package. The extraction logic and prompt templates are preserved; the refactor only separates configuration, runtime setup, extraction functions, post-processing, and export code into clearer modules.
 
-* **Prompt Development Dataset** – curated to assist in the design, testing, and refinement of LLM-based extraction prompts.
-* **Multi-Domain Validation Dataset** – spanning multiple clinical domains to ensure the robustness and generalizability of automated extraction systems.
-
-The datasets are organized by clinical domain and contain both raw source materials and processed outputs to facilitate reproducible research and benchmarking.
-
-## File Structure
+## Project Structure
 
 ```
-├── Breast Cancer Meta-Dataset
-│   ├── Excel File of Results Including Source
-│   ├── Excel File of Results Without Source
-│   ├── Gold Standard
-│   ├── Original PDF and Processed TXT
-│   └── Results in JSON Format
-│
-├── Cardiovascular Meta-Dataset
-│   ├── Excel File of Results Including Source
-│   ├── Excel File of Results Without Source
-│   ├── Gold Standard
-│   ├── Original PDF and Processed TXT
-│   └── Results in JSON Format
-│
-├── Diabetes Meta-Dataset
-│   ├── Excel File of Results Including Source
-│   ├── Excel File of Results Without Source
-│   ├── Gold Standard
-│   ├── Original PDF and Processed TXT
-│   └── Results in JSON Format
-│
-├── Large-Scale Psychiatry Meta-Dataset
-│   ├── Excel File of Results Including Source
-│   ├── Excel File of Results Without Source
-│   ├── Gold Standard
-│   ├── Original PDF and Processed TXT
-│   └── Results in JSON Format
-│
-├── Minimal Atomic Unit Comparative Analysis Dataset
-│   ├── Excel File of Results Including Source
-│   ├── Excel File of Results Without Source
-│   ├── Gold Standard
-│   ├── Original PDF and Processed TXT
-│   └── Results in JSON Format
-│
-└── Orthopedic Rehabilitation Meta-Dataset
-    ├── Excel File of Results Including Source
-    ├── Excel File of Results Without Source
-    ├── Gold Standard
-    ├── Original PDF and Processed TXT
-    └── Results in JSON Format
+├── MAU-MetaData.py                  # Backward-compatible script entry point
+├── main.py                          # Package entry point
+├── mau_rct_extraction/
+│   ├── config.py                    # Environment-based runtime configuration
+│   ├── user_inputs.py               # Interactive meta-analysis requirement prompts
+│   ├── runtime.py                   # OpenAI client runtime and retry wrapper
+│   ├── json_utils.py                # JSON repair and parsing helpers
+│   ├── fields.py                    # Fixed Study/Design/Outcome field schemas
+│   ├── study_info.py                # Level 1 study information extraction
+│   ├── minimal_units.py             # Level 2 MAU/group extraction
+│   ├── outcomes.py                  # Level 3 atomic outcome extraction
+│   ├── normalization.py             # Time point, effect size, and outcome normalization
+│   ├── quality.py                   # Consistency checks
+│   └── exporters.py                 # JSON and Excel export
+├── .env.example                     # Runtime configuration template
+├── requirements.txt                 # Python dependencies
+└── README.md
 ```
 
-**Notes:**
+The dataset folders are organized by clinical domain. Each domain contains source TXT files, gold standards, model outputs with and without sources, and JSON results.
 
-* **Gold Standard**: Curated dataset verified by dual experts to ensure high-quality, reliable extraction.
-* **Original PDF and Processed TXT**: Raw source documents and their preprocessed text versions, ready for automated extraction pipelines.
-* **Excel & JSON Results**: Structured outputs from the automated extraction system, with or without reference to the original sources.
-* **API**: The `api_key` in the code belongs to the author and has been removed due to cost considerations. Readers who wish to reproduce the results need to provide their own API key.
+## Setup
 
+Create a Python environment and install dependencies:
 
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+Create a local environment file from the example:
+
+```bash
+cp .env.example .env
+```
+
+Fill in `OPENAI_API_KEY` and update the input/output paths as needed. Before running the script, load the variables into your shell:
+
+```bash
+set -a
+source .env
+set +a
+```
+
+## Usage
+
+Run either entry point:
+
+```bash
+python MAU-MetaData.py
+```
+
+or:
+
+```bash
+python main.py
+```
+
+or:
+
+```bash
+python -m mau_rct_extraction
+```
+
+The script will ask for optional meta-analysis requirements, including intervention arm definition, comparator arm definition, outcome domain, outcome type, primary time point, comparison type, and study design. If a requirement is left blank, the pipeline extracts all relevant content for that category.
+
+## Outputs
+
+The pipeline produces:
+
+* A JSON file with study information, MAUs, extraction parameters, and summary metadata.
+* A standard Excel file with `Study_Characteristics`, `Group_Baseline`, and `Atomic_Outcomes` sheets.
+* An Excel file with source sentences for each extracted field.
+
+## Dataset Notes
+
+* **Gold Standard**: Curated extraction targets used for evaluation.
+* **Original PDF and Processed TXT**: Source documents and converted text files.
+* **Excel & JSON Results**: Structured model outputs with or without source evidence.
+* **API key**: No API key is committed. Users must provide their own key through environment variables.
 
