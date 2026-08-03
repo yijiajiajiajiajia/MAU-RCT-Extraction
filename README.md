@@ -28,7 +28,7 @@ The original single-file script has been reorganized into a small Python package
 └── README.md
 ```
 
-The dataset folders are organized by clinical domain. Each domain contains source TXT files, gold standards, model outputs with and without sources, and JSON results.
+The dataset folders are organized by clinical domain. Each domain contains processed source TXT files, gold standards, model outputs with and without source evidence, and JSON results. Publisher article PDFs are intentionally not redistributed in this repository; users should retrieve the cited articles through their own lawful access.
 
 ## Setup
 
@@ -87,7 +87,6 @@ The pipeline produces:
 ## Dataset Notes
 
 * **Gold Standard**: Curated extraction targets used for evaluation.
-* **Original PDF and Processed TXT**: Source documents and converted text files.
+* **Original PDF and Processed TXT**: Processed text files used by the extraction pipeline. Despite the legacy folder name, publisher article PDFs are not distributed in this repository.
 * **Excel & JSON Results**: Structured model outputs with or without source evidence.
 * **API key**: No API key is committed. Users must provide their own key through environment variables.
-

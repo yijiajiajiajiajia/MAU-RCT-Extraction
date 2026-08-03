@@ -9,3 +9,6 @@ env/
 .env.*
 !.env.example
 
+# Publisher article PDFs are not redistributed with the research dataset.
+**/Original PDF and Processed TXT/*.pdf
+**/Original PDF and Processed TXT/*.PDF
