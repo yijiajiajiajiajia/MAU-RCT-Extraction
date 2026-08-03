@@ -90,3 +90,7 @@ The pipeline produces:
 * **Original PDF and Processed TXT**: Processed text files used by the extraction pipeline. Despite the legacy folder name, publisher article PDFs are not distributed in this repository.
 * **Excel & JSON Results**: Structured model outputs with or without source evidence.
 * **API key**: No API key is committed. Users must provide their own key through environment variables.
+
+## License
+
+The extraction software in this repository is available under the [MIT License](LICENSE). This software license does not grant permission to redistribute third-party publications or other third-party material represented in the research datasets.
