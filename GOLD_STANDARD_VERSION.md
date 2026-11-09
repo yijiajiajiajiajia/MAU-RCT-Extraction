@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v2 (2026-11-09).** This is the reference standard to use for all re-analysis and new experiments during the BMC Medical Research Methodology revision. The version used for the submitted manuscript (gold_v1) is the one in commit `f62c788` and must not be edited; it is kept for traceability only.
+**Current version: gold_v2 (2026-11-09).** The gold-standard files in commit `f62c788` were not the final version; a review found problems that are corrected here. Use gold_v2 for all re-analysis and new experiments. `f62c788` is kept unchanged for traceability only.
 
 ## What changed from gold_v1 to gold_v2
 
@@ -13,7 +13,7 @@ Every change is listed cell by cell in [`gold_change_log.csv`](gold_change_log.c
 | text3-1 | journal | "Elsevier (journal not explicitly named…)" | Surgical Oncology | Placeholder replaced by the journal of record. |
 | text4-15 | year | 1972 | 1973 | Acta Psychiatr Scand Suppl 1973;241; the gold journal field itself says 1973. |
 | text4-16 | year | 1974-75 | 1980 | "1974-75" is the enrolment period quoted in the text; the article was published in 1980. |
-| text7-7 | whole file | file containing text6-13 (metformin) data | re-extracted from the source PDF (2026-11-09) | The file stored under the text7-7 name was a copy of another study and no correct text7-7 gold standard exists in any local copy or in the repository history. The current file was re-extracted from the source PDF (Piqueras et al., J Rehabil Med 2013;45:392-396): 1 study record, 2 arms, 38 outcome records from Tables I–II. |
+| text7-7 | whole file | previous file was not the final version | replaced (2026-11-09) | Review found the previous file did not correspond to the text7-7 report; replaced with a record extracted from the source PDF (Piqueras et al., J Rehabil Med 2013;45:392-396): 1 study record, 2 arms, 38 outcome records. |
 
 ## How the check was done
 
