@@ -19,4 +19,4 @@ Twelve `Study_Info` cells (year / DOI / journal) in seven gold files were empty 
 
 ## Second pass: title and author lines (same day)
 
-text4-9 and text4-13 started at the Introduction / Abstract: the page-1 title, author and affiliation lines were also missing. They were restored from the PDF text layer with the same rules (verbatim; for text4-9, an OCR'd scan, runs of spaces inside a line were collapsed; for text4-13 the stray superscript digits of the affiliation block were kept as the text layer gives them). Logged in `txt_change_log.csv`.
+text4-9 and text4-13 started at the Introduction / Abstract: the page-1 title, author and affiliation lines were also missing. They were restored from the PDF text layer with the same rules (verbatim; for text4-9, an OCR'd scan, runs of spaces inside a line were collapsed; for text4-13 two stray superscript digits that the text layer puts on lines of their own were not inserted). Logged in `txt_change_log.csv`.
