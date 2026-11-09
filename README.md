@@ -86,7 +86,7 @@ The pipeline produces:
 
 ## Dataset Notes
 
-* **Gold Standard**: Curated extraction targets used for evaluation.
+* **Gold Standard**: Curated extraction targets used for evaluation. The current version is **gold_v2** (2026-11-09); see [`GOLD_STANDARD_VERSION.md`](GOLD_STANDARD_VERSION.md) and the cell-level [`gold_change_log.csv`](gold_change_log.csv). The version used for the submitted manuscript is preserved unchanged in commit `f62c788`.
 * **Original PDF and Processed TXT**: Processed text files used by the extraction pipeline. Despite the legacy folder name, publisher article PDFs are not distributed in this repository.
 * **Excel & JSON Results**: Structured model outputs with or without source evidence.
 * **API key**: No API key is committed. Users must provide their own key through environment variables.
