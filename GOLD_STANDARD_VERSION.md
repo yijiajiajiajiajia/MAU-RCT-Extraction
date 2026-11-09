@@ -13,11 +13,17 @@ Every change is listed cell by cell in [`gold_change_log.csv`](gold_change_log.c
 | text3-1 | journal | "Elsevier (journal not explicitly named…)" | Surgical Oncology | Placeholder replaced by the journal of record. |
 | text4-15 | year | 1972 | 1973 | Acta Psychiatr Scand Suppl 1973;241; the gold journal field itself says 1973. |
 | text4-16 | year | 1974-75 | 1980 | "1974-75" is the enrolment period quoted in the text; the article was published in 1980. |
-| text7-7 | whole file | file containing text6-13 (metformin) data | **removed, no gold standard** | The file stored under the text7-7 name was a copy of another study. No correct text7-7 gold standard exists in any local copy or in the repository history. It must be re-extracted from the source PDF (Piqueras et al., J Rehabil Med 2013;45:392-396) before text7-7 can be scored. |
+| text7-7 | whole file | file containing text6-13 (metformin) data | **DRAFT replacement (2026-11-09)** | The file stored under the text7-7 name was a copy of another study and no correct text7-7 gold standard exists in any local copy or in the repository history. The current file is a draft built from the source PDF (Piqueras et al., J Rehabil Med 2013;45:392-396): 1 study record, 2 arms, 38 outcome records from Tables I–II. It is **pending independent re-extraction by the annotators (HF, MS)** and should not be treated as adjudicated until then. |
 
 ## How the check was done
 
 All 90 gold-standard `Study_Info` records (title, year, DOI) were compared with Crossref and PubMed on 2026-11-09. 85 records matched. In addition, three records have a printed year that differs by one from the journal's publication year (text4-43: printed 1968 / published 1969; text7-8: 2017 online / 2018 print; text7-1: 2019 online / 2020 print). These were **not** changed; the gold standard keeps the year printed in the source document.
+
+## text7-7 draft conventions
+
+- Per-arm age is not reported in the paper and is left empty; gender counts are derived from the reported percentages (17% men of 70 controls, 37.5% men of 72 IVT).
+- Table II values are stored as within-group change from baseline (mean, SD) with the between-group p-value; the 3-month IVT column is labelled "Control (n=68)" in the printed table (typesetting error).
+- Muscle-strength outcomes are included although they are outside the configured outcome-domain list; `domain_match` says so.
 
 ## What was NOT checked
 
