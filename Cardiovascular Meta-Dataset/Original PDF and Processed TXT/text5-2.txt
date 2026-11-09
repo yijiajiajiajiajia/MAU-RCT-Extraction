@@ -1,3 +1,4 @@
+doi: 10.1016/j.clinthera.2005.12.010
 # Clinical and Laboratory Safety of One Year's Use of a Combination Calcium + Vitamin D Tablet in Ambulatory Elderly Women with Vitamin D Insufficiency: Results of a Multicenter, Randomized, Double-Blind, Placebo-Controlled Study
 Michel Brazier, MD, PhD1,2; Franck Grados, MD1; Said Kamel, PhD1,2; Marc Mathieu, MD3; Alain Morel, BS1; Mohamed Maamer, PhD3; Jean-Luc Sebert, MD1; and Patrice Fardellone, MD, PhD1
 1Departments of Rheumatology and Biochemistry, Hôpital Nord, Amiens, France; 2Laboratory of Clinical Pharmacy, Bone Resorption Mechanisms Research Unit, INSERM ERI-12, Pharmacy and Medicine Faculties, Amiens, France; and 3Innothera Laboratories, Arcueil, France
