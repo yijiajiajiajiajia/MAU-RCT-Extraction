@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v2 (2026-11-09).** The gold-standard files in commit `f62c788` were not the final version; a review found problems that are corrected here. Use gold_v2 for all re-analysis and new experiments. `f62c788` is kept unchanged for traceability only.
+**Current version: gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
+
+**gold_v2 (2026-11-09).** The gold-standard files in commit `f62c788` were not the final version; a review found problems that are corrected here. Use gold_v2 for all re-analysis and new experiments. `f62c788` is kept unchanged for traceability only.
 
 ## What changed from gold_v1 to gold_v2
 
@@ -27,9 +29,9 @@ All 90 gold-standard `Study_Info` records (title, year, DOI) were compared with 
 - Table II values are stored as within-group change from baseline (mean, SD) with the between-group p-value; the 3-month IVT column is labelled "Control (n=68)" in the printed table (typesetting error).
 - Muscle-strength outcomes are included although they are outside the configured outcome-domain list; `domain_match` says so.
 
-## What was NOT checked
+## Full re-verification (gold_v3)
 
-Only study-level bibliographic fields were verified against external sources. Arm-level and outcome-level numerical values (Design_Info, Atomic_Outcomes) have not been re-verified against the source PDFs in this pass. That is a separate step (sampled source re-check) in the revision plan.
+After gold_v2, every Design_Info and Atomic_Outcomes value of the 88 included studies (plus the participant counts in Study_Info) was compared cell by cell with the source PDF. Totals: 9,613 cells checked; 340 wrong; 462 derived; 192 format; 99 unverifiable; 124 ambiguous; 212 reported outcomes without a gold row. Details, per-paper counts and the list of items left open are in [`gold_verification_2026-11-09/`](gold_verification_2026-11-09/). Every wrong cell with a printed PDF value was corrected and logged in `gold_change_log.csv`; nine files had blocks of columns shifted by one header and were realigned. 16 wrong cells whose correct value is not printed, and all omission / ambiguous / unverifiable items, are listed in `gold_verification_2026-11-09/open_items.csv` and were not changed.
 
 ## Reproducibility note
 
