@@ -1,6 +1,6 @@
 # Input text (processed TXT) version note
 
-**Current version: txt_v2 (2026-11-09).** The processed TXT files in the commits up to `9db15ad` are the texts the submitted system actually read. A review found that in 21 of the 93 files the journal/year/DOI lines printed in the source PDF's header, footer or margin were missing from the TXT; they are restored here. Use txt_v2 for re-runs and new experiments. The earlier version is kept unchanged in git history for traceability.
+**Current version: txt_v2 (2026-11-09).** The processed TXT files in the commits up to `9db15ad` are the texts the submitted system actually read. A review found that in 21 of the 93 files (two of them also missing their title and author lines) the journal/year/DOI lines printed in the source PDF's header, footer or margin were missing from the TXT; they are restored here. Use txt_v2 for re-runs and new experiments. The earlier version is kept unchanged in git history for traceability.
 
 ## What changed
 
@@ -17,6 +17,6 @@ Every change is listed in [`txt_change_log.csv`](txt_change_log.csv) (study, fil
 
 Twelve `Study_Info` cells (year / DOI / journal) in seven gold files were empty although the TXT now states the value (text3-3, text4-3, text4-19, text4-32, text4-54, text5-17, text5-20). They were filled and logged in [`gold_change_log.csv`](gold_change_log.csv); see [`GOLD_STANDARD_VERSION.md`](GOLD_STANDARD_VERSION.md).
 
-## Also found, not changed
+## Second pass: title and author lines (same day)
 
-text4-9 and text4-13 start at the Introduction / Abstract: their title and author lines are also missing from the TXT. Only the citation/DOI lines were restored; the title/author gap is recorded here for a separate decision.
+text4-9 and text4-13 started at the Introduction / Abstract: the page-1 title, author and affiliation lines were also missing. They were restored from the PDF text layer with the same rules (verbatim; for text4-9, an OCR'd scan, runs of spaces inside a line were collapsed; for text4-13 the stray superscript digits of the affiliation block were kept as the text layer gives them). Logged in `txt_change_log.csv`.
