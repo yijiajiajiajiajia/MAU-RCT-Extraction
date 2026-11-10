@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v4 (2026-11-10).** gold_v4 = gold_v3 with the gold-standard rules applied consistently (see "gold_v4" below).
+**Current version: gold_v5 (2026-11-10).** gold_v5 = gold_v4 after a second paper-by-paper review of all 87 trials under the same two rules (see "gold_v5" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -55,7 +55,20 @@ Later on 2026-11-10 the items the re-verification had marked `ambiguous` were re
 
 **text4-52 removed (2026-11-10).** The source file stored as text4-52 was a second copy of the text4-51 article (Simon et al. 1978; identical PDF), so one trial had been included twice. The text4-52 input TXT, model outputs and gold-standard file were removed. The validation set now has 87 trials (psychiatry: 43).
 
-Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with gold_v4.
+## gold_v5 (2026-11-10): second paper-by-paper review
+
+All 87 trials were read again against the article, one paper at a time, under the same two rules (only printed values, unit conversions kept; only configured outcomes).
+
+- 126 cells emptied: values not printed for that arm (computed mean differences or risk ratios, counts computed from percentages or sums, a whole-sample or pooled value stored under a single arm, zeros that the article does not state).
+- About 120 cells corrected: values that did not match the article (including a minus sign lost in the PDF text layer, text4-29), counts stored in the wrong column (text5-13), text in numeric cells, and labels that differed between the arms of the same outcome. In text7-6 the label of the printed t statistic was corrected (36 cells).
+- 60 rows removed because they held no outcome value (the article does not report that outcome for that arm), and 16 rows removed as outside the configured outcome list.
+- 721 rows and 107 cells added: configured outcomes that the article prints but the gold standard had no row or value for. Printed values only; every added value was checked to occur in the quoted article text.
+- text4-51: the third randomised arm (standard neuroleptics, n = 63) was missing and was added.
+- Not entered: numbers that can only be read from the low-resolution figures of text6-6 and text6-7 (UKPDS 33 and 34), because the digits cannot be read with certainty.
+- Kept as they were: a median age stored in the age column (printed value), overall p values of multi-arm comparisons, single-sex counts and zeros stated in words.
+- text5-4: the article prints "171 of 1131 (1.5%)" for cardiovascular events in the vitamin D group; the gold standard records the printed number 171.
+
+Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
 ## Reproducibility note
 
