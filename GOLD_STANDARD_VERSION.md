@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v6 (2026-11-10).** gold_v6 = gold_v5 after a third paper-by-paper review of all 87 trials under the same two rules (see "gold_v6" below).
+**Current version: gold_v7 (2026-11-10).** gold_v7 = gold_v6 after a fourth and final paper-by-paper review of all 87 trials under the same two rules (see "gold_v7" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -79,6 +79,17 @@ All 87 trials were read a third time against the article, including every row ad
 - 117 rows and 6 cells added (configured outcomes printed in the article that still had no row).
 - 170 labels made consistent between the arms of the same outcome (outcome name, outcome role, time-point role, follow-up weeks, arm name).
 - Formatting: study_id filled in on the rows added in earlier versions (714 rows), and numbers stored as text converted to numbers (891 cells; values unchanged).
+
+## gold_v7 (2026-11-10): fourth paper-by-paper review
+
+All 87 trials were read a fourth time. More than 50 trials had no finding. No value added in gold_v5 or gold_v6 was found to be wrong.
+
+- Two errors came from the OCR text layer of scanned PDFs and were found by reading the page images: text4-43 group size 250 corrected to 210 (9 cells) and text6-4 mean age 41 corrected to 47. Because of this, every number of the scanned PDFs that had so far been checked only against the text layer (15 trials, about 1,000 numbers) was compared with the page image; one further cell was emptied (text5-2, total analysed, not printed) and nothing else differed.
+- 7 cells emptied or corrected because the value did not belong to the row (text4-40, text4-31, text4-32, text5-15, text6-9), 3 confidence-interval cells moved to the CI columns (text4-45), and one relative risk that is printed only in a low-resolution figure replaced by the risk reduction printed in the text (text6-7).
+- 9 rows removed (8 duplicated control rows in text7-2, 1 mislabelled row in text4-31); 6 rows and 2 cells added.
+- 83 labels made consistent between the arms of the same outcome.
+
+Rows for which the article gives only a percentage, a p value or a qualitative statement are kept without a value (69 rows): the outcome is reported, but no count or mean is printed for the arm.
 
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
