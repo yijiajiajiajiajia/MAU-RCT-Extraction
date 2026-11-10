@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v5 (2026-11-10).** gold_v5 = gold_v4 after a second paper-by-paper review of all 87 trials under the same two rules (see "gold_v5" below).
+**Current version: gold_v6 (2026-11-10).** gold_v6 = gold_v5 after a third paper-by-paper review of all 87 trials under the same two rules (see "gold_v6" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -67,6 +67,18 @@ All 87 trials were read again against the article, one paper at a time, under th
 - Not entered: numbers that can only be read from the low-resolution figures of text6-6 and text6-7 (UKPDS 33 and 34), because the digits cannot be read with certainty.
 - Kept as they were: a median age stored in the age column (printed value), overall p values of multi-arm comparisons, single-sex counts and zeros stated in words.
 - text5-4: the article prints "171 of 1131 (1.5%)" for cardiovascular events in the vitamin D group; the gold standard records the printed number 171.
+
+## gold_v6 (2026-11-10): third paper-by-paper review
+
+All 87 trials were read a third time against the article, including every row added in gold_v5 (value, arm column, time point and sign were checked on rendered page images where the table has three or more arm columns or change scores).
+
+- No value added in gold_v5 was found to be wrong.
+- 2 cells emptied (not printed for that arm) and 3 cells corrected (two dropout-reason texts with the arms swapped, text5-18 and text6-13; one participant number).
+- 6 confidence-interval cells moved to the CI columns used by the other arm of the same outcome (text4-29, text4-34).
+- 73 rows removed: 62 held no outcome value (mostly rows left empty after pooled values were emptied; text5-21 now has no outcome row because the article reports events only for the pooled factorial groups), 9 were exact duplicates of another row (text4-23, text5-16), 2 were outside the configured outcome list (text5-8).
+- 117 rows and 6 cells added (configured outcomes printed in the article that still had no row).
+- 170 labels made consistent between the arms of the same outcome (outcome name, outcome role, time-point role, follow-up weeks, arm name).
+- Formatting: study_id filled in on the rows added in earlier versions (714 rows), and numbers stored as text converted to numbers (891 cells; values unchanged).
 
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
