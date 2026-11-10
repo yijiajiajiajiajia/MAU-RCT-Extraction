@@ -51,6 +51,8 @@ Configured outcome lists:
 - Type 2 diabetes: myocardial infarction; stroke; retinopathy; photocoagulation; visual deterioration or blindness; microalbuminuria; renal failure; all-cause mortality; death from cardiovascular causes; congestive heart failure; peripheral vascular events; neuropathy; amputation; severe hypoglycaemia.
 - Orthopedic rehabilitation: pain intensity (VAS); disease-specific functional indices (WOMAC, KOOS); balance ability; postural stability parameters; global proprioception; knee flexion–extension range of motion; active knee flexion angle; five-times sit-to-stand time; gait-related parameters (knee extension moment, functional weight-bearing symmetry); walking speed; timed standing task completion time; LEFS; ABC scale; HSS knee score; rehabilitation program adherence; hospital readmission rate; patient satisfaction; healthcare costs.
 
+Later on 2026-11-10 the items the re-verification had marked `ambiguous` were reviewed: 48 cells that held a pooled or whole-group value under a single arm (or a count the article does not print) were emptied, and 13 cells were corrected against the article (direction flag of extrapyramidal and discontinuation outcomes in text4-3 and text4-13, baseline follow-up week and p value in text4-13, arm size of the 25 mg arm in text4-2). Where the article itself prints two different numbers (table versus text), the gold standard keeps the value it had.
+
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with gold_v4.
 
 ## Reproducibility note
