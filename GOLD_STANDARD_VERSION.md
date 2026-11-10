@@ -53,6 +53,8 @@ Configured outcome lists:
 
 Later on 2026-11-10 the items the re-verification had marked `ambiguous` were reviewed: 48 cells that held a pooled or whole-group value under a single arm (or a count the article does not print) were emptied, and 13 cells were corrected against the article (direction flag of extrapyramidal and discontinuation outcomes in text4-3 and text4-13, baseline follow-up week and p value in text4-13, arm size of the 25 mg arm in text4-2). Where the article itself prints two different numbers (table versus text), the gold standard keeps the value it had.
 
+**text4-52 removed (2026-11-10).** The source file stored as text4-52 was a second copy of the text4-51 article (Simon et al. 1978; identical PDF), so one trial had been included twice. The text4-52 input TXT, model outputs and gold-standard file were removed. The validation set now has 87 trials (psychiatry: 43).
+
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with gold_v4.
 
 ## Reproducibility note
