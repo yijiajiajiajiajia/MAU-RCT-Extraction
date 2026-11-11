@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v7 (2026-11-10).** gold_v7 = gold_v6 after a fourth and final paper-by-paper review of all 87 trials under the same two rules (see "gold_v7" below).
+**Current version: gold_v8 (2026-11-10).** gold_v8 = gold_v7 with two author decisions applied to text5-21 and text4-18 (see "gold_v8" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -90,6 +90,13 @@ All 87 trials were read a fourth time. More than 50 trials had no finding. No va
 - 83 labels made consistent between the arms of the same outcome.
 
 Rows for which the article gives only a percentage, a p value or a qualitative statement are kept without a value (69 rows): the outcome is reported, but no count or mean is printed for the arm.
+
+## gold_v8 (2026-11-10): two author decisions
+
+- **text5-21** (2×2 factorial trial). The article reports death, myocardial infarction and stroke only for the pooled comparison groups of Table 3 (vitamin D versus no vitamin D; calcium versus no calcium), never for the randomized groups, so after gold_v5 the trial had no outcome row. The four pooled groups are now entered as arms (group sizes as printed in the table header) with the printed counts and p values: 4 design rows and 12 outcome rows added.
+- **text4-18**. Six cells held the counts of four time points together (extrapyramidal symptoms, Table 4). They are split into one row per symptom and time point: 6 rows replaced by 40 rows. No value changed; the table was checked on the page image.
+
+The gold standard now holds 87 trials and 1,988 outcome rows.
 
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
