@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v9 (2026-11-12).** gold_v9 = gold_v8 after a fifth paper-by-paper review of all 87 trials (see "gold_v9" below).
+**Current version: gold_v10 (2026-11-12).** gold_v10 = gold_v9 after a sixth paper-by-paper review of all 87 trials and a separate check of every number inside the description cells (see "gold_v10" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -110,6 +110,23 @@ All 87 trials were read a fifth time with the same five checks for every paper (
 Points raised by the review and left unchanged on purpose: text7-1 cost difference (-2745; the article prints "$2,745 lower"), text7-9 p values on the post-intervention rows of the experimental group (the printed between-group p), text5-11 analysed numbers (the printed arm size).
 
 The gold standard now holds 87 trials and 1,987 outcome rows.
+
+## gold_v10 (2026-11-12): sixth paper-by-paper review and check of the description cells
+
+**Sixth review (same five checks as the fifth).** No filled outcome value was found to differ from the article.
+
+- 2 cells emptied: nephropathy counts in text6-4 (the article prints these counts for microalbuminuria, where they already are; for nephropathy it prints percentages only).
+- 15 empty cells filled with printed values: text4-40 (six patients with extrapyramidal symptoms in the soluble-tablet group, stated in words), text6-9 (hazard ratio, CI and p for all-cause mortality), text6-8 (p values for two heart-failure outcomes).
+- 2 rows added: all-cause withdrawals in the run-in and stabilisation phases of text4-45 (flow chart). 2 rows removed: one out-of-scope row without a value (text4-43) and one row without a count (text4-51).
+- text5-15: higher_is_better corrected to 0 on the two rows that hold numbers of deaths. 11 labels made consistent between arms.
+
+**Description cells.** Earlier reviews concentrated on the numeric cells. In this round every number, comparison sign and unit inside the free-text cells of Study_Info and Design_Info (criteria, setting, drop-out reasons, intervention and control details, duration, frequency, adherence) was compared with the article for all 87 trials (about 3,400 numbers; scanned PDFs on the page images). 23 fragments in 14 trials were corrected:
+
+- wrong number: text5-11 (dose 0.70 → 0.76), text7-8 (drop-outs per group), text4-43 (age 20 → 19, an OCR misreading), text5-8 (block size 12 missing);
+- lost sign or wrong unit: text5-13 (−2 SD), text5-15 (class ≥ II), text6-7 (> 120%), text4-54 (≤ 18), text5-6 (1 mcg, not 1 mg; ≥ 500), text6-8 (> 75%);
+- not printed in the article: computed percentages removed (text5-16, text7-4); dosing frequency "once daily" removed (text4-3, text6-8); the word "mean" removed from a per-patient threshold (text4-42).
+
+The gold standard holds 87 trials and 1,987 outcome rows.
 
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
