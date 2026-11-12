@@ -100,7 +100,7 @@ The gold standard now holds 87 trials and 1,988 outcome rows.
 
 ## gold_v9 (2026-11-12): fifth paper-by-paper review
 
-All 87 trials were read a fifth time with the same five checks for every paper (values match the article; nothing that is not printed; no out-of-scope, empty or duplicate rows; consistent labels across arms; no configured outcome left out). 71 trials had no finding. No filled value was found to differ from the article.
+All 87 trials were read a fifth time with the same five checks for every paper (values match the article; nothing that is not printed; no out-of-scope, empty or duplicate rows; consistent labels across arms; no configured outcome left out). 67 trials had no finding. No filled value was found to differ from the article.
 
 - 4 rows removed: duration of the first rehospitalisation in text4-12 (2 rows; length of stay is not a configured outcome) and 2 rows without any value in text4-44.
 - 3 rows added: prolactin-related adverse events of Table 4 in text4-21 (2 rows) and the vitamin D arm of the time-to-death outcome in text5-19 (1 row).
