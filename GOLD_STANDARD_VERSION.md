@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v8 (2026-11-10).** gold_v8 = gold_v7 with two author decisions applied to text5-21 and text4-18 (see "gold_v8" below).
+**Current version: gold_v9 (2026-11-12).** gold_v9 = gold_v8 after a fifth paper-by-paper review of all 87 trials (see "gold_v9" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -97,6 +97,19 @@ Rows for which the article gives only a percentage, a p value or a qualitative s
 - **text4-18**. Six cells held the counts of four time points together (extrapyramidal symptoms, Table 4). They are split into one row per symptom and time point: 6 rows replaced by 40 rows. No value changed; the table was checked on the page image.
 
 The gold standard now holds 87 trials and 1,988 outcome rows.
+
+## gold_v9 (2026-11-12): fifth paper-by-paper review
+
+All 87 trials were read a fifth time with the same five checks for every paper (values match the article; nothing that is not printed; no out-of-scope, empty or duplicate rows; consistent labels across arms; no configured outcome left out). 71 trials had no finding. No filled value was found to differ from the article.
+
+- 4 rows removed: duration of the first rehospitalisation in text4-12 (2 rows; length of stay is not a configured outcome) and 2 rows without any value in text4-44.
+- 3 rows added: prolactin-related adverse events of Table 4 in text4-21 (2 rows) and the vitamin D arm of the time-to-death outcome in text5-19 (1 row).
+- 2 empty cells filled with printed values: text4-40 (one placebo patient became suicidal, stated in words) and text4-51 (analysed number of the third arm, read on the page image).
+- 62 labels made consistent between the arms of the same outcome (outcome names, time_point_role, higher_is_better).
+
+Points raised by the review and left unchanged on purpose: text7-1 cost difference (-2745; the article prints "$2,745 lower"), text7-9 p values on the post-intervention rows of the experimental group (the printed between-group p), text5-11 analysed numbers (the printed arm size).
+
+The gold standard now holds 87 trials and 1,987 outcome rows.
 
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
