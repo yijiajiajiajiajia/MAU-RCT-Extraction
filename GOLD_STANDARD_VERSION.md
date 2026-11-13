@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v10 (2026-11-12).** gold_v10 = gold_v9 after a sixth paper-by-paper review of all 87 trials and a separate check of every number inside the description cells (see "gold_v10" below).
+**Current version: gold_v11 (2026-11-13).** gold_v11 = gold_v10 after a seventh review in which every row was re-extracted from the article without looking at the gold values and then compared with them (see "gold_v11" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -127,6 +127,34 @@ The gold standard now holds 87 trials and 1,987 outcome rows.
 - not printed in the article: computed percentages removed (text5-16, text7-4); dosing frequency "once daily" removed (text4-3, text6-8); the word "mean" removed from a per-patient threshold (text4-42).
 
 The gold standard holds 87 trials and 1,987 outcome rows.
+
+## gold_v11 (2026-11-13): seventh review, blind re-extraction of every row
+
+**Method.** The six earlier reviews compared the gold values with the articles. In this round the direction was reversed: for all 87 trials, every outcome row (1,987) and every arm of Design_Info (254) was given to a reader as labels only (arm, outcome, time point), the values were read from the article again, and the answers were compared with the gold cells by script. Every difference was then checked against the article by a second reader; for scanned articles on the page images. A difference was applied only when the article confirmed it.
+
+**Wrong values (5 trials).**
+
+- text4-18: the denominator of the 40 side-effect rows was 16; the table title prints n = 32 (crossover trial, all 32 patients received each drug). Corrected.
+- text4-49: four p values had lost the "<" (p<0.003, p<0.0001). Corrected.
+- text4-9: total_participants of Group A held the number analysed (15); the article prints 17 entered. Corrected.
+- text4-44: one p_value cell held a sentence instead of a printed p value. Emptied.
+- text7-9: number analysed per group (15) is not printed in the article. Emptied.
+
+**Printed in the article but not entered (17 trials).**
+
+- Effect sizes with confidence intervals on 20 rows: text4-28 (12 cause-specific hazard ratios), text7-1 (4 between-group differences), text4-7 (2 relative risks), text4-10 (log-rank statistic on 2 arm rows).
+- 112 p values: text6-2 (42, comparisons with placebo), text4-29 (35, overall p of the three-group comparison), text7-1 (12), text4-44 (7), text4-49 (5), text4-28 (5), and one or two each in text4-10, text4-38, text4-42, text4-54.
+- 19 Design_Info cells in 6 trials: age and SD (text3-2, text4-2, text4-35), number of men (text4-2, text4-9, text4-35), arm size (text5-19, text6-10).
+
+**Made uniform.**
+
+- text4-29: six cells held a pairwise p value while the other arms of the same outcome held the overall p value; all arm rows of an outcome now hold the printed overall p value.
+- text4-19: four rows held four time points in one cell; split into one row per time point (16 rows, values unchanged).
+- 91 labels that were in Chinese (time point "baseline", "pre-intervention", "post-intervention"; one arm name "Placebo") written in English; one outcome label in text6-10 made exact ("requiring medical assistance").
+
+**Checked and not changed.** In about 15 trials the blind reading gave the number randomised for total_participants where the gold holds the number of the analysis set printed in the baseline table (for example text4-21, text4-27, text4-32, text5-9, text6-6). Both numbers are printed; these cells were left as they are. Values printed only for a pooled factorial margin (text5-3) and test statistics (t, F, chi-square) are not entered.
+
+The gold standard holds 87 trials and 1,999 outcome rows.
 
 Every change is logged in `gold_change_log.csv`. Scores reported in the paper were computed with the earlier gold standard and have to be recomputed with the current gold standard.
 
