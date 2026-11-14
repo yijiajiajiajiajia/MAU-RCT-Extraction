@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v13 (2026-11-14).** gold_v13 = gold_v12 after a row-by-row scope check against the configured outcome list; 80 rows outside the list were removed (see "gold_v13" below).
+**Current version: gold_v14 (2026-11-14).** gold_v14 = gold_v13 after one more check of every row and every cell against the article, this time including the study and arm description fields and a search for configured outcomes that had no row (see "gold_v14" below).
+
+**gold_v13 (2026-11-14).** gold_v13 = gold_v12 after a row-by-row scope check against the configured outcome list; 80 rows outside the list were removed (see "gold_v13" below).
 
 **gold_v12 (2026-11-13).** gold_v12 = gold_v11 after a final review in which every row and every filled cell was checked once more against the article (see "gold_v12" below).
 
@@ -195,3 +197,22 @@ Removed, 80 rows in 19 psychiatry trials (each row is in `gold_change_log.csv`, 
 Kept after review: time to relapse and days in remission; mean change in weight, body-mass index, glucose and prolactin; suicidal ideation and self-injury; ischaemic heart disease and cardiovascular disease incidence; composite end points, diabetes-related death and sudden death; nephropathy, creatinine and albuminuria rows; intermittent claudication, retinal haemorrhages and worsening heart failure; the late-reported deaths in text6-2; timed up-and-go, two-minute walk, numeric pain rating, KOOS JR and time to reach a range of motion; discontinuation by reason, KOOS / WOMAC subscales and relapse subgroups.
 
 Result: 87 trials, 1,919 outcome rows.
+
+## gold_v14 (2026-11-14): re-check of every row and every cell, text fields and missing rows included
+
+All 87 trials were gone through again, one paper at a time: every row of Study_Info, Design_Info and Atomic_Outcomes (254 arm rows, 1,919 outcome rows) was compared with the article, tables and figures were read from the page image wherever the text layer was scanned or garbled, and each point raised was checked against the article again before anything was changed. Two things were added to the earlier checks: the text fields (title, authors, journal, year, country) were compared with the first page, and each article was searched for configured outcomes that are printed with numbers but had no row.
+
+No filled number was found to differ from the article. The 348 logged changes (42 trials; reason starts with "Final re-check" in `gold_change_log.csv`) are:
+
+- filled, 114 cells: the value is printed but the cell was empty. Mostly the second arm row of a comparison lacking the group size, p value or test statistic that the first arm row carries (text4-3, text4-14, text4-49, text6-9, text6-10, text7-5 and others); median and interquartile range in text4-28; the 25% quantile of time to relapse in text4-34 and text4-45; discontinuation counts printed in the flow chart of text4-21; rehospitalisation mean, SD and between-group difference in text7-1; title, authors, journal or year in text4-3, text4-10, text4-41 and text6-2;
+- rows added, 41: configured outcomes printed with numbers that had no row. Discontinuation by reason from the flow chart of text4-21 (23 rows) and death as a reason in text4-32 (2); any-reason discontinuation risk ratio in text4-11 (2); interim-analysis relapse in text4-45 (2); the haloperidol row of weight increase >5% in text4-8 (1); myocardial infarction risk reduction in text6-6 (1); leg revascularisation in text6-8 (2); renal failure in text6-11 (2); pain change to 6 weeks in text7-1 (2); pre-operative knee extension moment in text7-2 (4);
+- restored, 37 cells that gold_v12 had emptied although the number is printed: the analysed number 15 per group in text7-9 (printed in Figure 1, which the text layer does not contain) and the zero dropouts of the soluble-tablet group in text4-40 (stated in words);
+- labels, 73 cells: outcome names, units, time points and comparison labels made to match what the numbers are (for example text4-45 mean weight increase in kg, text7-4 values measured only after treatment, text7-2 differences in change from pre-op, text5-6 counts of patients);
+- p values printed as 0.000, 32 cells in text7-6 and text7-9: the cell held the number 0 and now holds the printed form;
+- follow-up in weeks, 32 cells: converted with the same factor as in the other trials (text5-16, text6-7, text7-6) and counted from the first measurement in text7-9;
+- text fields corrected, 16 cells: misspelt or misread author names, a title and a journal abbreviation (text4-14, text4-15, text4-23, text4-32, text4-38, text4-40, text4-43, text4-47, text5-13, text6-8, text6-13);
+- other, 3 cells: the same p value form on both arm rows (text3-2), the chi-squared of the 80 mg group (text4-1), the between-group p value on the post-intervention row (text7-9).
+
+Not changed, by rule: outcomes for which the article prints only a percentage, a second analysis of an outcome that already has a row, results printed for pooled groups that are not arms of the file, and antiparkinsonian drug use (removed in gold_v13) were not added. In text6-13 the article gives the macrovascular hazard ratio as 0.61 (0.40-0.94) in the abstract, Figure 4 and the discussion and as 0.60 (0.40-0.92) in the results text; the gold standard keeps 0.61.
+
+Result: 87 trials, 254 arm rows, 1,960 outcome rows.
