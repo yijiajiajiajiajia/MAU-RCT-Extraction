@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v15 (2026-11-14).** gold_v15 = gold_v14 after another row-by-row check in which the place in the article and the numbers read there were written down for every row (see "gold_v15" below).
+**Current version: gold_v16 (2026-11-14).** gold_v16 = gold_v15 after a twelfth row-by-row check, which changed five things (see "gold_v16" below).
 
 **gold_v13 (2026-11-14).** gold_v13 = gold_v12 after a row-by-row scope check against the configured outcome list; 80 rows outside the list were removed (see "gold_v13" below).
 
@@ -238,3 +238,20 @@ No other filled outcome value differed from the article. The remaining logged ch
 Not changed, by rule: a zero that is only implied (the other group is simply not mentioned); baseline values in files that carry no baseline rows; counts for phases or pooled groups that are not arms of the file; further sub-items or second analyses of an outcome that already has rows; transient ischaemic attack in the diabetes trials (the configured list has stroke only); an effect-size type label on a row without a value; empty follow-up weeks in files where the annotators left the column empty. In the two UKPDS reports (text6-6, text6-7) the event counts printed inside the forest-plot figures are still not entered.
 
 Result: 87 trials, 254 arm rows, 1,975 outcome rows.
+
+## gold_v16 (2026-11-14): twelfth row-by-row check
+
+All 87 trials (254 arm rows, 1,975 outcome rows of gold_v15) were gone through again in the same way as for gold_v15: for every row the place in the article and the numbers printed there were written down first and then compared with the spreadsheet; scanned pages, flow charts and tables with minus signs were read from the page image.
+
+No filled number differed from the article, with one exception that gold_v15 itself had introduced:
+
+- text4-51: the row "dropouts due to severe parkinsonian syndrome, akathisia, etc." had been given the count 1 in gold_v15. The table lists one dropout for each of two such reasons and prints no total, so no single printed number fits the row; the cell is empty again, as the annotators left it.
+
+Two configured outcomes printed with numbers had no row and were added (4 rows):
+
+- text6-8: urinary albumin test (Micral) worsened from baseline to final visit, 555 of 2218 and 563 of 2225, p 0.286 (Table 7);
+- text6-13: hypoglycaemic events for which help from others was needed, 0.3 and 0.3 events per person per year, p 0.33 (results text).
+
+The five changes are in `gold_change_log.csv` (reason starts with "Twelfth row-by-row check"). Points raised again and left as before: values that are only implied, baselines in files without baseline rows, further sub-items of outcomes that already have rows, outcomes for which only a p value or a percentage is printed, and the figure-only counts of the two UKPDS reports.
+
+Result: 87 trials, 254 arm rows, 1,979 outcome rows.
