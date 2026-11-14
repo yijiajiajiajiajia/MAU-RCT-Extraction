@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v14 (2026-11-14).** gold_v14 = gold_v13 after one more check of every row and every cell against the article, this time including the study and arm description fields and a search for configured outcomes that had no row (see "gold_v14" below).
+**Current version: gold_v15 (2026-11-14).** gold_v15 = gold_v14 after another row-by-row check in which the place in the article and the numbers read there were written down for every row (see "gold_v15" below).
 
 **gold_v13 (2026-11-14).** gold_v13 = gold_v12 after a row-by-row scope check against the configured outcome list; 80 rows outside the list were removed (see "gold_v13" below).
 
@@ -216,3 +216,25 @@ No filled number was found to differ from the article. The 348 logged changes (4
 Not changed, by rule: outcomes for which the article prints only a percentage, a second analysis of an outcome that already has a row, results printed for pooled groups that are not arms of the file, and antiparkinsonian drug use (removed in gold_v13) were not added. In text6-13 the article gives the macrovascular hazard ratio as 0.61 (0.40-0.94) in the abstract, Figure 4 and the discussion and as 0.60 (0.40-0.92) in the results text; the gold standard keeps 0.61.
 
 Result: 87 trials, 254 arm rows, 1,960 outcome rows.
+
+## gold_v15 (2026-11-14): row-by-row re-check with the source location recorded for every row
+
+All 87 trials were gone through once more, one paper at a time. This time the checker had to write down, for every row of Study_Info, Design_Info and Atomic_Outcomes (254 arm rows, 1,960 outcome rows), where in the article the row comes from and which numbers are printed there, so no row could be passed without being looked up. Tables and flow charts were read from the page image where the text layer was scanned, garbled or lacked the figure. Each point raised was checked against the article again before anything was changed.
+
+Three kinds of value were corrected:
+
+- text3-1: the two arm rows of one comparison carried different p values (0.061 and 0.042); both now hold 0.042, the value that goes with the odds ratio on the row;
+- text5-6: the placebo arm's analysed number was 29; the article says one patient was not analysed for the primary end point but not in which group, and every table prints n=30, so the cell is 30;
+- text5-12: the two myocardial infarctions occurred in women who dropped out, but the rows used the numbers of completers (12 and 15) as denominators; no denominator containing these women is printed, so the four cells are empty.
+
+No other filled outcome value differed from the article. The remaining logged changes (201 in all, 35 trials; reason starts with "Row-by-row re-check" in `gold_change_log.csv`) are:
+
+- filled, 68 cells: printed but empty. Group size from a table header or caption (text4-19, text4-27, text4-32), relapse counts on the time-to-relapse rows of text4-10, the test statistic or p value that the other row of the same comparison already carried (text4-35, text4-49), one dropout count (text4-51), one analysed number (text4-24), follow-up weeks on rows of a file that otherwise has them (text4-13, text4-37, text4-45);
+- rows added, 15: UKU side-effect score, oral-group change and both baselines (text4-2, 3); patients free of akathisia (text4-8, 2); baseline weight and BMI (text4-13, 4); zero discontinuations in the placebo group (text4-31, 1) and zero withdrawals for worsening in the stabilisation phase (text4-41, 1), both stated in words; transient ischaemic attack (text5-21, 4);
+- follow-up in weeks, 84 cells: converted with the same factor as elsewhere (text3-5, text4-38, text6-8, text6-12, text7-6);
+- labels, 23 cells: units, outcome type, effect-size type and comparison labels made to match what the numbers are (text4-29, text4-35, text4-37, text4-46, text4-49, text5-15, text5-19, text6-4, text6-13, text7-9);
+- study-level text, 5 cells: number analysed or randomised worded as the article gives it (text3-3, text4-1, text4-35, text5-2, text5-13).
+
+Not changed, by rule: a zero that is only implied (the other group is simply not mentioned); baseline values in files that carry no baseline rows; counts for phases or pooled groups that are not arms of the file; further sub-items or second analyses of an outcome that already has rows; transient ischaemic attack in the diabetes trials (the configured list has stroke only); an effect-size type label on a row without a value; empty follow-up weeks in files where the annotators left the column empty. In the two UKPDS reports (text6-6, text6-7) the event counts printed inside the forest-plot figures are still not entered.
+
+Result: 87 trials, 254 arm rows, 1,975 outcome rows.
