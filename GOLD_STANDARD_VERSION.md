@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v12 (2026-11-13).** gold_v12 = gold_v11 after a final review in which every row and every filled cell was checked once more against the article (see "gold_v12" below).
+**Current version: gold_v13 (2026-11-14).** gold_v13 = gold_v12 after a row-by-row scope check against the configured outcome list; 80 rows outside the list were removed (see "gold_v13" below).
+
+**gold_v12 (2026-11-13).** gold_v12 = gold_v11 after a final review in which every row and every filled cell was checked once more against the article (see "gold_v12" below).
 
 **gold_v11 (2026-11-13).** gold_v11 = gold_v10 after a seventh review in which every row was re-extracted from the article without looking at the gold values and then compared with them (see "gold_v11" below).
 
@@ -179,3 +181,17 @@ All 87 trials were checked again, one row at a time (254 arm rows, 1,999 outcome
 Number of participants per arm: every filled value is printed in the article. In 167 arm rows it is the number randomised; in the others it is the number in the baseline table or analysis set, mostly because the article prints no per-arm randomised number.
 
 Result: 87 trials, 1,999 outcome rows.
+
+## gold_v13 (2026-11-14): scope check of every outcome row against the configured outcome list
+
+Every outcome row of gold_v12 (1,999 rows) was compared with the outcome list configured for its clinical area. Rows whose outcome is a different outcome from the ones on the list were put to the first author, who decided each group. Rule used: a row stays if it is an outcome on the list measured or worded differently (for example mean change instead of a rate, a sub-item, a synonym); it goes if it is a different outcome.
+
+Removed, 80 rows in 19 psychiatry trials (each row is in `gold_change_log.csv`, reason starts with "Scope check"):
+
+- antiparkinsonian / anticholinergic drug use, 58 rows (not on the list; only an indirect sign of extrapyramidal symptoms);
+- BPRS and PER-C psychiatric rating items in text4-44, 18 rows (not an extrapyramidal-symptom measure);
+- weight loss in text4-50, 4 rows (the configured outcome is substantial weight gain).
+
+Kept after review: time to relapse and days in remission; mean change in weight, body-mass index, glucose and prolactin; suicidal ideation and self-injury; ischaemic heart disease and cardiovascular disease incidence; composite end points, diabetes-related death and sudden death; nephropathy, creatinine and albuminuria rows; intermittent claudication, retinal haemorrhages and worsening heart failure; the late-reported deaths in text6-2; timed up-and-go, two-minute walk, numeric pain rating, KOOS JR and time to reach a range of motion; discontinuation by reason, KOOS / WOMAC subscales and relapse subgroups.
+
+Result: 87 trials, 1,919 outcome rows.
