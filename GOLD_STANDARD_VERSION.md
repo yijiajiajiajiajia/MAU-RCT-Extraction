@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v11 (2026-11-13).** gold_v11 = gold_v10 after a seventh review in which every row was re-extracted from the article without looking at the gold values and then compared with them (see "gold_v11" below).
+**Current version: gold_v12 (2026-11-13).** gold_v12 = gold_v11 after a final review in which every row and every filled cell was checked once more against the article (see "gold_v12" below).
+
+**gold_v11 (2026-11-13).** gold_v11 = gold_v10 after a seventh review in which every row was re-extracted from the article without looking at the gold values and then compared with them (see "gold_v11" below).
 
 **gold_v3 (2026-11-09).** gold_v3 = gold_v2 plus the full numeric re-verification described under "Full re-verification (gold_v3)" below.
 
@@ -161,3 +163,19 @@ Every change is logged in `gold_change_log.csv`. Scores reported in the paper we
 ## Reproducibility note
 
 Model outputs (`Results in JSON Format`, `Excel File of Results …`) are historical outputs of the submitted system and were **not** modified. Files under `Gold Standard/` changed as listed above; 21 processed TXT files gained their missing header/footer citation lines (txt_v2, see [`INPUT_TEXT_VERSION.md`](INPUT_TEXT_VERSION.md)).
+
+## gold_v12 (2026-11-13): final review of every row and every filled cell
+
+All 87 trials were checked again, one row at a time (254 arm rows, 1,999 outcome rows, no sampling). For each filled cell the reviewer had to find the value in the article for that arm, outcome and time point; scanned tables were read from page images. Each reported difference was then checked against the article before anything was changed. For the number of participants per arm, the review recorded for every arm whether the value is printed and which number it is (randomised, or the set shown in the baseline table).
+
+182 cells changed in 26 trials; every change is in `gold_change_log.csv` (reason starts with "Final review").
+
+- **Wrong value (2 cells, text5-6).** Placebo cardiovascular events and myocardial infarction held the number of episodes (6 and 2); the article also prints the number of patients (5 and 1), which is what the field holds.
+- **Value not printed, emptied (55 cells).** Zero counts that were only implied by other groups' numbers or by a printed 0.0% (text4-2, text4-3, text4-40); "any extrapyramidal symptom" counts taken from narrative subsets (text4-40); female counts worked out as total minus male (text7-2); numbers analysed that the article does not print (text7-2 adherence rows, text7-9 all outcome rows, text6-12 arm rows, text4-46 death rows).
+- **Printed but empty, filled (99 cells).** p values on the second arm of a comparison or printed in a table (text3-5, text4-9, text4-28, text4-30, text4-42, text4-49, text5-21); arm size and number analysed (text3-4, text4-2); median age (text5-4, text5-7, text5-15); follow-up in weeks (text6-7, text6-12); between-group mean change (text7-8).
+- **Unadjusted result entered (text4-7).** The relapse hazard ratio was the multivariate one (0.37); the article names no main model, so the univariate one that goes with the arm counts is entered (0.41, 0.26 to 0.65).
+- **Labels (27 cells).** "reported adjusted HR" changed to "reported HR (unadjusted Cox model)" where the article says the model is unadjusted (text6-8, text6-11); text6-2 late-reported deaths and text4-19 within-group p value labelled as what they are.
+
+Number of participants per arm: every filled value is printed in the article. In 167 arm rows it is the number randomised; in the others it is the number in the baseline table or analysis set, mostly because the article prints no per-arm randomised number.
+
+Result: 87 trials, 1,999 outcome rows.
