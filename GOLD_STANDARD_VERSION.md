@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v17 (2026-11-15).** gold_v17 = gold_v16 after a thirteenth row-by-row check; no filled number was changed, six rows were added, two cells filled and the labels of one row corrected (see "gold_v17" below).
+**Current version: gold_v18 (2026-11-15).** gold_v18 = gold_v17 after a fourteenth check done article first; no filled number was changed and no row added; ten empty denominator cells were filled and one label corrected (see "gold_v18" below).
+
+**gold_v17 (2026-11-15).** gold_v17 = gold_v16 after a thirteenth row-by-row check; no filled number was changed, six rows were added, two cells filled and the labels of one row corrected (see "gold_v17" below).
 
 **gold_v16 (2026-11-14).** gold_v16 = gold_v15 after a twelfth row-by-row check, which changed five things (see "gold_v16" below).
 
@@ -271,5 +273,21 @@ No filled number differed from the article. The changes:
 - text6-12: four rows added, hypoglycaemic episodes with impaired consciousness (9 and 3 per 100 patient-years) and with complete loss of consciousness (3 and 1), p <0.001 (Table 2). Rates of this kind are already held in text6-6 and text6-13.
 
 The 13 log lines are in `gold_change_log.csv` (reason starts with "Thirteenth row-by-row check"). Points raised again and left as before: values that are only implied or would need a sum, sub-group counts of outcomes that already have rows, outcomes for which only a p value or a percentage is printed, and the figure-only counts of the two UKPDS reports.
+
+Result: 87 trials, 254 arm rows, 1,985 outcome rows.
+
+## gold_v18 (2026-11-15): fourteenth check, article first
+
+Two things were done.
+
+1. The 66 rows added during the earlier checks were compared, label by label, with their sibling rows (time point, time-point role, follow-up weeks, outcome type, unit, comparison). No label left over from a copied row was found.
+2. All 87 trials (254 arm rows, 1,985 outcome rows of gold_v17) were checked again in the opposite direction: first each article's results tables, flow chart and results paragraphs were read from top to bottom and every printed number of a configured outcome or of arm size, age and sex was looked up in the spreadsheet; then every spreadsheet row was gone through and each filled cell matched to its place in the article.
+
+No filled number differed from the article, and no configured outcome with printed by-arm numbers was without a row. The changes:
+
+- text6-11: on ten rows (major and all coronary events, major and all cerebrovascular events, all cardiovascular events) the denominator was empty; the figure prints the arm sizes 5571 and 5569, which every other count row of the file already carries. Filled.
+- text4-19: one row for the rise in plasma prolactin in the sulpiride group named the comparison as "Sulpiride vs Trifluoperazine"; the printed p value is for the change within the sulpiride group. Label corrected.
+
+The 11 log lines are in `gold_change_log.csv` (reason starts with "Fourteenth check"). Points raised again and left as before are the same kinds as in gold_v17.
 
 Result: 87 trials, 254 arm rows, 1,985 outcome rows.
