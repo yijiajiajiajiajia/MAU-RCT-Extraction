@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v16 (2026-11-14).** gold_v16 = gold_v15 after a twelfth row-by-row check, which changed five things (see "gold_v16" below).
+**Current version: gold_v17 (2026-11-15).** gold_v17 = gold_v16 after a thirteenth row-by-row check; no filled number was changed, six rows were added, two cells filled and the labels of one row corrected (see "gold_v17" below).
+
+**gold_v16 (2026-11-14).** gold_v16 = gold_v15 after a twelfth row-by-row check, which changed five things (see "gold_v16" below).
 
 **gold_v13 (2026-11-14).** gold_v13 = gold_v12 after a row-by-row scope check against the configured outcome list; 80 rows outside the list were removed (see "gold_v13" below).
 
@@ -255,3 +257,19 @@ Two configured outcomes printed with numbers had no row and were added (4 rows):
 The five changes are in `gold_change_log.csv` (reason starts with "Twelfth row-by-row check"). Points raised again and left as before: values that are only implied, baselines in files without baseline rows, further sub-items of outcomes that already have rows, outcomes for which only a p value or a percentage is printed, and the figure-only counts of the two UKPDS reports.
 
 Result: 87 trials, 254 arm rows, 1,979 outcome rows.
+
+## gold_v17 (2026-11-15): thirteenth row-by-row check
+
+All 87 trials (254 arm rows, 1,979 outcome rows of gold_v16) were gone through once more in the same way: for every row the place in the article and the numbers printed there were written down first and then compared with the spreadsheet. This time each article's results tables and paragraphs were also read a second time from top to bottom, to see whether every printed by-arm number of a configured outcome sits in a row.
+
+No filled number differed from the article. The changes:
+
+- text6-13: the placebo row added in gold_v16 (hypoglycaemic events for which help from others was needed) had kept the labels of the row it was copied from (time point "baseline", no follow-up, no comparison). They now match the metformin row (4.3 years, follow-up 224 weeks).
+- text4-18: age was empty on both arms. The article gives the median age (38) in the same sentence as the sex counts that are already entered; in this crossover trial the same 32 patients received both drugs. Filled on both arms.
+- text4-2: one row added, discontinuation due to symptom relapse, 2 of 25 (the other two reasons for withdrawal already had rows).
+- text4-45: one row added, glucose-related adverse events in the run-in and stabilisation phases, 2 of 201 (the file already has rows for these phases).
+- text6-12: four rows added, hypoglycaemic episodes with impaired consciousness (9 and 3 per 100 patient-years) and with complete loss of consciousness (3 and 1), p <0.001 (Table 2). Rates of this kind are already held in text6-6 and text6-13.
+
+The 13 log lines are in `gold_change_log.csv` (reason starts with "Thirteenth row-by-row check"). Points raised again and left as before: values that are only implied or would need a sum, sub-group counts of outcomes that already have rows, outcomes for which only a p value or a percentage is printed, and the figure-only counts of the two UKPDS reports.
+
+Result: 87 trials, 254 arm rows, 1,985 outcome rows.
