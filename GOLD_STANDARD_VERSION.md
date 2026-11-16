@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v21 (2026-11-16).** gold_v21 = gold_v20 with 185 empty cells filled where the article prints the value for that row, and the p value removed where the article prints only "NS"; no other filled number was changed and no row added (see "gold_v21" below).
+**Current version: gold_v22 (2026-11-16).** gold_v22 = gold_v21 after a seventeenth row-by-row check of all 87 trials: 267 empty cells filled where the article prints the value, 29 cells corrected (labels, follow-up conversion, a denominator); no row added (see "gold_v22" below).
+
+**gold_v21 (2026-11-16).** gold_v21 = gold_v20 with 185 empty cells filled where the article prints the value for that row, and the p value removed where the article prints only "NS"; no other filled number was changed and no row added (see "gold_v21" below).
 
 **gold_v20 (2026-11-16).** gold_v20 = gold_v19 after a sixteenth check done blind (every row re-read from the article with only the row labels shown, then compared with the file); no filled number was changed and no row added; five empty p-value cells were filled (see "gold_v20" below).
 
@@ -345,6 +347,31 @@ Still empty on purpose, because the article does not print a value for that row:
 - UKPDS forest-plot counts (text6-6, text6-7), by decision.
 - cells where the article prints only "NS" (not significant) and no p value, by decision; the three such cells in text4-51 were emptied as well (26 cells cleared in all: text4-2, text4-13, text4-51).
 
-The log lines are in `gold_change_log.csv` (reasons start with "Sixteenth check, empty cells filled" and "Sixteenth check, NS removed").
+The log lines are in `gold_change_log.csv` (reasons start with "Sixteenth check, empty cells filled" and "Sixteenth check, NS removed"). A last set of 27 follow-up cells with the same reason was added afterwards (baseline rows of text7-4 and text7-9 = 0; text3-4 "30 days after surgery" = 4.29).
+
+Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
+
+## gold_v22 (2026-11-16): seventeenth row-by-row check
+
+Every row of all 87 trials was checked again against the article (page images for scanned articles and for tables whose text layer is shifted or has lost minus signs), then every results table and paragraph was read once more for printed values with no cell. 296 cells changed in 20 files; no row added.
+
+Filled (267 cells), because the article prints the value for that row:
+- Analysed numbers printed with the result (participants_analyzed next to the printed denominator, 191 cells): text4-5, text4-8, text4-11, text4-12, text4-15, text4-21, text5-13, text6-4, text6-9, text6-11, text6-12, text7-1.
+- text4-28 weight change: analysed numbers per arm from the Table 4 footnote (5 cells).
+- text4-27 interim placebo row: total_count and participants_analyzed = 156 (table header).
+- Analysed numbers per arm in Design_Info: text6-11 (5571 / 5569), text6-12 (892 / 899).
+- Country: text4-9 (UK).
+- text7-2: the between-group difference, its 95% CI and p value (Tables 3-5) were on the RELOAD rows only; now also on the CONTROL rows of the same comparison (8 rows, 64 cells with their labels).
+
+Corrected (29 cells):
+- text4-40: follow-up of the 90-day double-blind phase 13 → 12.86 weeks (90/7, the same conversion as the other files; 21 cells).
+- text4-28: comparison_targets of the olanzapine weight-change row lists all five arms (one comparison across the five arms).
+- text4-35: comparison_type of two rows → between-group (the printed chi-square compares the four groups).
+- text5-7: effect_size_definition "adjusted HR" → HR from the Cox model (the main result is not adjusted).
+- text7-6: effect_size_definition of three baseline rows → between-group baseline difference (as on the control rows).
+
+Considered and left as they are: percent-only rows, "NS" cells, UKPDS forest-plot values, sub-items and second analyses, reference arms of multi-arm trials, within-group p values held on rows where the between-group p would be a second value, follow-up values equal to a printed duration or to the end of a printed observation window.
+
+The log lines are in `gold_change_log.csv` (reasons start with "Seventeenth check").
 
 Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
