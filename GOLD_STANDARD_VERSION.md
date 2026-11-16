@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v18 (2026-11-15).** gold_v18 = gold_v17 after a fourteenth check done article first; no filled number was changed and no row added; ten empty denominator cells were filled and one label corrected (see "gold_v18" below).
+**Current version: gold_v19 (2026-11-15).** gold_v19 = gold_v18 after a fifteenth row-by-row check that also looked at every empty denominator; no filled number was changed; 33 empty denominators were filled, three rows added and two labels made more exact (see "gold_v19" below).
+
+**gold_v18 (2026-11-15).** gold_v18 = gold_v17 after a fourteenth check done article first; no filled number was changed and no row added; ten empty denominator cells were filled and one label corrected (see "gold_v18" below).
 
 **gold_v17 (2026-11-15).** gold_v17 = gold_v16 after a thirteenth row-by-row check; no filled number was changed, six rows were added, two cells filled and the labels of one row corrected (see "gold_v17" below).
 
@@ -291,3 +293,19 @@ No filled number differed from the article, and no configured outcome with print
 The 11 log lines are in `gold_change_log.csv` (reason starts with "Fourteenth check"). Points raised again and left as before are the same kinds as in gold_v17.
 
 Result: 87 trials, 254 arm rows, 1,985 outcome rows.
+
+## gold_v19 (2026-11-15): fifteenth row-by-row check, with a denominator check
+
+A screen of all files showed a kind of gap that the earlier checks had not looked for one by one: rows with an event count whose denominator cell was empty although other rows of the same file carried one (the ten cells filled in gold_v18 were of this kind). So this check had three steps for each of the 87 trials: (a) every row against the article, as before; (b) for every row with a count or a mean, whether an empty denominator, analysed N, SD or p value is printed with that number in the article (as "x of N", or as the N in the header of the same table or figure column); (c) the results tables and paragraphs once more for configured outcomes without a row.
+
+No filled number differed from the article. The changes:
+
+- Denominators filled where the same table prints the arm size (33 cells): text4-15 (4 rows, Table 5: 32 and 35), text4-21 (15 rows; Table 4 header 329 and 337, Table 2 header 54 and 102), text6-10 (8 rows; Table 4 header 5128 and 5123), text6-12 (6 rows; Table 3 header 892 and 899).
+- text4-50: three rows added for the reasons for discontinuation, which the article gives in words (behavioural deterioration: one chlorpromazine and one placebo patient; intestinal obstruction: two chlorpromazine patients). Checked on the page image.
+- text7-1: on two rows (pain at 12 weeks, knee extension at 6 weeks) the description of the effect size now says that the printed between-group estimate comes from log-transformed values and is not the difference between the printed means (table footnote). The values are unchanged.
+
+Empty denominators that stay empty because the article does not print one with the number: text4-16, text4-41, text4-44, text4-46, text4-55, text5-12, text5-16.
+
+The 38 log lines are in `gold_change_log.csv` (reason starts with "Fifteenth row-by-row check"). Points raised again and left as before are the same kinds as in gold_v17.
+
+Result: 87 trials, 254 arm rows, 1,988 outcome rows.
