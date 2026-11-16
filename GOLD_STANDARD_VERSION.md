@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v19 (2026-11-15).** gold_v19 = gold_v18 after a fifteenth row-by-row check that also looked at every empty denominator; no filled number was changed; 33 empty denominators were filled, three rows added and two labels made more exact (see "gold_v19" below).
+**Current version: gold_v20 (2026-11-16).** gold_v20 = gold_v19 after a sixteenth check done blind (every row re-read from the article with only the row labels shown, then compared with the file); no filled number was changed and no row added; five empty p-value cells were filled (see "gold_v20" below).
+
+**gold_v19 (2026-11-15).** gold_v19 = gold_v18 after a fifteenth row-by-row check that also looked at every empty denominator; no filled number was changed; 33 empty denominators were filled, three rows added and two labels made more exact (see "gold_v19" below).
 
 **gold_v18 (2026-11-15).** gold_v18 = gold_v17 after a fourteenth check done article first; no filled number was changed and no row added; ten empty denominator cells were filled and one label corrected (see "gold_v18" below).
 
@@ -309,3 +311,17 @@ Empty denominators that stay empty because the article does not print one with t
 The 38 log lines are in `gold_change_log.csv` (reason starts with "Fifteenth row-by-row check"). Points raised again and left as before are the same kinds as in gold_v17.
 
 Result: 87 trials, 254 arm rows, 1,988 outcome rows.
+
+## gold_v20 (2026-11-16): sixteenth check, done blind
+
+The earlier checks compared the values in the files with the articles. This check was done the other way round, as in the blind pass of gold_v8: for each of the 87 trials a reader was given only the row labels (arm, outcome, time point) and read the values off the article, without seeing the file. The answers were then compared with the file cell by cell, and each of the 420 differences was checked against the article text or the page image.
+
+No filled number differed from the article. Almost all differences were of kinds already settled (two printed forms of the same number, the arm size used as denominator, analysed N left out by the reader, a test statistic or an effect size held on one arm row only, results of pooled groups, format). Five empty p-value cells were filled:
+
+- text4-13: baseline BMI, both arms: p = 0.042 (printed with the baseline means in the Results).
+- text4-27: median time to relapse in the placebo arm at the interim analysis: p < 0.0001 (printed for the interim time-to-relapse comparison).
+- text4-44: discontinuation due to akinesia, fluphenazine decanoate and placebo rows: p < 0.001 (one chi-square test across the three treatments; checked on the page image).
+
+The 5 log lines are in `gold_change_log.csv` (reason starts with "Sixteenth check, done blind").
+
+Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
