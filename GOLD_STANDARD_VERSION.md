@@ -314,7 +314,7 @@ Result: 87 trials, 254 arm rows, 1,988 outcome rows.
 
 ## gold_v20 (2026-11-16): sixteenth check, done blind
 
-The earlier checks compared the values in the files with the articles. This check was done the other way round, as in the blind pass of gold_v8: for each of the 87 trials a reader was given only the row labels (arm, outcome, time point) and read the values off the article, without seeing the file. The answers were then compared with the file cell by cell, and each of the 420 differences was checked against the article text or the page image.
+The earlier checks compared the values in the files with the articles. This check was done the other way round, as in the blind pass of gold_v11: for each of the 87 trials a reader was given only the row labels (arm, outcome, time point) and read the values off the article, without seeing the file. The answers were then compared with the file cell by cell, and each of the 420 differences was checked against the article text or the page image.
 
 No filled number differed from the article. Almost all differences were of kinds already settled (two printed forms of the same number, the arm size used as denominator, analysed N left out by the reader, a test statistic or an effect size held on one arm row only, results of pooled groups, format). Five empty p-value cells were filled:
 
