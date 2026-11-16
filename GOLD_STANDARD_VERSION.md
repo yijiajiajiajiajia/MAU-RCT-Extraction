@@ -1,6 +1,6 @@
 # Gold standard version note
 
-**Current version: gold_v21 (2026-11-16).** gold_v21 = gold_v20 with 208 empty cells filled where the article prints the value for that row; no filled number was changed and no row added (see "gold_v21" below).
+**Current version: gold_v21 (2026-11-16).** gold_v21 = gold_v20 with 185 empty cells filled where the article prints the value for that row, and the p value removed where the article prints only "NS"; no other filled number was changed and no row added (see "gold_v21" below).
 
 **gold_v20 (2026-11-16).** gold_v20 = gold_v19 after a sixteenth check done blind (every row re-read from the article with only the row labels shown, then compared with the file); no filled number was changed and no row added; five empty p-value cells were filled (see "gold_v20" below).
 
@@ -330,10 +330,10 @@ Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
 
 ## gold_v21 (2026-11-16): empty cells filled where the article prints the value
 
-Rule applied: if the article prints a value for a row (that arm, outcome, time point and comparison), the cell holds it. Earlier versions left some of these cells empty by convention. The blind answers of the sixteenth check and a screen of all files (rows whose other-arm row holds a value this row lacks) gave the list; each cell was checked against the article. 208 cells were filled in 20 files:
+Rule applied: if the article prints a value for a row (that arm, outcome, time point and comparison), the cell holds it. Earlier versions left some of these cells empty by convention. The blind answers of the sixteenth check and a screen of all files (rows whose other-arm row holds a value this row lacks) gave the list; each cell was checked against the article. 185 cells were filled in 18 files:
 
 - Between-group results held on one arm's row only, now also on the other arm's row of the same two-arm comparison (effect size, its type and CI): text3-1, text4-7, text4-45, text7-1, text7-6, text7-8.
-- p values printed for the row: text4-1 (overall log-rank test of the placebo row, with the chi-square), text4-34 (relapse rows, log-rank p 0.684, as text4-49 does), text4-13 and text4-2 ("ns"/"NS" printed in the p column, as text4-51 already held), text4-45 (interim chi-square 35.611).
+- p values printed for the row: text4-1 (overall log-rank test of the placebo row, with the chi-square), text4-34 (relapse rows, log-rank p 0.684, as text4-49 does), text4-45 (interim chi-square 35.611).
 - Analysed numbers printed with the result: text4-12 (Design_Info), text6-6 (5/263).
 - followup_weeks where the time point is printed: baseline, pre-operative, admission and "before" rows = 0 (text4-38, text4-55, text6-13, text7-2, text7-3, text7-5, text7-6, text7-8); text4-49 3 months = 13; text5-3 median 45 months = 195; text6-6 first 10 years = 520; text7-6 days after surgery as day/7.
 
@@ -343,7 +343,8 @@ Still empty on purpose, because the article does not print a value for that row:
 - values that would need adding up or inferring: text4-18, text4-24, text4-46, text4-51, text4-55;
 - rows with a percentage only (the files have no percentage column);
 - UKPDS forest-plot counts (text6-6, text6-7), by decision.
+- cells where the article prints only "NS" (not significant) and no p value, by decision; the three such cells in text4-51 were emptied as well (26 cells cleared in all: text4-2, text4-13, text4-51).
 
-The 208 log lines are in `gold_change_log.csv` (reason starts with "Sixteenth check, empty cells filled").
+The log lines are in `gold_change_log.csv` (reasons start with "Sixteenth check, empty cells filled" and "Sixteenth check, NS removed").
 
 Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
