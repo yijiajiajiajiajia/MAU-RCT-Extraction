@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v22 (2026-11-16).** gold_v22 = gold_v21 after a seventeenth row-by-row check of all 87 trials: 267 empty cells filled where the article prints the value, 29 cells corrected (labels, follow-up conversion, a denominator); no row added (see "gold_v22" below).
+**Current version: gold_v23 (2026-11-17).** gold_v23 = gold_v22 after an eighteenth row-by-row check of all 87 trials: no printed value was found copied wrong; 25 cells changed (values not printed for that row cleared or corrected, three printed values filled, labels); no row added (see "gold_v23" below).
+
+**gold_v22 (2026-11-16).** gold_v22 = gold_v21 after a seventeenth row-by-row check of all 87 trials: 267 empty cells filled where the article prints the value, 29 cells corrected (labels, follow-up conversion, a denominator); no row added (see "gold_v22" below).
 
 **gold_v21 (2026-11-16).** gold_v21 = gold_v20 with 185 empty cells filled where the article prints the value for that row, and the p value removed where the article prints only "NS"; no other filled number was changed and no row added (see "gold_v21" below).
 
@@ -373,5 +375,30 @@ Corrected (29 cells):
 Considered and left as they are: percent-only rows, "NS" cells, UKPDS forest-plot values, sub-items and second analyses, reference arms of multi-arm trials, within-group p values held on rows where the between-group p would be a second value, follow-up values equal to a printed duration or to the end of a printed observation window.
 
 The log lines are in `gold_change_log.csv` (reasons start with "Seventeenth check").
+
+Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
+
+## gold_v23 (2026-11-17): eighteenth row-by-row check
+
+Every row of all 87 trials (87 Study_Info, 254 Design_Info and 1,988 outcome rows) was checked again against the article, each row with its source location written down; scanned articles and shifted tables were read from page images. No printed value was found copied wrong. 25 cells changed in 8 files:
+
+Values not printed for that row (cleared or corrected):
+- text4-16 Study_Info: analysed total 50 cleared (only the per-arm completers 27 and 23 are printed).
+- text5-19 placebo arm of the severe-deficiency subgroup: size 15 cleared in two cells (the article prints 30 in the subgroup and 15 on vitamin D only).
+- text4-18 haloperidol decanoate period-II rows (dropout, relapse, skin reaction): denominator 32 corrected to 16, the printed size of the sequence group on that drug in period II (6 cells).
+- text4-19 Table IV means at 4 and 6 weeks (sulpiride) and 2, 4 and 6 weeks (trifluoperazine): analysed number 19 cleared; Table IV prints no n and Table II shows fewer patients assessed at those visits (10 cells).
+
+Printed values filled:
+- text4-24 placebo time to relapse: analysed number 25 (relapsed placebo patients, Table IV).
+- text5-7 Study_Info dropout reasons: "home-based care" 8 and 14 added (Fig 1).
+
+Labels:
+- text5-7 author name spelled Börgermann.
+- text4-21 HR rows: "HR for relapse, RLAI vs quetiapine (97% CI)" (the article does not adjust the HR; the CI is 97%).
+- text4-7 BMI difference: direction stated (placebo minus quetiapine).
+
+Considered and left as they are: printed test statistics (chi-square) where the p value is already entered; follow-up weeks rounded to whole weeks (for example 4 months = 17); "1 hour and 18 minutes" in text3-5 (would need a unit conversion); the generic "adjusted HR" wording in other files.
+
+The log lines are in `gold_change_log.csv` (reasons start with "Eighteenth check").
 
 Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
