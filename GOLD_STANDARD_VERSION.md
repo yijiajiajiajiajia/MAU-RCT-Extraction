@@ -1,6 +1,8 @@
 # Gold standard version note
 
-**Current version: gold_v23 (2026-11-17).** gold_v23 = gold_v22 after an eighteenth row-by-row check of all 87 trials: no printed value was found copied wrong; 25 cells changed (values not printed for that row cleared or corrected, three printed values filled, labels); no row added (see "gold_v23" below).
+**Current version: gold_v24 (2026-11-17).** gold_v24 = gold_v23 after a final row-by-row check of all 87 trials: no printed value was found copied wrong; 52 cells changed (labels, follow-up windows of one trial, two denominators, adherence written as printed, one single-sex trial, and one value restored that gold_v23 had cleared by mistake); no row added (see "gold_v24" below).
+
+**gold_v23 (2026-11-17).** gold_v23 = gold_v22 after an eighteenth row-by-row check of all 87 trials: no printed value was found copied wrong; 25 cells changed (values not printed for that row cleared or corrected, three printed values filled, labels); no row added (see "gold_v23" below).
 
 **gold_v22 (2026-11-16).** gold_v22 = gold_v21 after a seventeenth row-by-row check of all 87 trials: 267 empty cells filled where the article prints the value, 29 cells corrected (labels, follow-up conversion, a denominator); no row added (see "gold_v22" below).
 
@@ -400,5 +402,20 @@ Labels:
 Considered and left as they are: printed test statistics (chi-square) where the p value is already entered; follow-up weeks rounded to whole weeks (for example 4 months = 17); "1 hour and 18 minutes" in text3-5 (would need a unit conversion); the generic "adjusted HR" wording in other files.
 
 The log lines are in `gold_change_log.csv` (reasons start with "Eighteenth check").
+
+Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
+
+## gold_v24 (2026-11-17): final row-by-row check
+
+All 2,329 rows of the 87 trials were checked once more against the article in the same way as gold_v23 (source location written down for every row; page images for scanned articles, shifted tables and figures). No printed value was found copied wrong. 52 cells changed in 10 files:
+
+- text5-19: the placebo arm of the severe-deficiency subgroup is printed as "Placebo (n = 15)" in the Figure 3C table; the two cells cleared in gold_v23 were restored to 15 (gold_v23 had looked only at the text).
+- text4-50: placebo dropout rows: denominator 13 (completers) corrected to 14 entered (57 entered = 15 + 14 + 14 + 14; Table 3 prints PL (14); the chlorpromazine rows already use the number entered) (4 cells).
+- text4-25: follow-up windows converted with 52/12 weeks per month as in all other files: months 2-6 = 17.33 (was 16) and months 2-12 = 43.33 (was 44); the old values used 4 weeks per month (20 cells).
+- text4-3 (Olz1.0 rows), text4-38 (propericiazine 60 mg rows) and text4-35 (two rows): comparison labels changed to the between-group comparison whose p value or chi-square the row holds (16 cells).
+- text4-46: single-sex trial ("male patients"), sex entered as male N / female 0 as in the other single-sex trials (4 cells).
+- text5-8, text5-10, text5-18: adherence written as printed (84.9%, 82.9%, 82.0%, 80.3%, 86%, 86%) instead of as proportions (6 cells).
+
+The log lines are in `gold_change_log.csv` (reasons start with "Final check").
 
 Result: 87 trials, 254 arm rows, 1,988 outcome rows (unchanged).
